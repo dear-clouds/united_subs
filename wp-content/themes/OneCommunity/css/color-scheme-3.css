@@ -1,0 +1,31 @@
+#wp-submit, #signup_submit, .wpcf7-submit, #post-topic-reply #submit, #new-topic-post #submit, .my-account #submit, #new-topic-button, .page-template-search-page-php #search-submit, #comment-submit { background-color:#ff5a80; background-image: url( "../images/bg-button_f.png" ); border:1px solid #ff3980;}
+#mytabs, #mytabs2, .comment-count-child { background-image: url( "../images/bg-tabs_f.png" ); border:1px solid #cf006c; box-shadow: inset 0px 0px 0px 1px #ff5eb3; }
+#ajaxsearchpro1 .probox { background:url( "../images/search_f.png" ) no-repeat; }
+.item-list-tabs .customStyleSelectBoxInner { background:url( "../images/select2_f.png" ) no-repeat right center; }
+header .tile { background-color:#ff0185; }
+header .tile2, #front-login-submit { background-color:#ff0185; }
+#object-nav ul li, #object-nav2 ul li { background-image: url( "../images/spacer-tab_f.png" ); }
+#object-nav ul li:hover, #object-nav2 ul li:hover { background:#ea007a; background-image: url( "../images/spacer-tab-selected_f.gif" ); background-repeat: repeat-y; background-position:right top; }
+#object-nav ul li a, #object-nav2 ul li a, #subnav ul li a, .comment-count-child, #metro .tile-title a { text-shadow: 1px 1px 0px #cb0069; }
+#object-nav ul li.current, #object-nav2 ul li.current { background:#ea007a; background-image: url( "../images/spacer-tab-selected_f.gif" ); background-repeat: repeat-y; background-position:right top; }
+div.item-list-tabs ul li a span { background: #ea007a; border:1px solid #dd0074; }
+div.item-list-tabs ul li.selected a span, div.item-list-tabs ul li.current a span, div.item-list-tabs ul li a:hover span { background-color: #ff1b91; }
+#subnav { background-image: url( "../images/spacer-subnav_f.png" ); }
+.page-title { text-shadow:#b5046b 1px 1px 0px; background:#ff0898; background: linear-gradient(to bottom, #ff0c9a 0%,#ff0095 100%); border:1px solid #dd0081; box-shadow: inset 0px 0px 0px 1px #ff5eb3; }
+.post-title { text-shadow:#b5046b 1px 1px 0px; background:#ff0898; background: linear-gradient(to bottom, #ff0c9a 0%,#ff0095 100%); border:1px solid #dd0081; box-shadow: inset 0px 0px 0px 1px #ff5eb3; }
+div#bbpress-forums h3 { text-shadow:#b5046b 1px 1px 0px; background:#ff0898; background: linear-gradient(to bottom, #ff0c9a 0%,#ff0095 100%); border:1px solid #cf006c; box-shadow: none; border-top:none; }
+.blog-bottom { background-image: url( "../images/spacer-blog-bottom_f.gif" ); }
+.blog-bottom-spacer { background-image: url( "../images/spacer-post-v_f.gif" ); }
+ul li.forum-lastposts .activity-content { background:#db0098; }
+ul li.forum-lastposts .activity-content:hover { background:#b6007e; }
+nav ul li.current-menu-item { background:#ff0185; }
+nav ul ul { border-top:3px solid #ff0185; }
+nav ul li.parent:hover { background-image: url( ../images/menu-arrow1_f.png ); }
+nav ul li ul li.parent:hover { background-image: url( ../images/menu-arrow2_f.png ); }
+span.activity { background:#ff0185; }
+span.activity:hover { background:#bc0062; }
+.comment-options .comment-reply-link, .comment-options .comment-edit-link { background:#ff0185; }
+.icon-share { background-image: url( ../images/icon-share_f.png ); }
+.buttonCon .theButton { background: url("../slider/circlebutton_f.png") no-repeat; }
+.slider-more { background-color:#ff0185; }
+#metro .tile-title span { background-image: url( "../images/transparent_f.png" ); }

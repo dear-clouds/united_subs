@@ -1,0 +1,35 @@
+v1.6.4
+
+#1 Added support for a particular custom button
+	t.rhc_search = rhc_search;
+	function rhc_search(calendar,e){
+		if( $(_element).find('.fc-filters-dialog').length>0 ){
+			if( $(_element).find('.fc-filters-dialog').is(':visible') ){
+				$(_element).find('.fc-filters-dialog').stop().animate({opacity:0,top:-10},'fast','linear',function(){$(this).hide();});
+			}else{
+				$(_element).find('.fc-filters-dialog').stop().show().animate({opacity:1,top:0},'fast','linear');				
+			}
+		}
+	}
+To the Calendar object.
+
+#2 Modified Header so that button clicks are passed calendar and event arguments
+buttonClick(calendar,e);
+
+#3 Added a method to EventManager to clear all sources
+t.removeEventSources = removeEventSources;
+function removeEventSources() {
+ sources = [];
+
+ // remove all client events from all sources
+ cache = [];
+
+ reportEvents(cache);
+}
+
+#4 modified the view change method, trigger tooltip closing, and sliding animation
+
+#5 the header sections where modified to use div instead of table.
+
+Nov 13, 2013.
+#6 Added an option to Header so that a custom callback can be passed to the header items

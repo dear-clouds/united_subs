@@ -1,0 +1,2945 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kleo v3.0.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: Fri Dec 04 2015 00:47:27 GMT+0100 (Hora estándar romance)\n"
+"Last-Translator: KGuMiHo <bkgumiho@gmail.com>\n"
+"Language-Team: \n"
+"Language: French (France)\n"
+"Plural-Forms: nplurals=2; plural=n > 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Loco-Source-Locale: es_VE\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: ../../../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Loco-Target-Locale: fr_FR\n"
+"X-Loco-Parser: loco_parse_po"
+
+#: 404.php:31
+#: page-templates/404-page.php:29
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Ceci est un peu gênant, n’est-ce pas ?"
+
+#: 404.php:33
+#: page-templates/404-page.php:31
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+"Il semble que rien n'a été trouvé à cet endroit. Vous voulez peut-être "
+"essayer une recherche ?"
+
+#: comments.php:24
+msgid "0 Comments"
+msgstr "0 Commentaires"
+
+#: comments.php:24
+msgid "1 Comment"
+msgstr "1 Commentaire"
+
+#: comments.php:24
+#, c-format
+msgid "% Comments"
+msgstr "% Commentaires"
+
+#: comments.php:33
+#: comments.php:43
+msgid "Previous"
+msgstr "Précédent"
+
+#: comments.php:34
+#: comments.php:44
+msgid "Next"
+msgstr "Suivant"
+
+#: comments.php:49
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: bbpress/user-details.php:65
+#: content-aside.php:32
+#: content-audio.php:30
+#: content-gallery.php:30
+#: content-image.php:30
+#: content-link.php:24
+#: content-quote.php:31
+#: content-video.php:30
+#: content.php:32
+#: functions.php:702
+#: kleo-framework/lib/function-breadcrumb.php:1184
+#: kleo-framework/lib/function-breadcrumb.php:1216
+#: kleo-framework/lib/function-breadcrumb.php:1231
+#: kleo-framework/lib/function-breadcrumb.php:1258
+#: woocommerce/myaccount/my-address.php:46
+#: woocommerce/myaccount/my-address.php:48
+msgid "Edit"
+msgstr "Modifier"
+
+#: content-aside.php:40
+#: content-audio.php:50
+#: content-gallery.php:59
+#: content-image.php:47
+#: content-video.php:91
+#: content.php:49
+msgid "Continue reading"
+msgstr "Continuer la lecture"
+
+#: content-aside.php:44
+#: content-audio.php:54
+#: content-gallery.php:63
+#: content-image.php:51
+#: content-link.php:29
+#: content-quote.php:36
+#: content-video.php:95
+#: content.php:53
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continuer la lecture "
+
+#: content-aside.php:45
+#: content-audio.php:55
+#: content-gallery.php:64
+#: content-image.php:52
+#: content-link.php:30
+#: content-page.php:112
+#: content-quote.php:37
+#: content-video.php:96
+#: content.php:54
+#: image.php:51
+msgid "Pages:"
+msgstr "Pages :"
+
+#: content-none.php:14
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Prêt à publier votre premier post ?  Commencez ici "
+
+#: content-none.php:18
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Désolé, mais rien ne correspond à vos termes de recherche. Veuillez essayer "
+"à nouveau avec des mots clés différents."
+
+#: content-none.php:23
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Il semble que nous ne puissions pas trouver ce que vous cherchez. Peut-être "
+"la recherche peut aider."
+
+#: content-video.php:21
+#: content.php:23
+#, php-format
+msgid "Permalink to %s"
+msgstr "Lien permanent vers %s"
+
+#: functions.php:66
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: functions.php:67
+msgid "Top Menu"
+msgstr "Menu du haut"
+
+#: functions.php:68
+#: lib/options.php:742
+msgid "Side Menu"
+msgstr "Menu latéral"
+
+#. Translators: %s is the page number.
+#: functions.php:144
+#: kleo-framework/lib/function-breadcrumb.php:212
+#, php-format
+msgid "Page %s"
+msgstr "Page %s"
+
+#: functions.php:458
+msgid "Main Sidebar"
+msgstr "Barre latérale principale"
+
+#: functions.php:460
+msgid "Default sidebar"
+msgstr "Barre latérale par défaut"
+
+#: functions.php:539
+#: functions.php:544
+msgid ", "
+msgstr ","
+
+#: functions.php:568
+#, php-format
+msgid "View %s's profile"
+msgstr "Voir le profil de %s"
+
+#: functions.php:571
+#, php-format
+msgid "View all POSTS by %s"
+msgstr "Afficher tous les messages de %s"
+
+#: functions.php:588
+msgid "View profile"
+msgstr "Voir le profil"
+
+#: functions.php:598
+#, php-format
+msgid "Contact %s"
+msgstr "Contact %s"
+
+#: functions.php:609
+#, php-format
+msgid "View all posts by %s"
+msgstr "Afficher tous les messages de %s"
+
+#: functions.php:642
+#, php-format
+msgid "This article has one comment"
+msgid_plural "This article has %1$s comments"
+msgstr[0] "Cet article comporte un commentaire"
+msgstr[1] "Cet article comporte %1$ commentaires"
+
+#: bbpress/loop-search.php:18
+#: bbpress/loop-search.php:40
+#: functions.php:684
+msgid "Author"
+msgstr "Auteur"
+
+#: functions.php:692
+msgid "ago"
+msgstr "Il y a"
+
+#: functions.php:696
+msgid "<span class='unapproved'>Your comment is awaiting moderation.</span>\n"
+msgstr ""
+"<span class='unapproved'>Votre commentaire est en attente de modération."
+"</span>"
+
+#: buddypress/activity/comment.php:37
+#: buddypress/groups/single/forum/edit.php:10
+#: functions.php:706
+msgid "Reply"
+msgstr "Réponse"
+
+#: functions.php:707
+msgid "Log in to reply."
+msgstr "Se connecter pour répondre"
+
+#: bbpress/form-user-edit.php:14
+#: bbpress/form-user-edit.php:19
+#: buddypress/members/single/profile/profile-wp.php:15
+#: functions.php:756
+#: kleo-framework/options/inc/welcome/views/status_report.php:582
+msgid "Name"
+msgstr "Nom"
+
+#: bbpress/form-user-edit.php:103
+#: bbpress/form-user-register.php:28
+#: functions.php:757
+#: paid-memberships-pro/pages/account.php:56
+msgid "Email"
+msgstr "E-mail"
+
+#: bbpress/form-user-edit.php:57
+#: buddypress/members/single/profile/profile-wp.php:33
+#: functions.php:758
+msgid "Website"
+msgstr "Site Web"
+
+#: functions.php:770
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this "
+"account\">Log out?</a>"
+msgstr ""
+"Connecté en tant que <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out "
+"of this account\"> Vous déconnecter? </a>"
+
+#: functions.php:771
+msgid "Leave a reply"
+msgstr "Laisser une réponse"
+
+#: functions.php:772
+#, php-format
+msgid "Leave a reply to %s"
+msgstr "Laisser une réponse à %s"
+
+#: functions.php:773
+msgid "Click here to cancel the reply"
+msgstr "Cliquer ici pour annuler la réponse"
+
+#: functions.php:774
+msgid "Post comment"
+msgstr "Publier le commentaire"
+
+#: functions.php:775
+msgid "Comment"
+msgstr "Commentaire"
+
+#: functions.php:776
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Vous devez être connecté pour poster un commentaire."
+
+#: functions.php:1193
+#: functions.php:1196
+#: lib/options.php:65
+#: lib/options.php:69
+msgid "Theme options"
+msgstr "Options de thème"
+
+#: functions.php:1278
+msgid "Sending info, please wait..."
+msgstr "Informations en cours d’envoi, veuillez patienter..."
+
+#: functions.php:1481
+#, php-format
+msgid "You are already logged in. Please <a href=\"#\" onclick=\"%s\">refresh</a> page"
+msgstr "Vous êtes déjà connecté. Veuillez rafraîchir la page"
+
+#: functions.php:1535
+#: kleo-framework/lib/function-facebook-login.php:332
+msgid "Login successful, redirecting..."
+msgstr "Connexion réussie, redirection..."
+
+#: functions.php:1682
+msgid "Failure!"
+msgstr "Échec !"
+
+#: functions.php:1687
+msgid "Email successfully sent!"
+msgstr "E-mail envoyé avec succès !"
+
+#: image.php:58
+msgid "Previous Image"
+msgstr "Image précédente"
+
+#: image.php:59
+msgid "Next Image"
+msgstr "Image suivante"
+
+#: single-portfolio.php:168
+#, php-format
+msgid "Back to %s"
+msgstr "Retour à %s"
+
+#: bbpress/content-statistics.php:22
+#: lib/theme-functions.php:805
+msgid "Forums"
+msgstr "Forums"
+
+#: bbpress/feedback-logged-in.php:13
+#: kleo-framework/lib/function-facebook-login.php:179
+msgid "You are already logged in."
+msgstr "Vous êtes déjà connecté."
+
+#: bbpress/feedback-no-search.php:12
+msgid "No search results were found here!"
+msgstr "Aucun résultat de recherche n’a été trouvé ici !"
+
+#: bbpress/feedback-no-search.php:14
+msgid "Go back"
+msgstr "Retour"
+
+#: bbpress/form-topic-tag.php:59
+#: bbpress/form-topic-tag.php:73
+#: kleo-framework/lib/function-breadcrumb.php:1212
+msgid "Merge"
+msgstr "Fusion"
+
+#: bbpress/form-user-edit.php:90
+#: bbpress/form-user-edit.php:93
+#: lib/plugin-woocommerce/config.php:1558
+#: paid-memberships-pro/pages/confirmation.php:46
+#: paid-memberships-pro/pages/confirmation.php:104
+msgid "Account"
+msgstr "Compte"
+
+#: bbpress/form-user-edit.php:98
+#: bbpress/form-user-login.php:17
+#: bbpress/form-user-register.php:23
+#: buddypress/members/register.php:37
+#: kleo-framework/options/inc/fields/password/field_password.php:63
+#: page-parts/general-popups.php:22
+#: paid-memberships-pro/pages/account.php:55
+#: paid-memberships-pro/pages/checkout.php:171
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+#: bbpress/form-user-login.php:22
+#: kleo-framework/options/inc/fields/password/field_password.php:62
+#: page-parts/general-popups.php:23
+#: paid-memberships-pro/pages/checkout.php:180
+msgid "Password"
+msgstr "Mot de passe"
+
+#: bbpress/form-user-lost-pass.php:18
+#: page-parts/general-popups.php:54
+msgid "Username or Email"
+msgstr "Nom d'utilisateur ou E-mail"
+
+#: bbpress/form-user-register.php:36
+#: lib/menu-items.php:49
+msgid "Register"
+msgstr "S'inscrire"
+
+#: buddypress/buddypress-functions.php:1858
+msgid "show less"
+msgstr "Afficher moins"
+
+#: buddypress/buddypress-functions.php:1859
+msgid "show more"
+msgstr "Afficher plus"
+
+#: buddypress/forums/index.php:86
+#: buddypress/groups/single/forum/edit.php:47
+#: buddypress/groups/single/forum.php:75
+#: lib/item-likes.php:239
+#: lib/widgets/recent_posts.php:160
+msgid "Title:"
+msgstr "Titre :"
+
+#: buddypress/groups/single/admin.php:291
+#: lib/theme-functions.php:691
+msgid "Members"
+msgstr "Membres"
+
+#: kleo-framework/kleo.php:177
+#: kleo-framework/lib/class-tgm-plugin-activation.php:305
+msgid "Install Required Plugins"
+msgstr "Installer les Plugins nécessaires"
+
+#: kleo-framework/kleo.php:178
+#: kleo-framework/lib/class-tgm-plugin-activation.php:306
+msgid "Install Plugins"
+msgstr "Installer des Plugins"
+
+#: kleo-framework/kleo.php:179
+#: kleo-framework/lib/class-tgm-plugin-activation.php:307
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installer le Plugin : %s"
+
+#: kleo-framework/kleo.php:180
+#: kleo-framework/lib/class-tgm-plugin-activation.php:308
+msgid "Something went wrong with the plugin API."
+msgstr "Quelque chose ne va pas avec l’API du plugin."
+
+#: kleo-framework/kleo.php:181
+#: kleo-framework/lib/class-tgm-plugin-activation.php:310
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Ce thème nécessite le plugin suivant: %1$."
+msgstr[1] "Ce thème nécessite les plugins suivants: %1$."
+
+#: kleo-framework/kleo.php:182
+#: kleo-framework/lib/class-tgm-plugin-activation.php:315
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Ce thème recommande le plugin suivant: %1$."
+msgstr[1] "Ce thème recommande les plugins suivants: %1$."
+
+#: kleo-framework/kleo.php:183
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+"Désolé,vous ne disposez pas de droits d'accès pour installer le plugin %s. "
+"Contactez l'administrateur du site pour vous aider à installer le plugin."
+msgstr[1] ""
+"Désolé,vous ne disposez pas de droits d'accès pour installer le plugin %s. "
+"Contactez l'administrateur du site pour vous aider à installer le plugin."
+
+#: kleo-framework/kleo.php:184
+#: kleo-framework/lib/class-tgm-plugin-activation.php:340
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Le plugin requis suivant: %1$ est actuellement inactif: %1$s."
+msgstr[1] "Les plugins requis suivants: %1$ sont actuellement inactifs: %1$s"
+
+#: kleo-framework/kleo.php:185
+#: kleo-framework/lib/class-tgm-plugin-activation.php:345
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Le plugin recommandé suivant:%1$ est actuellement inactif:%1$s."
+msgstr[1] "Les plugins recommandés suivants: %1$ sont actuellement inactifs: %1$s."
+
+#: kleo-framework/kleo.php:186
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+"Désolé,vous ne disposez pas de droits d'accès pour activer le plugin %s. "
+"Contactez l'administrateur du site pour vous aider à activer le plugin."
+msgstr[1] ""
+"Désolé,vous ne disposez pas de droits d'accès pour activer les plugins %s. "
+"Contactez l'administrateur du site pour vous aider à activer les plugins."
+
+#: kleo-framework/kleo.php:187
+#: kleo-framework/lib/class-tgm-plugin-activation.php:325
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Le plugin suivant doit être actualisé à sa dernière version pour garantir "
+"une compatibilité maximale avec ce thème: %1s"
+msgstr[1] ""
+"Les plugins suivants doivent être actualisés à leur dernière version pour "
+"garantir une compatibilité maximale avec ce thème: %1s"
+
+#: kleo-framework/kleo.php:188
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+"Désolé,vous ne disposez pas de droits d'accès pour actualiser le plugin %s. "
+"Contactez l'administrateur du site pour vous aider à actualiser le plugin."
+msgstr[1] ""
+"Désolé,vous ne disposez pas de droits d'accès pour actualiser les plugins %s."
+" Contactez l'administrateur du site pour vous aider à actualiser les plugins."
+
+#: kleo-framework/kleo.php:189
+#: kleo-framework/lib/class-tgm-plugin-activation.php:355
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Commencez à installer le plugin"
+msgstr[1] "Commencez à installer les plugins"
+
+#: kleo-framework/kleo.php:190
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "Activez le plugin installé"
+msgstr[1] "Activez les plugins installés"
+
+#: kleo-framework/kleo.php:191
+#: kleo-framework/lib/class-tgm-plugin-activation.php:370
+msgid "Return to Required Plugins Installer"
+msgstr "Retournez au Programme d'Installation des Plugins Requis"
+
+#: kleo-framework/kleo.php:192
+#: kleo-framework/lib/class-tgm-plugin-activation.php:372
+#: kleo-framework/lib/class-tgm-plugin-activation.php:3104
+msgid "Plugin activated successfully."
+msgstr "Plugin activé avec succès."
+
+#: kleo-framework/kleo.php:193
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Tous les plugins installés et activés avec succès. %s"
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:320
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] "Désolé, vous n’avez pas la permission correcte pour installer %1$s"
+msgstr[1] "Désolé, vous n’avez pas les permissions correctes pour installer %1$s"
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Il y a une actualisation disponible pour : %1$s"
+msgstr[1] "Il y a des actualisations disponibles pour les plugins suivants : %1$s"
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] "Désolé, vous n’avez pas la permission correcte pour actualiser %1$s\n"
+msgstr[1] "Désolé, vous n’avez pas les permissions correctes pour actualiser %1$s"
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:350
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] "Désolé, vous n’avez pas la permission correcte pour activer %1$s"
+msgstr[1] "Désolé, vous n’avez pas les permissions correctes pour activer %1$s"
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:360
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Commencer à actualiser le plugin."
+msgstr[1] "Commencer à actualiser les plugins."
+
+#: kleo-framework/lib/class-tgm-plugin-activation.php:365
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Commencer à activer le plugin."
+msgstr[1] "Commencer à activer les plugins."
+
+#: kleo-framework/lib/function-breadcrumb.php:205
+msgid "Browse:"
+msgstr "Navigateur :"
+
+#: kleo-framework/lib/function-breadcrumb.php:206
+#: lib/plugin-sensei/config.php:56
+#: lib/theme-functions.php:364
+msgid "Home"
+msgstr "Accueil"
+
+#: kleo-framework/lib/function-breadcrumb.php:207
+msgid "404 Not Found"
+msgstr "404 Introuvable"
+
+#: kleo-framework/lib/function-breadcrumb.php:208
+msgid "Archives"
+msgstr "Archives"
+
+#. Translators: %s is the search query. The HTML entities are opening and closing curly quotes.
+#: kleo-framework/lib/function-breadcrumb.php:210
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Résultats de la recherche pour  &#8220;%s&#8221;"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: kleo-framework/lib/function-breadcrumb.php:214
+#, php-format
+msgid "Minute %s"
+msgstr "Minute %s"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: kleo-framework/lib/function-breadcrumb.php:216
+#, php-format
+msgid "Week %s"
+msgstr "Semaine %s"
+
+#: kleo-framework/lib/function-breadcrumb.php:759
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "g:i a"
+
+#: kleo-framework/lib/function-breadcrumb.php:777
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: kleo-framework/lib/function-breadcrumb.php:795
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#: kleo-framework/lib/function-breadcrumb.php:812
+#: kleo-framework/lib/function-breadcrumb.php:842
+#: kleo-framework/lib/function-breadcrumb.php:870
+#: kleo-framework/lib/function-breadcrumb.php:898
+#: kleo-framework/lib/function-breadcrumb.php:1089
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: kleo-framework/lib/function-breadcrumb.php:813
+#: kleo-framework/lib/function-breadcrumb.php:871
+#: kleo-framework/lib/function-breadcrumb.php:1093
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: kleo-framework/lib/function-breadcrumb.php:814
+#: kleo-framework/lib/function-breadcrumb.php:1097
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: kleo-framework/lib/function-breadcrumb.php:843
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: kleo-framework/lib/function-breadcrumb.php:1208
+msgid "Split"
+msgstr "séparer"
+
+#: kleo-framework/lib/function-core.php:308
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: kleo-framework/lib/function-core.php:309
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: kleo-framework/lib/function-core.php:352
+msgid "Tag Archive for:"
+msgstr "Étiqueter Archive pour :"
+
+#: kleo-framework/lib/function-core.php:359
+msgid "Archive for category:"
+msgstr "Archive pour la catégorie :"
+
+#: kleo-framework/lib/function-core.php:363
+msgid "Archive for date:"
+msgstr "Archive pour la date :"
+
+#: kleo-framework/lib/function-core.php:367
+msgid "Archive for month:"
+msgstr "Archive pour le mois :"
+
+#: kleo-framework/lib/function-core.php:371
+msgid "Archive for year:"
+msgstr "Archives pour l'année :"
+
+#: kleo-framework/lib/function-core.php:375
+msgid "Author Archive"
+msgstr "Archives de l'auteur"
+
+#: kleo-framework/lib/function-core.php:378
+msgid "for:"
+msgstr "pour :"
+
+#: kleo-framework/lib/function-core.php:391
+msgid "search results for:"
+msgstr "résultats de la recherche pour :"
+
+#: kleo-framework/lib/function-core.php:395
+msgid "search result for:"
+msgstr "résultat de la recherche pour :"
+
+#: kleo-framework/lib/function-core.php:402
+msgid "Search results for:"
+msgstr "Résultats de la recherche pour :"
+
+#: kleo-framework/lib/function-core.php:406
+msgid "To search the site please enter a valid term"
+msgstr "Pour rechercher le site, veuillez entrer un terme valide"
+
+#: kleo-framework/lib/function-core.php:418
+#: lib/options.php:813
+msgid "Blog"
+msgstr "Blog"
+
+#: kleo-framework/lib/function-core.php:422
+msgid "Error 404 - Page not found"
+msgstr "Erreur 404 - Page introuvable"
+
+#: kleo-framework/lib/function-core.php:430
+msgid "Page"
+msgstr "Page"
+
+#: kleo-framework/lib/function-facebook-login.php:191
+msgid "Please connect your facebook account."
+msgstr "Veuillez connecter votre compte Facebook."
+
+#: kleo-framework/lib/function-facebook-login.php:209
+msgid "Registration is not open at this time. Please come back later."
+msgstr "L’inscription n'est pas ouverte en ce moment. Veuillez revenir plus tard."
+
+#: kleo-framework/lib/function-facebook-login.php:212
+msgid ""
+"Registration using Facebook is not currently allowed. Please use our "
+"Register page"
+msgstr ""
+"L’inscription à l'aide de Facebook n'est pas actuellement autorisée. "
+"Veuillez utiliser notre page d'inscription"
+
+#: kleo-framework/lib/function-facebook-login.php:228
+msgid ""
+"Your facebook account is not verified. You have to verify your account "
+"before proceed login or registering on this site."
+msgstr ""
+"Votre compte Facebook n'est pas vérifié. Vous devez vérifier votre compte "
+"avant de procéder à l’ouverture de session ou vous inscrire sur ce site."
+
+#: kleo-framework/lib/function-facebook-login.php:233
+msgid ""
+"Please click again to login with Facebook and allow the application to use "
+"your email address"
+msgstr ""
+"Veuillez cliquer à nouveau pour vous connecter avec Facebook et autoriser "
+"l'application à utiliser votre adresse e-mail"
+
+#: kleo-framework/lib/function-facebook-login.php:237
+msgid ""
+"We didn't find your name. Please complete your facebook account before "
+"proceeding."
+msgstr ""
+"On n'a pas trouvé votre nom. Veuillez compléter votre compte Facebook avant "
+"de continuer."
+
+#: kleo-framework/lib/function-facebook-login.php:347
+msgid ""
+"Thank you for registering. Please make sure to complete your profile fields "
+"below."
+msgstr ""
+"Merci de votre inscription. Veuillez vous assurer de remplir les champs de "
+"votre profil ci-dessous."
+
+#: kleo-framework/lib/function-facebook-login.php:423
+#, php-format
+msgid "%s became a registered member"
+msgstr "%s est devenu un membre inscrit"
+
+#: kleo-framework/metaboxes/init.php:815
+msgid "Please Try Again"
+msgstr "Veuillez Essayer à Nouveau"
+
+#: kleo-framework/metaboxes/init.php:832
+msgid "Remove Embed"
+msgstr "Éliminer l’intégration"
+
+#: kleo-framework/metaboxes/init.php:838
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr "Aucun résultat intégré trouvé pour % s. Plus d'infos sur"
+
+#: kleo-framework/options/inc/fields/border/field_border.php:125
+#: kleo-framework/options/inc/fields/spacing/field_spacing.php:191
+#: lib/portfolio.php:147
+msgid "All"
+msgstr "Tout"
+
+#: kleo-framework/options/inc/fields/slides/field_slides.php:73
+#: kleo-framework/options/inc/fields/slides/field_slides.php:174
+#: lib/post-types.php:188
+#, php-format
+msgid "New %s"
+msgstr "Nouveau %s"
+
+#: kleo-framework/options/inc/welcome/welcome.php:517
+#: lib/post-types.php:190
+#, php-format
+msgid "View %s"
+msgstr "Afficher %s"
+
+#: lib/item-likes.php:167
+msgid "Displays your most popular posts sorted by most liked"
+msgstr "Affiche vos messages les plus populaires triés par le plus aimé"
+
+#: lib/item-likes.php:224
+msgid "Popular Posts"
+msgstr "Messages populaires"
+
+#: lib/item-likes.php:243
+msgid "Description:"
+msgstr "Description :"
+
+#: lib/item-likes.php:247
+msgid "Posts:"
+msgstr "Messages :"
+
+#: lib/item-likes.php:252
+msgid "Display like counts"
+msgstr "Affichage de la quantité de  j’aime "
+
+#: lib/menu-custom.php:155
+msgid "Choose icon"
+msgstr "Choisir l'icône"
+
+#: lib/menu-custom.php:160
+msgid "Before title"
+msgstr "Avant le titre"
+
+#: lib/menu-custom.php:161
+msgid "After title"
+msgstr "Après le titre"
+
+#: lib/menu-custom.php:162
+msgid "Just the icon"
+msgstr "Juste l'icône"
+
+#: lib/menu-custom.php:171
+#: lib/plugin-menu-items-visibility-control/config.php:40
+msgid "Enable Mega Menu for child items."
+msgstr "Activer Mega Menu pour les articles d’enfants."
+
+#: lib/menu-items.php:14
+msgid "KLEO"
+msgstr "KLEO"
+
+#: lib/menu-items.php:39
+msgid "Login"
+msgstr "Ouverture de session"
+
+#: lib/menu-items.php:44
+msgid "Logout"
+msgstr "Déconnexion"
+
+#: lib/menu-items.php:81
+msgid "No items available here for the moment"
+msgstr "Aucun élément disponible ici pour le moment"
+
+#: lib/menu-items.php:90
+msgid ""
+"Some links are relative to the current user, and are not visible to visitors "
+"who are not logged in."
+msgstr ""
+"Quelques liens sont relatifs à l'utilisateur actuel et ne sont pas visibles "
+"pour les visiteurs qui ne sont pas connectés."
+
+#: lib/menu-items.php:102
+msgid "Add to Menu"
+msgstr "Ajouter au Menu"
+
+#: lib/metaboxes.php:371
+msgid "Clients - link"
+msgstr "Clients – lien"
+
+#: lib/metaboxes.php:388
+msgid "Testimonial - Author description"
+msgstr "Témoignage - description de l'auteur"
+
+#: lib/options.php:80
+#, php-format
+msgid ""
+"<p>Theme customisations are done here. Make sure to <a target=\"_blank\" "
+"href=\"%s\">Import Demo Content</a> first</p>"
+msgstr ""
+"<p>Les procédures de personnalisation de thème se font ici. <a "
+"target=\"_blank\" href=\"%s\">Assurez-vous d’importer d’abord du contenu de démo "
+"</a></p>"
+
+#: lib/options.php:288
+msgid "General settings"
+msgstr "Paramètres généraux"
+
+#: lib/options.php:290
+msgid "<p class=\"description\">Here you will set your site-wide preferences.</p>"
+msgstr ""
+"<p class=\"description\">Ici, vous allez définir vos préférences de largeur de "
+"site </p>"
+
+#: lib/options.php:296
+msgid "Enable maintenance mode."
+msgstr "Activer le mode maintenance."
+
+#: lib/options.php:297
+msgid "Site visitors will see a banner with the message you set bellow."
+msgstr ""
+"Les visiteurs du site verront une bannière avec le message que vous "
+"établissez ci-dessous."
+
+#: lib/options.php:304
+msgid "Message to show in maintenance mode"
+msgstr "Message à afficher en mode maintenance"
+
+#: lib/options.php:315
+msgid "Logo"
+msgstr "Logo"
+
+#: lib/options.php:316
+msgid "Upload your own logo."
+msgstr "Télécharger votre propre logo."
+
+#: lib/options.php:324
+msgid "Logo Retina"
+msgstr "Logo Retina"
+
+#: lib/options.php:325
+msgid ""
+"Upload retina logo. This is optional and should be double in size than "
+"normal logo."
+msgstr ""
+"Télécharger logo retina. Ceci est facultatif et la taille doit être le "
+"double du logo normal."
+
+#: lib/options.php:332
+msgid "Favicon"
+msgstr "Favicon"
+
+#: lib/options.php:333
+msgid "image that will be used as favicon (32px32px)."
+msgstr "image qui sera utilisée comme favicon (32px32px)."
+
+#: lib/options.php:341
+msgid "Apple Iphone Icon"
+msgstr "Icône d’Iphone Apple"
+
+#: lib/options.php:342
+msgid "Apple Iphone Icon (57px 57px)."
+msgstr "Icône d’Iphone Apple (57px 57px)."
+
+#: lib/options.php:350
+msgid "Apple Iphone Retina Icon"
+msgstr "Icône Retina Iphone Apple"
+
+#: lib/options.php:351
+msgid "Apple Iphone Retina Icon (114px 114px)."
+msgstr "Icône Retina Iphone Apple (114px 114px)."
+
+#: lib/options.php:359
+msgid "Apple iPad Icon"
+msgstr "Icône iPad Apple"
+
+#: lib/options.php:360
+msgid "Apple Iphone Retina Icon (72px 72px)."
+msgstr "Icône Retina Iphone Apple (72px 72px)."
+
+#: lib/options.php:368
+msgid "Apple iPad Retina Icon"
+msgstr "Icône Retina iPad Apple"
+
+#: lib/options.php:369
+msgid "Apple iPad Retina Icon (144px 144px)."
+msgstr "Icône Retina iPad Apple (144px 144px)."
+
+#: lib/options.php:376
+msgid "JavaScript code"
+msgstr "Code JavaScript"
+
+#: lib/options.php:377
+msgid ""
+"Paste your Google Analytics, other tracking code or any script you need."
+"<br/> This will be loaded in the footer."
+msgstr ""
+"Collez votre Google Analytique, un autre code de suivi ou script dont vous "
+"avez besoin. <br/> Ce sera chargé dans le pied de page."
+
+#: lib/options.php:384
+msgid "Quick css"
+msgstr "CSS Rapide"
+
+#: lib/options.php:385
+msgid "Place you custom css here"
+msgstr "Placez votre css personnalisé ici"
+
+#: lib/options.php:392
+msgid "Enable socket text"
+msgstr "Permettre au texte de socket"
+
+#: lib/options.php:393
+msgid "Enable text under the footer widgets area"
+msgstr "Activer le texte sous le pied de page du widget"
+
+#: lib/options.php:401
+msgid "Footer Text"
+msgstr "Texte de pied de page"
+
+#: lib/options.php:402
+msgid "You can use shortcodes in your footer text like: [site-url] [current-year]"
+msgstr ""
+"Vous pouvez utiliser les shortcodes dans votre texte de pied de page comme : "
+"[site-url] [current-year]"
+
+#: lib/options.php:412
+msgid "Layout settings"
+msgstr "Paramètres de mise en page"
+
+#: lib/options.php:414
+msgid "<p class=\"description\">Here you set options for the layout.</p>"
+msgstr ""
+"<p class=\"description\">Ici, vous définissez des options pour la mise en page."
+" </p>"
+
+#: lib/options.php:421
+msgid "Site Layout"
+msgstr "Mise en page du site"
+
+#: lib/options.php:422
+msgid "Select between wide or boxed site layout"
+msgstr "Choisir entre la mise en page en largeur ou en boîte"
+
+#: lib/options.php:432
+msgid "Site Width"
+msgstr "Largeur du site"
+
+#: lib/options.php:444
+msgid "- Background"
+msgstr "-Fond"
+
+#: lib/options.php:445
+msgid "Select your boxed background"
+msgstr "Sélectionnez votre fond de boîte"
+
+#: lib/options.php:455
+msgid "Main Layout"
+msgstr "Mise en page Principale"
+
+#: lib/options.php:456
+msgid ""
+"Select main content and sidebar alignment. Choose between 1, 2 or 3 column "
+"layout."
+msgstr ""
+"Sélectionner alignement principal de contenu et de la barre latérale. "
+"Choisir entre 1, 2 ou 3 colonnes."
+
+#: lib/options.php:471
+msgid "Main content width for one sidebar templates"
+msgstr "Largeur du contenu principal pour les modèles à une barre latérale"
+
+#: lib/options.php:479
+msgid "Main content width for two sidebars templates"
+msgstr "Largeur du contenu principal pour les modèles à deux barres latérales"
+
+#: lib/options.php:488
+msgid "Enable Go Up button"
+msgstr "Activez le bouton Aller en Haut"
+
+#: lib/options.php:489
+msgid ""
+"Enable or disable the button in the right down corner that takes you to the "
+"top of the screen."
+msgstr ""
+"Activer ou désactiver le bouton sur le coin inférieur droit qui vous emmène "
+"vers le haut de l'écran."
+
+#: lib/options.php:497
+#: lib/options.php:1690
+msgid "Page Title location"
+msgstr "Emplacement du Titre de la Page"
+
+#: lib/options.php:498
+#: lib/options.php:1691
+msgid ""
+"Choose where to show page title. In the breadcrumb section or in the main "
+"content"
+msgstr ""
+"Choisir où afficher le titre de la page. Dans la section fil d’Ariane ou "
+"dans le contenu principal"
+
+#: lib/options.php:506
+msgid "Enable Contact form"
+msgstr "Activez le formulaire de Contact"
+
+#: lib/options.php:507
+msgid "Enable or disable the contact form bottom screen"
+msgstr "Activer ou désactiver l'écran en bas du formulaire de contact"
+
+#: lib/options.php:514
+msgid "TO email"
+msgstr "POUR envoyer un e-mail"
+
+#: lib/options.php:515
+msgid "Enter a valid email address where the emails are sent to"
+msgstr "Entrez une adresse email valide si les e-mails sont envoyés vers"
+
+#: lib/options.php:524
+msgid "Contact form title"
+msgstr "Titre de formulaire de contact"
+
+#: lib/options.php:533
+msgid "Contact form text"
+msgstr "Texte du formulaire de contact"
+
+#: lib/options.php:562
+msgid "Header options"
+msgstr "Options d'en-tête"
+
+#: lib/options.php:564
+msgid "<p class=\"description\">Customize header appearance</p>"
+msgstr "Personnaliser l'apparence de l'en-tête"
+
+#: lib/options.php:569
+msgid "Header Layout"
+msgstr "Mise en page de l'en-tête"
+
+#: lib/options.php:570
+msgid "Select how you want your header format"
+msgstr "Choisissez comment vous voulez que votre format d'en-tête"
+
+#: lib/options.php:583
+msgid "Header Banner content"
+msgstr "Contenu de bannière d'en-tête"
+
+#: lib/options.php:590
+msgid "Main Menu Font size"
+msgstr "Taille de la Police du Menu Principal"
+
+#: lib/options.php:591
+msgid "Font size in pixels. Default: 12"
+msgstr "Taille de la police en pixels. Par défaut : 12"
+
+#: lib/options.php:597
+msgid "Main Menu Height"
+msgstr "Hauteur du Menu Principal"
+
+#: lib/options.php:598
+msgid "Set your header height expressed in pixels. Example: 88"
+msgstr "Régler la hauteur de votre en-tête exprimée en pixels. Exemple : 88"
+
+#: lib/options.php:604
+msgid "Display top bar"
+msgstr "Afficher la Barre supérieure"
+
+#: lib/options.php:605
+msgid ""
+"Enable or disable the top bar.<br> See Social icons tab to enable the social "
+"icons inside it.<br> Set a Top menu from  Appearance - Menus "
+msgstr ""
+"Activer ou désactiver la barre supérieure. <br>Afficher les icônes sociales "
+"pour activer les icônes sociales à l'intérieur.<br> Définissez un menu "
+"supérieur sur Apparence-Menus"
+
+#: lib/options.php:611
+msgid "Top bar - Darker background"
+msgstr "Barre Supérieure - fond plus sombre"
+
+#: lib/options.php:613
+msgid ""
+"Make the Top bar background a little darker instead of same header color. "
+"This is based on Styling options - Header."
+msgstr ""
+"Faire que la barre supérieure soit un peu plus sombre au lieu d’avoir la "
+"même couleur de l'en-tête. Ceci est basé sur les options de style – En-tête"
+
+#: lib/options.php:619
+msgid "Show language switch"
+msgstr "Montrer Paramètre de langue"
+
+#: lib/options.php:620
+msgid "Works only when WPML plugin is enabled."
+msgstr "Fonctionne uniquement lorsque le plugin WPML est activé."
+
+#: lib/options.php:626
+msgid "Sticky Main menu"
+msgstr "Menu principal collant"
+
+#: lib/options.php:627
+msgid "Enable or disable the sticky menu."
+msgstr "Activer ou désactiver le menu collant."
+
+#: lib/options.php:634
+msgid "Resize logo on scroll"
+msgstr "Redimensionner le logo sur le défilement"
+
+#: lib/options.php:635
+msgid "Enable or disable logo resizing when scrolling down the page"
+msgstr ""
+"Activer ou désactiver le redimensionnement du logo lors du défilement vers "
+"le bas de la page"
+
+#: lib/options.php:642
+msgid "Transparent Main Menu"
+msgstr "Menu principal transparent"
+
+#: lib/options.php:643
+msgid "Enable or disable main menu background transparency"
+msgstr "Activer ou désactiver la transparence du fond du menu principal"
+
+#: lib/options.php:649
+msgid "Ajax Search in menu"
+msgstr "Recherche d'Ajax dans le menu"
+
+#: lib/options.php:651
+msgid "Enable or disable the button for search."
+msgstr "Activer ou désactiver le bouton de recherche."
+
+#: lib/options.php:659
+msgid "Search context"
+msgstr "Contexte de recherche"
+
+#: lib/options.php:670
+msgid "Title/Breadcrumb Section"
+msgstr "Section de Titre/fil d’Ariane"
+
+#: lib/options.php:671
+msgid ""
+"Settings for the title/breadcrumb section that comes just after the menu."
+"<br>To <strong>Style this section</strong> go to Styling options - Alternate"
+msgstr ""
+"Paramètres de la section de titre/fil d'Ariane qui vient juste après le menu."
+" <br>Pour <strong>styliser cette section</strong>, allez dans les options "
+"Style– Alterner"
+
+#: lib/options.php:677
+#: lib/options.php:1698
+msgid "Show breadcrumb"
+msgstr "Afficher fil d’Ariane"
+
+#: lib/options.php:678
+#: lib/options.php:1699
+msgid "Enable or disable the site path under the page title."
+msgstr "Activer ou désactiver le chemin d'accès au site sous le titre de la page."
+
+#: lib/options.php:684
+#: lib/options.php:1712
+msgid "Main menu info"
+msgstr "Info du menu principal"
+
+#: lib/options.php:685
+msgid ""
+"This text displays next to the main menu. To disable it just delete the "
+"whole text."
+msgstr ""
+"Ce texte s'affiche à côté du menu principal. Pour le désactiver il suffit de "
+"supprimer l'ensemble du texte."
+
+#: lib/options.php:692
+msgid "Title/Breadcrumb layout"
+msgstr "Mise en page de titre/fil d’Ariane"
+
+#: lib/options.php:693
+msgid "Select the appearance for the title and breadcrumb section"
+msgstr "Sélectionnez l'apparence du titre et du fil d'Ariane"
+
+#: lib/options.php:718
+msgid "Padding"
+msgstr "Remplissage"
+
+#: lib/options.php:719
+msgid "Set a top/bottom padding for the title section"
+msgstr "Définir un remplissage en haut/bas pour la section du titre "
+
+#: lib/options.php:720
+msgid "Defined in px. Enter values without px"
+msgstr "Défini en px. Entrez des valeurs sans px"
+
+#: lib/options.php:744
+msgid "<p class=\"description\">Here you can enable side menu.</p>"
+msgstr "<p class=\"description\">Ici vous pouvez activer le menu latéral</p>"
+
+#: lib/options.php:750
+msgid "Enable side menu on your site"
+msgstr "Activez le menu latéral sur votre site"
+
+#: lib/options.php:751
+msgid "This will load the side menu functionality"
+msgstr "Ceci chargera les fonctionnalités du menu latéral"
+
+#: lib/options.php:759
+msgid "Add toggle button on your main menu"
+msgstr "Ajoutez le bouton d'activation sur votre menu principal"
+
+#: lib/options.php:760
+msgid "It will appear at the end of your primary menu"
+msgstr "Il apparaîtra à la fin de votre menu principal"
+
+#: lib/options.php:768
+msgid "Replace the default Mobile Menu with the Side Menu"
+msgstr "Remplacez la valeur par défaut du Menu Mobile par le Menu Latéral"
+
+#: lib/options.php:769
+msgid ""
+"When you click the menu icon on mobile, the side menu will open instead of "
+"the normal menu"
+msgstr ""
+"Lorsque vous cliquez sur l'icône du menu sur le mobile, le menu de gauche "
+"s'ouvre au lieu du menu normal"
+
+#: lib/options.php:776
+msgid "Side menu position"
+msgstr "Position du menu latéral"
+
+#: lib/options.php:777
+msgid "Where the side menu will appear"
+msgstr "Où apparaîtra le menu latéral"
+
+#: lib/options.php:785
+msgid "Side menu type"
+msgstr "Type de menu latéral"
+
+#: lib/options.php:786
+msgid "Type of side menu appearance"
+msgstr "Type d’apparence du menu latéral"
+
+#: lib/options.php:794
+msgid "Before Menu text"
+msgstr "Avant le texte de Menu"
+
+#: lib/options.php:802
+msgid "After Menu text"
+msgstr "Après le texte de Menu"
+
+#: lib/options.php:815
+msgid "<p class=\"description\">Settings related to blog</p>"
+msgstr "Paramètres associés au blog "
+
+#: lib/options.php:821
+msgid "Blog Page Layout"
+msgstr "Mise en Page du Blog"
+
+#: lib/options.php:822
+msgid "Select your blog layout. Choose between 1, 2 or 3 column layout."
+msgstr "Sélectionnez votre mise en page du blog. Choisissez entre 1, 2 ou 3 colonnes."
+
+#: lib/options.php:836
+msgid "Categories/Archives Layout"
+msgstr "Mise en page de catégories/Archives"
+
+#: lib/options.php:837
+msgid "Select your blog categories layout. Choose between 1, 2 or 3 column layout."
+msgstr ""
+"Sélectionnez la mise en page des catégories de votre blog. Choisissez entre "
+"1, 2 ou 3 colonnes."
+
+#: lib/options.php:852
+msgid "Single Post page Layout"
+msgstr "Mise en page de post unique"
+
+#: lib/options.php:853
+msgid "Select your Blog post page layout. Choose between 1, 2 or 3 column layout."
+msgstr ""
+"Sélectionnez la mise en page de votre post de Blog. Choisissez entre 1, 2 ou "
+"3 colonnes."
+
+#: lib/options.php:869
+msgid "Display type"
+msgstr "Type d'affichage"
+
+#: lib/options.php:870
+msgid "How your blog posts will display"
+msgstr "Comment les posts de votre blog s’afficheront"
+
+#: lib/options.php:879
+msgid "Posts per row"
+msgstr "Posts par ligne"
+
+#: lib/options.php:880
+msgid "How many columns to have in the grid"
+msgstr "Le nombre de colonnes dans la grille"
+
+#: lib/options.php:887
+msgid "Enable Layout Switcher Icons"
+msgstr "Activer les icônes de changement de mise en page"
+
+#: lib/options.php:888
+msgid "Let your visitors switch the layout of the Blog page"
+msgstr "Permettre à vos visiteurs de changer la mise en page du Blog"
+
+#: lib/options.php:895
+msgid "Enabled Layouts"
+msgstr "Mises en page activées"
+
+#: lib/options.php:904
+msgid "Featured content display type"
+msgstr "Type d'affichage de contenu mis en vedette"
+
+#: lib/options.php:912
+msgid "Featured articles per row"
+msgstr "Articles recommandés par ligne"
+
+#: lib/options.php:921
+msgid "Meta settings"
+msgstr "Paramètres Meta"
+
+#: lib/options.php:922
+msgid "Enable/disable the display of post meta like author, categories, date"
+msgstr "Activer/désactiver l'affichage de post méta comme auteur, catégories, date"
+
+#: lib/options.php:928
+msgid "Display post meta on archive listing"
+msgstr "Afficher des post meta sur la liste des archives"
+
+#: lib/options.php:929
+msgid ""
+"If you want to show meta info in Blog posts listing like Author, Date, "
+"Category"
+msgstr ""
+"Si vous souhaitez afficher les informations meta dans les listes des posts "
+"du blog comme Auteur, Date, Catégorie"
+
+#: lib/options.php:935
+msgid "Display post meta in Single post page"
+msgstr "Afficher post meta sur page à post unique"
+
+#: lib/options.php:936
+msgid "If enabled it will show post info like author, categories"
+msgstr "Si activé, il affichera les infos de post comme auteur, catégories"
+
+#: lib/options.php:943
+msgid "Display Meta Fields"
+msgstr "Affichage des Domaines Meta"
+
+#: lib/options.php:944
+msgid ""
+"What fields do you want displayed? Link fields will only work if BuddyPress "
+"is active."
+msgstr ""
+"Quels domaines voulez-vous afficher ? Associer les domaines ne fonctionnera "
+"que si BuddyPress est actif."
+
+#: lib/options.php:951
+msgid "Post meta separator"
+msgstr "Séparateur de post meta"
+
+#: lib/options.php:952
+msgid "Customize your post meta separator."
+msgstr "Personnalisez votre séparateur de post meta."
+
+#: lib/options.php:958
+msgid "Post meta style for standard layout"
+msgstr "Style de post meta pour mise en page standard"
+
+#: lib/options.php:959
+msgid ""
+"How the display meta, left side or under the title. Applies to standard "
+"layout only."
+msgstr ""
+"Comment afficher le meta, du côté gauche ou sous le titre. S'applique à la "
+"mise en page standard seulement."
+
+#: lib/options.php:971
+msgid "Display media on post page"
+msgstr "Afficher média sur la page du post"
+
+#: lib/options.php:972
+msgid "If you want to show image/gallery/video/audio before the post on single page"
+msgstr ""
+"Si vous souhaitez afficher image/galerie/vidéo/audio avant le post sur une "
+"page unique"
+
+#: lib/options.php:978
+msgid "Get Featured image from content"
+msgstr "Obtenir l'image vedette du contenu"
+
+#: lib/options.php:979
+msgid ""
+"If you have not set a Featured image allow the system to show the first "
+"image from post content on archive pages"
+msgstr ""
+"Si vous n'avez pas défini une image vedette, permettez au système d'afficher "
+"la première image du contenu du post sur les pages d'archives"
+
+#: lib/options.php:987
+msgid "Default Featured Image Placeholder"
+msgstr "Espace réservé à l’image vedette par défaut"
+
+#: lib/options.php:988
+msgid ""
+"If your post does not have a Featured image set then show a default image on "
+"archive pages."
+msgstr ""
+"Si votre message n'a pas d’image vedette définie, alors montrer une image "
+"par défaut sur les pages d'archives."
+
+#: lib/options.php:993
+msgid "Enable post navigation"
+msgstr "Activer la navigation du post"
+
+#: lib/options.php:994
+msgid "Display previous and next post navigation"
+msgstr "Afficher la navigation du post précédant et suivant"
+
+#: lib/options.php:1000
+msgid "Enable related posts"
+msgstr "Activer des posts connexes"
+
+#: lib/options.php:1001
+msgid "Display related posts in single blog entry"
+msgstr "Afficher des posts liés dans une entrée de blog "
+
+#: lib/options.php:1007
+msgid "Enable custom posts related"
+msgstr "Permettre les connexes aux posts personnalisés"
+
+#: lib/options.php:1008
+msgid "Display related posts in custom post type single entry"
+msgstr "Afficher les posts connexes dans types de posts personnalisés à entrée unique"
+
+#: lib/options.php:1017
+msgid "Pages"
+msgstr "Pages"
+
+#: lib/options.php:1018
+msgid "<p class=\"description\">Settings related to Pages</p>"
+msgstr "<p class=\"description\">Paramètres liés aux Pages </p>"
+
+#: lib/options.php:1023
+msgid "Enable Media on single page"
+msgstr "Permettre les médias sur une page individuelle"
+
+#: lib/options.php:1024
+msgid "Video, Sound or Image Thumbnail will appear before post content"
+msgstr "Vidéo, son ou Image miniature apparaitront devant le contenu du post"
+
+#: lib/options.php:1030
+msgid "Enable Page comments"
+msgstr "Activer les commentaires de la Page "
+
+#: lib/options.php:1031
+msgid ""
+"If you enable this make sure you have checked also Settings - Discussion - "
+"Allow people to post comments on new articles "
+msgstr ""
+"Si vous activez ceci, assurez-vous que vous avez coché aussi : Paramètres - "
+"Discussion - Permettre aux gens de poster des commentaires sur les nouveaux "
+"articles"
+
+#: lib/options.php:1051
+msgid "Social Share"
+msgstr "Partage social"
+
+#: lib/options.php:1059
+msgid "Enable Social share"
+msgstr "Activer partage Social"
+
+#: lib/options.php:1060
+msgid "Display social share icons after single blog entry."
+msgstr "Afficher les icônes de partage social après une entrée de blog unique."
+
+#: lib/options.php:1068
+msgid "Social share Post types"
+msgstr "Types de posts de partage social"
+
+#: lib/options.php:1079
+msgid "Exclude social share by Post IDs"
+msgstr "Exclure le partage social par les IDs des Posts"
+
+#: lib/options.php:1080
+msgid "List of Post IDs separated by comma to exclude from showing."
+msgstr "Liste des IDs de posts séparés par des virgules pour en exclure l'affichage."
+
+#: lib/options.php:1087
+msgid "Enable post likes"
+msgstr "Activer les « J’aime » des posts"
+
+#: lib/options.php:1088
+msgid "Allow people to like your post"
+msgstr "Permettre aux gens d'aimer votre post"
+
+#: lib/options.php:1095
+msgid "Exclude IDs"
+msgstr "Exclure les IDs"
+
+#: lib/options.php:1096
+msgid "List of Post IDs separated by comma to exclude from showing likes"
+msgstr ""
+"Séparer la liste des ID des posts par des virgules pour les exclure de la "
+"liste des J’aime"
+
+#: lib/options.php:1103
+msgid "Enable Likes by Ajax"
+msgstr "Activez les J’aime par Ajax"
+
+#: lib/options.php:1104
+msgid ""
+"Get the likes count by Ajax if you have cached content. <br> NOTE: Not "
+"recommended. This will increase page load DRAMATICALLY."
+msgstr ""
+"Faites qu’Ajax fasse le comptage des J’aime si vous du contenu caché. <br> "
+"Remarque : non recommandé. Cela augmentera CONSIDÉRABLEMENT le chargement de "
+"la page."
+
+#: lib/options.php:1111
+msgid "0 likes text"
+msgstr "texte avec 0 J’aime "
+
+#: lib/options.php:1112
+msgid "Text to show in case the post has no likes"
+msgstr "Texte à afficher dans le cas où le post n'a pas de J’aime"
+
+#: lib/options.php:1120
+msgid "1 like text"
+msgstr "texte avec 1 J’aime"
+
+#: lib/options.php:1121
+msgid "Text to show in case the post has 1 like"
+msgstr "Texte à afficher dans le cas où le poste a 1 J’aime"
+
+#: lib/options.php:1128
+#: lib/options.php:1136
+msgid "More than 1 like text"
+msgstr "Texte avec plus de 1 J’aime"
+
+#: lib/options.php:1129
+msgid "Text to show in case the post has more than 1 like"
+msgstr "Texte qui s'affiche dans le cas où le post a plus de 1 J’aime"
+
+#: lib/options.php:1137
+msgid "Text to show in case user has already liked the post"
+msgstr "Texte s'affiche dans le cas où l'utilisateur a déjà aimé ce post"
+
+#: lib/options.php:1144
+msgid "Text on icon hover"
+msgstr "Texte au survol de l'icône"
+
+#: lib/options.php:1145
+msgid "Text that shows when hovering the icon"
+msgstr "Texte qui apparaît lorsqu’on survole l'icône"
+
+#: lib/options.php:1198
+msgid "Styling options"
+msgstr "Options de mise en style"
+
+#: lib/options.php:1424
+msgid "Fonts"
+msgstr "Polices"
+
+#: lib/options.php:1425
+msgid "<p class=\"description\">Customize font options for body text and headings.</p>"
+msgstr ""
+"<p class=\"description\">Personnaliser les options de police pour le corps du "
+"texte et les en-têtes.</p>"
+
+#: lib/options.php:1432
+#: lib/post-types.php:19
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: lib/options.php:1434
+msgid ""
+"<p class=\"description\">Portfolio related settings. Please re-save permalinks "
+"when changing slugs or archive page.</p>"
+msgstr ""
+"<p class=\"description\">Paramètres concernant le portfolio. Veuillez "
+"enregistrer à nouveau les permaliens lors du changement des ligne-bloc ou "
+"pages d’archive.</p>"
+
+#: lib/options.php:1440
+msgid "Custom page for Portfolio Archive"
+msgstr "Page personnalisée pour archive portfolio"
+
+#: lib/options.php:1450
+msgid "Portfolio Page"
+msgstr "Page Portfolio"
+
+#: lib/options.php:1458
+msgid "Portfolio name"
+msgstr "Nom du Portfolio"
+
+#: lib/options.php:1466
+msgid "Portfolio link"
+msgstr "Lien du Portfolio"
+
+#: lib/options.php:1474
+msgid "Display style for Portfolio page"
+msgstr "Affichage du style de Page Portfolio"
+
+#: lib/options.php:1489
+msgid "Title style"
+msgstr "Style de titre"
+
+#: lib/options.php:1501
+msgid "Show/Hide subtitle"
+msgstr "Afficher/masquer sous-titre"
+
+#: lib/options.php:1509
+msgid "Number of items per row"
+msgstr "Nombre d'éléments par ligne"
+
+#: lib/options.php:1517
+msgid "Show categories filter on portfolio page"
+msgstr "Afficher le filtre de catégories sur la page portfolio"
+
+#: lib/options.php:1529
+msgid "Thumbnail image size"
+msgstr "Taille d’image miniature"
+
+#: lib/options.php:1530
+msgid ""
+"Set your portfolio image size in portfolio list. Defined in pixels. If you "
+"are using video items, use a 16:9 size format"
+msgstr ""
+"Définir la taille de l’image de votre portfolio dans la liste portfolio. "
+"Définie en pixels. Si vous utilisez des éléments vidéo, utilisez un format "
+"16:9"
+
+#: lib/options.php:1536
+msgid "Portfolio Single Item Page"
+msgstr "Page de portfolio à élément unique"
+
+#: lib/options.php:1537
+msgid "Settings for portfolio item page"
+msgstr "Paramètres de page à élément de portfolio"
+
+#: lib/options.php:1543
+msgid "Display media on single portfolio page"
+msgstr "Affichage de media sur page portfolio unique"
+
+#: lib/options.php:1544
+msgid ""
+"If you want to show image/gallery/video before the content on single "
+"portfolio page"
+msgstr ""
+"Si vous souhaitez afficher image/galerie/vidéo avant le contenu sur une page "
+"portfolio unique"
+
+#: lib/options.php:1550
+msgid "Show back to Portfolio icon(bottom of single portfolio item page)"
+msgstr "Voir l’icône Retour au Portfolio (en bas de page portfolio unique)"
+
+#: lib/options.php:1557
+msgid "Enable comments on portfolio single page"
+msgstr "Activer les commentaires sur une page portfolio unique"
+
+#: lib/options.php:1564
+msgid "Enable portfolio navigation"
+msgstr "Activer la navigation du portfolio"
+
+#: lib/options.php:1579
+msgid "Buddypress"
+msgstr "BuddyPress"
+
+#: lib/options.php:1581
+msgid "<p class=\"description\">Buddypress related settings</p>"
+msgstr "<p class=\"description\">Paramètres liés à Buddypress</p>"
+
+#: lib/options.php:1588
+msgid "Default Layout"
+msgstr "Mise en page par défaut"
+
+#: lib/options.php:1589
+msgid "Select your Buddypress pages layout. Choose between 1, 2 or 3 column layout."
+msgstr ""
+"Sélectionnez votre mise en page des pages Buddypress. Choisissez entre 1, 2 "
+"ou 3 colonnes."
+
+#: lib/options.php:1604
+msgid "Members Directory Layout"
+msgstr "Mise en page du répertoire des membres"
+
+#: lib/options.php:1605
+msgid ""
+"Select your Buddypress Members directory layout. Choose between 1, 2 or 3 "
+"column layout."
+msgstr ""
+"Sélectionnez votre mise en page du répertoire de membres Buddypress. "
+"Choisissez entre 1, 2 ou 3 colonnes."
+
+#: lib/options.php:1621
+msgid "Member Profile Layout"
+msgstr "Mise en page du profil de membre"
+
+#: lib/options.php:1622
+msgid "Select your Member profile layout. Choose between 1, 2 or 3 column layout."
+msgstr ""
+"Sélectionnez la mise en page de votre profil de membre. Choisissez entre 1, "
+"2 ou 3 colonnes."
+
+#: lib/options.php:1638
+msgid "Groups Layout"
+msgstr "Mise en page des groupes"
+
+#: lib/options.php:1639
+msgid "Select your Groups pages layout. Choose between 1, 2 or 3 column layout."
+msgstr ""
+"Sélectionnez votre mise en page des pages des groupes. Choisissez entre 1, 2 "
+"ou 3 colonnes."
+
+#: lib/options.php:1655
+msgid "Activity Layout"
+msgstr "Mise en page de l'activité"
+
+#: lib/options.php:1656
+msgid "Select your Activity pages layout. Choose between 1, 2 or 3 column layout."
+msgstr ""
+"Sélectionnez votre mise en page de l'activité. Choisissez entre 1, 2 ou 3 "
+"colonnes."
+
+#: lib/options.php:1672
+msgid "Register page Layout"
+msgstr "Mise en page de la page d’inscription"
+
+#: lib/options.php:1673
+msgid "Select your Register page layout. Choose between 1, 2 or 3 column layout."
+msgstr ""
+"Sélectionnez la mise en page de votre page d’inscription. Choisissez entre 1,"
+" 2 ou 3 colonnes."
+
+#: lib/options.php:1705
+msgid "Custom main menu info"
+msgstr "Info personnalisée du menu principal"
+
+#: lib/options.php:1706
+msgid "Add a custom text in the main menu to show only on Buddypress pages."
+msgstr ""
+"Ajouter un texte personnalisé dans le menu principal pour le montrer "
+"seulement sur les pages de Buddypress."
+
+#: lib/options.php:1714
+msgid "This text displays next to the main menu"
+msgstr "Ce texte s'affiche à côté du menu principal"
+
+#: lib/options.php:1721
+msgid "Hide Breadcrumb section for Profile pages"
+msgstr "Masquer la section de fil d'Ariane pour les pages de profil"
+
+#: lib/options.php:1722
+msgid ""
+"If enabled the breadcrumb section will be hidden. Best used when you enable "
+"full width profile page below"
+msgstr ""
+"Si activée, la section de fil d’Ariane sera masquée. Il est préférable de "
+"l'utiliser lorsque vous activez la page de profil à pleine largeur ci-dessous"
+
+#: lib/options.php:1728
+msgid "Enable Full width Profile Header"
+msgstr "Permettre un En-tête de Profil à pleine largeur "
+
+#: lib/options.php:1729
+msgid "If enabled it will show the profile Photo in full width"
+msgstr "Si activé, il montrera la photo du profil à pleine largeur"
+
+#: lib/options.php:1735
+msgid "Enable Full width Group Header"
+msgstr "Permettre un en-tête de groupe à pleine largeur"
+
+#: lib/options.php:1736
+msgid "If enabled it will show the Group Photo section in full width"
+msgstr "Si activé, il montrera la section Photo de Groupe à pleine largeur"
+
+#: lib/options.php:1742
+msgid "Enable online status"
+msgstr "Activez le statut en ligne"
+
+#: lib/options.php:1743
+msgid "If enabled it will show a colored dot next to each member avatar"
+msgstr ""
+"Si activé, il affichera un point de couleur à côté de l’avatar de chaque "
+"membre"
+
+#: lib/options.php:1749
+msgid "Enable member navigation"
+msgstr "Activer la navigation des membres"
+
+#: lib/options.php:1750
+msgid "Display previous and next member navigation"
+msgstr "Afficher la navigation du membre précédant et suivant"
+
+#: lib/options.php:1756
+msgid "Live Notifications interval"
+msgstr "Intervalle de Notifications en Direct"
+
+#: lib/options.php:1763
+msgid "Members per page"
+msgstr "Membres par page"
+
+#: lib/options.php:1764
+msgid "How many members to show per page in the Members Directory"
+msgstr "Combien de membres à afficher par page dans le répertoire des membres"
+
+#: lib/options.php:1770
+msgid "Groups per page"
+msgstr "Groupes par page"
+
+#: lib/options.php:1771
+msgid "How many groups to show per page in the Groups Directory"
+msgstr "Combien de groupes à afficher par page dans le répertoire de groupes"
+
+#: lib/options.php:1785
+msgid "Woocommerce"
+msgstr "Woocommerce"
+
+#: lib/options.php:1793
+msgid "Woocommerce Pages Layout"
+msgstr "Ise en page des pages Woocommerce"
+
+#: lib/options.php:1794
+msgid "Select the layout to use in Woocommerce pages."
+msgstr "Sélectionnez la mise en page à utiliser dans les pages de Woocommerce."
+
+#: lib/options.php:1810
+msgid "Woocommerce Category Layout"
+msgstr "catégorie mise en page Woocommerce"
+
+#: lib/options.php:1811
+msgid "Select the layout to use in Woocommerce product listing pages."
+msgstr ""
+"Sélectionnez la mise en page à utiliser dans la liste des pages de produits "
+"de Woocommerce."
+
+#: lib/options.php:1826
+msgid "Menu cart location"
+msgstr "Emplacement du panier dans le menu"
+
+#: lib/options.php:1827
+msgid "Shopping Cart in header menu location"
+msgstr "Emplacement du panier d'achat dans le menu en-tête"
+
+#: lib/options.php:1837
+msgid "Mobile menu Cart Icon"
+msgstr "Icône de panier sur menu mobile"
+
+#: lib/options.php:1838
+msgid "This will show on mobile menu a shop icon with the number of cart items"
+msgstr ""
+"Cela montrera une icône de la boutique avec le nombre d'éléments dans le "
+"panier sur un menu mobile"
+
+#: lib/options.php:1845
+msgid "Product image effect"
+msgstr "Effet d'image du produit"
+
+#: lib/options.php:1846
+msgid "The effect on products listing when hovering an image."
+msgstr "L'effet sur les listes des produits lorsqu’on plane une image."
+
+#: lib/options.php:1856
+msgid "Enable product listing Appear Animation"
+msgstr "Activer l’animation pour faire apparaitre la liste de produits"
+
+#: lib/options.php:1857
+msgid "On product listing the products will have a appear animation."
+msgstr ""
+"Sur la liste de produits, les produits auront une animation pour les faire "
+"apparaitre."
+
+#: lib/options.php:1864
+msgid "Show percentage badge on products list"
+msgstr "Voir le badge de pourcentage sur la liste de produits"
+
+#: lib/options.php:1865
+msgid "This will replace the \"Sale\" badge with \"SAVE UP TO xx%\""
+msgstr "Cela remplacera le badge « Solde » avec « JUSQU’À XX% D’ÉCONOMIE »"
+
+#: lib/options.php:1872
+msgid "Custom Badge color"
+msgstr "Couleur de Badge personnalisé"
+
+#: lib/options.php:1880
+msgid "Custom Badge Background"
+msgstr "Fond de Badge personnalisé"
+
+#: lib/options.php:1888
+msgid "Show NEW badge for new products added"
+msgstr "Voir LA NOUVELLE badge pour les nouveaux produits ajoutés"
+
+#: lib/options.php:1895
+msgid "Show excerpt on product page"
+msgstr "Voir l'extrait sur la page du produit"
+
+#: lib/options.php:1902
+msgid "Enable product navigation"
+msgstr "Activer la navigation de produit"
+
+#: lib/options.php:1909
+msgid "Manage account in Buddypress"
+msgstr "Gérer le compte sur Buddypress"
+
+#: lib/options.php:1910
+msgid "Integrates \"My Account\" into Buddypress profile tabs"
+msgstr "« Mon compte » s'intègre aux onglets du profil Buddypress"
+
+#: lib/options.php:1917
+msgid "Number of days to treat a product as new"
+msgstr "Nombre de jours pour traiter un produit comme neuf"
+
+#: lib/options.php:1918
+msgid "For how many days to show the NEW badge once a product is added to the shop."
+msgstr ""
+"Pour combien de jours montrer le badge NOUVEAU une fois qu’un produit est "
+"ajouté à la boutique."
+
+#: lib/options.php:1925
+msgid "Catalog mode"
+msgstr "Mode catalogue"
+
+#: lib/options.php:1926
+msgid ""
+"If you enable catalog mode will disable Add To Cart buttons, Checkout and "
+"Shopping cart."
+msgstr ""
+"Si vous activez le mode de catalogue, il se passera la désactivation des "
+"boutons Ajouter au panier, Paiement et Panier d'achat."
+
+#: lib/options.php:1935
+msgid "Disable prices"
+msgstr "Désactiver les prix"
+
+#: lib/options.php:1936
+msgid "Disable prices on category pages and product page"
+msgstr "Désactiver les prix sur les pages de catégorie et de produit"
+
+#: lib/options.php:1946
+msgid "Shop Products Columns"
+msgstr "Achat de produits par colonnes"
+
+#: lib/options.php:1947
+msgid "Select the number of columns to use for products display."
+msgstr "Sélectionnez le nombre de colonnes à utiliser pour l'affichage des produits."
+
+#: lib/options.php:1959
+msgid "Shop Products per page"
+msgstr "Achat de Produits par page"
+
+#: lib/options.php:1960
+msgid "How many products to show per page"
+msgstr "Combien de produits à afficher par page"
+
+#: lib/options.php:1966
+msgid "Related Products number"
+msgstr "Nombre de produits connexes"
+
+#: lib/options.php:1967
+msgid "Select the number of related products to show on product page."
+msgstr ""
+"Sélectionnez le nombre de produits connexes à afficher sur la page du "
+"produit."
+
+#: lib/options.php:1979
+msgid "Upsell Products number"
+msgstr "Nombre de produits de vente incitative"
+
+#: lib/options.php:1980
+msgid "Select the number of upsell products to show on product page."
+msgstr ""
+"Sélectionnez le nombre de produits de vente incitative à afficher sur la "
+"page du produit."
+
+#: lib/options.php:1992
+msgid "Cross-sell Products number"
+msgstr "Nombre de produits de vente croisée"
+
+#: lib/options.php:1993
+msgid "Select the number of Cross-sell products to show on cart page."
+msgstr ""
+"Sélectionnez le nombre de produits de vente croisée à afficher sur la page "
+"panier."
+
+#: lib/options.php:2011
+msgid "bbPress"
+msgstr "bbPress"
+
+#: lib/options.php:2018
+msgid "bbPress Pages Layout"
+msgstr "Mise en page des pages bbPress"
+
+#: lib/options.php:2019
+msgid "Select the layout to use in bbPress pages."
+msgstr "Sélectionner la mise en page à utiliser dans les pages de bbPress."
+
+#: lib/options.php:2034
+msgid "Enable @mentions."
+msgstr "Activer @mentions."
+
+#: lib/options.php:2035
+msgid "Enable or disable Buddypress @mentions in forum topics."
+msgstr "Activer ou désactiver Buddypress @mentions dans les sujets du forum."
+
+#: lib/options.php:2049
+msgid "Memberships"
+msgstr "Adhésions"
+
+#: lib/options.php:2051
+msgid ""
+"<p class=\"description\">Settings related to membership. You need to have Paid "
+"Memberships Pro plugin activated</p>"
+msgstr ""
+"<p class=\"description\">Paramètres liés à l'adhésion. Vous devez avoir payé "
+"Memberships Pro plugin activé </p>"
+
+#: lib/options.php:2056
+msgid "Membership settings"
+msgstr "Paramètres d’adhésion"
+
+#: lib/options.php:2073
+msgid "Miscellaneous"
+msgstr "Divers"
+
+#: lib/options.php:2080
+msgid "Admin toolbar"
+msgstr "Barre d'outils admin"
+
+#: lib/options.php:2081
+msgid "Enable or disable wordpress default top toolbar"
+msgstr "Activer ou désactiver la barre d'outils supérieure par défaut de wordpress"
+
+#: lib/options.php:2087
+msgid "Login redirect for Popup"
+msgstr "Redirection de connexion pour Popup"
+
+#: lib/options.php:2088
+msgid "Select the redirect action taken when members login from the popup window."
+msgstr ""
+"Sélectionnez l'action de redirection prise quand des membres se connectent "
+"depuis la fenêtre contextuelle."
+
+#: lib/options.php:2090
+msgid "Default WordPress redirect"
+msgstr "Redirection de WordPress par défaut"
+
+#: lib/options.php:2091
+msgid "Reload the current page"
+msgstr "Recharger la page actuelle"
+
+#: lib/options.php:2092
+msgid "Custom link"
+msgstr "Lien personnalisé"
+
+#: lib/options.php:2099
+msgid "Custom link redirect"
+msgstr "Redirection de lien personnalisé"
+
+#: lib/options.php:2108
+msgid "Facebook integration"
+msgstr "Intégration à Facebook"
+
+#: lib/options.php:2109
+msgid "Enable or disable Login/Register with Facebook"
+msgstr "Activer ou désactiver la connexion/inscription avec Facebook"
+
+#: lib/options.php:2115
+msgid "Facebook APP ID"
+msgstr "ID d’APPLI Facebook "
+
+#: lib/options.php:2116
+msgid ""
+"In order to integrate with Facebook you need to enter your Facebook APP "
+"ID<br/>If you don't have one, you can create it from: <a target=\"_blank\" "
+"href=\"https://developers.facebook.com/apps\">HERE</a> "
+msgstr ""
+"Afin d'intégrer avec Facebook, vous devez entrer votre ID d’APPLI Facebook. "
+"<br/>Si vous n'en avez pas une, vous pouvez la créer depuis : <a "
+"target=\"_blank\" href=\"https://developers.facebook.com/apps\">ICI</a>"
+
+#: lib/options.php:2123
+msgid "Show Facebook avatar"
+msgstr "Voir l’avatar de Facebook "
+
+#: lib/options.php:2124
+msgid ""
+"If you enable this, users that registered with Facebook will display "
+"Facebook profile image as avatar."
+msgstr ""
+"Si vous activez ceci, les utilisateurs enregistrés avec Facebook afficheront "
+"l'image de profil Facebook comme avatar."
+
+#: lib/options.php:2131
+msgid "Enable Registration via Facebook"
+msgstr "Activer l'enregistrement via Facebook"
+
+#: lib/options.php:2132
+msgid ""
+"If you enable this, users will be able to register a new account using "
+"Facebook. This skips the registration page including required profile fields"
+msgstr ""
+"Si vous activez ceci, les utilisateurs seront en mesure d'enregistrer un "
+"nouveau compte à l'aide de Facebook. Cela saute la page d'inscription, y "
+"compris les champs de profil requis"
+
+#: lib/options.php:2140
+msgid "Let it snow"
+msgstr "Vive la neige !"
+
+#: lib/options.php:2141
+msgid "If you enable this, a beautiful snowing effect will cover the whole site"
+msgstr "Si vous activez ceci, un bel effet de neige couvrira l'ensemble du site"
+
+#: lib/options.php:2147
+msgid "Development mode"
+msgstr "Mode de développement"
+
+#: lib/options.php:2148
+msgid "If you enable this, CSS and JS resources will not be loaded minified"
+msgstr ""
+"Si vous activez ceci, les ressources CSS et JS ne seront pas chargées "
+"comprimées"
+
+#: lib/options.php:2158
+msgid "Social Info"
+msgstr "Infos sociales"
+
+#: lib/options.php:2160
+msgid ""
+"<p class=\"description\">Here you can set your contact info that will display "
+"in the top bar.</p>"
+msgstr ""
+"<p class=\"description\">Ici vous pouvez établir vos coordonnées, qui seront "
+"affichées dans la barre supérieure. </p>"
+
+#: lib/options.php:2166
+msgid "Display social icons"
+msgstr "Afficher les icônes sociales"
+
+#: lib/options.php:2167
+msgid "Enable or disable the social icons in top bar."
+msgstr "Activer ou désactiver les icônes sociales dans la barre supérieure"
+
+#: lib/options.php:2174
+#: lib/plugin-woocommerce/config.php:673
+msgid "Twitter"
+msgstr "Twitter"
+
+#: lib/options.php:2182
+#: lib/plugin-woocommerce/config.php:670
+msgid "Facebook"
+msgstr "Facebook"
+
+#: lib/options.php:2190
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: lib/options.php:2198
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: lib/options.php:2206
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: lib/options.php:2214
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: lib/options.php:2222
+msgid "Google+"
+msgstr "Google +"
+
+#: lib/options.php:2230
+msgid "Flickr"
+msgstr "Flickr"
+
+#: lib/options.php:2238
+msgid "YouTube"
+msgstr "YouTube"
+
+#: lib/options.php:2246
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: lib/options.php:2254
+msgid "Foursquare"
+msgstr "FOURSQUARE"
+
+#: lib/options.php:2262
+msgid "Instagram"
+msgstr "Instagram"
+
+#: lib/options.php:2270
+msgid "GitHub"
+msgstr "GitHub"
+
+#: lib/options.php:2278
+msgid "Xing"
+msgstr "Xing"
+
+#: lib/options.php:2289
+msgid "Theme update"
+msgstr "Mise à jour de thème"
+
+#: lib/options.php:2291
+msgid ""
+"<p class=\"description\">To automatically get theme updates you need to enter "
+"the username and API KEY from your Themeforest account.<br>Please make a "
+"backup of current files each time you do a theme update.</p>"
+msgstr ""
+"<p class=\"description\">Pour obtenir les mises à jour de thème "
+"automatiquement vous devez entrer le nom d'utilisateur et la clé API de "
+"votre compte Themeforest. <br>Veuillez faire une copie de sécurité des "
+"fichiers courants chaque fois que vous effectuez une mise à jour de thème. "
+"</p>"
+
+#: lib/options.php:2296
+msgid "Themeforest Username"
+msgstr "Nom d'utilisateur ThemeForest"
+
+#: lib/options.php:2303
+msgid "Themeforest API KEY"
+msgstr "CLÉ API ThemeForest"
+
+#: lib/post-types.php:15
+msgid "Client"
+msgstr "Client"
+
+#: lib/post-types.php:15
+msgid "Clients"
+msgstr "Clients"
+
+#: lib/post-types.php:16
+msgid "Testimonial"
+msgstr "Témoignage"
+
+#: lib/post-types.php:16
+msgid "Testimonials"
+msgstr "Témoignages"
+
+#: lib/post-types.php:19
+msgid "Portfolio item"
+msgstr "Élément de portfolio"
+
+#: lib/post-types.php:51
+msgctxt "tag label"
+msgid "Client Tags"
+msgstr "Balises clients"
+
+#: lib/post-types.php:52
+msgctxt "tag singular label"
+msgid "Client Tag"
+msgstr "Balise client"
+
+#: lib/post-types.php:91
+msgctxt "tag label"
+msgid "Testimonial Tags"
+msgstr "Balises Témoignages"
+
+#: lib/post-types.php:92
+msgctxt "tag singular label"
+msgid "Testimonial Tag"
+msgstr "Balise Témoignage"
+
+#: lib/post-types.php:151
+msgctxt "category label"
+msgid "Portfolio Categories"
+msgstr "Catégories de portfolio"
+
+#: lib/post-types.php:152
+msgctxt "category singular label"
+msgid "Portfolio Category"
+msgstr "Catégorie de portfolio"
+
+#: lib/post-types.php:183
+#, php-format
+msgctxt "post type general name"
+msgid "%s"
+msgstr "%s"
+
+#: lib/post-types.php:184
+#, php-format
+msgctxt "post type singular name"
+msgid "%s"
+msgstr "%s"
+
+#: lib/post-types.php:186
+#, php-format
+msgid "Add New %s"
+msgstr "Ajouter nouveau %s"
+
+#: lib/post-types.php:187
+#, php-format
+msgid "Edit %s"
+msgstr "Éditer %s"
+
+#: lib/post-types.php:189
+#, php-format
+msgid "All %s"
+msgstr "Tous les %s"
+
+#: lib/post-types.php:191
+#, php-format
+msgid "Search %s"
+msgstr "Rechercher  %s"
+
+#: lib/post-types.php:192
+#, php-format
+msgid "No %s found"
+msgstr "Aucun %s trouvé"
+
+#: lib/post-types.php:193
+#, php-format
+msgid "No %s found in Trash"
+msgstr "Aucun %s trouvé dans la poubelle"
+
+#: lib/post-types.php:195
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: lib/theme-functions.php:355
+msgid "Permanent Link:"
+msgstr "Lien permanent :"
+
+#: lib/theme-functions.php:603
+msgid "Start typing to search..."
+msgstr "Commencez à taper pour rechercher..."
+
+#: lib/theme-functions.php:678
+msgid "Sorry, we haven't found anything based on your criteria."
+msgstr "Désolé, nous n'avons rien trouvé selon vos critères."
+
+#: lib/theme-functions.php:680
+msgid "Please try searching by different terms."
+msgstr "Veuillez essayer de rechercher par des termes différents."
+
+#: lib/theme-functions.php:711
+msgid "View member results"
+msgstr "Afficher les résultats des membres"
+
+#: lib/theme-functions.php:719
+msgid "Groups"
+msgstr "Groupes"
+
+#: lib/theme-functions.php:731
+msgid "View group results"
+msgstr "Afficher les résultats de groupe"
+
+#: lib/theme-functions.php:799
+msgid "View all results"
+msgstr "Afficher tous les résultats"
+
+#: lib/theme-functions.php:827
+msgid "View forum results"
+msgstr "Afficher les résultats du forum"
+
+#: lib/theme-functions.php:1015
+msgid "Your Name"
+msgstr "Votre nom"
+
+#: lib/theme-functions.php:1016
+msgid "Your Email"
+msgstr "Votre adresse E-mail"
+
+#: lib/theme-functions.php:1017
+msgid "Type your message..."
+msgstr "Tapez votre message..."
+
+#: lib/theme-functions.php:1019
+msgid "Send"
+msgstr "Envoyer"
+
+#: lib/theme-functions.php:1020
+msgid "Sending"
+msgstr "En cours d’envoi"
+
+#: lib/theme-functions.php:1045
+msgid "Please enter your name."
+msgstr "Veuillez entrer votre nom."
+
+#: lib/theme-functions.php:1056
+msgid "Please enter your email address."
+msgstr "Veuillez entrer votre adresse e-mail."
+
+#: lib/theme-functions.php:1061
+msgid "You entered an invalid email address."
+msgstr "Vous avez entré une adresse e-mail incorrecte."
+
+#: lib/theme-functions.php:1072
+msgid "Please enter a message."
+msgstr "Veuillez écrire votre message."
+
+#: lib/theme-functions.php:1090
+msgid "Contact Form Message"
+msgstr "Message du formulaire de contact"
+
+#: lib/theme-functions.php:1093
+msgid "You received a new contact form message:"
+msgstr "Vous avez reçu un nouveau message du formulaire de contact :"
+
+#: lib/theme-functions.php:1094
+msgid "Name: "
+msgstr "Nom :"
+
+#: lib/theme-functions.php:1095
+msgid "Email: "
+msgstr "E-mail :"
+
+#: lib/theme-functions.php:1096
+msgid "Message: "
+msgstr "Message :"
+
+#: lib/theme-functions.php:1104
+msgid "Thank you. Your message has been sent."
+msgstr "Merci. Votre message a été envoyé."
+
+#: lib/theme-functions.php:1110
+msgid "Mail couldn't be sent. Please try again!"
+msgstr "Le mail n'a pas pu être envoyé. Veuillez essayer à nouveau !"
+
+#: lib/theme-functions.php:1265
+msgid "<span id=\"older-nav\">Go to article</span>"
+msgstr "<span id=\"older-nav\">Passer à l’article</span>"
+
+#: lib/theme-functions.php:1369
+#: lib/theme-functions.php:1393
+msgid "Log in with Facebook"
+msgstr "Connectez-vous avec Facebook"
+
+#: lib/theme-functions.php:1372
+#: lib/theme-functions.php:1396
+#: page-parts/general-popups.php:14
+msgid "or"
+msgstr "ou"
+
+#: lib/theme-functions.php:1508
+msgid "Top Content"
+msgstr "Contenu le plus regardé"
+
+#: lib/theme-functions.php:1513
+msgid "This will be displayed at top of the category page. Shortcodes are allowed."
+msgstr "Cela s'affichera en haut de la page de catégories. Shortcodes autorisés."
+
+#: lib/featured-content/featured-content.php:408
+msgid "Featured Content"
+msgstr "Contenu recommandé"
+
+#: lib/featured-content/featured-content.php:409
+#, php-format
+msgid ""
+"Use the <a href=\"%1$s\">\"featured\" tag</a> to feature your posts. You can "
+"change this to a tag of your choice; if no posts match the tag, <a "
+"href=\"%2$s\">sticky posts</a> will be displayed instead."
+msgstr ""
+"Utilisez la <a href=\"%1$s\">balise recommandée</a> pour vos messages en "
+"vedette. Vous pouvez le modifier à une balise de votre choix ; <a "
+"href=\"%2$s\">Si aucun post</a> ne correspond à la balise des post-it seront "
+"affichés à la place."
+
+#: lib/featured-content/featured-content.php:428
+msgid "Tag Name"
+msgstr "Nom de la balise"
+
+#: lib/featured-content/featured-content.php:433
+msgid "Don&rsquo;t display tag on front end."
+msgstr "Ne pas afficher la balise sur l’interface"
+
+#: lib/importer/import.php:238
+msgid "Please select data to import."
+msgstr "Veuillez sélectionner les données à importer."
+
+#: lib/importer/import.php:249
+msgid "Import successful. Have fun!"
+msgstr "Importation réussie. Amusez-vous!"
+
+#: lib/plugin-buddypress/config.php:19
+#: lib/plugin-woocommerce/config.php:1612
+#: paid-memberships-pro/pages/account.php:50
+msgid "My Account"
+msgstr "Mon compte"
+
+#: lib/plugin-buddypress/menu-notifications.php:7
+msgid "Live Notifications"
+msgstr "Notifications en direct"
+
+#: lib/plugin-buddypress/menu-notifications.php:57
+msgid "View Notifications"
+msgstr "Afficher les Notifications"
+
+#: lib/plugin-buddypress/menu-notifications.php:116
+#: lib/plugin-buddypress/menu-notifications.php:149
+#: lib/plugin-buddypress/menu-notifications.php:188
+msgid "No new notifications"
+msgstr "Aucune nouvelle notification"
+
+#: lib/plugin-buddypress/menu-notifications.php:125
+msgid "Mark all as read"
+msgstr "Marquer tout comme lu"
+
+#: lib/plugin-pmpro/config.php:15
+msgid "Members directory restriction"
+msgstr "Restriction du répertoire des membres"
+
+#: lib/plugin-pmpro/config.php:16
+msgid "View members directory"
+msgstr "Afficher répertoire des membres"
+
+#: lib/plugin-pmpro/config.php:20
+msgid "Restrict viewing other profiles"
+msgstr "Restreindre l'affichage des autres profils"
+
+#: lib/plugin-pmpro/config.php:21
+msgid "View members profile"
+msgstr "Voir le profil des membres"
+
+#: lib/plugin-pmpro/config.php:25
+msgid "Groups directory restriction"
+msgstr "Restriction de répertoire de groupes"
+
+#: lib/plugin-pmpro/config.php:26
+msgid "Access group directory"
+msgstr "Accès au répertoire de groupe "
+
+#: lib/plugin-pmpro/config.php:30
+msgid "Group page restriction"
+msgstr "Restriction de page de groupe"
+
+#: lib/plugin-pmpro/config.php:31
+msgid "Access to groups"
+msgstr "Accès aux groupes"
+
+#: lib/plugin-pmpro/config.php:35
+msgid "Site activity restriction"
+msgstr "Restriction de l'activité du site"
+
+#: lib/plugin-pmpro/config.php:36
+msgid "View site activity"
+msgstr "Aperçu de l’activité du site"
+
+#: lib/plugin-pmpro/config.php:40
+msgid "Sending private messages restriction"
+msgstr "Envoi de restriction de messages privés"
+
+#: lib/plugin-pmpro/config.php:41
+msgid "Send Private messages"
+msgstr "Envoyer des messages privés"
+
+#: lib/plugin-pmpro/config.php:45
+msgid "Restrict users from adding media to their profile using rtMedia"
+msgstr ""
+"Empêcher les utilisateurs d'ajouter des médias aux profils à l'aide de "
+"rtMedia"
+
+#: lib/plugin-pmpro/config.php:46
+msgid "Add media to your profile"
+msgstr "Ajouter des éléments multimédias à votre profil"
+
+#: lib/plugin-pmpro/config.php:278
+msgid "Upgrade account"
+msgstr "Mettre à jour le compte"
+
+#: lib/plugin-pmpro/config.php:397
+msgid "Not logged in"
+msgstr "Pas connecté"
+
+#: lib/plugin-pmpro/config.php:398
+msgid "Not members"
+msgstr "Non membres"
+
+#: lib/plugin-pmpro/config.php:419
+msgid "Show field in memberships table"
+msgstr "Afficher le champ dans la liste de membres"
+
+#: lib/plugin-pmpro/config.php:456
+msgid "Popular level"
+msgstr "Niveau populaire"
+
+#: lib/plugin-pmpro/config.php:476
+msgid "Order in Membership table"
+msgstr "Commande dans la liste de membres"
+
+#: lib/plugin-woocommerce/config.php:292
+msgid "Shop"
+msgstr "Boutique"
+
+#: lib/plugin-woocommerce/config.php:513
+msgid "SAVE NOW"
+msgstr "FAIRE DES ÉCONOMIES"
+
+#: lib/plugin-woocommerce/config.php:541
+msgid "New"
+msgstr "Nouveau"
+
+#: lib/plugin-woocommerce/config.php:666
+#: lib/plugin-woocommerce/config.php:740
+msgid "Social share"
+msgstr "Partage social"
+
+#: lib/plugin-woocommerce/config.php:707
+#: lib/plugin-woocommerce/config.php:712
+msgid "Quick View"
+msgstr "Aperçu Rapide"
+
+#: lib/plugin-woocommerce/config.php:815
+msgid "<span id=\"older-nav\">Go back</span>"
+msgstr "<span id=\"older-nav\">Retourner</span>"
+
+#: lib/plugin-woocommerce/config.php:917
+msgid "in the shopping cart"
+msgstr "dans le panier"
+
+#: lib/plugin-woocommerce/config.php:943
+msgid "Cart Subtotal"
+msgstr "Sous-total du panier"
+
+#: lib/plugin-woocommerce/config.php:966
+msgid "Your shopping bag is empty."
+msgstr "Votre panier est vide."
+
+#: lib/plugin-woocommerce/config.php:977
+msgid "Go to the shop"
+msgstr "Aller à la boutique"
+
+#: lib/plugin-woocommerce/config.php:1002
+#, c-format
+msgid "% items"
+msgstr "% d’articles"
+
+#: lib/plugin-woocommerce/config.php:1004
+msgid "0 items"
+msgstr "0 articles"
+
+#: lib/plugin-woocommerce/config.php:1006
+msgid "1 item"
+msgstr "1 article"
+
+#: lib/plugin-woocommerce/config.php:1085
+msgid "Shopping Cart"
+msgstr "Panier d'achat"
+
+#: lib/plugin-woocommerce/config.php:1087
+msgid "Checkout details"
+msgstr "Détails de paiement"
+
+#: lib/plugin-woocommerce/config.php:1089
+msgid "Order Complete"
+msgstr "Commande complète"
+
+#: lib/plugin-woocommerce/config.php:1454
+msgid "My Orders"
+msgstr "Mes commandes"
+
+#: lib/plugin-woocommerce/config.php:1465
+msgid "My Downloads"
+msgstr "Mes téléchargements"
+
+#: lib/plugin-woocommerce/config.php:1601
+#: lib/plugin-woocommerce/config.php:1611
+msgid "View All Orders"
+msgstr "Afficher toutes les commandes"
+
+#: lib/widgets/recent_posts.php:14
+msgid "Recent posts with thumbnails widget."
+msgstr "Posts récents avec widget à miniatures"
+
+#: lib/widgets/recent_posts.php:16
+msgid "(Kleo) Recent posts"
+msgstr "(Kleo) Posts récents"
+
+#: lib/widgets/recent_posts.php:164
+msgid "Limit:"
+msgstr "Limite :"
+
+#: lib/widgets/recent_posts.php:172
+msgid "Display excerpt?"
+msgstr "Affichage d’extrait ?"
+
+#: lib/widgets/recent_posts.php:179
+msgid "Excerpt length(characters):"
+msgstr "Longueur d’extrait (caractères) :"
+
+#: lib/widgets/recent_posts.php:184
+msgid "Display Thumbnail?"
+msgstr "Affichage de Miniature ?"
+
+#: lib/widgets/recent_posts.php:193
+msgid "Show from category: "
+msgstr "Voir catégorie :"
+
+#: lib/widgets/recent_posts.php:194
+msgid "All categories"
+msgstr "Toutes les catégories"
+
+#: lib/widgets/recent_posts.php:197
+msgid "Choose the Post Type: "
+msgstr "Choisir le Type de Post :"
+
+#: page-parts/general-header-section.php:99
+msgid "Toggle navigation"
+msgstr "Activer/désactiver navigation"
+
+#: page-parts/general-popups.php:9
+msgid "Log in with your credentials"
+msgstr "Vous connecter avec vos identifiants"
+
+#: page-parts/general-popups.php:14
+msgid "Create an account"
+msgstr "Créer un compte"
+
+#: page-parts/general-popups.php:25
+msgid "Sign in"
+msgstr "Connexion"
+
+#: page-parts/general-popups.php:27
+msgid "Remember me"
+msgstr "Se souvenir de moi"
+
+#: page-parts/general-popups.php:47
+msgid "Forgot your details?"
+msgstr "Vous avez oublié vos informations ?"
+
+#: page-parts/general-popups.php:56
+msgid "Reset Password"
+msgstr "Réinitialiser mot de passe"
+
+#: page-parts/general-popups.php:57
+msgid "I remember my details"
+msgstr "Je me souviens de mes informations"
+
+#: page-parts/post-content-masonry.php:197
+#: page-parts/post-content-small.php:198
+msgid "Read more"
+msgstr "En lire plus"
+
+#: page-parts/posts-related.php:14
+msgid "Related Articles"
+msgstr "Articles connexes"
+
+#: page-parts/posts-related.php:31
+msgid "Related"
+msgstr "Connexe"
+
+#: page-parts/posts-social-share.php:52
+msgid "Share this"
+msgstr "Partager ceci"
+
+#: paid-memberships-pro/pages/levels.php:108
+#, php-format
+msgctxt "Recurring payment in cost text generation. E.g. $5 after 2 months."
+msgid "%s after %d %s."
+msgstr "%s après %d %s."
+
+#: paid-memberships-pro/pages/levels.php:114
+#, php-format
+msgctxt "Recurring payment in cost text generation. E.g. $5 every month."
+msgid "%s per %s."
+msgstr "%s par %s."
+
+#: paid-memberships-pro/pages/levels.php:118
+#, php-format
+msgctxt "Recurring payment in cost text generation. E.g., $5 every 2 months."
+msgid "%s every %d %s."
+msgstr "%s chaque %d %s."
+
+#: paid-memberships-pro/pages/levels.php:202
+#: paid-memberships-pro/pages/levels.php:204
+msgid "Select"
+msgstr "Sélectionner"
+
+#: vc_templates/vc_tabs.php:82
+msgid "Previous section"
+msgstr "Section précédente"
+
+#: vc_templates/vc_tabs.php:82
+msgid "Next section"
+msgstr "Section suivante"
+
+#: kleo-framework/lib/function-facebook-login.php:183
+msgid "Authentication required."
+msgstr "Authentification nécessaire."
+
+#: lib/options.php:1054
+msgid ""
+"<p class=\"description\">Settings related to Social sharing that appear after "
+"post/page content<br>NOTE: Woocommerce Wishlist share options are configured "
+"from plugin page: WP admin - Woocommerce - Settings - Wishlist</p>"
+msgstr ""
+"<p class=\"description\">Paramètres associés à un partage Social qui "
+"apparaissent après le contenu du post/de la page <br>Remarque : les options "
+"de partage Woocommerce Wishlist sont configurées depuis la page du plugin : "
+"WP admin - Woocommerce - Paramètres - Wishlist</p>"
+
+#: lib/options.php:2101
+msgid ""
+"Set a link like http://yoursite.com/homepage for users to get redirected on "
+"login.<br> For more complex redirect logic please set Login redirect to "
+"Default WordPress and use Peter's redirect plugin or a similar plugin."
+msgstr ""
+"Établissez un lien comme http://yoursite.com/homepage pour que les "
+"utilisateurs soient redirigés au moment de la connexion. <br>Pour une "
+"logique de redirection plus complexe, veuillez établir la redirection de "
+"connexion vers WordPress par Défaut et utiliser le plugin de redirection de "
+"Peter ou un plugin similaire."
+
+#: lib/theme-functions.php:1116
+msgid "Unknown error occurred. Please try again!"
+msgstr "Une erreur inconnue s'est produite. Veuillez réessayer !"
+
+#: paid-memberships-pro/pages/levels.php:99
+#, php-format
+msgctxt ""
+"Recurring payment in cost text generation. E.g. $5 every month for 2 more "
+"payments."
+msgid "%s per %s for %d more %s."
+msgstr "%s par %s pour %d plus %s."

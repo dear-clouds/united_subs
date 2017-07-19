@@ -1,0 +1,339 @@
+/* Event List Styling */
+
+.rhcalendar.for-widget .rhc_calendar_widget_day_click .rhc-widget-event-list {
+    margin-bottom: 15px;
+}
+.rhcalendar.for-widget .rhc_calendar_widget_day_click a,
+.rhcalendar.for-widget .rhc_calendar_widget_day_click .rhc_title span {
+    text-decoration:none;
+    color: #505050;
+}
+
+/* 
+ * Event List Head 
+ */
+.rhcalendar.for-widget .rhc_calendar_widget_day_click .rhc-widget-event-list-head {
+    background-color: #fff;
+    color: #fff;
+    border-radius: 8px 8px 8px 8px;
+    border: 1px solid #ededed;
+}
+.rhcalendar.for-widget .rhc_calendar_widget_day_click .open .rhc-widget-event-list-head {
+	border-radius: 8px 8px 0px 0px;
+}
+.rhcalendar.for-widget .rhc_calendar_widget_day_click .rhc-widget-event-list-head .rhc-widget-event-list-date {
+    width: 75px;
+    height: 100%;
+    display: inline-block;
+    text-align: center;
+    padding: 7px 5px 12px 5px;
+    vertical-align: top;
+    background-color: #3498db;
+    box-sizing: border-box;
+    border-radius: 7px 0 0 7px;
+    position: absolute;
+	transition: 1s linear;
+	-webkit-transition: 1s linear;
+	-moz-transition: 1s linear;
+	cursor: pointer;
+}
+.rhcalendar.for-widget .rhc_calendar_widget_day_click .open .rhc-widget-event-list-head .rhc-widget-event-list-date {
+	border-radius: 7px 0 0 0px;
+}
+.rhcalendar.for-widget .rhc_calendar_widget_day_click .rhc-dayname.rhc_date.rhc_start {
+    font-size: 12px;
+    font-weight: 300;
+	line-height:1;
+}
+.rhcalendar.for-widget .rhc_calendar_widget_day_click .rhc-day.rhc_date.rhc_start {
+    font-size: 38px;
+    font-weight: 300;
+	line-height:1;
+}
+.rhcalendar.for-widget .rhc_calendar_widget_day_click .rhc-widget-event-list-date .rhc-month-year.rhc_date.rhc_start {
+    font-size: 11px;
+}
+
+.rhcalendar.for-widget .rhc_calendar_widget_day_click .rhc-title-date-venue {
+    display: inline-block;
+    width: 68%;
+    font-size: 15px;
+    line-height: 100%;
+    vertical-align: top;
+    padding: 5px 5px 10px 5px;
+    letter-spacing: 0.5px;
+    position: relative;
+    box-sizing: border-box;
+    margin-left: 75px;
+}
+
+.rhcalendar.for-widget .rhc_calendar_widget_day_click .rhc_title {
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.rhcalendar.for-widget .rhc_calendar_widget_day_click .rhc_title span {
+    position: relative;
+}
+
+.rhcalendar.for-widget .rhc_calendar_widget_day_click .rhc-time-location {
+    margin-top: 5px;
+}
+
+.rhcalendar.for-widget .rhc_calendar_widget_day_click span.rhc-icon-time.rhc_start_time.rhc_date:before,
+.rhcalendar.for-widget .rhc_calendar_widget_day_click .rhc-widget-taxonomy a:before {
+	font-family: 'Calendarize-it';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	
+    margin-right: 5px;
+    color: #505050;
+    font-size: 13px;
+	position: relative;
+	top: 2px;
+}
+
+.rhcalendar.for-widget .rhc_calendar_widget_day_click span.rhc-icon-time.rhc_start_time.rhc_date:before {
+    content: "\e322";
+}
+.rhcalendar.for-widget .rhc_calendar_widget_day_click .rhc-widget-taxonomy a:before {
+	content: "\e39f";
+}
+
+.rhcalendar.for-widget .rhc_calendar_widget_day_click .rhc-event-time,
+.rhcalendar.for-widget .rhc_calendar_widget_day_click .rhc-widget-taxonomy {
+    display: block;
+    font-size: 11px;
+    font-weight: 400;
+	color:#505050;
+    width: 100%;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.rhcalendar.for-widget .rhc_calendar_widget_day_click .rhc-event-time span,
+.rhcalendar.for-widget .rhc_calendar_widget_day_click .rhc-widget-taxonomy a {
+	margin-left:0px;
+	display: block;
+}
+/*
+ * Event List Body
+ */
+.rhcalendar.for-widget .rhc_calendar_widget_day_click .rhc-widget-event-list-body {
+	display:none;
+	border-radius: 0 0 8px 8px;
+	-moz-border-radius: 0 0 8px 8px;
+	-webkit-border-radius: 0 0 8px 8px;
+	-ms-border-radius: 0 0 8px 8px;
+    font-size: 13px;
+    line-height: 140%;
+    border-radius: 0 0 8px 8px;
+    background-color: #fff;
+	position: relative;
+    border: 0;
+	border-top: 0;
+}
+.rhcalendar.for-widget .rhc_calendar_widget_day_click .rhc-widget-event-list-body {
+	border: 1px solid #ededed;
+	border-top:0;
+}
+.rhcalendar.for-widget .rhc-widget-event-list .rhc-custom-button {
+    padding: 8px;
+} 
+.rhcalendar.for-widget .rhc_calendar_widget_day_click .rhc-custom-button a {
+	color: #ffffff;
+	background-color: #3498db;
+	border: none;
+	font-size: 15px;
+	font-weight: normal;
+	line-height: 1.4;
+	padding: 10px 15px;
+	display:block;
+	text-align:center;
+	-webkit-font-smoothing: subpixel-antialiased;
+	-webkit-transition: .25s linear;
+	transition: .25s linear;
+	margin-bottom: 4px;
+	border-radius: 6px;
+}
+
+.rhcalendar.for-widget .rhc_calendar_widget_day_click .rhc-custom-button a:hover {
+	background-color: #5dade2;
+}
+
+.rhcalendar.for-widget .rhc_calendar_widget_day_click .rhc_description {
+    padding: 8px;
+    color: #505050;
+}
+
+.rhcalendar.for-widget .rhc_calendar_widget_day_click .rhc-map-social-buttons {
+    padding: 8px;
+	
+    position: relative;
+    height: 33px;
+}
+
+.rhcalendar.for-widget .rhc_calendar_widget_day_click .rhc-map-social-buttons .rhc-left-buttons {
+	display:inline-block;
+	width:30%;
+}
+.rhcalendar.for-widget .rhc_calendar_widget_day_click .rhc-map-social-buttons .rhc-right-buttons {
+	display:inline-block;
+	width:60%;
+	text-align:right;
+	position: absolute;
+	right: 8px;
+}
+
+a.rhc-icon-map,
+a.rhc-icon-ical,
+a.rhc-icon-facebook,
+a.rhc-icon-twitter,
+a.rhc-icon-linkedin,
+a.rhc-icon-googleplus {
+	font-family: 'Calendarize-it';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+a.rhc-icon-map:before {
+	content:"\e398";
+}
+a.rhc-icon-ical:before {
+	content:"\e606";
+}
+a.rhc-icon-facebook:before {
+	content:"\e605";
+}
+a.rhc-icon-twitter:before {
+	content:"\e608";
+}
+a.rhc-icon-linkedin:before {
+	content:"\e607";
+}
+a.rhc-icon-googleplus:before {
+	content:"\e604";
+}
+
+.rhcalendar.for-widget .rhc_calendar_widget_day_click a.rhc-icon-map:before,
+.rhcalendar.for-widget .rhc_calendar_widget_day_click a.rhc-icon-ical:before,
+.rhcalendar.for-widget .rhc_calendar_widget_day_click a.rhc-icon-facebook:before,
+.rhcalendar.for-widget .rhc_calendar_widget_day_click a.rhc-icon-twitter:before,
+.rhcalendar.for-widget .rhc_calendar_widget_day_click a.rhc-icon-linkedin:before,
+.rhcalendar.for-widget .rhc_calendar_widget_day_click a.rhc-icon-googleplus:before {
+	font-size:30px;
+	color:#bdc3c7;
+}
+
+/*
+ * Event List Image
+ */
+.rhcalendar.for-widget .rhc_calendar_widget_day_click .rhc_featured_image {
+    position:relative;
+	display:block;
+}
+
+.rhcalendar.for-widget .rhc_calendar_widget_day_click .rhc_featured_image a {
+    vertical-align: top;
+}
+
+.rhcalendar.for-widget .rhc_calendar_widget_day_click .rhc_featured_image img {
+	width: 100%;
+    
+	height: auto;
+    border-radius: 0 0 8px 8px;
+	margin-bottom: -6px;
+}
+
+/* 
+ * Event List Hover 
+ */
+.rhcalendar.for-widget .rhc_calendar_widget_day_click .rhc-widget-event-list .rhc-widget-event-list-head,
+.rhcalendar.for-widget .rhc_calendar_widget_day_click .rhc-widget-event-list .rhc-widget-event-list-body {
+	/*transition: max-height 1s linear;*/
+}
+.rhcalendar.for-widget .rhc_calendar_widget_day_click .rhc-widget-event-list .rhc-time-location-details {
+	/*transition: max-height .30s linear;*/
+	
+}
+.rhcalendar.for-widget .rhc_calendar_widget_day_click .rhc-widget-event-list .rhc-widget-event-list-head {
+    position: relative;
+}
+
+.rhcalendar.for-widget .rhc_calendar_widget_day_click .rhc-widget-event-list .rhc-time-location-details:before {
+	height:40px;
+	background-color:transparent;
+	display: block;
+}
+.rhcalendar.for-widget .rhc_calendar_widget_day_click .rhc-widget-event-list:hover .rhc-time-location-details:before {
+	animation:bkg-width 2s;
+	-webkit-animation:bkg-width 1s;
+	background-color:rgba(255,255,255,.9);
+}
+
+@-webkit-keyframes bkg-width {
+	from {width:0%;}
+	to {width:100%;}
+}
+
+@keyframes bkg-width {
+	from {width:0%;}
+	to {width:100%;}
+}
+
+.rhc-widget-event-list-head {
+	min-height:65px;
+}
+
+.rhc-widget-event-list .rhc-time-location {
+	max-height:0px;
+	opacity:0;
+	-webkit-transition: opacity .25s, max-height .5s ease;
+	transition: opacity .25s, max-height .5s ease;	
+}
+
+.rhc-widget-event-list .hover .rhc-time-location,
+.rhc-widget-event-list.open .rhc-time-location {
+	max-height:600px;
+	opacity:1;
+}
+
+
+.rhc-icon-map {
+	display:none;	
+}
+
+.rhc-map-view {
+
+}
+
+.rhc-widget-event-list .rhc-widget-event-list-body {
+	overflow:hidden;
+}
+
+.rhc-widget-event-list.open .rhc-widget-event-list-body {
+	max-height:800px;
+}
+
+@media screen and (max-width:768px) {
+	.rhcalendar.for-widget .rhc_calendar_widget_day_click .rhc-dayname.rhc_date.rhc_start {
+		font-size: 12px;
+	}
+
+}

@@ -1,0 +1,3341 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woffice\n"
+"POT-Creation-Date: 2015-06-27 16:09+0100\n"
+"PO-Revision-Date: 2016-01-31 16:54+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;_e;_n:1,2;__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:11
+msgid "404 Error. Not found..."
+msgstr "404 Hata. Bulunamadı"
+
+#: ../404.php:27 ../content-none.php:20
+msgid "Nothing Found"
+msgstr "Bulunamadı"
+
+#: ../404.php:33
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Üzgünüz, fakat arama sözcüklerinizle ilgili herhangi bir eşleşme bulunamadı. "
+"Lütfen başka sözcüklerle tekrar deneyin."
+
+#: ../404.php:37 ../content-none.php:30 ../content-private.php:30
+msgid "Back on the home page"
+msgstr "Ana sayfaya geri dön"
+
+#: ../archive.php:20
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr "Günlük Arşiv: <span>%s</span>"
+
+#: ../archive.php:22
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr "Aylık Arşiv: <span>%s</span>"
+
+#: ../archive.php:24
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr "Yıllık Arşiv: <span>%s</span>"
+
+#: ../archive.php:26
+msgid "Wiki Articles"
+msgstr "Wiki Makaleler"
+
+#: ../archive.php:28
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:22
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:24
+msgid "Projects"
+msgstr "Projeler"
+
+#: ../archive.php:30
+msgid "Archives"
+msgstr "Arşivler"
+
+#: ../buddypress.php:33 ../content-page.php:18 ../single-wiki.php:59
+#: ../page-templates/projects.php:116 ../page-templates/wiki.php:72
+msgid "Edit"
+msgstr "Düzenle"
+
+#: ../category.php:12
+#, php-format
+msgid "Category Archives: <span>%s</span>"
+msgstr "Kategori Arşivleri: <span>%s</span>"
+
+#: ../comments.php:24
+#, php-format
+msgid "<i class=\"fa fa-comment\"></i> One comment"
+msgid_plural "<i class=\"fa fa-comments\"></i> %1$s comments"
+msgstr[0] "<i class=“fa fa-comment”></i> %1$s yorum"
+
+#: ../comments.php:45
+msgid "Comment navigation"
+msgstr "Yorum yönlendirme"
+
+#: ../comments.php:46
+msgid "<i class=\"fa fa-chevron-left\"></i> Older Comments"
+msgstr "<i class=\"fa fa-chevron-left\"></i> Eski Yorumlar"
+
+#: ../comments.php:47
+msgid "Newer Comments <i class=\"fa fa-chevron-right\"></i>"
+msgstr "Yeni Yorumlar <i class=\"fa fa-chevron-right\"></i>"
+
+#: ../comments.php:52
+msgid "Comments are closed."
+msgstr "Yorumlar kapandı."
+
+#: ../comments.php:67
+msgid "Leave a Reply"
+msgstr "Bir Yorum Yap"
+
+#: ../comments.php:68
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "%s için bir yanıt bırakın"
+
+#: ../comments.php:69
+msgid "Cancel Reply"
+msgstr "Yanıtı İptal Et"
+
+#: ../comments.php:70 ../inc/hooks.php:569
+msgid "Post Comment"
+msgstr "Yorumu Gönder"
+
+#: ../content-none.php:26
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr "Özür dilerim, yapmış olduğunuz arama için hiçbir sonuç bulunamadı."
+
+#: ../content-private.php:20
+msgid "Private content here"
+msgstr "Burada Özel içerik"
+
+#: ../content-private.php:26
+msgid "Apologies, you do not have the right to access to this page."
+msgstr "Özür dileriz, bu sayfaya erişim hakkına sahip değilsiniz."
+
+#: ../content.php:52
+msgid "Read More"
+msgstr "Davamı…"
+
+#: ../header.php:89
+msgid "Hi"
+msgstr "Merhaba"
+
+#: ../index.php:18 ../inc/hooks.php:452
+msgid "News"
+msgstr "Haberler"
+
+#: ../search.php:10
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Arama Sonuçları: %s"
+
+#: ../single-project.php:14 ../single-wiki.php:14
+#: ../page-templates/projects.php:17 ../page-templates/wiki.php:17
+msgid "Please enter a title."
+msgstr "Lütfen başlık girin"
+
+#: ../single-project.php:59 ../single-wiki.php:56
+msgid "View"
+msgstr "Görüntüle"
+
+#: ../single-project.php:65 ../single-project.php:67
+msgid "Quick Edit"
+msgstr "Hızlı Düzenleme"
+
+#: ../single-project.php:74
+msgid "Todo"
+msgstr "Yapmak"
+
+#: ../single-project.php:81
+msgid "Files"
+msgstr "Dosyalar"
+
+#: ../single-project.php:86 ../single-wiki.php:63
+msgid "Comments"
+msgstr "Yorum"
+
+#: ../single-project.php:96 ../single-wiki.php:76
+msgid "Are you sure you wish to delete article :"
+msgstr "Silmek istediğinize emin misiniz?"
+
+#: ../single-project.php:97 ../single-wiki.php:77
+#: ../buddypress/members/single/messages/messages-loop.php:76
+#: ../buddypress/members/single/messages/single.php:28
+msgid "Delete"
+msgstr "Sil"
+
+#: ../single-project.php:162
+msgid "Project's Members"
+msgstr "Projenin Üyeleri"
+
+#: ../single-project.php:191
+msgid "Project's Links"
+msgstr "Projenin Linkler"
+
+#: ../single-project.php:233 ../single-wiki.php:109
+#: ../page-templates/wiki.php:140
+msgid "Article's Title:"
+msgstr "Makale Başlığı"
+
+#: ../single-project.php:239 ../single-wiki.php:115
+#: ../page-templates/projects.php:199 ../page-templates/wiki.php:146
+msgid "Please enter a title"
+msgstr "Lütfen başlık girin"
+
+#: ../single-project.php:244 ../single-wiki.php:120
+#: ../page-templates/wiki.php:174
+msgid "Article's Content:"
+msgstr "Haber İçeriği:"
+
+#: ../single-project.php:257
+msgid "Update Project"
+msgstr "Proje Türünü Güncelle"
+
+#: ../single-project.php:298 ../single-wiki.php:146
+msgid "Comments are closed..."
+msgstr "Yorumlar kapandı."
+
+#: ../single-wiki.php:68
+msgid "Revisions"
+msgstr "Düzeltmeler"
+
+#: ../single-wiki.php:133
+msgid "Update Article"
+msgstr "Güncelle"
+
+#: ../single-wiki.php:154
+msgid "This post was last modified by"
+msgstr "Son Düzenleme"
+
+#: ../single-wiki.php:155 ../single-wiki.php:172
+msgid " on"
+msgstr "Açık"
+
+#: ../single-wiki.php:167
+msgid "This article has not been revised since publication."
+msgstr "Bu makale yayınlanmasından bu yana revize edilmemiştir."
+
+#: ../single-wiki.php:171
+msgid "This post was created by"
+msgstr "Yazıyı oluşturan:"
+
+#: ../bbpress/form-topic.php:41
+#, php-format
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr "&ldquo;%s&rdquo; düzenleniyor"
+
+#: ../bbpress/form-topic.php:43
+#, php-format
+msgid "Create New Topic in &ldquo;%s&rdquo;"
+msgstr "&ldquo;%s&rdquo; içinde yeni konu aç"
+
+#: ../bbpress/form-topic.php:43
+msgid "Create New Topic"
+msgstr "Yeni Konu Oluştur"
+
+#: ../bbpress/form-topic.php:53
+msgid ""
+"This forum is marked as closed to new topics, however your posting "
+"capabilities still allow you to do so."
+msgstr ""
+"Bu forum yeni konu ve yanıtlara kapalıdır. Ancak paylaşım yetkileriniz buna "
+"müsaade etmektedir."
+
+#: ../bbpress/form-topic.php:61
+msgid "Your account has the ability to post unrestricted HTML content."
+msgstr "Hesabınız sınırsız HTML içerik gönderebilir."
+
+#: ../bbpress/form-topic.php:75
+#, php-format
+msgid "Topic Title (Maximum Length: %d):"
+msgstr "Konu Başlığı (Maksimum Uzunluk: %d):"
+
+#: ../bbpress/form-topic.php:90
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes:"
+msgstr ""
+"Bu <abbr title=“HyperText Markup Language”>HTML</abbr> etiket ve "
+"niteliklerini kullanabilirsiniz:"
+
+#: ../bbpress/form-topic.php:101
+msgid "Topic Tags:"
+msgstr "Konu Etiketleri:"
+
+#: ../bbpress/form-topic.php:114
+msgid "Forum:"
+msgstr "Forum:"
+
+#: ../bbpress/form-topic.php:117
+msgid "(No Forum)"
+msgstr "(Forum Yok)"
+
+#: ../bbpress/form-topic.php:133
+msgid "Topic Type:"
+msgstr "Konu Türü:"
+
+#: ../bbpress/form-topic.php:145
+msgid "Topic Status:"
+msgstr "Konu Durumu:"
+
+#: ../bbpress/form-topic.php:164
+msgid "Notify the author of follow-up replies via email"
+msgstr "Takip eden cevapları e-posta ile yazara bildir"
+
+#: ../bbpress/form-topic.php:168
+msgid "Notify me of follow-up replies via email"
+msgstr "Takip eden cevapları e-posta ile bana bildir"
+
+#: ../bbpress/form-topic.php:184
+msgid "Keep a log of this edit:"
+msgstr "Bu düzenlemenin bir kaydını tut:"
+
+#: ../bbpress/form-topic.php:188
+msgid "Optional reason for editing:"
+msgstr "Opsiyonel düzenleme nedeni:"
+
+#: ../bbpress/form-topic.php:203
+msgid "Submit"
+msgstr "Gönder"
+
+#: ../bbpress/form-topic.php:226
+#, php-format
+msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+msgstr "&#8216;%s&#8217; forumu yeni konu ve cevaplara kapatılmıştır."
+
+#: ../bbpress/form-topic.php:234
+msgid "You cannot create new topics."
+msgstr "Yeni konu oluşturamazsınız."
+
+#: ../bbpress/form-topic.php:234
+msgid "You must be logged in to create new topics."
+msgstr "Yeni konu açmak için giriş yapmalısınız."
+
+#: ../bbpress/loop-replies.php:18 ../bbpress/loop-replies.php:70
+msgid "Author"
+msgstr "Yazan:"
+
+#: ../bbpress/loop-replies.php:24 ../bbpress/loop-replies.php:76
+#: ../framework-customizations/theme/options/posts.php:7
+msgid "Posts"
+msgstr "Yazılar"
+
+#: ../bbpress/loop-replies.php:42 ../bbpress/loop-replies.php:80
+msgid "Replies"
+msgstr "Yanıtlar"
+
+#: ../bbpress/loop-single-reply.php:21
+msgid "in reply to: "
+msgstr "cevap olarak:"
+
+#: ../bbpress/loop-single-topic.php:60
+#, php-format
+msgid "Started by: %1$s"
+msgstr "Başlatan: %1$s"
+
+#: ../bbpress/loop-single-topic.php:68
+#, php-format
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr "Giriş: <a href=“%1$s”>%2$s</a>"
+
+#: ../bbpress/loop-topics.php:19
+msgid "Topic"
+msgstr "Konu"
+
+#: ../buddypress/activity/activity-loop.php:20
+msgid "Load More"
+msgstr "Daha Fazla Göster"
+
+#: ../buddypress/activity/activity-loop.php:34
+msgid "Sorry, there was no activity found. Please try a different filter."
+msgstr ""
+"Üzgünüz, her hangi bir aktivite bulunamadı. Lütfen farklı bir filtre "
+"kullanmayı deneyin."
+
+#: ../buddypress/activity/comment.php:27
+#, php-format
+msgid ""
+"<a href=\"%1$s\">%2$s</a> replied <a href=\"%3$s\" class=\"activity-time-"
+"since\"><span class=\"time-since\">%4$s</span></a>"
+msgstr ""
+"<a href=\\”%1$s\\”>%2$s</a> yanıtladı. <a href=\\”%3$s\\” class=\\”activity-"
+"time-since\\”><span class=\\”time-since\\”>%4$s</span></a>"
+
+#: ../buddypress/activity/entry.php:50
+msgid "View Conversation"
+msgstr "Yazışmaları Görüntüle"
+
+#: ../buddypress/activity/entry.php:113
+msgid "Cancel"
+msgstr "İptal"
+
+#: ../buddypress/activity/index.php:27
+#, php-format
+msgid "All Members <span>%s</span>"
+msgstr "Tüm Üyeler <span>%s</span>"
+
+#: ../buddypress/activity/index.php:37
+#, php-format
+msgid "My Friends <span>%s</span>"
+msgstr "Arkadaşlarım <span>%s</span>"
+
+#: ../buddypress/activity/index.php:49 ../buddypress/groups/index.php:26
+#, php-format
+msgid "My Groups <span>%s</span>"
+msgstr "Gruplarım <span>%s</span>"
+
+#: ../buddypress/activity/index.php:59
+#, php-format
+msgid "My Favorites <span>%s</span>"
+msgstr "Favorilerim <span>%s</span>"
+
+#: ../buddypress/activity/index.php:67
+msgid "Mentions"
+msgstr "Bahsedilenler"
+
+#: ../buddypress/activity/index.php:85
+#: ../buddypress/groups/single/activity.php:3
+msgid "RSS"
+msgstr "RSS"
+
+#: ../buddypress/activity/index.php:90
+#: ../buddypress/groups/single/activity.php:8
+#: ../buddypress/members/single/activity.php:18
+msgid "Show:"
+msgstr "Göster:"
+
+#: ../buddypress/activity/index.php:92
+#: ../buddypress/groups/single/activity.php:10
+#: ../buddypress/members/single/activity.php:20
+msgid "&mdash; Everything &mdash;"
+msgstr "&mdash; Hepsi &mdash;"
+
+#: ../buddypress/activity/post-form.php:23
+#, php-format
+msgid "What's new in %s, %s?"
+msgstr "%s , %s de yeni ne var?"
+
+#: ../buddypress/activity/post-form.php:25
+#, php-format
+msgid "What's new, %s?"
+msgstr "%s de yenilikler?"
+
+#: ../buddypress/activity/post-form.php:44
+msgid "Post in"
+msgstr "Burada paylaş"
+
+#: ../buddypress/activity/post-form.php:47
+#: ../buddypress/members/single/profile/profile-wp.php:8
+msgid "My Profile"
+msgstr "Profilim"
+
+#: ../buddypress/groups/create.php:34 ../buddypress/groups/single/admin.php:16
+msgid "Group Name (required)"
+msgstr "Grup Adı (gerekli)"
+
+#: ../buddypress/groups/create.php:39 ../buddypress/groups/single/admin.php:19
+msgid "Group Description (required)"
+msgstr "Grup Açıklaması (gerekli)"
+
+#: ../buddypress/groups/create.php:56 ../buddypress/groups/single/admin.php:56
+msgid "Privacy Options"
+msgstr "Gizlilik Seçenekleri"
+
+#: ../buddypress/groups/create.php:59 ../buddypress/groups/single/admin.php:61
+msgid "This is a public group"
+msgstr "Bu herkese açık bir grup"
+
+#: ../buddypress/groups/create.php:61 ../buddypress/groups/single/admin.php:63
+msgid "Any site member can join this group."
+msgstr "Herhangi bir site üyesi bu gruba katılabilir."
+
+#: ../buddypress/groups/create.php:62 ../buddypress/groups/create.php:73
+#: ../buddypress/groups/single/admin.php:64
+#: ../buddypress/groups/single/admin.php:74
+msgid ""
+"This group will be listed in the groups directory and in search results."
+msgstr "Bu grup, grup dizinlerinde ve arama sonuçlarında listelenecektir."
+
+#: ../buddypress/groups/create.php:63 ../buddypress/groups/single/admin.php:65
+msgid "Group content and activity will be visible to any site member."
+msgstr "Grup içerikleri ve aktiviteleri herkese açıktır."
+
+#: ../buddypress/groups/create.php:69 ../buddypress/groups/single/admin.php:71
+msgid "This is a private group"
+msgstr "Bu özel bir gruptur"
+
+#: ../buddypress/groups/create.php:72 ../buddypress/groups/single/admin.php:73
+msgid "Only users who request membership and are accepted can join the group."
+msgstr ""
+"Bu gruba katılmak için üyelik isteği göndermeniz ve onaylanmanız gerekiyor."
+
+#: ../buddypress/groups/create.php:74 ../buddypress/groups/create.php:85
+#: ../buddypress/groups/single/admin.php:75
+#: ../buddypress/groups/single/admin.php:85
+msgid ""
+"Group content and activity will only be visible to members of the group."
+msgstr "Grup içerik ve aktiviteleri sadece grup üyelerine açıktır."
+
+#: ../buddypress/groups/create.php:80 ../buddypress/groups/single/admin.php:81
+msgid "This is a hidden group"
+msgstr "Bu gizli bir gruptur"
+
+#: ../buddypress/groups/create.php:83 ../buddypress/groups/single/admin.php:83
+msgid "Only users who are invited can join the group."
+msgstr "Sadece davet edilen kullanıcılar gruba üye olabilir."
+
+#: ../buddypress/groups/create.php:84 ../buddypress/groups/single/admin.php:84
+msgid ""
+"This group will not be listed in the groups directory or search results."
+msgstr "Bu grup, grup dizinlerinde ve arama sonuçlarında listelenmeyecektir."
+
+#: ../buddypress/groups/create.php:90 ../buddypress/groups/single/admin.php:92
+msgid "Group Invitations"
+msgstr "Grup Davetiyeleri"
+
+#: ../buddypress/groups/create.php:92 ../buddypress/groups/single/admin.php:94
+msgid "Which members of this group are allowed to invite others?"
+msgstr "Hangi üye bu gruba başka kişileri davet edebilir ?"
+
+#: ../buddypress/groups/create.php:97 ../buddypress/groups/single/admin.php:99
+msgid "All group members"
+msgstr "Tüm grup üyeleri"
+
+#: ../buddypress/groups/create.php:102
+#: ../buddypress/groups/single/admin.php:104
+msgid "Group admins and mods only"
+msgstr "Sadece grup yöneticileri ve moderatörler"
+
+#: ../buddypress/groups/create.php:107
+#: ../buddypress/groups/single/admin.php:109
+msgid "Group admins only"
+msgstr "Sadece grup yöneticileri"
+
+#: ../buddypress/groups/create.php:113
+msgid "Group Forums"
+msgstr "Grup Forumları"
+
+#: ../buddypress/groups/create.php:117
+msgid "Should this group have a forum?"
+msgstr "Bu grubun bir forumu olmalı mı?"
+
+#: ../buddypress/groups/create.php:120
+#: ../buddypress/groups/single/admin.php:47
+msgid "Enable discussion forum"
+msgstr "Tartışma forumunu etkinleştirin"
+
+#: ../buddypress/groups/create.php:124
+#, php-format
+msgid ""
+"<strong>Attention Site Admin:</strong> Group forums require the <a href=\"%s"
+"\">correct setup and configuration</a> of a bbPress installation."
+msgstr ""
+"<strong>Site Yöneticisi Dikkat:</strong> Grup forumları <a href=“%s”>doğru "
+"kurulmuş ve yapılandırılmış</a> bir bbPress yüklemesi gerektirir."
+
+#: ../buddypress/groups/create.php:150
+#: ../buddypress/groups/single/admin.php:127
+msgid ""
+"Upload an image to use as a profile photo for this group. The image will be "
+"shown on the main group page, and in search results."
+msgstr ""
+"Bu grupta profil resmi olarak kullanılmak üzere bir resim yükleyin. Bu resim "
+"grup ana sayfasında ve arama sonuçlarında gösterilecektir."
+
+#: ../buddypress/groups/create.php:158
+msgid ""
+"To skip the group profile photo upload process, hit the \"Next Step\" button."
+msgstr ""
+"Grup profili fotoğraf yükleme işlemini atlamak için, “Sonraki Adım” "
+"düğmesine basın."
+
+#: ../buddypress/groups/create.php:165
+msgid "Crop Group Profile Photo"
+msgstr "Grup Fotoğrafını Kırp"
+
+#: ../buddypress/groups/create.php:212
+msgid "Select people to invite from your friends list."
+msgstr "Davet etmek için arkadaşlarınızı seçin"
+
+#: ../buddypress/groups/create.php:230
+#: ../buddypress/groups/single/invites-loop.php:52
+msgid "Remove Invite"
+msgstr "Daveti Kaldır"
+
+#: ../buddypress/groups/create.php:247
+msgid ""
+"Once you have built up friend connections you will be able to invite others "
+"to your group."
+msgstr "Eğer arkadaşlık kurarsanız arkadaşınız size grup davetleri atabilir."
+
+#: ../buddypress/groups/groups-loop.php:47
+#: ../buddypress/groups/single/group-header.php:42
+#, php-format
+msgid "active %s"
+msgstr "aktif %s"
+
+#: ../buddypress/groups/groups-loop.php:95
+msgid "There were no groups found."
+msgstr "Grup bulunamadı."
+
+#: ../buddypress/groups/index.php:23
+#, php-format
+msgid "All Groups <span>%s</span>"
+msgstr "Tüm Gruplar <span>% s</span>"
+
+#: ../buddypress/groups/single/admin.php:26
+msgid "Notify group members of these changes via email"
+msgstr "Değişiklikleri e-posta ile grup üyelerine bildir."
+
+#: ../buddypress/groups/single/admin.php:137
+msgid ""
+"If you'd like to remove the existing group profile photo but not upload a "
+"new one, please use the delete group profile photo button."
+msgstr ""
+"Eğer mevcut profil resminizi kaldırmak istiyorsanız, ‘Profil Resmini Sil’ "
+"butonuna basınız."
+
+#: ../buddypress/groups/single/admin.php:139
+msgid "Delete Group Profile Photo"
+msgstr "Grup Profil Resmini Sil"
+
+#: ../buddypress/groups/single/admin.php:149
+msgid "Crop Profile Photo"
+msgstr "Profil Resmini Kırp"
+
+#: ../buddypress/groups/single/admin.php:177
+msgid "Administrators"
+msgstr "Yöneticiler"
+
+#: ../buddypress/groups/single/admin.php:185
+#: ../buddypress/groups/single/admin.php:212
+#, php-format
+msgid "Profile picture of %s"
+msgstr "%s profil fotoğrafı"
+
+#: ../buddypress/groups/single/admin.php:190
+#: ../buddypress/groups/single/admin.php:217
+msgid "Demote to Member"
+msgstr "Üye yetkilerini düşür"
+
+#: ../buddypress/groups/single/admin.php:205
+msgid "Moderators"
+msgstr "Moderatörler"
+
+#: ../buddypress/groups/single/admin.php:216
+#: ../buddypress/groups/single/admin.php:272
+msgid "Promote to Admin"
+msgstr "Üye rütbesini Admin olarak yükselt"
+
+#: ../buddypress/groups/single/admin.php:231
+msgid "Members"
+msgstr "Üyeler"
+
+#: ../buddypress/groups/single/admin.php:260
+msgid "(banned)"
+msgstr "Kullanıcıyı engelle"
+
+#: ../buddypress/groups/single/admin.php:266
+msgid "Remove Ban"
+msgstr "Engellemeyi Kaldır"
+
+#: ../buddypress/groups/single/admin.php:270
+msgid "Kick &amp; Ban"
+msgstr "Çıkart &amp; Banla"
+
+#: ../buddypress/groups/single/admin.php:271
+msgid "Promote to Mod"
+msgstr "Üye rütbesini Moderatör olarak yükselt"
+
+#: ../buddypress/groups/single/admin.php:276
+msgid "Remove from group"
+msgstr "Grubtan çıkart"
+
+#: ../buddypress/groups/single/admin.php:290
+msgid "This group has no members."
+msgstr "Bu grubun hiç üyesi yok."
+
+#: ../buddypress/groups/single/admin.php:324
+msgid ""
+"WARNING: Deleting this group will completely remove ALL content associated "
+"with it. There is no way back, please be careful with this option."
+msgstr ""
+"UYARI: Bu grubun silinmesi, onunla ilişkili TÜM içeriği kaldıracak. Hiçbir "
+"şekilde geri dönüşü yoktur, bu seçenek ile dikkatli olun."
+
+#: ../buddypress/groups/single/admin.php:327
+msgid "I understand the consequences of deleting this group."
+msgstr "Grubu silmenin sonuçlarını anldım."
+
+#: ../buddypress/groups/single/forum.php:19
+msgid "New Topic"
+msgstr "Yeni Konu"
+
+#: ../buddypress/groups/single/forum.php:27
+#: ../buddypress/groups/single/forum/edit.php:16
+#: ../buddypress/groups/single/forum/topic.php:17
+msgid "Forum Directory"
+msgstr "Forum Dizini"
+
+#: ../buddypress/groups/single/forum.php:36
+#: ../buddypress/members/single/blogs.php:19
+#: ../buddypress/members/single/forums.php:18
+#: ../buddypress/members/single/friends.php:20
+#: ../buddypress/members/single/groups.php:20
+msgid "Order By:"
+msgstr "Sıralama Kriteri:"
+
+#: ../buddypress/groups/single/forum.php:38
+#: ../buddypress/members/single/blogs.php:21
+#: ../buddypress/members/single/forums.php:20
+#: ../buddypress/members/single/friends.php:22
+#: ../buddypress/members/single/groups.php:22
+msgid "Last Active"
+msgstr "En Son Aktif Olduğu Zaman"
+
+#: ../buddypress/groups/single/forum.php:39
+#: ../buddypress/members/single/forums.php:21
+msgid "Most Posts"
+msgstr "Çoğu Mesajlar"
+
+#: ../buddypress/groups/single/forum.php:40
+#: ../buddypress/members/single/forums.php:22
+msgid "Unreplied"
+msgstr "Cevaplanmamış"
+
+#: ../buddypress/groups/single/forum.php:69
+msgid "You will auto join this group when you start a new topic."
+msgstr "Yeni bir konu açtığınızda bu gruba otomatik olarak ekleneceksiniz."
+
+#: ../buddypress/groups/single/forum.php:73
+msgid "Post a New Topic:"
+msgstr "Yeni Bir Konu Gönderin:"
+
+#: ../buddypress/groups/single/forum.php:75
+#: ../buddypress/groups/single/forum/edit.php:47
+msgid "Title:"
+msgstr "Başlık:"
+
+#: ../buddypress/groups/single/forum.php:78
+#: ../buddypress/groups/single/forum/edit.php:50
+msgid "Content:"
+msgstr "İçerik:"
+
+#: ../buddypress/groups/single/forum.php:81
+#: ../buddypress/groups/single/forum/edit.php:53
+msgid "Tags (comma separated):"
+msgstr "Etiketler (virgül ile ayır):"
+
+#: ../buddypress/groups/single/group-header.php:11
+msgid "Group Admins"
+msgstr "Grup Yöneticileri"
+
+#: ../buddypress/groups/single/group-header.php:20
+msgid "Group Mods"
+msgstr "Grup Moderatörleri"
+
+#: ../buddypress/groups/single/invites-loop.php:81
+msgid "Select friends to invite."
+msgstr "Davet etmek için arkadaşlarınızı seçin"
+
+#: ../buddypress/groups/single/members.php:79
+msgid "No members were found."
+msgstr "Hiçbir üye bulunamadı."
+
+#: ../buddypress/groups/single/request-membership.php:4
+#, php-format
+msgid "You are requesting to become a member of the group '%s'."
+msgstr "‘%s’ grubunun üyesi olmak için istek gönderiyorsunuz."
+
+#: ../buddypress/groups/single/request-membership.php:7
+msgid "Comments (optional)"
+msgstr "Yorumlar (isteğe bağlı)"
+
+#: ../buddypress/groups/single/requests-loop.php:31
+#: ../buddypress/members/single/friends/requests.php:37
+#: ../buddypress/members/single/groups/invites.php:23
+msgid "Accept"
+msgstr "Kabul et"
+
+#: ../buddypress/groups/single/requests-loop.php:33
+#: ../buddypress/members/single/friends/requests.php:38
+#: ../buddypress/members/single/groups/invites.php:24
+msgid "Reject"
+msgstr "Reddet"
+
+#: ../buddypress/groups/single/requests-loop.php:62
+msgid "There are no pending membership requests."
+msgstr "Bekleyen grup üyeliği isteği yok."
+
+#: ../buddypress/groups/single/send-invites.php:24
+msgid "Group invitations can only be extended to friends."
+msgstr "Grup davetiyeleri sadece arkadaşlarınıza gönderilebilir."
+
+#: ../buddypress/groups/single/send-invites.php:25
+msgid ""
+"Once you've made some friendships, you'll be able to invite those members to "
+"this group."
+msgstr ""
+"Bazı arkadaşlıklar kurduktan sonra, bu gruba bu üyeleri davet etmek mümkün "
+"olacak."
+
+#: ../buddypress/groups/single/send-invites.php:33
+msgid "All of your friends already belong to this group."
+msgstr "Tüm arkadaşlarınız zaten bu gruba üye."
+
+#: ../buddypress/groups/single/forum/edit.php:10
+msgid "Reply"
+msgstr "Yanıtla"
+
+#: ../buddypress/groups/single/forum/edit.php:25
+msgid "Edit:"
+msgstr "Düzenle:"
+
+#: ../buddypress/groups/single/forum/edit.php:87
+msgid "This topic does not exist."
+msgstr "Bu konu mevcut değil."
+
+#: ../buddypress/groups/single/forum/topic.php:9
+msgid "New Reply"
+msgstr "Yeni Yanıt"
+
+#: ../buddypress/groups/single/forum/topic.php:32
+msgid "Topic tags:"
+msgstr "Konu Etiketleri:"
+
+#: ../buddypress/groups/single/forum/topic.php:81
+#, php-format
+msgid "%1$s said %2$s:"
+msgstr "%1$s: %2$s"
+
+#: ../buddypress/groups/single/forum/topic.php:119
+msgid "There are no posts for this topic."
+msgstr "Bu konu için herhangi bir mesaj yok."
+
+#: ../buddypress/groups/single/forum/topic.php:134
+msgid "You will auto join this group when you reply to this topic."
+msgstr "Eğer cevap yazarsanız otomatik olarak gruba katılacaksınız."
+
+#: ../buddypress/groups/single/forum/topic.php:139
+msgid "Add a reply:"
+msgstr "Yanıt ekle:"
+
+#: ../buddypress/groups/single/forum/topic.php:155
+msgid "This topic is closed, replies are no longer accepted."
+msgstr "Bu konu kapatılmıştır, artık cevaplar kabul edilmemektedir."
+
+#: ../buddypress/members/activate.php:14
+msgid ""
+"Your account was activated successfully! Your account details have been sent "
+"to you in a separate email."
+msgstr ""
+"Hesabınız başarıyla aktifleştirildi! Hesabınız onaylandığında bilgilendirme "
+"e-posta’sı gönderilecektir."
+
+#: ../buddypress/members/activate.php:16
+#, php-format
+msgid ""
+"Your account was activated successfully! You can now <a href=\"%s\">log in</"
+"a> with the username and password you provided when you signed up."
+msgstr ""
+"Hesabın başarıyla aktifleştirildi! Şimdi kayıt olurken oluşturduğun "
+"kullanıcı adın ve şifren ile <a href=\"%s\">giriş</a> yapabilirsin."
+
+#: ../buddypress/members/activate.php:21
+msgid "Please provide a valid activation key."
+msgstr "Lütfen geçerli bir aktivasyon kodu girin."
+
+#: ../buddypress/members/activate.php:25
+msgid "Activation Key:"
+msgstr "Aktivasyon Kodu:"
+
+#: ../buddypress/members/members-loop.php:148
+msgid "Sorry, no members were found."
+msgstr "Maalesef, hiçbir üye bulunamadı."
+
+#: ../buddypress/members/single/blogs.php:22
+msgid "Newest"
+msgstr "En Yeni"
+
+#: ../buddypress/members/single/blogs.php:23
+#: ../buddypress/members/single/friends.php:24
+#: ../buddypress/members/single/groups.php:25
+msgid "Alphabetical"
+msgstr "Alfabetik"
+
+#: ../buddypress/members/single/friends.php:23
+msgid "Newest Registered"
+msgstr "En Yeni Kayıt Olanlar"
+
+#: ../buddypress/members/single/groups.php:23
+msgid "Most Members"
+msgstr "Çoğu Üyeler"
+
+#: ../buddypress/members/single/groups.php:24
+msgid "Newly Created"
+msgstr "Yeni Oluşturulan"
+
+#: ../buddypress/members/single/friends/requests.php:68
+msgid "You have no pending friendship requests."
+msgstr "Bekleyen arkadaşlık isteği yok."
+
+#: ../buddypress/members/single/groups/invites.php:37
+msgid "You have no outstanding group invites."
+msgstr "Bekleyen grup daveti yok."
+
+#: ../buddypress/members/single/messages/messages-loop.php:27
+#: ../buddypress/members/single/notifications/notifications-loop.php:6
+msgid "Select all"
+msgstr "Tümünü Seç"
+
+#: ../buddypress/members/single/messages/messages-loop.php:28
+msgid "From"
+msgstr "Gönderen"
+
+#: ../buddypress/members/single/messages/messages-loop.php:29
+msgid "Subject"
+msgstr "Konu"
+
+#: ../buddypress/members/single/messages/messages-loop.php:30
+#: ../buddypress/members/single/notifications/notifications-loop.php:9
+#: ../inc/multiverso.php:103
+msgid "Actions"
+msgstr "İşlemler"
+
+#: ../buddypress/members/single/messages/messages-loop.php:46
+msgid "From:"
+msgstr "Gönderen:"
+
+#: ../buddypress/members/single/messages/messages-loop.php:53
+msgid "To:"
+msgstr "Kime:"
+
+#: ../buddypress/members/single/messages/messages-loop.php:68
+msgid "Read"
+msgstr "Okundu"
+
+#: ../buddypress/members/single/messages/messages-loop.php:72
+msgid "Unread"
+msgstr "Okunmadı"
+
+#: ../buddypress/members/single/messages/messages-loop.php:102
+msgid "Sorry, no messages were found."
+msgstr "Maalesef, hiçbir mesaj bulunamadı."
+
+#: ../buddypress/members/single/messages/notices-loop.php:36
+msgid "Sent:"
+msgstr "Gönderildi:"
+
+#: ../buddypress/members/single/messages/notices-loop.php:54
+msgid "Sorry, no notices were found."
+msgstr "Maalesef, hiçbir bildirim bulunamadı."
+
+#: ../buddypress/members/single/messages/single.php:14
+msgid "You are alone in this conversation."
+msgstr "Bu konuşmada yalnızsınız."
+
+#: ../buddypress/members/single/messages/single.php:18
+#, php-format
+msgid "Conversation between %s recipients."
+msgstr "%s ile aranızdaki konuşma."
+
+#: ../buddypress/members/single/messages/single.php:22
+#, php-format
+msgid "Conversation between %s and you."
+msgstr "%s ile aranızdaki konuşma."
+
+#: ../buddypress/members/single/messages/single.php:90
+msgid "Send a Reply"
+msgstr "Cevap yazın"
+
+#: ../buddypress/members/single/notifications/feedback-no-notifications.php:7
+msgid "You have no unread notifications."
+msgstr "Görülmemiş bildiriminiz yok."
+
+#: ../buddypress/members/single/notifications/feedback-no-notifications.php:11
+msgid "This member has no unread notifications."
+msgstr "Bu üyenin görülmemiş bildirimi yok."
+
+#: ../buddypress/members/single/notifications/feedback-no-notifications.php:19
+msgid "You have no notifications."
+msgstr "Hiç bildiriminiz yok."
+
+#: ../buddypress/members/single/notifications/feedback-no-notifications.php:23
+msgid "This member has no notifications."
+msgstr "Bu üyenin herhangi bir bildirimi yok."
+
+#: ../buddypress/members/single/notifications/notifications-loop.php:7
+msgid "Notification"
+msgstr "Bildirim"
+
+#: ../buddypress/members/single/notifications/notifications-loop.php:8
+msgid "Date Received"
+msgstr "Alındığı Tarih"
+
+#: ../buddypress/members/single/profile/change-avatar.php:1
+msgid "Change Profile Photo"
+msgstr "Profil Resmini Değiştir"
+
+#: ../buddypress/members/single/profile/change-avatar.php:7
+msgid ""
+"Your profile photo will be used on your profile and throughout the site. If "
+"there is a <a href=\"http://gravatar.com\">Gravatar</a> associated with your "
+"account email we will use that, or you can upload an image from your "
+"computer."
+msgstr ""
+"Profil fotoğrafınız profilinizde ve site çapında kullanılacaktır. Bir varsa "
+"<a href=“http://gravatar.com”>Gravatar</a> hesabınız e-posta ile ilişkili "
+"biz kullanacağız, ya da bilgisayarınızdan bir resim yükleyebilirsiniz."
+
+#: ../buddypress/members/single/profile/change-avatar.php:14
+msgid ""
+"Click below to select a JPG, GIF or PNG format photo from your computer and "
+"then click 'Upload Image' to proceed."
+msgstr ""
+"Bilgisayarınızdan bir JPG, GIF ya da PNG formatında fotoğraf seçip devam "
+"etmek için ‘Yükle’ düğmesine tıklayınız."
+
+#: ../buddypress/members/single/profile/change-avatar.php:23
+msgid ""
+"If you'd like to delete your current profile photo but not upload a new one, "
+"please use the delete profile photo button."
+msgstr ""
+"Eğer mevcut profil fotoğrafınızı kaldırmak, ancak yenisini yüklemek "
+"istemiyorsanız, lütfen profil fotoğrafı silme düğmesini kullanın."
+
+#: ../buddypress/members/single/profile/change-avatar.php:24
+msgid "Delete My Profile Photo"
+msgstr "Profil Resmimi Sil"
+
+#: ../buddypress/members/single/profile/change-avatar.php:31
+msgid "Crop Your New Profile Photo"
+msgstr "Yeni Profil Resmini kırpın"
+
+#: ../buddypress/members/single/profile/change-avatar.php:55
+msgid ""
+"Your profile photo will be used on your profile and throughout the site. To "
+"change your profile photo, please create an account with <a href=\"http://"
+"gravatar.com\">Gravatar</a> using the same email address as you used to "
+"register with this site."
+msgstr ""
+"Profil resminiz profil sayfanızda ve site genelinde kullanılır. Profil "
+"resminizi değiştirmek için <a href=\\”http://gravatar.com\\”>Gravatar</a> "
+"sitesine sitemizde kullandığınız e-posta adresiniz ile kayıt olmanız gerekir."
+
+#: ../buddypress/members/single/profile/profile-wp.php:8
+#, php-format
+msgid "%s's Profile"
+msgstr "%s Profili"
+
+#: ../buddypress/members/single/profile/profile-wp.php:15
+#: ../framework-customizations/theme/options/posts/project.php:60
+msgid "Name"
+msgstr "İsim"
+
+#: ../buddypress/members/single/profile/profile-wp.php:24
+msgid "About Me"
+msgstr "Hakkımda"
+
+#: ../buddypress/members/single/profile/profile-wp.php:33
+msgid "Website"
+msgstr "Websitesi"
+
+#: ../buddypress/members/single/profile/profile-wp.php:42
+msgid "Jabber"
+msgstr "Jabber"
+
+#: ../buddypress/members/single/profile/profile-wp.php:51
+msgid "AOL Messenger"
+msgstr "AOL Messenger"
+
+#: ../buddypress/members/single/profile/profile-wp.php:60
+msgid "Yahoo Messenger"
+msgstr "Yahoo Messenger"
+
+#: ../buddypress/members/single/settings/capabilities.php:9
+msgid "This user is a spammer."
+msgstr "Bu kullanıcı spamcıdır."
+
+#: ../buddypress/members/single/settings/delete-account.php:7
+msgid ""
+"Deleting your account will delete all of the content you have created. It "
+"will be completely irrecoverable."
+msgstr ""
+"Hesabınızı sildiğinizde, tüm kullanıcı verileri de silinir ve geri "
+"alamazsınız!"
+
+#: ../buddypress/members/single/settings/delete-account.php:11
+msgid ""
+"Deleting this account will delete all of the content it has created. It will "
+"be completely irrecoverable."
+msgstr ""
+"Bu hesabı sildiğinizde, tüm kullanıcı verileri de silinir ve geri "
+"alamazsınız!"
+
+#: ../buddypress/members/single/settings/delete-account.php:23
+msgid "I understand the consequences."
+msgstr "Sonuçlarını anladım."
+
+#: ../buddypress/members/single/settings/general.php:7
+msgid ""
+"Current Password <span>(required to update email or change current password)"
+"</span>"
+msgstr ""
+"Mevcut Şifreniz <span>(Email adresinizi ve mevcut şifrenizi değiştirmeniz "
+"için gereklidir)</span>"
+
+#: ../buddypress/members/single/settings/general.php:8
+msgid "Lost your password?"
+msgstr "Şifrenizi mi unuttunuz?"
+
+#: ../buddypress/members/single/settings/general.php:12
+msgid "Account Email"
+msgstr "Hesap Email"
+
+#: ../buddypress/members/single/settings/general.php:15
+msgid "Change Password <span>(leave blank for no change)</span>"
+msgstr "Şifreyi Değiştir <span>(lboş bırakırsanız bir şey değişmez)</span>"
+
+#: ../buddypress/members/single/settings/general.php:16
+msgid "New Password"
+msgstr "Yeni Şifre"
+
+#: ../buddypress/members/single/settings/general.php:18
+msgid "Repeat New Password"
+msgstr "Şifreyi Doğrulayın"
+
+#: ../buddypress/members/single/settings/notifications.php:4
+msgid "Send an email notice when:"
+msgstr "E-posta bildirimi gönder:"
+
+#: ../buddypress/members/single/settings/profile.php:15
+msgid "Visibility"
+msgstr "Görünürlük"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/alert/config.php:5
+msgid "Alert Box"
+msgstr "Uyarı kutusu"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/alert/config.php:6
+msgid "This is a box that you can customize with an icon and a background"
+msgstr "Bu bir simge ve bir arka plan ile özelleştirebilinen bir kutudur"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/alert/config.php:7
+#: ../framework-customizations/extensions/shortcodes/shortcodes/bigbluebutton/config.php:10
+#: ../framework-customizations/extensions/shortcodes/shortcodes/contactform7/config.php:10
+#: ../framework-customizations/extensions/shortcodes/shortcodes/eventon/config.php:10
+#: ../framework-customizations/extensions/shortcodes/shortcodes/eventon_form/config.php:10
+#: ../framework-customizations/extensions/shortcodes/shortcodes/full/config.php:7
+#: ../framework-customizations/extensions/shortcodes/shortcodes/list/config.php:10
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/config.php:10
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/config.php:8
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_headlines/config.php:8
+msgid "Content Elements"
+msgstr "İçerik Öğeleri"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/alert/options.php:5
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_headlines/config.php:6
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_headlines/options.php:8
+#: ../framework-customizations/extensions/woffice-funfacts/includes/class-fw-widget-woffice-funfacts.php:49
+#: ../framework-customizations/extensions/woffice-poll/includes/class-fw-widget-woffice-poll.php:51
+#: ../framework-customizations/extensions/woffice-projects/includes/class-fw-widget-woffice-projects.php:45
+#: ../framework-customizations/extensions/woffice-wiki/includes/class-fw-widget-woffice-wiki.php:46
+#: ../inc/multiverso.php:100 ../inc/multiverso.php:167
+#: ../inc/multiverso.php:253 ../inc/widgets/cf7/class-widget-cf7.php:38
+#: ../inc/widgets/eventon/class-widget-eventon.php:39
+#: ../inc/widgets/visualizer/class-widget-visualizer.php:38
+#: ../inc/widgets/wisechat/class-widget-wisechat.php:38
+#: ../inc/widgets/wpml/class-widget-wpml.php:38
+msgid "Title"
+msgstr "Başlık"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/alert/options.php:6
+msgid "This is the title of the box."
+msgstr "Kutunun başlığıdır."
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/alert/options.php:10
+#: ../framework-customizations/extensions/shortcodes/shortcodes/full/options.php:5
+#: ../framework-customizations/extensions/woffice-funfacts/settings-options.php:29
+#: ../framework-customizations/theme/options/widgets.php:32
+msgid "Content"
+msgstr "İçerik"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/alert/options.php:14
+msgid "This is the content of the box."
+msgstr "Kutunun içeriğidir."
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/alert/options.php:17
+#: ../framework-customizations/extensions/woffice-funfacts/settings-options.php:33
+#: ../framework-customizations/theme/options/widgets.php:36
+#: ../framework-customizations/theme/options/posts/project.php:62
+msgid "Icon"
+msgstr "İkon"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/alert/options.php:19
+msgid "The icon will be displayed in the background with a small opacity"
+msgstr "İkon arkaplan saydamlığı az olan bir alanda gösterilecektir."
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/alert/options.php:23
+#: ../framework-customizations/theme/options/header.php:62
+#: ../framework-customizations/theme/options/login.php:42
+#: ../framework-customizations/theme/options/menu.php:17
+msgid "Background color"
+msgstr "Arkaplan Rengi"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/alert/options.php:25
+msgid ""
+"The background of the box, remember that the white color should come out."
+msgstr "Kutunun arka planına beyaz renk geldiğini unutmayın."
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/bigbluebutton/config.php:8
+msgid "BigBlueutton Meetings"
+msgstr "BigBlueutton toplantıları"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/bigbluebutton/config.php:9
+msgid "Dropdown list to show all the meetings from your BigBluebutton account."
+msgstr ""
+"Aşağı açılan liste BigBluebutton hesabınızdan tüm toplantılarınızı gösterin."
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/bigbluebutton/views/view.php:11
+msgid "Sorry, you need to install this plugin first"
+msgstr "Üzgünüm, öncelikle bu eklentiyi yüklemeniz gerekir"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/column/options.php:5
+msgid "Extra Class to the column"
+msgstr "Sütun için ekstra class"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/column/options.php:6
+msgid "Such as: center to align in the middle the content inside."
+msgstr "Örneğin: Ortala veya içeriğe ortala gibi"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/contactform7/config.php:8
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/contactform7/config.php:9
+msgid "Add a contact form7"
+msgstr "Contact Form 7 Ekle"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/contactform7/options.php:14
+msgid "Choose a form :"
+msgstr "Bir form seçin:"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/contactform7/options.php:15
+msgid "You need to have installed before the Plugin Contact Form 7."
+msgstr "Öncelikle Contact Form 7 eklentisini yüklemeniz gerekir"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/contactform7/views/view.php:10
+msgid "Please select a form in the shortcode option."
+msgstr "Lütfen kısa kodlardan formu seçin."
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/eventon/config.php:8
+msgid "EventOn Calendar"
+msgstr "EventOn takvimi"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/eventon/config.php:9
+msgid "Add a full month calendar from EventON events"
+msgstr "EventON olaylardan tam ay takvim Ekle"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/eventon/options.php:7
+msgid "Unique ID :"
+msgstr "Benzersiz ID:"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/eventon/options.php:8
+msgid "Any number you like, just to difference them (example: 9999999)"
+msgstr "İstediğiniz herhangi bir sayısadece farklı olsun (mesela:999999)"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/eventon/views/view.php:10
+msgid "Please select an unique ID in the shortcode option."
+msgstr "Lütfen kısa kod seçeneğinden benzersiz bir ID seçin."
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/eventon_form/config.php:8
+msgid "EventOn Calendar Form"
+msgstr "EventOn takvimi formu"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/eventon_form/config.php:9
+msgid "Add a form so user can create event"
+msgstr "Form Ekle bu şekilde kullanıcı etkinlik oluşturabilir"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/full/config.php:5
+msgid "Full Width Text"
+msgstr "Tam genişlikli metin"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/full/config.php:6
+msgid ""
+"Full width container, it is not in the white container and will use light "
+"colors as in the sidebar."
+msgstr ""
+"Tam genişlikli yazı alanı, beyaz yazı alanı değil ve kenar çubuğundaki gibi "
+"renkleri kullanır."
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/full/options.php:9
+msgid "This is the content of the container."
+msgstr "Yazı alanı içeriği"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/list/config.php:8
+msgid "List"
+msgstr "Liste"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/list/config.php:9
+msgid "Add a list with some icons"
+msgstr "Bazı simgeler içeren bir liste ekle"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/list/options.php:9
+msgid "List style"
+msgstr "Listeleme Stili"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/list/options.php:10
+msgid "This is the icon at the beginning."
+msgstr "Başlangıçtaki ikon"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/list/options.php:21
+msgid "List Items"
+msgstr "Liste öğeleri"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/config.php:8
+msgid "FileManager"
+msgstr "Dosya Yöneticisi"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/config.php:9
+msgid "Add a Multiverso file manager/file/all files/category..."
+msgstr "Bir Multiverso dosya yöneticisi/dosya/tüm dosyaları/Kategori Ekle…"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/options.php:20
+msgid "Content :"
+msgstr "İçerik:"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/options.php:21
+msgid "Choose here what you want to generate"
+msgstr "Burada oluşturmak istediğinizi seçin"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/options.php:23
+msgid "All files"
+msgstr "Bütün dosyalar"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/options.php:24
+msgid "Single File"
+msgstr "Tek dosya"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/options.php:25
+msgid "Files Category"
+msgstr "Dosya kategori"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/options.php:26
+msgid "Files Manager"
+msgstr "Dosya Yöneticisi"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/options.php:31
+msgid "Select File :"
+msgstr "Dosya Seç:"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/options.php:32
+msgid "(If you have chosen -> Single file)"
+msgstr "(Tek dosya-> seçtiyseniz)"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/options.php:37
+msgid "Select Category :"
+msgstr "Kategori seçin:"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/options.php:38
+msgid "(If you have chosen -> Files Category)"
+msgstr "(-> Dosyaları kategori seçtiyseniz)"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/views/view.php:19
+msgid "Please select a value in the shortcode option."
+msgstr "Lütfen kısa kodlardan bir değer seçin"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/config.php:6
+msgid "Button"
+msgstr "Buton"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/config.php:7
+msgid "A very awesome button"
+msgstr "Çok harika bir düğme"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:7
+msgid "Button Label"
+msgstr "Buton etiketi"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:8
+msgid "This is the text that appears on your button"
+msgstr "Bu buton üzerinde görüntülenen metindir"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:13
+msgid "Button Link"
+msgstr "Buton Bağlantı Adresi"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:14
+msgid "Where should your button link to"
+msgstr "Buton linkiniz nereye yönlendirilecek"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:20
+msgid "Open Link in New Window"
+msgstr "Bağlantıyı yeni pencerede aç"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:21
+msgid "Select here if you want to open the linked page in a new window"
+msgstr "Eğer bağlantıyı yeni bir pencerede açmak istiyorsanız burayı seçin"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:24
+msgid "Yes"
+msgstr "Evet"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:28
+msgid "No"
+msgstr "Hayır"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:32
+msgid "Button icon"
+msgstr "Buton Simgesi"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:33
+msgid "Choose an icon for your button just before the label"
+msgstr "Butonunuz için bir icon seçiniz. "
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_headlines/config.php:7
+msgid "Title with borders."
+msgstr "Kenarlıklı başlık."
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_headlines/options.php:9
+msgid "Write the heading title content."
+msgstr "İçerik için başlık yazınız."
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_headlines/options.php:13
+msgid "Heading Size"
+msgstr "Başlık Boyut"
+
+#: ../framework-customizations/extensions/woffice-funfacts/manifest.php:7
+msgid "Woffice FunFacts"
+msgstr "Woffice FunFacts"
+
+#: ../framework-customizations/extensions/woffice-funfacts/manifest.php:8
+msgid ""
+"Enables the possibility to add a funfacts widget in Woffice. (See "
+"documentation for detailed informations)."
+msgstr ""
+"Woffice Funfacts widget’ı ekleme imkanı sağlar. (Detaylı bilgi için "
+"belgelerine bakın)."
+
+#: ../framework-customizations/extensions/woffice-funfacts/settings-options.php:10
+#: ../framework-customizations/extensions/woffice-funfacts/includes/class-fw-widget-woffice-funfacts.php:43
+msgid "Fun Facts"
+msgstr "Eğlenceli gerçekler"
+
+#: ../framework-customizations/extensions/woffice-funfacts/settings-options.php:13
+#: ../framework-customizations/theme/options/widgets.php:16
+msgid "Fun Facts Widget"
+msgstr "Eğlenceli Gerçekler Bileşeni"
+
+#: ../framework-customizations/extensions/woffice-funfacts/settings-options.php:24
+#: ../framework-customizations/theme/options/widgets.php:27
+msgid "Fun facts"
+msgstr "Eğlenceli gerçekler"
+
+#: ../framework-customizations/extensions/woffice-funfacts/settings-options.php:25
+#: ../framework-customizations/theme/options/widgets.php:28
+msgid ""
+"They will be displayed as in a slider within the widget, you can use for any "
+"other purpose than fun facts."
+msgstr ""
+"Bileşen içinde bir slayt olarak gösterilecektir, eğlenceli gerçekler dışında "
+"başka bir amaçla kullanabilirsiniz."
+
+#: ../framework-customizations/extensions/woffice-funfacts/includes/class-fw-widget-woffice-funfacts.php:15
+msgid "(Woffice) Fun Facts"
+msgstr "(Woffice) Eğlenceli Gerçekler"
+
+#: ../framework-customizations/extensions/woffice-map/manifest.php:7
+msgid "Woffice Members Map"
+msgstr "Woffice Üyelerin Haritası"
+
+#: ../framework-customizations/extensions/woffice-map/manifest.php:8
+msgid ""
+"Enables the possibility to add a map of Buddypress members in Woffice. (See "
+"documentation for detailed informations)."
+msgstr ""
+"Enables the possibility to add a map of Buddypress members in Woffice. (See "
+"documentation for detailed informations)."
+
+#: ../framework-customizations/extensions/woffice-map/settings-options.php:10
+msgid "Users Map"
+msgstr "Kullanıcıların Haritası"
+
+#: ../framework-customizations/extensions/woffice-map/settings-options.php:13
+msgid "Google API Public Key"
+msgstr "Google API Public Key"
+
+#: ../framework-customizations/extensions/woffice-map/settings-options.php:16
+msgid ""
+"We are using the GeoCoding Google API to get coordinates from users "
+"locations. By default it is working with our API key but as there are many "
+"Woffice around, the Quota (2500 requests per day) may be reached really "
+"quickly so the map will no longer be available. That is why it is important "
+"to use you own Google API key. Please see : "
+msgstr ""
+"We are using the GeoCoding Google API to get coordinates from users "
+"locations. By default it is working with our API key but as there are many "
+"Woffice around, the Quota (2500 requests per day) may be reached really "
+"quickly so the map will no longer be available. That is why it is important "
+"to use you own Google API key. Please see : "
+
+#: ../framework-customizations/extensions/woffice-map/views/view.php:17
+msgid "Members around the world"
+msgstr "Dünyada Üyeler"
+
+#: ../framework-customizations/extensions/woffice-map/views/view.php:24
+msgid ""
+"Sorry there is no users locations so we can not display the map. As it is "
+"empty."
+msgstr ""
+"Sorry there is no users locations so we can not display the map. As it is "
+"empty."
+
+#: ../framework-customizations/extensions/woffice-poll/class-fw-extension-woffice-poll.php:211
+msgid "No results :"
+msgstr "Sonuç Yok:"
+
+#: ../framework-customizations/extensions/woffice-poll/class-fw-extension-woffice-poll.php:225
+msgid "In percentage (%)"
+msgstr "Yüzde olarak (%)"
+
+#: ../framework-customizations/extensions/woffice-poll/class-fw-extension-woffice-poll.php:234
+msgid "Total answers number :"
+msgstr "Toplam cevap sayısı:"
+
+#: ../framework-customizations/extensions/woffice-poll/hooks.php:61
+msgid ""
+"Error, something is wrong please refresh this page. Note that you can not "
+"vote twice."
+msgstr ""
+"Hata. Ters giden birşey var. Lütfen sayfayı yenileyin. İki kere oy verilemez."
+
+#: ../framework-customizations/extensions/woffice-poll/hooks.php:69
+#: ../framework-customizations/extensions/woffice-poll/views/view.php:61
+msgid "Thanks ! Here are the results : "
+msgstr "Teşekkürler! İşte sonuçlar:"
+
+#: ../framework-customizations/extensions/woffice-poll/manifest.php:7
+msgid "Woffice Poll"
+msgstr "Woffice anket"
+
+#: ../framework-customizations/extensions/woffice-poll/manifest.php:8
+msgid ""
+"Enables the possibility to add a poll widget in Woffice. (See documentation "
+"for detailed informations)."
+msgstr ""
+"Woffice anket widget’ı ekleme imkanı sağlar. (Detaylı bilgi için belgelerine "
+"bakın)."
+
+#: ../framework-customizations/extensions/woffice-poll/settings-options.php:12
+msgid "Build Poll"
+msgstr "Anket oluşturun"
+
+#: ../framework-customizations/extensions/woffice-poll/settings-options.php:15
+msgid "Information :"
+msgstr "Bilgi"
+
+#: ../framework-customizations/extensions/woffice-poll/settings-options.php:20
+msgid "Poll Question"
+msgstr "Anket Soru"
+
+#: ../framework-customizations/extensions/woffice-poll/settings-options.php:38
+msgid "Poll answers"
+msgstr "Anket cevapları"
+
+#: ../framework-customizations/extensions/woffice-poll/settings-options.php:40
+msgid "These questions will be displayed within the widget in Woffice."
+msgstr "Bu sorular Woffice içinde aracının içinde gösterilecektir."
+
+#: ../framework-customizations/extensions/woffice-poll/settings-options.php:48
+msgid "Results"
+msgstr "Sonuçlar"
+
+#: ../framework-customizations/extensions/woffice-poll/includes/class-fw-widget-woffice-poll.php:16
+msgid "Get the poll from the Unyson Extensions"
+msgstr "Unyson Eklentilerinden anketi alın"
+
+#: ../framework-customizations/extensions/woffice-poll/includes/class-fw-widget-woffice-poll.php:17
+msgid "(Woffice) Poll"
+msgstr "(Woffice) Anket"
+
+#: ../framework-customizations/extensions/woffice-poll/includes/class-fw-widget-woffice-poll.php:45
+msgid "Poll"
+msgstr "Anket"
+
+#: ../framework-customizations/extensions/woffice-poll/views/view.php:52
+msgid "Send"
+msgstr "Gönder"
+
+#: ../framework-customizations/extensions/woffice-poll/views/view.php:83
+msgid "Sorry, there is no answer set yet in the Extension options."
+msgstr "Üzgünüz, Eklenti seçeneklerinde eklenen bir cevap yok"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:23
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:25
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:27
+msgid "Project"
+msgstr "Proje"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:26
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:26
+msgid "Add New"
+msgstr "Yeni Ekle"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:28
+msgid "Edit Project"
+msgstr "Projeyi Düzenle"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:29
+msgid "View Project"
+msgstr "Projeyi Görüntüle"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:30
+msgid "All Projects"
+msgstr "Tüm Projeler"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:31
+msgid "Search Project"
+msgstr "Proje Ara"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:32
+msgid "No Project found."
+msgstr "Hiçbir Proje Bulunamadı"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:33
+msgid "No Project found in Trash."
+msgstr "Çöp Kutusunda Proje Bulunamadı."
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:64
+msgid "Project Categories"
+msgstr "Proje Kategorileri"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:65
+msgid "Project Category"
+msgstr "Proje Kategorisi"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:66
+msgid "Search Project Categories"
+msgstr "Proje Kategorilerini Ara"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:67
+msgid "All Project Categories"
+msgstr "Tüm Proje Kategorileri"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:68
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:68
+msgid "Edit Category"
+msgstr "Kategoriyi Düzenle"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:69
+msgid "Update Project Category"
+msgstr "Proje Kategorisini Güncelle"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:70
+msgid "Add New Project Category"
+msgstr "Yeni Proje Kategorisi Ekle"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:71
+msgid "New Project Category"
+msgstr "Yeni Proje Kategorisi"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:72
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:72
+msgid "Categories"
+msgstr "Kategoriler"
+
+#: ../framework-customizations/extensions/woffice-projects/manifest.php:7
+msgid "Woffice Projects"
+msgstr "Woffice Projeler"
+
+#: ../framework-customizations/extensions/woffice-projects/manifest.php:8
+msgid "Enables the possibility to add a project management to your site."
+msgstr "Sitenize bir proje yönetimi ekleme imkanı sağlar."
+
+#: ../framework-customizations/extensions/woffice-projects/includes/class-fw-widget-woffice-projects.php:15
+msgid "(Woffice) Projects"
+msgstr "Woffice Projeler"
+
+#: ../framework-customizations/extensions/woffice-projects/views/widget.php:23
+msgid "Sorry you don't have any project yet."
+msgstr "Maalesef henüz herhangi bir projeniz yok."
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:22
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:24
+msgid "Wiki"
+msgstr "Wiki"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:23
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:25
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:27
+msgid "Article"
+msgstr "Makale"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:28
+msgid "Edit Article"
+msgstr "Makale düzenle"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:29
+msgid "View Article"
+msgstr "Makale görüntüle"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:30
+#: ../page-templates/wiki.php:119
+msgid "All Articles"
+msgstr "Makaleler"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:31
+msgid "Search Article"
+msgstr "Makale ara"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:32
+msgid "No Article found."
+msgstr "Hiç makale bulunamadı"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:33
+msgid "No Article found in Trash."
+msgstr "Çöpte nesne bulunamadı"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:64
+msgid "Wiki Categories"
+msgstr "Wiki Kategoriler"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:65
+msgid "Article Category"
+msgstr "Makale Kategorisi"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:66
+msgid "Search Wiki Categories"
+msgstr "Wiki Kategoriler ara"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:67
+msgid "All Wiki Categories"
+msgstr "Tüm Kategoriler Wiki"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:69
+msgid "Update Wiki Category"
+msgstr "Wiki Kategori Güncelle"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:70
+msgid "Add New Wiki Category"
+msgstr "Yeni Wiki Kategori Ekle"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:71
+msgid "New Wiki Category"
+msgstr "Yeni Wiki Kategorisi"
+
+#: ../framework-customizations/extensions/woffice-wiki/manifest.php:7
+msgid "Woffice Wiki"
+msgstr "Woffice Wiki"
+
+#: ../framework-customizations/extensions/woffice-wiki/manifest.php:8
+msgid "Enables the possibility to add a wiki management to your site."
+msgstr "Sitenize bir wiki yönetimini ekleme imkanı sağlar."
+
+#: ../framework-customizations/extensions/woffice-wiki/includes/class-fw-widget-woffice-wiki.php:15
+msgid "(Woffice) Wiki Articles"
+msgstr "(Woffice) Wiki Makaleler"
+
+#: ../framework-customizations/extensions/woffice-wiki/includes/class-fw-widget-woffice-wiki.php:52
+#: ../inc/widgets/eventon/class-widget-eventon.php:45
+msgid "Number"
+msgstr "Sayı"
+
+#: ../framework-customizations/theme/manifest.php:9
+msgid "Woffice"
+msgstr "Woffice"
+
+#: ../framework-customizations/theme/manifest.php:11
+msgid "Another awesome Wordpress theme"
+msgstr "Başka bir harika Wordpress teması"
+
+#: ../framework-customizations/theme/options/buddypress.php:7
+msgid "Buddypress"
+msgstr "BuddyPress"
+
+#: ../framework-customizations/theme/options/buddypress.php:11
+#: ../framework-customizations/theme/options/dashboard.php:11
+#: ../framework-customizations/theme/options/general.php:11
+#: ../framework-customizations/theme/options/header.php:11
+#: ../framework-customizations/theme/options/login.php:11
+#: ../framework-customizations/theme/options/menu.php:11
+#: ../framework-customizations/theme/options/news.php:11
+#: ../framework-customizations/theme/options/page-title.php:11
+#: ../framework-customizations/theme/options/posts.php:11
+#: ../framework-customizations/theme/options/sidebar.php:11
+msgid "Main options"
+msgstr "Ana Seçenekler"
+
+#: ../framework-customizations/theme/options/buddypress.php:16
+msgid "New Member Types"
+msgstr "Yeni Üye Çeşitleri"
+
+#: ../framework-customizations/theme/options/buddypress.php:18
+msgid ""
+"This is a way to categorise your members (members directory, privacy on "
+"certain pages...), you will have more/better options with this plugin :"
+msgstr ""
+"Bu eklenti ( üye alanları, gizlilik …) kategorize etmek için ve daha "
+"fazlasını elde etmek için kullanabileceğiniz bir eklentidir."
+
+#: ../framework-customizations/theme/options/buddypress.php:22
+msgid "Role Name"
+msgstr "Rol İsmi"
+
+#: ../framework-customizations/theme/options/buddypress.php:26
+msgid "Role capabilities"
+msgstr "Rol Yetenekleri"
+
+#: ../framework-customizations/theme/options/buddypress.php:29
+msgid "You can learn more about user capabilities here"
+msgstr "Burada kullanıcı özellikleri hakkında daha fazla bilgi edinebilirsiniz"
+
+#: ../framework-customizations/theme/options/custom-css.php:7
+#: ../framework-customizations/theme/options/custom-css.php:11
+msgid "Custom CSS"
+msgstr "Özel CSS"
+
+#: ../framework-customizations/theme/options/custom-css.php:15
+msgid "Type your custom CSS here "
+msgstr "Buraya özel CSS kodu yazabilirsiniz"
+
+#: ../framework-customizations/theme/options/custom-css.php:17
+msgid ""
+"No need to set the tags (&lt;style&gt;&lt;/style&gt;). It is better to "
+"change the CSS changes here than editing the theme files ;) or you can "
+"create a chil theme if you have a lot of changes."
+msgstr ""
+"Etiketleri ayarlamak gerek yok (<style> </ style>). Bu tema dosyalarını "
+"düzenleme daha burada CSS değişiklikleri değiştirmek daha iyidir;) ya da bir "
+"çok değişiklik varsa bir child tema oluşturabilirsiniz."
+
+#: ../framework-customizations/theme/options/custom-css.php:18
+msgid "Without the HTML tags \"style\" please"
+msgstr "HTML etiketleri kullanmayın “style” kullanın lütfen"
+
+#: ../framework-customizations/theme/options/dashboard.php:7
+msgid "Home Dashboard"
+msgstr "Giriş Ekranı"
+
+#: ../framework-customizations/theme/options/dashboard.php:15
+msgid "Number of columns in the dashboard"
+msgstr "Girişteki sütun sayısı"
+
+#: ../framework-customizations/theme/options/dashboard.php:18
+msgid "This is only for non-mobiles devices, because it is responsive."
+msgstr ""
+"Bu sadece mobil olmayan cihazlar içindir, çünkü esnek bir tasarımı vardır."
+
+#: ../framework-customizations/theme/options/dashboard.php:20
+msgid "1 Columns"
+msgstr "1 Sütun"
+
+#: ../framework-customizations/theme/options/dashboard.php:21
+msgid "2 Columns"
+msgstr "2 Sütun"
+
+#: ../framework-customizations/theme/options/dashboard.php:22
+msgid "3 Columns"
+msgstr "3 Sütun"
+
+#: ../framework-customizations/theme/options/footer.php:7
+msgid "Footer & Extrafooter"
+msgstr "Altbilgi & Extrafooter"
+
+#: ../framework-customizations/theme/options/footer.php:11
+msgid "Footer Options"
+msgstr "Site Alt bilgi seçenekleri"
+
+#: ../framework-customizations/theme/options/footer.php:15
+msgid "Show the Footer Widgets"
+msgstr "Altbilgi widget’ları göster"
+
+#: ../framework-customizations/theme/options/footer.php:19
+#: ../framework-customizations/theme/options/footer.php:90
+#: ../framework-customizations/theme/options/general.php:20
+#: ../framework-customizations/theme/options/posts.php:46
+msgid "Show"
+msgstr "Göster"
+
+#: ../framework-customizations/theme/options/footer.php:23
+#: ../framework-customizations/theme/options/footer.php:94
+#: ../framework-customizations/theme/options/general.php:24
+#: ../framework-customizations/theme/options/posts.php:50
+msgid "Hide"
+msgstr "Gizle"
+
+#: ../framework-customizations/theme/options/footer.php:26
+msgid ""
+"They will be above the copyright bar and below the extrafooter bar. You can "
+"set them in the widget page."
+msgstr ""
+"Copyright satırının üzerinde ve ekstra footer ın altında yer alacaktır. "
+"Bileşenler kısmından ayarlayabilirsiniz."
+
+#: ../framework-customizations/theme/options/footer.php:29
+msgid "Number of columns ?"
+msgstr "Sütun sayıları?"
+
+#: ../framework-customizations/theme/options/footer.php:31
+msgid "For the footer widgets."
+msgstr "Altbilgi widget için."
+
+#: ../framework-customizations/theme/options/footer.php:43
+#: ../framework-customizations/theme/options/header.php:56
+msgid "Text color"
+msgstr "Yazı rengi"
+
+#: ../framework-customizations/theme/options/footer.php:44
+msgid "This is the color used in the footer for the texts."
+msgstr "Footerda kullanılan yazı rengidir."
+
+#: ../framework-customizations/theme/options/footer.php:49
+msgid "Link color"
+msgstr "Bağlantı Rengi"
+
+#: ../framework-customizations/theme/options/footer.php:50
+msgid "The colored color within the footer"
+msgstr "Footerdaki renkli renkler ???"
+
+#: ../framework-customizations/theme/options/footer.php:55
+msgid "Widgets Background Color"
+msgstr "Bileşenler Arka Plan Rengi"
+
+#: ../framework-customizations/theme/options/footer.php:56
+msgid "Color used in the widget background"
+msgstr "Bileşen arkaplanında kullanılan renk"
+
+#: ../framework-customizations/theme/options/footer.php:61
+msgid "Copyright Background Color"
+msgstr "Telif Hakkı Arkaplan Rengi"
+
+#: ../framework-customizations/theme/options/footer.php:64
+msgid "Copyright text in uppercase ?"
+msgstr "Telif metni Büyük harfle?"
+
+#: ../framework-customizations/theme/options/footer.php:69
+msgid "Copyright Content"
+msgstr "Telif Metni İçeriği"
+
+#: ../framework-customizations/theme/options/footer.php:76
+msgid "Color of the border between the widgets and the copyright."
+msgstr "Bileşenler ve Telif metni arasındaki çizginin rengi"
+
+#: ../framework-customizations/theme/options/footer.php:81
+msgid "Extra Footer"
+msgstr "Ekstra Footer"
+
+#: ../framework-customizations/theme/options/footer.php:85
+msgid "Show extra footer bar ?"
+msgstr "Ekstra footer çubuğu göster?"
+
+#: ../framework-customizations/theme/options/footer.php:86
+msgid ""
+"That is a box with random photos of your members with a tagline over these "
+"images and a link to any page you like. (Usually, the member directory page)"
+msgstr ""
+"Bu rastgele üye fotoğraflarından seçilen bir kutudur, üzerine bir slogan "
+"yazılıp istenen bir sayfaya bağlantı verilebilir. ( Genellikle üyeler "
+"sayfasına link için kullanılır)"
+
+#: ../framework-customizations/theme/options/footer.php:100
+msgid "Extrafooter Content"
+msgstr "Extrafooter İçeriği"
+
+#: ../framework-customizations/theme/options/footer.php:102
+msgid ""
+"The text on the extra footer, you can use some \"span\" elements to color "
+"some words."
+msgstr ""
+"Ekstra footer daki text, “span” elemanını kullanarak bazı kelimeleri "
+"renklendirebilirsiniz."
+
+#: ../framework-customizations/theme/options/footer.php:107
+msgid "Extrafooter Link"
+msgstr "Extrafooter Bağlantı"
+
+#: ../framework-customizations/theme/options/footer.php:108
+msgid "Link when the user click on that extra footer bar."
+msgstr "Kullanıcı ekstra footer çubuğuna bastığında gideceği link"
+
+#: ../framework-customizations/theme/options/footer.php:113
+#: ../framework-customizations/theme/options/page-title.php:84
+msgid "Border color"
+msgstr "Çerçeve rengi"
+
+#: ../framework-customizations/theme/options/footer.php:114
+msgid "Color of the border between the content and the extrafooter."
+msgstr "İçerik ve Ekstra footer arasındaki çizginin rengi."
+
+#: ../framework-customizations/theme/options/general.php:7
+msgid "General Options"
+msgstr "Genel Seçenekler"
+
+#: ../framework-customizations/theme/options/general.php:15
+msgid "Page loading"
+msgstr "Yükleniyor"
+
+#: ../framework-customizations/theme/options/general.php:16
+msgid "Show the page loading bar above the navbar."
+msgstr "Navbar üzerinde sayfa yükleme çubuğunu göster."
+
+#: ../framework-customizations/theme/options/general.php:29
+msgid "Do you want to make this website public ?"
+msgstr "Bu Web sitesinin herkese açık yapmak istiyor musunuz?"
+
+#: ../framework-customizations/theme/options/general.php:30
+msgid ""
+"As an Intranet, every visitor have to login to access to the content and the "
+"wbesite, with this option your Website will be free to be reached by "
+"everyone..."
+msgstr ""
+"Intranet olarak ayarlandığında herkes kullanıcı adı ve şifresiyle giriş "
+"yapabilir, bu opsiyon ile websiteniz herkesin erişimine açık hale gelecektir."
+
+#: ../framework-customizations/theme/options/general.php:34
+#: ../framework-customizations/theme/options/header.php:44
+#: ../framework-customizations/theme/options/header.php:82
+#: ../framework-customizations/theme/options/header.php:96
+#: ../framework-customizations/theme/options/login.php:19
+#: ../framework-customizations/theme/options/login.php:79
+#: ../framework-customizations/theme/options/login.php:98
+#: ../framework-customizations/theme/options/page-title.php:72
+#: ../framework-customizations/theme/options/posts.php:19
+#: ../framework-customizations/theme/options/posts.php:32
+#: ../framework-customizations/theme/options/sidebar.php:19
+#: ../framework-customizations/theme/options/sidebar.php:46
+#: ../framework-customizations/theme/options/sidebar.php:68
+#: ../framework-customizations/theme/options/sidebar.php:82
+#: ../framework-customizations/theme/options/styling.php:49
+#: ../framework-customizations/theme/options/styling.php:63
+#: ../framework-customizations/theme/options/styling.php:77
+msgid "Yep"
+msgstr "Evet"
+
+#: ../framework-customizations/theme/options/general.php:38
+#: ../framework-customizations/theme/options/header.php:48
+#: ../framework-customizations/theme/options/header.php:86
+#: ../framework-customizations/theme/options/header.php:100
+#: ../framework-customizations/theme/options/page-title.php:76
+#: ../framework-customizations/theme/options/posts.php:23
+#: ../framework-customizations/theme/options/posts.php:36
+#: ../framework-customizations/theme/options/sidebar.php:23
+#: ../framework-customizations/theme/options/sidebar.php:50
+#: ../framework-customizations/theme/options/sidebar.php:72
+#: ../framework-customizations/theme/options/sidebar.php:86
+#: ../framework-customizations/theme/options/styling.php:53
+#: ../framework-customizations/theme/options/styling.php:67
+#: ../framework-customizations/theme/options/styling.php:81
+msgid "Nope"
+msgstr "Hayır"
+
+#: ../framework-customizations/theme/options/general.php:45
+msgid "Favicons"
+msgstr "Favicons"
+
+#: ../framework-customizations/theme/options/general.php:49
+msgid "Favicon"
+msgstr "Favicon"
+
+#: ../framework-customizations/theme/options/general.php:50
+msgid "Upload a favicon image (PNG 32px x 32px)"
+msgstr "Siteniz için favicon simgesi(.png) (16px X 16px)"
+
+#: ../framework-customizations/theme/options/general.php:54
+msgid "(Android) Icon 1"
+msgstr "(Android) Icon 1"
+
+#: ../framework-customizations/theme/options/general.php:55
+msgid "Upload an image (PNG 192px x 192px). For screens with a density of 4.0"
+msgstr "Resim yükleyin (PNG 192px x 192px). 4.0 yoğunluklu ekranlar için"
+
+#: ../framework-customizations/theme/options/general.php:59
+msgid "(Android) Icon 2"
+msgstr "(Android) Icon 2"
+
+#: ../framework-customizations/theme/options/general.php:60
+msgid "Upload an image (PNG 144px x 144px). For screens with a density of 3.0"
+msgstr "Resim yükleyin (PNG 192px x 192px). 3.0 yoğunluklu ekranlar için"
+
+#: ../framework-customizations/theme/options/general.php:64
+msgid "(Iphone) Icon"
+msgstr "Apple iPhone İkonu"
+
+#: ../framework-customizations/theme/options/general.php:65
+msgid "Upload an image (PNG 114px x 114px)"
+msgstr "Resim Yükleyin (PNG 114px x 114px)"
+
+#: ../framework-customizations/theme/options/general.php:69
+msgid "(Ipad) Icon"
+msgstr "Apple iPad İkonu"
+
+#: ../framework-customizations/theme/options/general.php:70
+msgid "Upload an image (PNG 144px x 144px)"
+msgstr "Resim Yükleyin (PNG 144px x 144px)"
+
+#: ../framework-customizations/theme/options/header.php:7
+msgid "Header bar"
+msgstr "Üstbilgi Çubuğu"
+
+#: ../framework-customizations/theme/options/header.php:15
+msgid "Main Logo"
+msgstr "Ana Logo"
+
+#: ../framework-customizations/theme/options/header.php:16
+msgid "Upload your image for the logo (white color advised)"
+msgstr "Logo (beyaz renk tavsiye edilir) için resim yükleyin"
+
+#: ../framework-customizations/theme/options/header.php:21
+#: ../framework-customizations/theme/options/login.php:63
+msgid "Logo Width"
+msgstr "Logo Genişliği"
+
+#: ../framework-customizations/theme/options/header.php:24
+#: ../framework-customizations/theme/options/header.php:31
+#: ../framework-customizations/theme/options/menu.php:24
+#: ../framework-customizations/theme/options/news.php:18
+msgid "A number please"
+msgstr "Lütfen bir sayı giriniz"
+
+#: ../framework-customizations/theme/options/header.php:25
+#: ../framework-customizations/theme/options/header.php:32
+#: ../framework-customizations/theme/options/menu.php:25
+msgid "No need to set px"
+msgstr "px ayarlamaya gerek yok"
+
+#: ../framework-customizations/theme/options/header.php:28
+msgid "Navigation Bar Height"
+msgstr "Gezinti çubuğu yüksekliği"
+
+#: ../framework-customizations/theme/options/header.php:35
+msgid "Do you want to hide the logo ?"
+msgstr "Logo gizlemek istiyor musunuz?"
+
+#: ../framework-customizations/theme/options/header.php:40
+msgid "Fixed navigation ?"
+msgstr "Sabit gezinti?"
+
+#: ../framework-customizations/theme/options/header.php:51
+msgid ""
+"Do you want to fix the navigation on the top of the screen when scrolling."
+msgstr ""
+"Kaydırma sırasında ekranın üst kısmında navigasyon sabitlemek istiyor "
+"musunuz."
+
+#: ../framework-customizations/theme/options/header.php:57
+msgid "This is the color used for the text (username)"
+msgstr "(Kullanıcı adı) metin için kullanılan renk bu"
+
+#: ../framework-customizations/theme/options/header.php:63
+msgid "The background color of the navbar"
+msgstr "Gezinti çubuğu arka plan rengini"
+
+#: ../framework-customizations/theme/options/header.php:68
+msgid "Icons color"
+msgstr "Simge Rengi"
+
+#: ../framework-customizations/theme/options/header.php:69
+msgid "This is the color used in the header for the icons."
+msgstr "Bu başlıktaki ikonlar için kullanılan renktir"
+
+#: ../framework-customizations/theme/options/header.php:74
+msgid "Link hover color"
+msgstr "Link Vurgulama Rengi"
+
+#: ../framework-customizations/theme/options/header.php:75
+msgid "The Hover color on the menu links, also for the submenu."
+msgstr "Alt menü için kullanılan bağlantı üzeri rengi"
+
+#: ../framework-customizations/theme/options/header.php:78
+msgid "Search icon in the menu ?"
+msgstr "Arama ikonu menü de yer alsın mı?"
+
+#: ../framework-customizations/theme/options/header.php:89
+msgid "Do you want to show the seacrh icon at the end of the menu."
+msgstr "Menünün sonunda arama ikonu olsun mu?"
+
+#: ../framework-customizations/theme/options/header.php:92
+msgid "User box ?"
+msgstr "Kullanıcı kutusu ?"
+
+#: ../framework-customizations/theme/options/header.php:103
+msgid "Do you want to show the user box in the navbar ?"
+msgstr "Kullanıcı kutusu navbar içinde göstermek istiyor musunuz?"
+
+#: ../framework-customizations/theme/options/login.php:7
+msgid "Login Page"
+msgstr "Giriş Sayfası"
+
+#: ../framework-customizations/theme/options/login.php:15
+msgid "Custom Login Page"
+msgstr "Özel oturum açma sayfası"
+
+#: ../framework-customizations/theme/options/login.php:23
+#: ../framework-customizations/theme/options/login.php:83
+#: ../framework-customizations/theme/options/login.php:102
+msgid "nope"
+msgstr "hayır"
+
+#: ../framework-customizations/theme/options/login.php:26
+msgid ""
+"That is going to replace the login page from Wordpress with the new one from "
+"Woffice -> IMPORTANT! The page as to be named LOGIN please."
+msgstr ""
+"Bu wordpress in login sayfası yerine geçecektir. -> ÖNEMLİ! Sayfanın ismi "
+"LOGIN olmalı"
+
+#: ../framework-customizations/theme/options/login.php:30
+msgid "Welcome Message"
+msgstr "Hoşgeldiniz Mesajı"
+
+#: ../framework-customizations/theme/options/login.php:31
+msgid "Above the lohin form"
+msgstr "Login formu üzeri"
+
+#: ../framework-customizations/theme/options/login.php:43
+msgid "This is the background color and the image will be over it."
+msgstr "Bu arka plan rengi ve görüntü üzerine olacak."
+
+#: ../framework-customizations/theme/options/login.php:46
+msgid "Background Image"
+msgstr "Arkaplan Görseli"
+
+#: ../framework-customizations/theme/options/login.php:47
+msgid "Large Image on fullscreen."
+msgstr "Büyük görüntü tam ekran üzerinde."
+
+#: ../framework-customizations/theme/options/login.php:51
+msgid "Image Opacity"
+msgstr "Resim Saydamlığı"
+
+#: ../framework-customizations/theme/options/login.php:54
+msgid "This is the opacity of the image over the background color"
+msgstr "Arkaplan rengi üzerinde resmin saydamlığı"
+
+#: ../framework-customizations/theme/options/login.php:55
+#: ../framework-customizations/theme/options/page-title.php:59
+msgid "A number between 0 - 1, if you choose 0 it will becomes hidden."
+msgstr "0-1 arası bir rakam, eğer 0 seçerseniz gizlenir."
+
+#: ../framework-customizations/theme/options/login.php:58
+msgid "Logo Image"
+msgstr "Logo Resmi"
+
+#: ../framework-customizations/theme/options/login.php:59
+msgid "Just your logo as a PNG file"
+msgstr "Logonuz sadece .PNG olarak"
+
+#: ../framework-customizations/theme/options/login.php:66
+msgid "This is the width of your logo in the login page, no \"px\" please."
+msgstr "Bu giriş sayfasında logo genişliğidir, “px” yazmayın lütfen."
+
+#: ../framework-customizations/theme/options/login.php:69
+msgid "Logo Height"
+msgstr "Logo Yüksekliği"
+
+#: ../framework-customizations/theme/options/login.php:72
+msgid "This is the height of your logo in the login page, no \"px\" please."
+msgstr "Bu giriş sayfasında logo yüksekliğidir, “px” yazmayın lütfen."
+
+#: ../framework-customizations/theme/options/login.php:75
+msgid "Show Wordpress Logo"
+msgstr "Wordpress Logosunu Göster "
+
+#: ../framework-customizations/theme/options/login.php:88
+msgid "Register message"
+msgstr "Hoşgeldiniz Mesajı"
+
+#: ../framework-customizations/theme/options/login.php:91
+msgid ""
+"This is the text displayed before the Register button if the anyone can "
+"register in the Wordpress settings."
+msgstr ""
+"Kaydol butonunun üzerinde yazılan yazıdır. Eğer wordpress ayarlarında herkes "
+"kayıt olabilir seçildiyse kullanılır."
+
+#: ../framework-customizations/theme/options/login.php:94
+msgid "Show reset password link"
+msgstr "Parola sıfırlama linkini göster"
+
+#: ../framework-customizations/theme/options/login.php:105
+msgid ""
+"If you select Yep, we will add a link to the \"reset password\" Wordpress "
+"page, so the visitor can get a new password."
+msgstr ""
+"Eğer eveti seçerseniz, Parola sıfırlama seçeneği sayfada gösterilir, "
+"dolayısıyla kullanıcılar yeni parola alabilir. "
+
+#: ../framework-customizations/theme/options/menu.php:7
+msgid "Menu"
+msgstr "Menü"
+
+#: ../framework-customizations/theme/options/menu.php:18
+msgid "The background color of the menu"
+msgstr "Menü Arka Plan rengi"
+
+#: ../framework-customizations/theme/options/menu.php:21
+msgid "Menu Width"
+msgstr "Menü Genişliği"
+
+#: ../framework-customizations/theme/options/menu.php:30
+msgid "Menu color #2"
+msgstr "Menü renk # 2"
+
+#: ../framework-customizations/theme/options/menu.php:31
+msgid "Used for the text color and the borders"
+msgstr "Metin rengi ve çerçeveleri için kullanılır"
+
+#: ../framework-customizations/theme/options/menu.php:36
+msgid "Menu hover color"
+msgstr "Menü üzerine gelince ( Duraksama - Hover) rengi"
+
+#: ../framework-customizations/theme/options/menu.php:37
+msgid "Used as a link background, link color on it is white."
+msgstr "Bir bağlantı arka plan olarak kullanılan, bağlantı rengi beyazdır."
+
+#: ../framework-customizations/theme/options/news.php:7
+msgid "Blog"
+msgstr "Blog"
+
+#: ../framework-customizations/theme/options/news.php:15
+msgid "Number of posts displayed per page"
+msgstr "Sayfada Gösterilecek Yazı Sayısı"
+
+#: ../framework-customizations/theme/options/news.php:21
+msgid "Display Sidebar ?"
+msgstr "Kenar Çubuğunu Göster?"
+
+#: ../framework-customizations/theme/options/news.php:25
+msgid "With Sidebar"
+msgstr "Kenar Çubuğu ile"
+
+#: ../framework-customizations/theme/options/news.php:29
+msgid "Full Width"
+msgstr "Tam Genişlik"
+
+#: ../framework-customizations/theme/options/page-title.php:7
+msgid "Title Box"
+msgstr "Başlık Kutusu"
+
+#: ../framework-customizations/theme/options/page-title.php:15
+msgid "Default Featured image"
+msgstr "Varsayılan Öne Çıkarılmış Görsel"
+
+#: ../framework-customizations/theme/options/page-title.php:16
+msgid "Upload a large image"
+msgstr "Büyük bir resim yükleyin"
+
+#: ../framework-customizations/theme/options/page-title.php:21
+msgid "Alignment of the background image ?"
+msgstr "Arkaplan Görseli Hizalama?"
+
+#: ../framework-customizations/theme/options/page-title.php:24
+msgid "Vertical alignment here"
+msgstr "Dikey Hizalama"
+
+#: ../framework-customizations/theme/options/page-title.php:26
+msgid "Center"
+msgstr "Ortala"
+
+#: ../framework-customizations/theme/options/page-title.php:27
+msgid "Bottom"
+msgstr "Alt"
+
+#: ../framework-customizations/theme/options/page-title.php:28
+msgid "Top"
+msgstr "Üst"
+
+#: ../framework-customizations/theme/options/page-title.php:32
+msgid "Height of the page title box"
+msgstr "Sayfa başlığı kutusunun yüksekliği"
+
+#: ../framework-customizations/theme/options/page-title.php:35
+msgid "In pixels pixels please, but without the PX"
+msgstr "Piksel cinsindendir. Sonuna PX yazmayın "
+
+#: ../framework-customizations/theme/options/page-title.php:36
+msgid "Just a number without the PX"
+msgstr "Sadece sayı sonuna PX koymadan"
+
+#: ../framework-customizations/theme/options/page-title.php:39
+msgid "Headline text in uppercase ?"
+msgstr "Metin başlıkları BÜYÜK HARF ?"
+
+#: ../framework-customizations/theme/options/page-title.php:44
+msgid "Font weight: bold ?"
+msgstr "Yazı tipi genişliği: kalın?"
+
+#: ../framework-customizations/theme/options/page-title.php:49
+msgid "Headline Color"
+msgstr "Başlık Rengi"
+
+#: ../framework-customizations/theme/options/page-title.php:52
+msgid "This is the color of the headline."
+msgstr "Başlık Rengi"
+
+#: ../framework-customizations/theme/options/page-title.php:55
+msgid "Layer Opacity"
+msgstr "Katman Saydamlığı"
+
+#: ../framework-customizations/theme/options/page-title.php:58
+msgid ""
+"This is the opacity of the layer behind the page title and over the featured "
+"image"
+msgstr ""
+"Bu sayfa başlığı ve öne çıkarılmış görsel üzerindeki katmanın saydamlığıdır."
+
+#: ../framework-customizations/theme/options/page-title.php:62
+msgid "Layer Color"
+msgstr "Katman Rengi"
+
+#: ../framework-customizations/theme/options/page-title.php:65
+msgid ""
+"This is the color of the layer behind the page title and over the featured "
+"image"
+msgstr ""
+"Sayfa başlığı arkasındaki öne çıkarılmış görsel üzerine gelen katman rengi"
+
+#: ../framework-customizations/theme/options/page-title.php:68
+msgid "Show border bottom"
+msgstr "Alt kenarlık göster"
+
+#: ../framework-customizations/theme/options/page-title.php:79
+msgid "This is the colored border below this title box."
+msgstr "Bu başlık kutusunun altındaki renkli kenarlık."
+
+#: ../framework-customizations/theme/options/page-title.php:85
+msgid "Color of the border below the the box title."
+msgstr "Bu başlık kutusunun altındaki renkli kenarlık rengi."
+
+#: ../framework-customizations/theme/options/posts.php:15
+msgid "Does everyone can create a wiki article ?"
+msgstr "Herkes bir wiki makalesi oluşturabilirsin mi?"
+
+#: ../framework-customizations/theme/options/posts.php:28
+msgid "Does everyone can create a project article ?"
+msgstr "Herkes bir proje makalesi oluşturabilirsin mi?"
+
+#: ../framework-customizations/theme/options/posts.php:41
+msgid "Show comments on pages"
+msgstr "Sayfada Yorumları Göster"
+
+#: ../framework-customizations/theme/options/posts.php:42
+msgid ""
+"Do you want to display the comments to allow user to comment on pages ? If "
+"it you choose \"show\" you will still be able to override it on every page."
+msgstr ""
+"Kullanıcı sayfalarında yorum yapmaya izin vermek istiyor musunuz? Bunu "
+"“göster” seçerseniz hala her sayfa için ayrıca geçersiz kılmak mümkün olacak."
+
+#: ../framework-customizations/theme/options/sidebar.php:7
+msgid "Sidebar"
+msgstr "Kenar Çubuğu"
+
+#: ../framework-customizations/theme/options/sidebar.php:15
+msgid "Display the Sidebar on pages"
+msgstr "Sayfalarda Kenar Çubuğunu Göster?"
+
+#: ../framework-customizations/theme/options/sidebar.php:26
+msgid ""
+"This is a global option for the whole website, you can still use a full "
+"width layout by using a page template."
+msgstr ""
+"Bu bütün websitesi için geçerli bir seçenektir, Tam sayfa şablonunu halen "
+"kullanabilirsiniz."
+
+#: ../framework-customizations/theme/options/sidebar.php:42
+msgid "Display the Sidebar on mobiles"
+msgstr "Mobilde Kenar Çubuğunu Göster?"
+
+#: ../framework-customizations/theme/options/sidebar.php:53
+msgid ""
+"If you choose \"yep\" the sidebar will be toggled with a button fixed on the "
+"right side during the navigation."
+msgstr ""
+"Eğer “evet” seçerseniz kenar çubuğu navigasyon süresince yan tarafında "
+"sabitlenir. "
+
+#: ../framework-customizations/theme/options/sidebar.php:56
+msgid "Minimum sidebar height"
+msgstr "Minimum kenar çubuğu yüksekliği"
+
+#: ../framework-customizations/theme/options/sidebar.php:58
+msgid ""
+"You can set here a minimum height for the sidebar, it may looks weird but "
+"that is better for the layout and prevent some javascript bugs."
+msgstr ""
+"Buradan kenar çubuğunun minimum yüksekliğini ayarlayabilirsiniz, Saçma "
+"görünebilir javascript hatalarına karşın yazmanızı tavsiye ederiz."
+
+#: ../framework-customizations/theme/options/sidebar.php:60
+msgid "A value in Pixel but no needs for the px."
+msgstr "Piksel değerini girin ama sonuna px koymayın."
+
+#: ../framework-customizations/theme/options/sidebar.php:63
+msgid "Show scroll top arrow ?"
+msgstr "Yukarı kaydırma çubuğunu göster?"
+
+#: ../framework-customizations/theme/options/sidebar.php:65
+msgid ""
+"This is the arrow at the bottom of the page which allow the user to scroll "
+"to the top."
+msgstr "Bu sayfa altında kullanıcıları yukarıya kaydıran bir oktur."
+
+#: ../framework-customizations/theme/options/sidebar.php:77
+msgid "Show scroll arrow in the sidebar ?"
+msgstr "Kaydırma okunu kenar çubuğunda göster ?"
+
+#: ../framework-customizations/theme/options/sidebar.php:79
+msgid ""
+"Do you want to display at the bottom of the right sidebar an arrow to help "
+"user navigation."
+msgstr ""
+"Sağ kenarın üzerinde kullanıcı navigasyonu için ok göstermek ister misiniz ?"
+
+#: ../framework-customizations/theme/options/styling.php:7
+msgid "Styling"
+msgstr "Şekillendirme"
+
+#: ../framework-customizations/theme/options/styling.php:11
+msgid "Fonts options"
+msgstr "Yazı tipleri seçenekleri"
+
+#: ../framework-customizations/theme/options/styling.php:26
+msgid "Main font Family"
+msgstr "Ana Font Ailesi"
+
+#: ../framework-customizations/theme/options/styling.php:27
+msgid "Used for the main texts (content, menu, footer ...)."
+msgstr "Ana yazılar için kullanılacaktır ( içerik, menü, alt kısım … )"
+
+#: ../framework-customizations/theme/options/styling.php:41
+msgid "Headlines font Family"
+msgstr "Başlık Font Ailesi"
+
+#: ../framework-customizations/theme/options/styling.php:42
+msgid "Used for all the headlines. The size set here does not matters."
+msgstr "Başlıklar için kullanılacaktır. Büyüklük ayarlaması önemli değildir."
+
+#: ../framework-customizations/theme/options/styling.php:45
+msgid "Extended latin ?"
+msgstr "Latin Extended?"
+
+#: ../framework-customizations/theme/options/styling.php:56
+msgid "This is for some fonts in some language (polish for example)."
+msgstr "Bu font bazı diller içindir ( örneğin lehce )"
+
+#: ../framework-customizations/theme/options/styling.php:59
+msgid "Bold Headlines ?"
+msgstr "Kalın Başlıklar ?"
+
+#: ../framework-customizations/theme/options/styling.php:70
+#: ../framework-customizations/theme/options/styling.php:84
+msgid ""
+"This is a global option for most of the titles, you will have something "
+"similar to the demo."
+msgstr ""
+"Bu başlıklar için genel seçenektir, Demoya benzeyen birşey elde edeceksiniz."
+
+#: ../framework-customizations/theme/options/styling.php:73
+msgid "Uppercase Headlines ?"
+msgstr "Başlıklarda BÜYÜK HARF ?"
+
+#: ../framework-customizations/theme/options/styling.php:89
+msgid "Color options"
+msgstr "Renk Seçenekleri"
+
+#: ../framework-customizations/theme/options/styling.php:93
+msgid "Important :"
+msgstr "Önemli:"
+
+#: ../framework-customizations/theme/options/styling.php:95
+msgid "Some colors can be found on the other tabs of the page settings ;)"
+msgstr "Bazı renkler sayfa ayarları tablarında bulabilirsiniz :)"
+
+#: ../framework-customizations/theme/options/styling.php:100
+msgid "Main color"
+msgstr "Ana Renk"
+
+#: ../framework-customizations/theme/options/styling.php:101
+msgid ""
+"This is your brand color (used in the links or in the buttons background for "
+"instance)."
+msgstr ""
+"bu sizin marka renginizdir. ( linklerde veya buton arkaplanlarında "
+"kullanılır )"
+
+#: ../framework-customizations/theme/options/styling.php:106
+msgid "Main text color"
+msgstr "Asıl yazı rengi"
+
+#: ../framework-customizations/theme/options/styling.php:107
+msgid "This is the main color for the content, sidebar ..."
+msgstr "Bu renk, içerik, kenar kısmı … için ana renk olacaktır."
+
+#: ../framework-customizations/theme/options/styling.php:112
+msgid "Body background color"
+msgstr "Gövde arka plan rengi"
+
+#: ../framework-customizations/theme/options/styling.php:117
+msgid "Light Color #1"
+msgstr "Açık renk #1"
+
+#: ../framework-customizations/theme/options/styling.php:118
+#: ../framework-customizations/theme/options/styling.php:124
+msgid ""
+"We use this color for some design effects in the content (sidebar, form, box "
+"title...)"
+msgstr ""
+"Bu rengi bazı tasarım efektleri için kullanıyoruz. ( kenar çubuğu, form, "
+"kutu başlıkları …)"
+
+#: ../framework-customizations/theme/options/styling.php:123
+msgid "Light Color #2"
+msgstr "Açık Renk #2"
+
+#: ../framework-customizations/theme/options/styling.php:129
+msgid "Light Color #3"
+msgstr "Açık Renk #3"
+
+#: ../framework-customizations/theme/options/styling.php:130
+msgid ""
+"We use this color for some design effects in the content (messages, "
+"icons ...)"
+msgstr ""
+"Bu rengi bazı içerik tasarım efektlerinde kulanıyoruz ( mesajlar, ikonlar … )"
+
+#: ../framework-customizations/theme/options/styling.php:135
+msgid "Notifications color"
+msgstr "Uyarıların Rengi"
+
+#: ../framework-customizations/theme/options/widgets.php:7
+msgid "Custom Widgets"
+msgstr "Özel Bileşenler"
+
+#: ../framework-customizations/theme/options/widgets.php:47
+msgid "Poll Widget"
+msgstr "Anket Bileşeni"
+
+#: ../framework-customizations/theme/options/widgets.php:51
+msgid "Sidebar Position"
+msgstr "Kenar Çubuğu Yerleşim"
+
+#: ../framework-customizations/theme/options/widgets.php:55
+msgid "Left"
+msgstr "Sol"
+
+#: ../framework-customizations/theme/options/widgets.php:59
+msgid "Right"
+msgstr "Sağ"
+
+#: ../framework-customizations/theme/options/posts/page.php:13
+msgid "Select users :"
+msgstr "Kullanıcıları Seç:"
+
+#: ../framework-customizations/theme/options/posts/page.php:17
+msgid "Page settings "
+msgstr "Sayfa ayarları"
+
+#: ../framework-customizations/theme/options/posts/page.php:21
+msgid "Hide the title"
+msgstr "Başlığı gizle"
+
+#: ../framework-customizations/theme/options/posts/page.php:22
+msgid "Only the featured image will be visible, the title will be hidden."
+msgstr "Sadece öne çıkarılan görsel gösterilecektir, Başlık gizli kalacaktır."
+
+#: ../framework-customizations/theme/options/posts/page.php:28
+msgid "Exclude Members"
+msgstr "Hariç tutulan Üyeler"
+
+#: ../framework-customizations/theme/options/posts/page.php:29
+#: ../framework-customizations/theme/options/posts/project.php:38
+msgid "Help tip : Hold Ctrl to select multiple users."
+msgstr ""
+"Yardım ipucu : Ctrl tuşuna basarak birden fazla kullanıcı seçebilirsiniz."
+
+#: ../framework-customizations/theme/options/posts/page.php:30
+msgid ""
+"The excluded members will not be able to see that page, they will receive an "
+"error message instead."
+msgstr ""
+"Hariç tutulan üyeler bu sayfayı göremeyeceklerdir, bunun yerine hata mesajı "
+"alacaklardır. "
+
+#: ../framework-customizations/theme/options/posts/post.php:12
+msgid "Post Options"
+msgstr "Gönderi Seçenekleri"
+
+#: ../framework-customizations/theme/options/posts/post.php:16
+msgid "Top featured image (optional)"
+msgstr "Üst Öne Çıkarılmış Görsel ( Opsiyonel )"
+
+#: ../framework-customizations/theme/options/posts/post.php:17
+msgid ""
+"Change the image behind the page title, otherwise we are going to use the "
+"default one."
+msgstr ""
+"Sayfa başlıklarının arkasındaki görseli değiştirir, aksi takdirde varsayılan "
+"kullanılacaktır."
+
+#: ../framework-customizations/theme/options/posts/project.php:20
+msgid "Project settings "
+msgstr "Proje Ayarları"
+
+#: ../framework-customizations/theme/options/posts/project.php:25
+msgid "Project Starting Date"
+msgstr "Projenin Başlangıç ​​Tarihi:"
+
+#: ../framework-customizations/theme/options/posts/project.php:26
+#: ../framework-customizations/theme/options/posts/project.php:32
+msgid ""
+"Will be used for the progress bar on the single project page and in the "
+"widget."
+msgstr "proje sayfasında ve bileşenlerindeki işlem çubuğunda kullanılacaktır."
+
+#: ../framework-customizations/theme/options/posts/project.php:31
+msgid "Project Ending Date"
+msgstr "Proje Bitiş Tarihi:"
+
+#: ../framework-customizations/theme/options/posts/project.php:37
+msgid "Project Members"
+msgstr "Proje Üyeleri"
+
+#: ../framework-customizations/theme/options/posts/project.php:39
+msgid ""
+"They will be allowed to modify the project from the single page and view it "
+"of course."
+msgstr "Proje sayfasının görüntülenmesi ve düzenlenmesine yetki verilecektir."
+
+#: ../framework-customizations/theme/options/posts/project.php:44
+msgid "Project Files"
+msgstr "Proje Dosyaları"
+
+#: ../framework-customizations/theme/options/posts/project.php:45
+msgid ""
+"If it is checked, a Multiverso category will be created for this project and "
+"you will be able to add and manage files from the project page."
+msgstr ""
+"Eğer işaretliyse, Multiverso Kategorisi oluşturulacak ve proje sayfasından "
+"dosyaları yönetebileceksiniz."
+
+#: ../framework-customizations/theme/options/posts/project.php:50
+msgid "Allow Frontend edit"
+msgstr "Yönetim paneli düzenlemesine izin ver"
+
+#: ../framework-customizations/theme/options/posts/project.php:51
+msgid ""
+"Allowing the frontend edit from the users allowed to see the project, this "
+"may not be a good idea if you are using the page builder on that page. If it "
+"is not checked, that the link will redirect to this page on Wordpress admin "
+"side."
+msgstr ""
+"Projenin önyüzden düzenlenmesine ve görüntülenmesine izin verir, Bu eğer "
+"sayfa içinde page builder eklentisini kullanıyorsanız iyi bir fikir "
+"olmayabilir.  Eğer işaretlenmediyse link wordpress in yönetim sayfasına "
+"yönlendirecektir."
+
+#: ../framework-customizations/theme/options/posts/project.php:56
+msgid "Project extern Links"
+msgstr "Projenin Dış Linkleri"
+
+#: ../framework-customizations/theme/options/posts/project.php:57
+msgid "You can add here extern links related to the projects."
+msgstr "Buraya projeler ile ilgili dış linkleri ekleyebilirsiniz."
+
+#: ../framework-customizations/theme/options/posts/project.php:61
+msgid "Link"
+msgstr "Link"
+
+#: ../framework-customizations/theme/options/posts/project.php:67
+msgid "Wunderlist List ID"
+msgstr "Wunderlist Liste Kimliği"
+
+#: ../framework-customizations/theme/options/posts/project.php:68
+msgid "The xxxxx in https://www.wunderlist.com/list/xxxxx"
+msgstr "Https://www.wunderlist.com/list/xxxxx xxxxx"
+
+#: ../framework-customizations/theme/options/posts/project.php:69
+msgid ""
+"You can set here a Wunderlist list ID, once it is PUBILSHED. However, this "
+"is an experimental feature for now, because your list will be public but "
+"only the persons with the link will be able to see it "
+msgstr ""
+"Buraya bir Wunderlist ID ekleyebilirsiniz. Bu şimdilik sadece deneysel bir "
+"özellik, çünkü listeniz herkese açık olacak ancak projede linki görebilen "
+"insanlar ulaşabilecektir."
+
+#: ../inc/buddypress.php:116
+msgid "Select Members"
+msgstr "Üyeleri Seç"
+
+#: ../inc/buddypress.php:183
+msgid "Welcome"
+msgstr "Hoşgeldiniz"
+
+#: ../inc/buddypress.php:191
+msgid "Log Out"
+msgstr "Çıkış Yap"
+
+#: ../inc/buddypress.php:245
+msgid ""
+"This address will be used on the members directory map, please make sur the "
+"address is valid for Google Map"
+msgstr ""
+"Bu adres üyeler dizini haritasının üzerinde kullanılacak, lütfen Google "
+"haritalar için geçerli bir adres kullandığınızdan emin olun."
+
+#: ../inc/buddypress.php:258 ../inc/buddypress.php:271
+#: ../inc/buddypress.php:284 ../inc/buddypress.php:297
+#: ../inc/buddypress.php:310 ../inc/buddypress.php:323
+#: ../inc/buddypress.php:336
+msgid ""
+"Copy past your URL in this field please, if it is empty it will not be "
+"displayed."
+msgstr ""
+"URL nizi buraya kopyalayıp yapıştırın, Eğer burası boş ise "
+"görüntülenmeyecektir."
+
+#: ../inc/buddypress.php:362
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: ../inc/buddypress.php:363
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: ../inc/buddypress.php:364
+msgid "Linkedin URL"
+msgstr "Linkedin URL"
+
+#: ../inc/buddypress.php:365
+msgid "Slack URL"
+msgstr "Slack URL"
+
+#: ../inc/buddypress.php:366
+msgid "Google URL"
+msgstr "Google URL"
+
+#: ../inc/buddypress.php:367
+msgid "Github URL"
+msgstr "Github URL"
+
+#: ../inc/buddypress.php:368
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: ../inc/class-tgm-plugin-activation.php:161
+msgid "Install Required Plugins"
+msgstr "Gerekli Eklentileri Yükle"
+
+#: ../inc/class-tgm-plugin-activation.php:162
+msgid "Install Plugins"
+msgstr "Eklentileri yükleyin"
+
+#: ../inc/class-tgm-plugin-activation.php:163
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Yüklenen Eklenti: %s"
+
+#: ../inc/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr "Bir şeyler ters gitti."
+
+#: ../inc/class-tgm-plugin-activation.php:175
+msgid "Return to Required Plugins Installer"
+msgstr "Gereken eklenti yükleyicisine geri dönün"
+
+#: ../inc/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr "Başlangıç’a Dön"
+
+#: ../inc/class-tgm-plugin-activation.php:177
+#: ../inc/class-tgm-plugin-activation.php:1956
+msgid "Plugin activated successfully."
+msgstr "Eklenti başarıyla etkinleştirildi."
+
+#: ../inc/class-tgm-plugin-activation.php:178
+#: ../inc/class-tgm-plugin-activation.php:1644
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Aşağıdaki eklenti başarıyla aktive edilmiştir."
+
+#: ../inc/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tüm eklentiler başarıyla yüklendi ve çalıştırıldı. %1$s"
+
+#: ../inc/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr "Bu uyarıyı dikkate alma"
+
+#: ../inc/class-tgm-plugin-activation.php:532
+#: ../inc/class-tgm-plugin-activation.php:2173
+msgid "Return to the Dashboard"
+msgstr "Kontrol Paneline Geri Dön"
+
+#: ../inc/class-tgm-plugin-activation.php:1167
+#: ../inc/class-tgm-plugin-activation.php:1348
+msgid "Private Repository"
+msgstr "Özel Depo"
+
+#: ../inc/class-tgm-plugin-activation.php:1170
+#: ../inc/class-tgm-plugin-activation.php:1351
+msgid "Pre-Packaged"
+msgstr "Önceden paketlenmiş"
+
+#: ../inc/class-tgm-plugin-activation.php:1175
+msgid "WordPress Repository"
+msgstr "WordPress Deposu"
+
+#: ../inc/class-tgm-plugin-activation.php:1178
+msgid "Required"
+msgstr "Gerekli"
+
+#: ../inc/class-tgm-plugin-activation.php:1178
+msgid "Recommended"
+msgstr "Önerilen"
+
+#: ../inc/class-tgm-plugin-activation.php:1181
+msgid "Not Installed"
+msgstr "Yüklü Değil"
+
+#: ../inc/class-tgm-plugin-activation.php:1183
+msgid "Installed But Not Activated"
+msgstr "Yüklendi fakat Etkinleştirilmedi"
+
+#: ../inc/class-tgm-plugin-activation.php:1288
+#: ../inc/class-tgm-plugin-activation.php:1409
+msgid "Install"
+msgstr "Yükle"
+
+#: ../inc/class-tgm-plugin-activation.php:1312
+#: ../inc/class-tgm-plugin-activation.php:1410
+msgid "Activate"
+msgstr "Etkinleştir"
+
+#: ../inc/class-tgm-plugin-activation.php:1372
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Yüklenen yada etkinleştirilen eklenti yok. <a href=“%1$s” title=“Kontrol "
+"Paneline Dön”>Kontrol Paneline Dön</a>"
+
+#: ../inc/class-tgm-plugin-activation.php:1388
+msgid "Plugin"
+msgstr "Eklenti"
+
+#: ../inc/class-tgm-plugin-activation.php:1389
+msgid "Source"
+msgstr "Kaynak"
+
+#: ../inc/class-tgm-plugin-activation.php:1390
+msgid "Type"
+msgstr "Tür"
+
+#: ../inc/class-tgm-plugin-activation.php:1391 ../inc/multiverso.php:102
+#: ../inc/multiverso.php:205 ../inc/multiverso.php:301
+msgid "Status"
+msgstr "Durum"
+
+#: ../inc/class-tgm-plugin-activation.php:1939
+msgid "Install package not available."
+msgstr "Yükleme paketi mevcut değil."
+
+#: ../inc/class-tgm-plugin-activation.php:1940
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "<span class=“code”>%s</span>&#8230; yükleme paketini indiriliyor"
+
+#: ../inc/class-tgm-plugin-activation.php:1941
+msgid "Unpacking the package&#8230;"
+msgstr "Paket dosyaları çıkartılıyor&#8230;"
+
+#: ../inc/class-tgm-plugin-activation.php:1942
+msgid "Installing the plugin&#8230;"
+msgstr "Eklenti Kuruluyor&#8230;"
+
+#: ../inc/class-tgm-plugin-activation.php:1943
+msgid "Plugin install failed."
+msgstr "Eklenti yüklemesi başarısız."
+
+#: ../inc/class-tgm-plugin-activation.php:1944
+msgid "Plugin installed successfully."
+msgstr "Eklenti başarıyla yüklendi."
+
+#: ../inc/class-tgm-plugin-activation.php:1955
+msgid "Plugin activation failed."
+msgstr "Eklenti aktivasyonu başarısız."
+
+#: ../inc/class-tgm-plugin-activation.php:2069
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Yükleme ve aktivasyon süreci başladı. Bu süreç kullandığınız sistem "
+"özelliklerine göre zaman alabilir, Lütfen sabırlı olunuz."
+
+#: ../inc/class-tgm-plugin-activation.php:2070
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s kuruldu ve başarıyla etkinleştirildi."
+
+#: ../inc/class-tgm-plugin-activation.php:2070
+#: ../inc/class-tgm-plugin-activation.php:2079
+msgid "Show Details"
+msgstr "Detayları Göster"
+
+#: ../inc/class-tgm-plugin-activation.php:2070
+#: ../inc/class-tgm-plugin-activation.php:2079
+msgid "Hide Details"
+msgstr "Detayları Gizle"
+
+#: ../inc/class-tgm-plugin-activation.php:2071
+msgid "All installations and activations have been completed."
+msgstr "Tüm kurulumlar ve etkinleştirmeler tamamlandı."
+
+#: ../inc/class-tgm-plugin-activation.php:2072
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Eklenti kuruluyor ve etkinleştiriliyor %1$s (%2$d/%3$d)"
+
+#: ../inc/class-tgm-plugin-activation.php:2076
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Kurulum işlemi başlıyor. Bu süreç, bazı sunucular üzerinde biraz süre "
+"alabilir, bu yüzden lütfen sabırlı olun."
+
+#: ../inc/class-tgm-plugin-activation.php:2077
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "%1$s: <strong>%2$s</strong> yüklenirken bir hata oluştu."
+
+#: ../inc/class-tgm-plugin-activation.php:2078
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "%1$s kurulumu başarısız oldu."
+
+#: ../inc/class-tgm-plugin-activation.php:2079
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s başarıyla kuruldu."
+
+#: ../inc/class-tgm-plugin-activation.php:2080
+msgid "All installations have been completed."
+msgstr "Bütün yüklemeler tamamlandı."
+
+#: ../inc/class-tgm-plugin-activation.php:2081
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Eklenti Kuruluyor %1$s (%2$d/%3$d)"
+
+#: ../inc/hooks.php:331
+msgid "Search..."
+msgstr "Ara…"
+
+#: ../inc/hooks.php:356
+msgid "Content Sidebar"
+msgstr "İçerik Kenar Çubuğu"
+
+#: ../inc/hooks.php:358
+msgid ""
+"Appears in the main content, left or right as you like see theme settings. "
+"Every widget need a title."
+msgstr ""
+"Ana içerik içinde gözükecektir, Sol ya da sağ olması tema ayarlarındaki "
+"gibidir. Bütün bileşenlerin bir başlığa ihtiyacı vardır."
+
+#: ../inc/hooks.php:366
+msgid "Dashboard Widgets"
+msgstr "Giriş Ekranı Bileşenleri"
+
+#: ../inc/hooks.php:368
+msgid "Appears in the dashboard page."
+msgstr "Giriş ekranında görünür."
+
+#: ../inc/hooks.php:376
+msgid "Footer Widgets"
+msgstr "Footer bileşenleri"
+
+#: ../inc/hooks.php:378
+msgid "Appears in the footer section of the site."
+msgstr "Sitenin Footer bölümünde görünür."
+
+#: ../inc/hooks.php:505
+msgid "Previous Posts"
+msgstr "Önceki yazılar"
+
+#: ../inc/hooks.php:509
+msgid "Next Posts"
+msgstr "Sonraki Yazılar"
+
+#: ../inc/hooks.php:525
+msgid "<i class=\"fa fa-hand-o-left\"></i> %title"
+msgstr "<i class=\"fa fa-hand-o-left\"></i> %title"
+
+#: ../inc/hooks.php:527
+msgid "%title <i class=\"fa fa-hand-o-right\"></i>"
+msgstr "%title <i class=\"fa fa-hand-o-right\"></i>"
+
+#: ../inc/hooks.php:547 ../inc/hooks.php:550
+msgid ", "
+msgstr ","
+
+#: ../inc/menus.php:8
+msgid "[Woffice] main menu in the header."
+msgstr "[Woffice] Header da Ana menü."
+
+#: ../inc/multiverso.php:11
+msgid "You need to be logged to manage your files!"
+msgstr "Dosyalarınızı yönetmek için giriş yapmış olmanız gerekir!"
+
+#: ../inc/multiverso.php:86 ../inc/multiverso.php:246
+msgid "Add new File"
+msgstr "Yeni dosya ekle"
+
+#: ../inc/multiverso.php:101
+msgid "Category/Folder"
+msgstr "Kategori/Klasör"
+
+#: ../inc/multiverso.php:121
+msgid "Are you sure you wish to trash the file: "
+msgstr "Silmek istediğinize emin misiniz?"
+
+#: ../inc/multiverso.php:161
+msgid "Edit File"
+msgstr "Dosyayı Düzenle"
+
+#: ../inc/multiverso.php:169 ../inc/multiverso.php:260
+msgid "Description"
+msgstr "Açıklama"
+
+#: ../inc/multiverso.php:176 ../inc/multiverso.php:266
+msgid "Category"
+msgstr "Kategori"
+
+#: ../inc/multiverso.php:207 ../inc/multiverso.php:303
+msgid "Published"
+msgstr "Yayınlandı"
+
+#: ../inc/multiverso.php:208 ../inc/multiverso.php:304
+msgid "Pending Review"
+msgstr "İnceleme Bekliyor"
+
+#: ../inc/multiverso.php:209 ../inc/multiverso.php:305
+msgid "Draft"
+msgstr "Taslak"
+
+#: ../inc/multiverso.php:210 ../inc/multiverso.php:306
+msgid "Trashed"
+msgstr "Çöpe Gönderilen"
+
+#: ../inc/multiverso.php:228
+msgid "Update"
+msgstr "Güncelle"
+
+#: ../inc/multiverso.php:322
+msgid "Save"
+msgstr "Kaydet"
+
+#: ../inc/register.php:84
+msgid "Required form field is missing"
+msgstr "Gerekli form alanı eksik"
+
+#: ../inc/register.php:88
+msgid "Username too short. At least 4 characters is required"
+msgstr "Kullanıcı adı çok kısa. En az 4 karakter gereklidir"
+
+#: ../inc/register.php:92
+msgid "Password length must be greater than 5"
+msgstr "Parola uzunluğu 5’ten büyük olması gerekir"
+
+#: ../inc/register.php:96
+msgid "Email is not valid"
+msgstr "E-posta geçerli değil."
+
+#: ../inc/register.php:100
+msgid "Email Already in use"
+msgstr "Bu email adresi daha önceden kullanılmış"
+
+#: ../inc/register.php:105
+msgid "Website is not a valid URL"
+msgstr "Web sitesi geçerli bir URL değil"
+
+#: ../inc/register.php:141
+msgid "Registration complete. You can now "
+msgstr "Kayıt tamamlandı. Şimdi "
+
+#: ../inc/register.php:141
+msgid "Sign In"
+msgstr "Oturum aç"
+
+#: ../inc/widgets/cf7/class-widget-cf7.php:10
+msgid "(Woffice) Form"
+msgstr "(Woffice) Form"
+
+#: ../inc/widgets/cf7/class-widget-cf7.php:44
+msgid "Form:"
+msgstr "Form:"
+
+#: ../inc/widgets/cf7/class-widget-cf7.php:56
+msgid "No form Found"
+msgstr "Hiç Form Bulunamadı"
+
+#: ../inc/widgets/eventon/class-widget-eventon.php:10
+msgid "(Woffice) Events"
+msgstr "(Woffice) Olaylar"
+
+#: ../inc/widgets/eventon/views/widget.php:18
+msgid "No post found..."
+msgstr "Maalesef , hiçbir yazı bulunamadı !"
+
+#: ../inc/widgets/visualizer/class-widget-visualizer.php:10
+msgid "(Woffice) Graph"
+msgstr "(Woffice) Grafik"
+
+#: ../inc/widgets/visualizer/class-widget-visualizer.php:44
+msgid "Graph:"
+msgstr "Grafik"
+
+#: ../inc/widgets/visualizer/class-widget-visualizer.php:57
+msgid "No Graph Found"
+msgstr "Hiçbir grafik bulunamadı"
+
+#: ../inc/widgets/wisechat/class-widget-wisechat.php:10
+msgid "(Woffice) Chat"
+msgstr "(Woffice) Sohbet"
+
+#: ../inc/widgets/wisechat/views/widget.php:16
+msgid "Sorry Wise chat isn't enabled...Please install it."
+msgstr "Üzgünüm Wise Chat etkin değil… Lütfen yükleyin."
+
+#: ../inc/widgets/wpml/class-widget-wpml.php:10
+msgid "(Woffice) WPML languages"
+msgstr "(Woffice) WPML dilleri"
+
+#: ../page-templates/login.php:54 ../page-templates/login.php:59
+#: ../page-templates/login.php:64
+msgid "ERROR:"
+msgstr "HATA:"
+
+#: ../page-templates/login.php:55
+msgid "Invalid username and/or password."
+msgstr "Geçersiz Kullanıcı Adı/Parola."
+
+#: ../page-templates/login.php:60
+msgid "Username and/or Password is empty."
+msgstr "Kullanıcı adı ve/veya parola boş."
+
+#: ../page-templates/login.php:65
+msgid "You are logged out."
+msgstr "Çıkış yaptınız"
+
+#: ../page-templates/login.php:90
+msgid "Lost Password"
+msgstr "Şifrenizi mi unuttunuz?"
+
+#: ../page-templates/login.php:99
+msgid "Sign Up"
+msgstr "Şimdi Kaydolun"
+
+#: ../page-templates/login.php:103
+msgid "Go back"
+msgstr "Geri Dön"
+
+#: ../page-templates/login.php:115
+msgid "Proudly powered by"
+msgstr "Powered by"
+
+#: ../page-templates/projects.php:64
+msgid "Dates are not good, please check again."
+msgstr "Tarihler iyi değildir, tekrar kontrol edin."
+
+#: ../page-templates/projects.php:159
+msgid "See Project"
+msgstr "Projenizi Görün"
+
+#: ../page-templates/projects.php:179
+msgid "Create a project"
+msgstr "Proje Oluştur"
+
+#: ../page-templates/projects.php:193
+msgid "Information"
+msgstr "Bilgi"
+
+#: ../page-templates/projects.php:194
+msgid ""
+"You'll only find here basic settings for the projects, for more settings "
+"please contact an user with author right."
+msgstr ""
+"Burada sadece basit ayarları bulabilirsiniz, daha fazlası için yazar hakkı "
+"olan bir üye ile temasa geçiniz."
+
+#: ../page-templates/projects.php:204
+msgid "Project's Title:"
+msgstr "Projenin adı:"
+
+#: ../page-templates/projects.php:210
+msgid "Please check the dates"
+msgstr "Tarihlerini kontrol edin"
+
+#: ../page-templates/projects.php:217
+msgid "Project's starting date:"
+msgstr "Projenin başlangıç ​​tarihi:"
+
+#: ../page-templates/projects.php:218 ../page-templates/projects.php:225
+msgid "It must be like : DD-MM-YYYY"
+msgstr "Bu gibi olmalıdır: DD-MM-YYYY"
+
+#: ../page-templates/projects.php:224
+msgid "Project's ending date:"
+msgstr "Projenin bitiş tarihi:"
+
+#: ../page-templates/projects.php:243
+msgid "Project's Category:"
+msgstr "Proje kategori:"
+
+#: ../page-templates/projects.php:246 ../page-templates/wiki.php:165
+msgid "No category"
+msgstr "Kategori Yok"
+
+#: ../page-templates/projects.php:255
+msgid "Project's Content:"
+msgstr "Projenin İçeriği:"
+
+#: ../page-templates/projects.php:268
+msgid "Create Project"
+msgstr "Proje Oluştur"
+
+#: ../page-templates/projects.php:275 ../page-templates/wiki.php:193
+msgid "Go Back"
+msgstr "Geri Dön"
+
+#: ../page-templates/wiki.php:116
+msgid "New Wiki Article"
+msgstr "Yeni Wiki Makalesi"
+
+#: ../page-templates/wiki.php:162
+msgid "Article's Category:"
+msgstr "Makale Kategorisi:"
+
+#: ../page-templates/wiki.php:187
+msgid "Create Article"
+msgstr "Makale Oluştur"

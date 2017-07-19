@@ -1,0 +1,80 @@
+.rssap-grid-row {
+    width: 100%;
+    border: 0;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+    display: table;
+}
+
+.rssap-grid-row::after {
+    clear: both;
+}
+
+.rssap-grid-column {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    float: left;
+    min-height: 1px;
+    position: relative;
+    display: block;
+}
+
+@media (max-width: 768px) {
+    .rssap-grid-column {
+        width: 100%;
+    }
+}
+
+@media (min-width: 769px) {
+    .rssap-grid-row-1 .rssap-grid-column {
+        width: 100%;
+    }
+
+    .rssap-grid-row-2 .rssap-grid-column {
+        width: 50%;
+    }
+
+    .rssap-grid-row-3 .rssap-grid-column {
+        width: 33%;
+    }
+
+    .rssap-grid-row-4 .rssap-grid-column {
+        width: 25%;
+    }
+
+    .rssap-grid-row-5 .rssap-grid-column {
+        width: 20%;
+    }
+
+    .rssap-grid-row-6 .rssap-grid-column {
+        width: 16.6%;
+    }
+
+    .rssap-grid-row-7 .rssap-grid-column {
+        width: 14.2%;
+    }
+
+    .rssap-grid-row-8 .rssap-grid-column {
+        width: 12.5%;
+    }
+
+    .rssap-grid-row-9 .rssap-grid-column {
+        width: 11.1%;
+    }
+
+    .rssap-grid-row-10 .rssap-grid-column {
+        width: 10%;
+    }
+
+    .rssap-grid-row-11 .rssap-grid-column {
+        width: 9%;
+    }
+
+    .rssap-grid-row-12 .rssap-grid-column {
+        width: 8.3%;
+    }
+}

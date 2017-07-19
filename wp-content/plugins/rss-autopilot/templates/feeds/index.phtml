@@ -1,0 +1,111 @@
+<div class="wrap">
+    <h2>
+        <?php echo esc_html( __( 'Feeds', 'rss-autopilot' ) ); ?> <a href="<?php echo $this->menuUrl('rssap-feeds', 'add'); ?>" class="add-new-h2"><?php echo esc_html( __( 'Add New', 'rss-autopilot' ) ); ?></a>
+    </h2>
+
+    <?php
+    $list = $grid->getList();
+    ?>
+
+    <form method="get" action="">
+        <input type="hidden" name="page" value="<?php echo esc_attr( $_REQUEST['page'] ); ?>" />
+        <div class="tablenav top">
+            <div class="alignleft actions bulkactions">
+                <label class="screen-reader-text" for="bulk-action-selector-top"><?php esc_html_e('Select bulk action', 'rss-autopilot'); ?></label>
+                <select id="bulk-action-selector-top" name="action">
+                    <option selected="selected" value=""><?php esc_html_e('Bulk Actions', 'rss-autopilot'); ?></option>
+                    <option value="delete"><?php esc_html_e('Delete', 'rss-autopilot'); ?></option>
+                </select>
+                <input type="submit" value="<?php esc_html_e('Apply', 'rss-autopilot'); ?>" class="button action" id="doaction">
+            </div>
+            <div class="tablenav-pages">
+                <span class="displaying-num"><?php echo $list['pagination']['totalItems']; ?> <?php esc_html_e('items'); ?></span>
+                <span class="pagination-links"><a href="<?php echo $this->menuUrl('rssap-feeds'); ?>" title="<?php esc_attr_e('Go to the first page', 'rss-autopilot'); ?>" class="first-page <?php if ($list['pagination']['currentPage'] == 1) : ?>disabled<?php endif; ?>">«</a>
+                <a href="<?php echo $this->menuUrl('rssap-feeds', '', array('paged'=>$list['pagination']['currentPage']-1)); ?>" title="<?php esc_attr_e('Go to the previous page', 'rss-autopilot'); ?>" class="prev-page <?php if ($list['pagination']['currentPage'] == 1) : ?>disabled<?php endif; ?>">‹</a>
+                <span class="paging-input">
+                    <label class="screen-reader-text" for="current-page-selector"><?php esc_html_e('Select Page', 'rss-autopilot'); ?></label>
+                    <input type="text" size="1" value="<?php echo $list['pagination']['currentPage']; ?>" name="paged" title="<?php esc_attr_e('Current page', 'rss-autopilot'); ?>" id="current-page-selector" class="current-page"> <?php esc_html_e('of', 'rss-autopilot'); ?> <span class="total-pages"><?php echo $list['pagination']['totalPages']; ?></span>
+                </span>
+                <a href="<?php echo $this->menuUrl('rssap-feeds', '', array('paged'=>$list['pagination']['currentPage']+1)); ?>" title="<?php esc_attr_e('Go to the next page', 'rss-autopilot'); ?>" class="next-page <?php if ($list['pagination']['currentPage'] == $list['pagination']['totalPages']) : ?>disabled<?php endif; ?>">›</a>
+                <a href="<?php echo $this->menuUrl('rssap-feeds', '', array('paged'=>$list['pagination']['totalPages'])); ?>" title="<?php esc_attr_e('Go to the last page', 'rss-autopilot'); ?>" class="last-page <?php if ($list['pagination']['currentPage'] == $list['pagination']['totalPages']) : ?>disabled<?php endif; ?>">»</a></span>
+            </div>
+            <br class="clear">
+        </div>
+
+        <table class="wp-list-table widefat fixed striped pages">
+            <thead>
+            <tr>
+                <th class="manage-column column-cb check-column">
+                    <label for="cb-select-all-1" class="screen-reader-text"><?php esc_html_e('Select All', 'rss-autopilot'); ?></label>
+                    <input type="checkbox" id="cb-select-all-1">
+                </th>
+                <th class="manage-column column-title <?php echo $grid->orderByStateHelper('title'); ?>">
+                    <a href="<?php echo $grid->orderByHelper('title', $this); ?>">
+                        <span><?php esc_html_e('Title', 'rss-autopilot'); ?></span>
+                        <span class="sorting-indicator"></span>
+                    </a>
+                </th>
+                <th class="manage-column">
+                    <?php esc_html_e('Automatic updates', 'rss-autopilot'); ?>
+                </th>
+                <th class="manage-column column-author">
+                    <?php esc_html_e('Author', 'rss-autopilot'); ?>
+                </th>
+                <th class="manage-column column-date <?php echo $grid->orderByStateHelper('date'); ?>">
+                    <a href="<?php echo $grid->orderByHelper('date', $this); ?>">
+                        <span><?php esc_html_e('Date', 'rss-autopilot'); ?></span>
+                        <span class="sorting-indicator"></span>
+                    </a>
+                </th>
+            </tr>
+            </thead>
+
+            <tbody id="the-list">
+
+            <?php foreach ($list['list'] as $item) : ?>
+                <tr class="author-self level-0 post-40 type-page status-publish hentry" id="post-40">
+                    <th class="check-column" scope="row">
+                        <label for="cb-select-40" class="screen-reader-text"><?php echo esc_html($item->post_title); ?></label>
+                        <input type="checkbox" value="<?php echo $item->ID; ?>" name="post[]" id="cb-select-40">
+                        <div class="locked-indicator"></div>
+                    </th>
+                    <td class="post-title page-title column-title">
+                        <strong>
+                            <a href="<?php echo $this->menuUrl('rssap-feeds', 'edit', array('post'=>$item->ID)); ?>" class="row-title"><?php echo esc_html($item->post_title); ?></a>
+                        </strong>
+                        <div class="row-actions">
+                            <span class="edit">
+                                <a title="<?php esc_html_e('Run', 'rss-autopilot'); ?>" href="<?php echo $this->menuUrl('rssap-feeds', 'run', array('post'=>$item->ID)); ?>"><?php esc_html_e('Run', 'rss-autopilot'); ?></a> |
+                            </span>
+                            <span class="trash">
+                                <a href="<?php echo $this->menuUrl('rssap-feeds', 'removePosts', array('post'=>$item->ID)); ?>" title="<?php esc_attr_e('Remove posts', 'rss-autopilot'); ?>" class="submitdelete"><?php esc_html_e('Remove posts', 'rss-autopilot'); ?></a> |
+                            </span>
+                            <span class="edit">
+                                <a title="<?php esc_html_e('Edit', 'rss-autopilot'); ?>" href="<?php echo $this->menuUrl('rssap-feeds', 'edit', array('post'=>$item->ID)); ?>"><?php esc_html_e('Edit', 'rss-autopilot'); ?></a> |
+                            </span>
+                            <span class="trash">
+                                <a href="<?php echo $this->menuUrl('rssap-feeds', 'delete', array('post'=>$item->ID)); ?>" title="<?php esc_attr_e('Delete', 'rss-autopilot'); ?>" class="submitdelete"><?php esc_html_e('Delete', 'rss-autopilot'); ?></a>
+                            </span>
+                        </div>
+                    </td>
+                    <td class="type column-type">
+                        <?php $status = get_post_meta( $item->ID, '_campaign_status', true ); ?>
+                        <?php if ($status == 'started') : ?>
+                            <?php esc_html_e('Enabled', 'rss-autopilot'); ?> | <a href="<?php echo $this->menuUrl('rssap-feeds', 'changeStatus', array('post'=>$item->ID, 'status'=>'stopped')); ?>" class="rssap-disable"><?php esc_html_e('Turn Off', 'rss-autopilot'); ?></a>
+                        <?php else: ?>
+                            <?php esc_html_e('Disabled', 'rss-autopilot'); ?> | <a href="<?php echo $this->menuUrl('rssap-feeds', 'changeStatus', array('post'=>$item->ID, 'status'=>'started')); ?>" class="rssap-enable"><?php esc_html_e('Turn On', 'rss-autopilot'); ?></a>
+                        <?php endif; ?>
+                    </td>
+                    <td class="author column-author">
+                        <?php echo esc_html(the_author_meta( 'display_name', $item->post_author )); ?>
+                    </td>
+                    <td class="date column-date"><?php echo $grid->formatDateHelper($item->post_date); ?></td>
+                </tr>
+            <?php endforeach; ?>
+
+            </tbody>
+        </table>
+    </form>
+
+    <br class="clear">
+</div>

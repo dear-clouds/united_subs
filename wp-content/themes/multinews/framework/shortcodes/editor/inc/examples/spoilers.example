@@ -1,0 +1,108 @@
+<h2>Basic accordion</h2>
+
+[%mom_su_accordion]
+	[%mom_su_spoiler title="Spoiler title"] Spoiler content [/%mom_su_spoiler]
+	[%mom_su_spoiler title="Spoiler title"] Spoiler content [/%mom_su_spoiler]
+	[%mom_su_spoiler title="Spoiler title"] Spoiler content [/%mom_su_spoiler]
+[/%mom_su_accordion]
+
+-----
+
+<h2>Fancy accordion</h2>
+
+[%mom_su_accordion]
+	[%mom_su_spoiler title="Spoiler title" style="fancy"] Spoiler content [/%mom_su_spoiler]
+	[%mom_su_spoiler title="Spoiler title" style="fancy"] Spoiler content [/%mom_su_spoiler]
+	[%mom_su_spoiler title="Spoiler title" style="fancy"] Spoiler content [/%mom_su_spoiler]
+[/%mom_su_accordion]
+
+-----
+
+<h2>Accordion with open spoiler</h2>
+
+[%mom_su_accordion]
+	[%mom_su_spoiler title="Spoiler title" open="yes"] Spoiler content [/%mom_su_spoiler]
+	[%mom_su_spoiler title="Spoiler title"] Spoiler content [/%mom_su_spoiler]
+	[%mom_su_spoiler title="Spoiler title"] Spoiler content [/%mom_su_spoiler]
+[/%mom_su_accordion]
+
+-----
+
+<h2>Different spoiler styles</h2>
+
+[%mom_su_spoiler title="Spoiler title" style="default"] Spoiler content [/%mom_su_spoiler]
+[%mom_su_spoiler title="Spoiler title" style="fancy"] Spoiler content [/%mom_su_spoiler]
+[%mom_su_spoiler title="Spoiler title" style="simple"] Spoiler content [/%mom_su_spoiler]
+
+-----
+
+<h2>Open spoilers</h2>
+
+[%mom_su_spoiler title="Spoiler title" style="default" open="yes"] Spoiler content [/%mom_su_spoiler]
+[%mom_su_spoiler title="Spoiler title" style="fancy" open="yes"] Spoiler content [/%mom_su_spoiler]
+[%mom_su_spoiler title="Spoiler title" style="simple" open="yes"] Spoiler content [/%mom_su_spoiler]
+
+-----
+
+<h2>Spoilers with anchors (see the code)</h2>
+
+[%mom_su_spoiler title="Spoiler title" anchor="Spoiler-1"] Spoiler content [/%mom_su_spoiler]
+[%mom_su_spoiler title="Spoiler title" anchor="Spoiler-2"] Spoiler content [/%mom_su_spoiler]
+[%mom_su_spoiler title="Spoiler title" anchor="Spoiler-3"] Spoiler content [/%mom_su_spoiler]
+
+Use next links to open this spoilers
+
+<a href="#Spoiler-1">Open spoiler 1</a> | <a href="#Spoiler-2">Open spoiler 2</a> | <a href="#Spoiler-3">Open spoiler 3</a>
+
+-----
+
+<h2>Accordion + Spoilers + Anchors (see the code)</h2>
+
+[%mom_su_accordion]
+	[%mom_su_spoiler title="Spoiler title" anchor="Accordion-1"] Spoiler content [/%mom_su_spoiler]
+	[%mom_su_spoiler title="Spoiler title" anchor="Accordion-2"] Spoiler content [/%mom_su_spoiler]
+	[%mom_su_spoiler title="Spoiler title" anchor="Accordion-3"] Spoiler content [/%mom_su_spoiler]
+[/%mom_su_accordion]
+
+Use next links to expand accordion items
+
+<a href="#Accordion-1">Open spoiler 1</a> | <a href="#Accordion-2">Open spoiler 2</a> | <a href="#Accordion-3">Open spoiler 3</a>
+
+-----
+
+<h2>Different icons</h2>
+
+[%mom_su_accordion]
+	[%mom_su_spoiler title="plus" icon="plus"] Spoiler content [/%mom_su_spoiler]
+	[%mom_su_spoiler title="plus-circle" icon="plus-circle"] Spoiler content [/%mom_su_spoiler]
+	[%mom_su_spoiler title="plus-square-1" icon="plus-square-1"] Spoiler content [/%mom_su_spoiler]
+	[%mom_su_spoiler title="plus-square-2" icon="plus-square-2"] Spoiler content [/%mom_su_spoiler]
+	[%mom_su_spoiler title="arrow" icon="arrow"] Spoiler content [/%mom_su_spoiler]
+	[%mom_su_spoiler title="arrow-circle-1" icon="arrow-circle-1"] Spoiler content [/%mom_su_spoiler]
+	[%mom_su_spoiler title="arrow-circle-2" icon="arrow-circle-2"] Spoiler content [/%mom_su_spoiler]
+	[%mom_su_spoiler title="caret" icon="caret"] Spoiler content [/%mom_su_spoiler]
+	[%mom_su_spoiler title="caret-square" icon="caret-square"] Spoiler content [/%mom_su_spoiler]
+	[%mom_su_spoiler title="folder-1" icon="folder-1"] Spoiler content [/%mom_su_spoiler]
+	[%mom_su_spoiler title="folder-2" icon="folder-2"] Spoiler content [/%mom_su_spoiler]
+[/%mom_su_accordion]
+
+-----
+
+<h2>Custom styles</h2>
+
+[%mom_su_spoiler title="Spoiler title" class="my-custom-spoiler"] Spoiler content [/%mom_su_spoiler]
+
+<!--
+	IMPORTANT
+	You need to add this CSS code to the custom CSS editor at plugin settings page
+-->
+<style>
+	.mom-su-spoiler.my-custom-spoiler {}
+	.mom-su-spoiler.my-custom-spoiler .mom-su-spoiler-title { background-color: #84ADEA }
+	.mom-su-spoiler.my-custom-spoiler .mom-su-spoiler-title .mom-su-spoiler-icon,
+	.mom-su-spoiler.mom-su-spoiler-closed.my-custom-spoiler .mom-su-spoiler-title .mom-su-spoiler-icon {
+		left: 3px;
+		background-color: #fff;
+	}
+	.mom-su-spoiler.my-custom-spoiler .mom-su-spoiler-content { background-color: #C0D1EB }
+</style>

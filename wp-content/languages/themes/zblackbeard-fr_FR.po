@@ -1,0 +1,35 @@
+# Translation of ZBlackbeard in French (France)
+# This file is distributed under the same license as the ZBlackbeard package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-03-31 10:17:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/1.1.0-alpha\n"
+"Project-Id-Version: ZBlackbeard\n"
+
+#. Theme Name of the plugin/theme
+msgid "ZBlackbeard"
+msgstr "ZBlackbeard"
+
+#. Description of the plugin/theme
+msgid "ZBlackbeard is a modern responsive WordPress Theme. It's perfect for web agencies, digital studios, corporate, product showcase, personal and business portfolio."
+msgstr "ZBlackbeard est un thème WordPress moderne et responsive. Il est parfait pour des agences web, des studios numériques, une vitrine de produit ou un portfolio personnel / professionnel."
+
+#: 404.php:40
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Apparemment, rien n&rsquo;a été trouvé à cette adresse. Essayez avec une recherche&nbsp;?"
+
+#: 404.php:32
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oups&nbsp;! Cette page est introuvable."
+
+#. Author of the plugin/theme
+msgid "Themeisle"
+msgstr "Themeisle"
+
+#. Author URI of the plugin/theme
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"

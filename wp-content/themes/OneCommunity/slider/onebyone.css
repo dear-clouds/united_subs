@@ -1,0 +1,189 @@
+#banner { position: absolute; }     
+
+.page-template-frontpage2-php .oneByOne1 {top: 0px;left: 0px;  margin: 0;width: 820px; height: 320px;  position: relative; overflow: hidden;}   
+
+#banner .oneByOne_item{position: absolute;width: 820px;height: 340px;  overflow: hidden;  display: none;}         
+#banner .oneByOne_item a{text-decoration: none;}
+              
+.img1 { display:block; float:left; width:330px; padding:3px; border:1px solid #e0e0e0; border-radius:4px; box-shadow: 2px 2px 0px 0px #e0e0e0; }
+.text-title { width:450px; height:215px; float:right; font-size:38px; line-height:1.4em; }
+.no-thumb .text-title { width:100%; height:auto; float:left; }
+.text-title a { color:#0f0f0f; }
+.slider-comments { float:right; margin-right:1px; font-family: Open Sans; width:60px; font-weight:bold; color:#ffffff; background:#c5c3c3; padding:7px 15px 9px 15px; text-align:center; margin-top:30px; text-shadow: 1px 1px 0px #ababab; }
+.slider-comments-number {font-size:22px; font-weight:bold; line-height:22px; }
+.slider-comments-desc { font-size:11px; line-height:11px; font-weight:normal; margin-top:2px; }
+.text-category { float:right; font-family: Open Sans; margin-right:1px; font-size:22px; font-weight:bold; line-height:22px; color:#ffffff; background:#c5c3c3; padding:13px 19px 16px 19px; margin-top:30px; text-shadow: 1px 1px 0px #ababab; }
+.text-category a { color:#ffffff; }           
+.slider-more { display:block; height:51px; width:46px; background-color:#ffb03d; background-image: url( "slider-more.png" ); background-repeat: no-repeat; background-position:center center; float:right; margin-top:30px; }       
+  
+.oneByOne-left { float:left; width:395px; }
+.slider-item-1 { font:127px QuicksandBook; color:#ffffff; background:#6fdeab; padding:15px 25px; text-shadow: 1px 1px 0px #5ebd92; }
+.slider-item-2 { font:36px QuicksandBook; color:#ffffff; background:#86dbde; padding:16px 25px 17px 25px; text-shadow: 1px 1px 0px #6eb3b6; margin-top:3px; }
+.slider-item-3, .slider-item-4, .slider-item-5, .slider-item-6 { font:36px QuicksandBook; margin-left:3px; float:left; width:357px; color:#ffffff; background:#ffb03d; padding:15px 25px; text-shadow: 1px 1px 0px #de9935; margin-bottom:3px; }
+.slider-item-3 a, .slider-item-4 a, .slider-item-5 a, .slider-item-6 a { color:#ffffff; }
+.oneByOne-slide-2 { background:#86dbde; height:289px!important; width:806px!important; }
+.oneByOne-slide-3 { background:#ff4a4a; height:289px!important; width:806px!important; }
+.oneByOne-a { font:90px QuicksandBook; color:#ffffff; padding:35px 35px; text-shadow: 1px 1px 0px #76c0c3; }
+.oneByOne-b { font:90px QuicksandBook; color:#ffffff; padding:35px 35px; text-shadow: 1px 1px 0px #d43232; text-align:right; }
+
+.page-template-frontpage3-php .buttonArea { float: left;left: 390px; position: relative; top: 300px; }
+.buttonArea{ float: left;left: 420px; position: relative; top: 264px; }                     
+.buttonCon{ float: left; left: -50%; position: relative; }
+.buttonCon .theButton {display: block;color: #B22222;width: 16px;height: 18px;background: url("circlebutton.png") no-repeat;text-indent: -9999px;border: 0;margin-right: 3px;float: left;}
+.buttonArea a.active { background-position: 0 -20px; }             
+.arrowButton { cursor: pointer; }            
+.arrowButton .prevArrow{background: url("prev.png") no-repeat; width: 40px;height: 80px; position: absolute;top: 170px; left: 12px; } 
+.arrowButton .nextArrow{ background: url("next.png") no-repeat;width: 40px;height: 80px;position: absolute;top: 170px;right: 12px; }   
+
+
+.clear{ clear: both; }
+
+.animate0{
+   	-webkit-animation-duration: .6s;
+	-webkit-animation-delay: 0s;
+	-webkit-animation-timing-function: ease;
+	-webkit-animation-fill-mode: both;
+	-moz-animation-duration: .6s;
+	-moz-animation-delay: 0s;
+	-moz-animation-timing-function: ease;
+	-moz-animation-fill-mode: both;
+	-ms-animation-duration: .6s;
+	-ms-animation-delay: 0s;
+	-ms-animation-timing-function: ease;
+	-ms-animation-fill-mode: both;
+	animation-duration: 1.0s;
+	animation-delay: 0s;
+	animation-timing-function: ease;
+	animation-fill-mode: both;	          
+}         
+
+.animate1{
+   	-webkit-animation-duration: .6s;
+	-webkit-animation-delay: .2s;
+	-webkit-animation-timing-function: ease;
+	-webkit-animation-fill-mode: both;
+	-moz-animation-duration: .6s;
+	-moz-animation-delay: .2s;
+	-moz-animation-timing-function: ease;
+	-moz-animation-fill-mode: both;
+	-ms-animation-duration: .6s;
+	-ms-animation-delay: .2s;
+	-ms-animation-timing-function: ease;
+	-ms-animation-fill-mode: both;
+	animation-duration: 1.0s;
+	animation-delay: .2s;
+	animation-timing-function: ease;
+	animation-fill-mode: both;	          
+} 
+
+.animate2{
+   	-webkit-animation-duration: .6s;
+	-webkit-animation-delay: .4s;
+	-webkit-animation-timing-function: ease;
+	-webkit-animation-fill-mode: both;
+	-moz-animation-duration: .6s;
+	-moz-animation-delay: .4s;
+	-moz-animation-timing-function: ease;
+	-moz-animation-fill-mode: both;
+	-ms-animation-duration: .6s;
+	-ms-animation-delay: .4s;
+	-ms-animation-timing-function: ease;
+	-ms-animation-fill-mode: both;
+	animation-duration: 1.0s;
+	animation-delay: .4s;
+	animation-timing-function: ease;
+	animation-fill-mode: both;	          
+} 
+
+.animate3{
+   	-webkit-animation-duration: .6s;
+	-webkit-animation-delay: .6s;
+	-webkit-animation-timing-function: ease;
+	-webkit-animation-fill-mode: both;
+	-moz-animation-duration: .6s;
+	-moz-animation-delay: .6s;
+	-moz-animation-timing-function: ease;
+	-moz-animation-fill-mode: both;
+	-ms-animation-duration: .6s;
+	-ms-animation-delay: .6s;
+	-ms-animation-timing-function: ease;
+	-ms-animation-fill-mode: both;
+	animation-duration: 1.0s;
+	animation-delay: .6s;
+	animation-timing-function: ease;
+	animation-fill-mode: both;	          
+}   
+
+.animate4{
+   	-webkit-animation-duration: .6s;
+	-webkit-animation-delay: .8s;
+	-webkit-animation-timing-function: ease;
+	-webkit-animation-fill-mode: both;
+	-moz-animation-duration: .6s;
+	-moz-animation-delay: .8s;
+	-moz-animation-timing-function: ease;
+	-moz-animation-fill-mode: both;
+	-ms-animation-duration: .6s;
+	-ms-animation-delay: .8s;
+	-ms-animation-timing-function: ease;
+	-ms-animation-fill-mode: both;
+	animation-duration: 1.0s;
+	animation-delay: .8s;
+	animation-timing-function: ease;
+	animation-fill-mode: both;	          
+}  
+
+.animate5{
+   	-webkit-animation-duration: .6s;
+	-webkit-animation-delay: 1s;
+	-webkit-animation-timing-function: ease;
+	-webkit-animation-fill-mode: both;
+	-moz-animation-duration: .6s;
+	-moz-animation-delay: 1s;
+	-moz-animation-timing-function: ease;
+	-moz-animation-fill-mode: both;
+	-ms-animation-duration: .6s;
+	-ms-animation-delay: 1s;
+	-ms-animation-timing-function: ease;
+	-ms-animation-fill-mode: both;
+	animation-duration: 1.0s;
+	animation-delay: 1s;
+	animation-timing-function: ease;
+	animation-fill-mode: both;	          
+}    
+.animate6{
+   	-webkit-animation-duration: .6s;
+	-webkit-animation-delay: 1.2s;
+	-webkit-animation-timing-function: ease;
+	-webkit-animation-fill-mode: both;
+	-moz-animation-duration: .6s;
+	-moz-animation-delay: 1.2s;
+	-moz-animation-timing-function: ease;
+	-moz-animation-fill-mode: both;
+	-ms-animation-duration: .6s;
+	-ms-animation-delay: 1.2s;
+	-ms-animation-timing-function: ease;
+	-ms-animation-fill-mode: both;
+	animation-duration: 1.0s;
+	animation-delay: 1.2s;
+	animation-timing-function: ease;
+	animation-fill-mode: both;	          
+}    
+.animate7{
+   	-webkit-animation-duration: .6s;
+	-webkit-animation-delay: 1.4s;
+	-webkit-animation-timing-function: ease;
+	-webkit-animation-fill-mode: both;
+	-moz-animation-duration: .6s;
+	-moz-animation-delay: 1.4s;
+	-moz-animation-timing-function: ease;
+	-moz-animation-fill-mode: both;
+	-ms-animation-duration: .6s;
+	-ms-animation-delay: 1.4s;
+	-ms-animation-timing-function: ease;
+	-ms-animation-fill-mode: both;
+	animation-duration: 1.0s;
+	animation-delay: 1.4s;
+	animation-timing-function: ease;
+	animation-fill-mode: both;	          
+}    

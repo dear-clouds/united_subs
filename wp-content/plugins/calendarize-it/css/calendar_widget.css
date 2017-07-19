@@ -1,0 +1,6 @@
+/* calendar_widget.css */
+.fc-state-highlight.fc-have-event,
+.fc-have-event {
+	background-color: #dedede;
+	cursor:pointer;
+}

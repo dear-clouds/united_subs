@@ -1,0 +1,350 @@
+/*blue*/
+
+.ecwd_theme_calendar_grey .calendar-head .previous, .calendar-head .next ,
+.ecwd_theme_calendar_grey .calendar-head .current-month,
+.ecwd_theme_calendar_grey .ecwd_calendar_view_tabs ul li a{
+    text-shadow:none;
+}
+.ecwd_theme_calendar_grey .ecwd-widget-mini .calendar-head.ecwd_calendar_prev_next{
+	border:1px solid #E5E5E5;
+}
+.ecwd_theme_calendar_grey .ecwd_calendar_view_tabs ul li:first-child.ecwd-selected-mode a {
+    border-left: 1px solid #EEE;
+}
+.ecwd_theme_calendar_grey .ecwd_calendar_view_tabs ul li.ecwd-selected-mode a {
+    border: 1px solid #eeeeee;
+}
+.ecwd_theme_calendar_grey .ecwd_calendar .ecwd_calendar_prev_next{
+	box-shadow: none;
+	border: 1px solid #E5E5E5;
+	border-bottom: 0;
+}
+.ecwd_theme_calendar_grey .ecwd_calendar td {
+    border: 1px solid #E5E5E5;
+}
+.ecwd_theme_calendar_grey .cal_blue.ecwd_calendar_container{
+	margin:0;
+}
+.ecwd_theme_calendar_grey table.cal_blue.ecwd_calendar_container th > div {
+    font-size: 14px;
+}
+.ecwd_theme_calendar_grey .ecwd_calendar_view_tabs  ul li{
+    border-right: 1px solid #fff;
+    border-left: 1px solid #fff;
+}
+
+.ecwd_theme_calendar_grey table.cal_blue.ecwd_calendar_container .day-without-date {
+	background:#F9F9F9;
+}
+.ecwd_theme_calendar_grey table.cal_blue.ecwd_calendar_container .day-without-date div {
+	text-align:center;
+}
+.ecwd_theme_calendar_grey table.cal_blue.ecwd_calendar_container .weekend {
+  background: #EDEDED;
+}
+
+.ecwd_theme_calendar_grey table.cal_blue.ecwd_calendar_container .normal-day-heading,
+.ecwd_theme_calendar_grey table.cal_blue.ecwd_calendar_container .weekend-heading{
+  background: #e5e5e5 !important;
+}
+
+
+.ecwd_theme_calendar_grey .ecwd_calendar_view_tabs  ul li a{
+    color: #555555;
+    background:#f5f5f5;
+}
+
+.ecwd_theme_calendar_grey .ecwd_calendar_view_tabs  ul li a:hover{
+    color: #555555;
+    background:#fff;
+}
+
+.ecwd_theme_calendar_grey .ecwd_calendar_view_tabs  ul li.ecwd-selected-mode a{
+    background:#ffffff;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+	color: #555555;
+}
+.ecwd_theme_calendar_grey .ecwd_calendar_view_tabs  ul li  a{
+	border: 1px solid #F5F5F5;
+}
+
+.ecwd_theme_calendar_grey .cal_blue.ecwd_calendar_container .view-buttons a {
+    background:#647b9a;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#7D9AC0", endColorstr="#647b9a");
+    background: -webkit-gradient(linear, left top, left bottom, from(#7D9AC0), to(#647b9a));
+    background: -moz-linear-gradient(top,  #7D9AC0, #647b9a);
+    border:1px solid #a5b9d3;
+    color:#fdfefe;
+    font-size: 1.3em;
+}
+
+.ecwd_theme_calendar_grey .cal_blue.ecwd_calendar_container .view-buttons a.selected {
+    background: #7D9AC0;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#647b9a", endColorstr="#7D9AC0");
+    background: -webkit-gradient(linear, left top, left bottom, from(#647b9a), to(#7D9AC0));
+    background: -moz-linear-gradient(top,  #647b9a, #7D9AC0);
+}
+
+.ecwd_theme_calendar_grey .cal_blue.ecwd_calendar_container .calendar-heading {
+    text-align:center;
+    padding:4px 3px 3px;
+    height:3.25em;
+    color:#fdfefe;
+}
+
+.ecwd_theme_calendar_grey .cal_blue.full .calendar-heading span {
+    font-size:2em;
+
+}
+.ecwd_theme_calendar_grey .ecwd_filters .ecwd_filter_heading {
+    background-color: #f5f5f5;
+    color: #585858;
+}
+.ecwd_theme_calendar_grey .ecwd_filters .ecwd_filter_item .ecwd_filter_heading span:after{
+   border-color: #585858 transparent transparent transparent;
+}
+.ecwd_theme_calendar_grey.calendar_main .ecwd_show_filters_top span ,
+.ecwd_theme_calendar_grey.calendar_main .ecwd_show_filters span,
+.ecwd_theme_calendar_grey.calendar_main .ecwd_reset_filters span{
+    color: #585858;
+}
+
+.ecwd_theme_calendar_grey.calendar_main .ecwd_show_filters_top {
+    background: #F5F5F5;
+}
+
+.ecwd_theme_calendar_grey .ecwd_calendar  .metainfo,
+.ecwd_theme_calendar_grey .event-organizers a,
+.ecwd_theme_calendar_grey .event-venue a,
+.ecwd_theme_calendar_grey .event-detalis span,
+.ecwd_theme_calendar_grey .event-detalis a{
+    color: #010101;
+	word-break: break-word;
+}
+
+.ecwd_theme_calendar_grey table.cal_blue.ecwd_calendar_container select {
+
+    background: #647b9a;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f3f5f9", endColorstr="#f3f5f9");
+    background: -webkit-gradient(linear, left top, left bottom, from(#7D9AC0), to(#647b9a));
+    background: -moz-linear-gradient(top,  #7D9AC0, #647b9a);
+    outline:none;
+}
+.ecwd_theme_calendar_grey .ecwd_calendar_view_tabs .filter-container  ul{
+    background: #F5F5F5;
+}
+.ecwd_theme_calendar_grey table.cal_blue.ecwd_calendar_container .current-day .open-details {
+    background:#7D9AC0;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#7D9AC0", endColorstr="#718bad");
+    background: -webkit-gradient(linear, left top, left bottom, from(#7D9AC0), to(#718bad));
+    background: -moz-linear-gradient(top,  #7D9AC0,  #718bad);
+}
+
+.ecwd_theme_calendar_grey table.cal_blue.ecwd_calendar_container .close-details {
+    color: #262e3a;
+    font-size: 0.6em;
+    position: absolute;
+    right: 7px;
+    text-decoration: underline;
+    top: 3px;
+}
+
+.ecwd_theme_calendar_grey table.cal_blue.ecwd_calendar_container .open-details {
+    border:4px solid #647b9a;
+    -webkit-box-shadow: 2px 3px 8px rgba(1,2,2,.2);
+    -moz-box-shadow: 2px 3px 8px rgba(1,2,2,.2);
+    box-shadow: 2px 3px 8px rgba(1,2,2,.2);
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    padding:5px 5px 10px 5px;
+}
+.ecwd_theme_calendar_grey table.cal_blue.ecwd_calendar_container .current-day .day-number {
+	color: #585858;
+    background: #E5E5E5;
+}
+@media only screen and (max-width: 768px){
+    .ecwd_theme_calendar_grey .ecwd_calendar td .day-number {
+		padding: 0px !important;
+	}
+    .ecwd_theme_calendar_grey .ecwd-page-full table.cal_blue.ecwd_calendar_container .has-events:after {
+
+        background-color: #e5e5e5;
+    }
+
+    .ecwd_theme_calendar_grey .ecwd_calendar.ecwd-page-full div.event-details {
+        border-bottom: 1px solid #CCC;
+    }
+}
+
+
+.ecwd_theme_calendar_grey .ecwd-widget-mini .event-main-content.no-events{
+    padding: 8px 10px;
+    border: 1px solid #D5DCE2;
+    margin-bottom:1px !important;
+    background: #F9F9F9;
+    color: #676767;
+}
+
+.ecwd_theme_calendar_grey .ecwd-widget-mini .event-container ,
+.ecwd_theme_calendar_grey .ecwd-widget-mini .ecwd_list .event-main-content {
+    border: 1px solid #D5DCE2;
+    margin-bottom: 1px;
+    background: #F9F9F9;
+}
+.ecwd_theme_calendar_grey .ecwd-widget-mini .event-container:last-child {
+    border-bottom: 1px solid #D5DCE2 !important;
+}
+
+.ecwd_theme_calendar_grey .ecwd_calendar.ecwd-widget-mini  .ecwd-events-day-details li{
+    height: 100% !important;
+    text-indent: 0;
+    margin: 0 auto !important;
+    border-radius: 0;
+    border-bottom: 1px solid #CCC;
+    background: #ffffff !important;
+    padding:10px 0 !important;
+    color: #676767 !important;
+}
+
+.ecwd_theme_calendar_grey table.cal_blue.mini .current-day {
+    color:#fdfefe;
+    background:#E5E5E5;
+}
+
+.ecwd_theme_calendar_grey table.cal_blue.mini td ul.events li {
+    background-color: #e5e5e5;
+}
+
+.ecwd_theme_calendar_grey .ecwd-poster-board .ecwd-poster-item .ecwd-event-details .date span:not(.weekday-block):not(.datenumber){
+    color:#ffffff;
+    background:#585858;
+}
+
+
+
+.ecwd_theme_calendar_grey .ecwd-poster-board .ecwd-poster-item .post-descr{
+    font-size:15px;
+}
+.ecwd_theme_calendar_grey .ecwd-poster-board .ecwd-poster-item  .ecwd-event-header h2 a{
+    color:#000000
+}
+
+
+
+/*####################################*/
+
+.ecwd_theme_calendar_grey .ecwd_calendar .filter-arrow-right,
+.ecwd_theme_calendar_grey .ecwd_calendar .filter-arrow-left{
+    color: #555555;
+    font-size: 23px;
+    background:#f5f5f5;
+}
+
+.ecwd_theme_calendar_grey .ecwd_calendar .filter-arrow-right{
+    border-left: 1px solid #FFFFFF;
+    border-right: 1px solid #FFFFFF;
+}
+.ecwd_theme_calendar_grey .ecwd_calendar .filter-arrow-left{
+    border-right: 1px solid #FFFFFF;
+}
+
+.ecwd_theme_calendar_grey .calendar-head{
+    background: #FFFFFF;
+	color:#585858;
+}
+
+.ecwd_theme_calendar_grey .calendar-head a{
+	color:#585858;
+}
+
+.ecwd_theme_calendar_grey .calendar-head .previous,
+.ecwd_theme_calendar_grey .calendar-head .next{
+    font-size: 17px;
+}
+
+.ecwd_theme_calendar_grey .calendar-head .current-month{
+    font-size:28px;
+    border-left:1px solid #FFFFFF;
+    border-right:1px solid #FFFFFF;
+}
+.ecwd_theme_calendar_grey .calendar-head .current-month div{
+   font-size: 16px;
+   line-height: 16px;
+}
+
+@media only screen and (max-width: 500px){
+    .ecwd_theme_calendar_grey .calendar-head .current-month div {
+	  font-size: 13px;
+	  line-height: 24px;
+	  margin-top: -8px;
+	}
+}
+
+.ecwd_theme_calendar_grey .calendar-head .previous{
+    border-right:1px solid #FFFFFF;
+}
+
+.ecwd_theme_calendar_grey .calendar-head .next{
+    border-left:1px solid #FFFFFF;
+}
+
+
+.ecwd_theme_calendar_grey .ecwd_calendar td .day-number{
+    background: #f5f5f5;
+    color: #5C5C5C;
+    padding: 2px 0 4px 2px;
+}
+
+/*############FILTERS##############*/
+
+.ecwd_theme_calendar_grey .ecwd-tag-container  .ecwd-dropdown-menu>div:hover{
+    border: 1px solid #ddd !important;
+    background: #F5F5F5;
+}
+
+@media only screen and (max-width: 500px){
+    .ecwd_theme_calendar_grey .event_dropdown_cont{
+        border-top: 1px solid #D5DCE2;
+        display:none;
+        padding-top: 6px;
+    }
+
+    .ecwd_theme_calendar_grey div.ecwd-week-date{
+        background:#e5e5e5;
+    }
+
+}
+/*#############LIST,WEEK VIEW###############*/
+
+.ecwd_theme_calendar_grey .ecwd_list .ecwd-list-date,
+.ecwd_theme_calendar_grey .ecwd-day-date,
+.ecwd_theme_calendar_grey .day-event-list .ecwd-week-date,
+.ecwd_theme_calendar_grey .day4-event-list .ecwd-week-date,
+.ecwd_theme_calendar_grey .week-event-list .ecwd-week-date {
+    background: #e5e5e5;
+    color: #585858;
+}
+.ecwd_theme_calendar_grey ul.ecwd_list,
+.ecwd_theme_calendar_grey ul.week-event-list,
+.ecwd_theme_calendar_grey ul.day-event-list,
+.ecwd_theme_calendar_grey ul.day4-event-list{
+    background: #f9f9f9;
+    padding:0;
+    margin:0;
+}
+
+.ecwd_theme_calendar_grey .ecwd-pagination .page{
+    color: #585858;
+    background: #e5e5e5;
+}
+
+.ecwd_theme_calendar_grey .ecwd-search button,
+.ecwd_theme_calendar_grey .ecwd-search button:hover {
+    background: #f5f5f5;
+    color: #ababab;
+}
+
+.ecwd_theme_calendar_grey.calendar_main .ecwd-search-submit .fa {
+    color: #ababab;
+}

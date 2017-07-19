@@ -1,0 +1,27 @@
+.rssap-div-selected, .rssap-div-selected * {
+    outline: 5px solid rgb(51, 213, 120) !important;
+    background: rgb(51, 213, 120) !important;
+}
+
+.rssap-div-hover, .rssap-div-selected .rssap-div-hover {
+    outline: 5px dashed red !important;
+    background: rgb(72, 185, 205) !important;
+}
+
+.rssap-div-hover *, .rssap-div-selected .rssap-div-hover * {
+    outline: none !important;
+    background: rgb(72, 185, 205) !important;
+}
+
+.rssap-div-selected .rssap-div-ignore, .rssap-div-selected .rssap-div-ignore * {
+    outline: 5px solid rgb(205, 100, 78) !important;
+    background: rgb(205, 100, 78) !important;
+}
+
+.rssap-div-hover.rssap-div-ignore {
+    outline: 5px dashed rgb(72, 185, 205) !important;
+}
+
+.rssap-div-hover.rssap-div-ignore * {
+    outline: none !important;
+}

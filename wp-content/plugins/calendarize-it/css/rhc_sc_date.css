@@ -1,0 +1,5 @@
+/*  when event is allday hide time  */
+.fc-is-allday.rhc-sc-time,
+.rhc-sc-date.fc-is-allday .rhc-sc-time{
+	display:none;
+}

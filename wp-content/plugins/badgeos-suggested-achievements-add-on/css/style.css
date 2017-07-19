@@ -1,0 +1,11 @@
+
+/*Skip Navigation*/
+.post-navigation a[rel="skip"] {
+    float: right;
+    text-align: right;
+    clear: both;
+    padding-top: 10px;
+}
+.post-navigation a.skip-achievement::before{
+    position: inherit;
+}

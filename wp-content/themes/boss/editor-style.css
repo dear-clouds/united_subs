@@ -1,0 +1,364 @@
+/*
+Theme Name: BuddyBoss
+Description: Used to style the TinyMCE editor.
+*/
+
+html {
+	font-size: 87.5%;
+}
+body {
+	color: #333;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 13px;
+	font-size: 1rem;
+	line-height: 1;
+	vertical-align: baseline;
+}
+
+
+/* =Headings
+-------------------------------------------------------------- */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	clear: both;
+	line-height: 1.846153846;
+	margin: 24px 0;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+	color: #555;
+	font-weight: bold;
+	font-weight: 600;
+}
+h1 {
+	font-size: 25px;
+	line-height: 1.5;
+}
+h2 {
+	font-size: 21px;
+	line-height: 1.6;
+}
+h3 {
+	font-size: 18px;
+	line-height: 1.8;
+}
+h4 {
+	font-size: 16px;
+	line-height: 1.8;
+}
+h5 {
+	font-size: 14px;
+	line-height: 1.8;
+}
+h6 {
+	font-size: 12px;
+	line-height: 1.8;
+}
+hr {
+	background-color: #eee;
+	border: 0;
+	height: 1px;
+	margin: 24px 0;
+	clear: both;
+}
+
+
+/* =Text elements
+-------------------------------------------------------------- */
+
+p {
+	line-height: 1.7;
+	margin: 0 0 24px;
+}
+ul,
+ol {
+	margin: 0 0 24px;
+	line-height: 1.7;
+	padding: 0;
+	overflow: hidden;
+}
+ul {
+	list-style: disc outside;
+}
+ol {
+	list-style: decimal outside;
+}
+ul ul,
+ol ol,
+ul ol,
+ol ul {
+	margin-bottom: 0;
+}
+li {
+	margin: 0 0 0 24px;
+}
+dl {
+	margin: 0 24px;
+}
+dt {
+	font-weight: bold;
+	margin-bottom: 24px;
+}
+dd {
+	line-height: 1.7;
+	margin: 0 0 24px;
+}
+strong {
+	font-weight: bold;
+}
+cite,
+em,
+i {
+	font-style: italic;
+}
+cite {
+	border: none;
+}
+big {
+	font-size: 128.571429%;
+}
+.mceContentBody blockquote {
+	font-weight: normal;
+	margin: 0 0 24px;
+	padding: 24px;
+	background: #F6F7F8;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+.mceContentBody blockquote p:last-child {
+	margin-bottom: 0;
+}
+pre {
+	border: 1px solid #ededed;
+	color: #666;
+	font-family: Consolas, Monaco, Lucida Console, monospace;
+	font-size: 12px;
+	line-height: 1.7;
+	margin: 24px 0;
+	overflow: auto;
+	padding: 24px;
+}
+code,
+kbd,
+samp,
+var {
+	font-family: Consolas, Monaco, Lucida Console, monospace;
+	font-size: 13px;
+	line-height: 2;
+	padding: 4px;
+	background: #eee;
+}
+pre code {
+	display: block;
+}
+abbr,
+acronym,
+dfn {
+	border-bottom: 1px dotted #666;
+	cursor: help;
+}
+address {
+	display: block;
+	line-height: 1.7;
+	margin: 0 0 24px;
+}
+del {
+	color: #333;
+}
+ins {
+	background: #fff9c0;
+	border: none;
+	color: #333;
+	text-decoration: none;
+}
+sup,
+sub {
+	font-size: 75%;
+	line-height: 0;
+	position: relative;
+	vertical-align: baseline;
+}
+sup {
+	top: -0.5em;
+}
+sub {
+	bottom: -0.25em;
+}
+input[type="text"] {
+	background-color: #f1f4f5;
+	color: #A7A7A7;
+	font-size: 15px;
+	border: none;
+	font-family: inherit;
+	font-family: inherit;
+    font-size: inherit;
+ 	padding: 12px;
+    -webkit-appearance: none;
+
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+    border-radius: 3px;
+}
+textarea {
+	background-color: #f1f4f5;
+	color: #A7A7A7;
+	font-size: 15px;
+	border: none;
+	font-family: inherit;
+	font-family: inherit;
+    font-size: inherit;
+    -webkit-appearance: none;
+
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+    border-radius: 3px;
+
+	padding: 12px;
+	width: 96%;
+}
+
+
+/* =Links
+-------------------------------------------------------------- */
+
+a,
+a em,
+a strong {
+	color: #199bbc;
+	outline: none;
+}
+a:focus,
+a:active,
+a:hover {
+	color: #0f3647;
+}
+
+
+/* =Alignment
+-------------------------------------------------------------- */
+
+.alignleft {
+	display: inline;
+	float: left;
+	margin: 12px 24px 12px 0;
+}
+.alignright {
+	display: inline;
+	float: right;
+	margin: 12px 0 12px 24px;
+}
+.aligncenter {
+	clear: both;
+	display: block;
+	margin-top: 12px;
+	margin-bottom: 12px;
+}
+
+
+/* =Tables
+-------------------------------------------------------------- */
+
+table {
+	border-bottom: 1px solid #ededed;
+	border-collapse: collapse;
+	border-spacing: 0;
+	color: #757575;
+	font-size: 12px;
+	line-height: 2;
+	margin: 0 0 24px;
+	width: 100%;
+}
+tr th {
+	color: #636363;
+	font-size: 11px;
+	font-weight: bold;
+	line-height: 2.181818182;
+	text-align: left;
+	text-transform: uppercase;
+}
+td {
+	border-top: 1px solid #ededed !important;
+	color: #757575;
+	font-size: inherit;
+	font-weight: normal;
+	padding: 6px 10px 6px 0;
+	text-align: left;
+	vertical-align: top;
+}
+
+
+/* =Images
+-------------------------------------------------------------- */
+
+img,
+.editor-attachment {
+	border: 0;
+	max-width: 100%;
+}
+img.size-full {
+	width: auto/9; /* Prevent stretching of full-size images in IE8 */
+}
+img[class*="wp-image-"] {
+	height: auto;
+	max-width: 100%;
+}
+img[class*="align"],
+img[class*="wp-image-"],
+img[class*="attachment-"] {
+	height: auto; /* Make sure images with WordPress-added height and width attributes are scaled correctly */
+}
+img.mceWPnextpage {
+	border-radius: 0;
+	box-shadow: none;
+}
+img.wp-smiley {
+	border: 0;
+	border-radius: 0;
+	box-shadow: none;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 0;
+}
+.wp-caption {
+	background: transparent;
+	border: none;
+	margin: 0;
+	padding: 4px;
+	text-align: left;
+}
+.wp-caption-dt {
+	margin: 0;
+}
+.wp-caption .wp-caption-text,
+.wp-caption-dd {
+	color: #757575;
+	font-style: italic;
+	font-size: 12px;
+	line-height: 2;
+	margin: 0 0 24px;
+}
+
+/* =Buttons
+-------------------------------------------------------------- */
+
+.button {
+	background-color: #1db4da;
+	border: none;
+	color: #fff;
+	cursor: pointer;
+	font-size: 12px;
+	line-height: 20px;
+	font-weight: normal;
+	text-align: center;
+	text-decoration: none;
+	padding: 6px 14px;
+	-webkit-appearance: none;
+
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+}

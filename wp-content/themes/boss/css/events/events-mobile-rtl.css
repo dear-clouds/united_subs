@@ -1,0 +1,267 @@
+/**
+* Events Manager mobile style
+**/
+.events .css-locations-admin,
+.events .css-events-admin {
+    overflow: hidden;
+    margin-top: -68px;
+}
+.bp-user.events .add-new-h2 {
+    margin-top: 0;
+    margin-bottom: 32px;
+}
+.bp-user.events #posts-filter .search-box {
+    width: 100%;
+}
+.bp-user.events #buddypress table tbody td:first-child, 
+.bp-user.events #buddypress table thead th:first-child {
+    padding-right: 10px;
+}
+.bp-user.events #buddypress table tbody td:last-child, 
+.bp-user.events #buddypress table thead th:last-child {
+    padding-left: 10px;
+}
+
+.em-bookings-table .em-bookings-table-export, 
+.em-bookings-table .em-bookings-table-settings {
+    margin-bottom: 12px;
+}
+#dbem-bookings-table {
+    margin-bottom: 30px;
+}
+
+#em-booking-options > p {
+    width: 100%;
+}
+#event-form p.submit {
+    margin-bottom: 30px;
+}
+.events-page .entry-meta, .events-page #em-wrapper > p:last-child,
+body.events-page .entry-header,
+body.events-page div.css-search, 
+body.page:not(.buddypress).events-page .site-content article:not(.comment) .events-list-content {
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+div.css-search div.em-search-main div {
+    width: 100%;
+    padding-left: 0;
+}
+body.page:not(.buddypress).events-page .events-list-content table:after, 
+body.page:not(.buddypress).events-page .events-list-content table:before {
+    width: 30px;
+}
+body.page:not(.buddypress).events-page .events-list-content table:before {
+    right: -30px;
+}
+body.page:not(.buddypress).events-page .events-list-content table:after {
+    left: -30px;
+}
+#em-wrapper .events-list-content i.fa {
+    margin-left: 10px;
+}
+#em-wrapper .events-list-content table th:nth-child(2),
+#em-wrapper .events-list-content table td:nth-child(2) {
+    padding-right: 10px;
+    padding-left: 10px;
+}
+#em-wrapper .events-list-content table .event-image {
+    display: block;
+    margin-bottom: 10px;
+}
+#em-wrapper .events-list-content table td:last-child, 
+#em-wrapper .events-list-content table th:last-child,
+#em-wrapper .events-list-content table td:first-child, 
+#em-wrapper .events-list-content table th:first-child {
+    width: 30%;
+}
+
+@media screen and (max-width: 500px){
+    .bb-events-list .event-item {
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 380px){
+    .events-page .entry-meta, .events-page #em-wrapper > p:last-child,
+    body.events-page .entry-header,
+    body.events-page div.css-search, 
+    body.page:not(.buddypress).events-page .site-content article:not(.comment) .events-list-content {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+    body.page:not(.buddypress).events-page .events-list-content table:before {
+        right: -15px;
+    }
+    body.page:not(.buddypress).events-page .events-list-content table:after {
+        left: -15px;
+    }
+    body.page:not(.buddypress).events-page .events-list-content table:after, 
+    body.page:not(.buddypress).events-page .events-list-content table:before {
+        width: 15px;
+    }
+    #em-wrapper .events-list-content table td:last-child, 
+    #em-wrapper .events-list-content table th:last-child {
+        width: 15%;
+    }
+    .bb-events-list .event-item {
+        width: 230px;
+        margin-left: auto;    
+        margin-right: auto;
+    }
+    .page-template-page-fullcalendar .fc-view-container,
+    .page-template-page-fullcalendar .wpfc-calendar-wrapper .wpfc-calendar-search, 
+    .page-template-page-fullcalendar .fc-toolbar {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+    .my-locations.events .css-locations-admin {
+        margin-top: 0;   
+    }
+}
+
+table.fullcalendar tbody td {
+    padding: 1px 9px 21px;
+}
+
+@media screen and (max-width: 680px){
+/*
+    #em-wrapper .em-calendar-wrapper {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .entry-content td.fc-event-container {
+        padding-left: 2px;
+        padding-right: 0px;
+    }
+    .fc-ltr .fc-basic-view .fc-day-number {
+        padding-left: 2px;
+        padding-right: 2px;
+    }
+*/
+    
+}
+
+@media screen and (max-width: 600px){
+    .fc-toolbar .fc-right {
+        display: block;
+        clear: both;
+        float: right;
+        padding-top: 10px;
+    }
+    .em-calendar.fullcalendar tbody td {
+        display: none;
+    }
+    .em-calendar.fullcalendar tbody td.eventful {
+        display: block;
+    }
+    .em-calendar.fullcalendar tbody tr td > a:before { 
+        content: attr(data-day); 
+    }
+    .em-calendar.fullcalendar thead {
+        display: table;
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 470px){
+    .bp-user.events #buddypress table tbody {
+        border-top: 1px solid #dedede;
+    }
+    .bp-user.events #buddypress table tbody td:first-child, 
+    .bp-user.events #buddypress table thead th:first-child {
+        padding-right: 5px;
+    }
+    .bp-user.events #buddypress table thead {
+        display: none;
+    }
+    .bp-user.events #buddypress table tbody td {
+        display: inline-block;
+        float: right;
+        width: 100%;
+        box-sizing: border-box;
+        border-bottom: none;
+        padding-top: 0;
+    }
+    .bp-user.events #buddypress table tbody tr {
+        border-bottom: 1px solid #dedede;
+    }
+    .bp-user.events.my-locations #buddypress .widefat tbody td:nth-child(2) {
+        width: -webkit-calc(100% - 40px);
+        width: -moz-calc(100% - 40px);
+        width: calc(100% - 40px);
+        padding-top: 18px;        
+    }
+    .bp-user.events #buddypress #posts-filter .events-table tbody td:nth-child(2) {
+        width: 30px;
+        padding-top: 18px;
+    }
+    .bp-user.events #buddypress #em-tickets-form .form-table td.ticket-status {
+        padding-top: 10px;
+    }
+    .bp-user.events #buddypress #posts-filter .events-table tbody td:nth-child(2) a {
+        font-size: 20px;
+    }
+    #em-tickets-form .form-table tbody td:before {
+        content: attr(data-th) ": ";
+        font-weight: bold;
+        width: 6.5em;
+        display: inline-block;
+    }
+    .bp-user.events #buddypress #em-tickets-form .form-table td.ticket-status:before {
+        content: '';
+    }
+    #em-location-data table.em-location-data,
+    #em-location-data .em-location-map-container {
+        width: 100%;
+    }
+    .bp-user.events #buddypress table.em-location-data tbody tr,
+    .bp-user.events #buddypress table.em-location-data tbody {
+        border: none;
+    }
+    .bp-user.events #buddypress table.em-location-data tbody th {
+        padding-bottom: 10px;
+    }
+    .bp-user.events.my-locations #buddypress .widefat tbody td:first-child {
+        vertical-align: middle;
+        padding-right: 10px;
+    }
+    .bp-user.events #buddypress #posts-filter .events-table tbody td:first-child {
+        width: -webkit-calc(100% - 30px);
+        width: -moz-calc(100% - 30px);
+        width: calc(100% - 30px);
+        padding-top: 18px;
+    }
+    .bp-user.events.my-locations #buddypress .widefat tbody td:first-child {
+        width: 40px;
+        padding-top: 18px;
+    }
+    .bp-user #locations-filter .alignleft {
+        margin-left: 0;
+        width: 100%;
+    }
+    .bp-user.events.my-locations .tablenav .buddyboss-select {
+        width: -webkit-calc(100% - 102px);
+        width: -moz-calc(100% - 102px);
+        width: calc(100% - 102px);        
+        float: right;
+        display: block;
+    }
+    .bp-user.events.my-locations .tablenav input[type="submit"] {
+        width: 98px;
+        float: left;
+    }
+    .bp-user.events #buddypress .em_bookings_events_table table td:first-child {
+        padding-top: 18px;
+    }
+    
+    #em-wrapper .events-list-content i.fa {
+        display: none;
+    }
+    
+    body.single-event .event-details {
+        padding: 15px;
+    }
+    
+}

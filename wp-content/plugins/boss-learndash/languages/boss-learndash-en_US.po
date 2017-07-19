@@ -1,0 +1,475 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Boss. for LearnDash v1.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-08-03 19:28-0500\n"
+"Last-Translator: BuddyBoss <support@buddyboss.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.3\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ boss-learndash
+#: boss-learndash.php:109
+#, php-format
+msgid "Couldn't load main class at:<br/>%s"
+msgstr ""
+
+# @ boss-learndash
+#: boss-learndash.php:81 boss-learndash.php:115
+#, php-format
+msgid "<h1>Fatal error:</h1><hr/><pre>%s</pre>"
+msgstr ""
+
+# @ boss-learndash
+#: includes/main-class.php:105 includes/main-class.php:112
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+# @ boss-learndash
+#: boss-learndash.php:75
+#, php-format
+msgid "Couldn't load BPCP_Plugin_Check class at:<br/>%s"
+msgstr ""
+
+# @ buddypress-learndash
+# @ boss-learndash
+# @ boss-sensei
+#: includes/group-extension.php:24 includes/main-class.php:566
+#: templates/learndash/single-sfwd-course.php:25
+#: templates/learndash/single-sfwd-course.php:138
+#: templates/learndash-buddypress/buddypress-group-single.php:59
+msgid "Course"
+msgstr ""
+
+# @ buddypress-learndash
+#: includes/group-extension.php:87
+msgid "This course has no lessons added yet"
+msgstr ""
+
+# @ boss-learndash
+#: includes/main-class.php:318 templates/learndash/profile.php:32
+msgid "Status"
+msgstr ""
+
+# @ boss-sensei
+#: includes/main-class.php:451
+msgid "People who have earned this:"
+msgstr ""
+
+# @ boss-sensei
+#: includes/main-class.php:517
+msgid "Show Details"
+msgstr ""
+
+# @ boss-learndash
+#: includes/main-class.php:584 includes/main-class.php:609
+#: includes/main-class.php:640 templates/learndash/course_list_template.php:42
+msgid "by "
+msgstr ""
+
+# @ boss-learndash
+#: includes/main-class.php:586
+#, php-format
+msgid "in %s"
+msgstr ""
+
+# @ boss-learndash
+#: includes/main-class.php:623 templates/learndash/lesson.php:58
+msgid "Lesson"
+msgstr ""
+
+# @ boss-learndash
+#: includes/main-class.php:642
+#, php-format
+msgid "in <a href=\"%1s\">%2s</a>"
+msgstr ""
+
+# @ boss-learndash
+#: includes/main-class.php:779
+msgid "Video"
+msgstr ""
+
+# @ boss
+#: includes/main-class.php:1057
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+# @ boss-sensei
+#: includes/requirements-class.php:22 includes/requirements-class.php:40
+msgid "Please first activate a Boss theme"
+msgstr ""
+
+# @ default
+#: includes/vendor/wp-updates-plugin.php:87
+msgid "An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+
+# @ default
+#: includes/vendor/wp-updates-plugin.php:91
+msgid "An unknown error occurred"
+msgstr ""
+
+# @ boss-learndash
+#: templates/learndash/course.php:48
+msgid "Course Materials"
+msgstr ""
+
+# @ learndash
+# @ boss-learndash
+#: templates/learndash/course.php:68
+#: templates/learndash/course_list_template.php:46
+msgid "Lessons"
+msgstr ""
+
+# @ boss-learndash
+#: templates/learndash/course.php:91
+#: templates/learndash/course_content_shortcode.php:70
+#, php-format
+msgid " Available on: %s "
+msgstr ""
+
+# @ boss-learndash
+# @ learndash
+#: templates/learndash/course.php:163
+#: templates/learndash/course_content_shortcode.php:142
+#: templates/learndash/lesson.php:134 templates/learndash/profile.php:65
+#: templates/learndash/topic.php:94
+msgid "Quizzes"
+msgstr ""
+
+# @ boss-learndash
+#: templates/learndash/course_info_shortcode.php:20
+msgid "You are registered for the following courses"
+msgstr ""
+
+# @ boss-learndash
+#: templates/learndash/course_info_shortcode.php:38
+msgid "Course progress details:"
+msgstr ""
+
+# @ boss-learndash
+#: templates/learndash/course_info_shortcode.php:41
+msgid "Completed"
+msgstr ""
+
+# @ boss-learndash
+#: templates/learndash/course_info_shortcode.php:41
+msgid "out of"
+msgstr ""
+
+# @ boss-learndash
+#: templates/learndash/course_info_shortcode.php:41
+msgid "steps"
+msgstr ""
+
+# @ boss-learndash
+#: templates/learndash/course_info_shortcode.php:57
+msgid "You have taken the following quizzes:"
+msgstr ""
+
+# @ boss-learndash
+#: templates/learndash/course_info_shortcode.php:74
+#: templates/learndash/single-sfwd-quiz.php:23
+msgid "Quiz"
+msgstr ""
+
+# @ boss-learndash
+#: templates/learndash/course_info_shortcode.php:76
+msgid "Print Certificate"
+msgstr ""
+
+# @ boss-learndash
+#: templates/learndash/course_info_shortcode.php:83
+msgid "Rank: "
+msgstr ""
+
+# @ boss-learndash
+#: templates/learndash/course_info_shortcode.php:85
+msgid "Score "
+msgstr ""
+
+# @ boss-learndash
+#: templates/learndash/course_info_shortcode.php:85
+msgid " out of "
+msgstr ""
+
+# @ boss-learndash
+#: templates/learndash/course_info_shortcode.php:85
+msgid " question(s)"
+msgstr ""
+
+# @ boss-learndash
+#: templates/learndash/course_info_shortcode.php:87
+msgid "Points: "
+msgstr ""
+
+# @ boss-learndash
+#: templates/learndash/course_info_shortcode.php:89
+msgid " on "
+msgstr ""
+
+# @ boss-learndash
+#: templates/learndash/course_progress_widget.php:2
+msgid "0 steps completed"
+msgstr ""
+
+# @ boss-learndash
+#: templates/learndash/course_progress_widget.php:3
+#: templates/learndash/profile.php:52
+#, php-format
+msgid "%s out of %s steps completed"
+msgstr ""
+
+# @ boss-learndash
+# @ learndash
+#: templates/learndash/lesson.php:40 templates/learndash/topic.php:47
+msgid "Please go back and complete the previous lesson."
+msgstr ""
+
+# @ boss-learndash
+#: templates/learndash/lesson.php:107
+msgid "Lesson Topics"
+msgstr ""
+
+# @ boss-learndash
+#: templates/learndash/lesson.php:154 templates/learndash/topic.php:113
+msgid "Files you have uploaded"
+msgstr ""
+
+# @ boss-learndash
+#: templates/learndash/lesson.php:160 templates/learndash/topic.php:120
+msgid "Download"
+msgstr ""
+
+# @ boss-learndash
+#: templates/learndash/lesson.php:161 templates/learndash/topic.php:121
+msgid "Comments"
+msgstr ""
+
+# @ learndash
+#: templates/learndash/profile.php:11
+msgid "Expand All"
+msgstr ""
+
+# @ boss-learndash
+#: templates/learndash/profile.php:11
+msgid "/"
+msgstr ""
+
+# @ learndash
+#: templates/learndash/profile.php:11
+msgid "Collapse All"
+msgstr ""
+
+# @ boss-learndash
+#: templates/learndash/profile.php:13
+msgid "Profile"
+msgstr ""
+
+# @ learndash
+#: templates/learndash/profile.php:14
+msgid "Edit profile"
+msgstr ""
+
+# @ boss-learndash
+#: templates/learndash/profile.php:22
+msgid "Name"
+msgstr ""
+
+# @ boss-learndash
+#: templates/learndash/profile.php:26
+msgid "Username"
+msgstr ""
+
+# @ boss-learndash
+#: templates/learndash/profile.php:27
+msgid "Email"
+msgstr ""
+
+# @ boss-learndash
+#: templates/learndash/profile.php:31
+msgid "Registered Courses"
+msgstr ""
+
+# @ boss-learndash
+#: templates/learndash/profile.php:49
+msgid "Course Progress Overview"
+msgstr ""
+
+# @ boss-learndash
+#: templates/learndash/profile.php:58
+#, php-format
+msgid "%s%% Complete"
+msgstr ""
+
+# @ boss-learndash
+#: templates/learndash/profile.php:66
+msgid "Certificate"
+msgstr ""
+
+# @ boss-learndash
+#: templates/learndash/profile.php:67
+msgid "Score"
+msgstr ""
+
+# @ boss-learndash
+#: templates/learndash/profile.php:68
+msgid "Date"
+msgstr ""
+
+# @ boss-learndash
+#: templates/learndash/quiz.php:32
+msgid "Please go back and complete the previous lesson.<br>"
+msgstr ""
+
+# @ boss-learndash
+#: templates/learndash/quiz.php:37
+msgid "Please go back and complete the previous topic.<br>"
+msgstr ""
+
+# @ boss-learndash
+#: templates/learndash/quiz.php:49
+#, php-format
+msgid "You have already taken this quiz %d times and may not take it again."
+msgstr ""
+
+# @ boss-learndash
+#: templates/learndash/single-sfwd-course.php:79
+#: templates/learndash-buddypress/buddypress-group-single.php:106
+#, php-format
+msgid "%s Lesson"
+msgid_plural "%s Lessons"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ boss-learndash
+#: templates/learndash/single-sfwd-course.php:81
+#: templates/learndash-buddypress/buddypress-group-single.php:108
+msgid " / "
+msgstr ""
+
+# @ boss-learndash
+#: templates/learndash/single-sfwd-course.php:90
+#: templates/learndash-buddypress/buddypress-group-single.php:117
+msgid "Watch Introduction"
+msgstr ""
+
+# @ boss-sensei
+#: templates/learndash/single-sfwd-course.php:136
+msgid "Home"
+msgstr ""
+
+# @ boss-sensei
+#: templates/learndash/single-sfwd-course.php:137
+msgid "Forum"
+msgstr ""
+
+# @ boss-sensei
+#: templates/learndash/single-sfwd-course.php:139
+msgid "Members"
+msgstr ""
+
+# @ boss-sensei
+#: templates/learndash/single-sfwd-course.php:140
+msgid "Send Invites"
+msgstr ""
+
+# @ boss-sensei
+#: templates/learndash/single-sfwd-course.php:141
+msgid "Manage"
+msgstr ""
+
+# @ boss-learndash
+#: templates/learndash/single-sfwd-course.php:151
+#: templates/learndash/single-sfwd-lesson.php:29
+#: templates/learndash/single-sfwd-quiz.php:29
+#: templates/learndash/single-sfwd-topic.php:29
+msgid "Pages:"
+msgstr ""
+
+# @ boss-learndash
+#: templates/learndash/single-sfwd-course.php:155
+#: templates/learndash/single-sfwd-lesson.php:33
+#: templates/learndash/single-sfwd-quiz.php:33
+#: templates/learndash/single-sfwd-topic.php:33
+msgid "Edit"
+msgstr ""
+
+# @ learndash
+#: templates/learndash/topic.php:41
+msgid "Please go back and complete the previous topic."
+msgstr ""
+
+# @ boss-learndash
+#: templates/learndash/topic.php:62
+msgid "Topic"
+msgstr ""
+
+# @ learndash
+#: templates/learndash/topic.php:70
+msgid "Topic Progress:"
+msgstr ""
+
+# @ boss-learndash
+#: templates/learndash/topic.php:138
+msgid "Back to Lesson"
+msgstr ""
+
+# @ boss-learndash
+#: widgets/widget-boss-edu-course-progress.php:42
+msgid "This widget will output a progress of current Course."
+msgstr ""
+
+# @ boss-learndash
+#: widgets/widget-boss-edu-course-progress.php:44
+msgid "(BuddyBoss) - Course Progress"
+msgstr ""
+
+# @ boss-learndash
+#: widgets/widget-boss-edu-course-progress.php:128
+#: widgets/widget-boss-edu-course-teacher.php:127
+msgid "Title (optional):"
+msgstr ""
+
+# @ boss-learndash
+#: widgets/widget-boss-edu-course-teacher.php:42
+msgid "This widget will output details about Course teacher"
+msgstr ""
+
+# @ boss-learndash
+#: widgets/widget-boss-edu-course-teacher.php:44
+msgid "(BuddyBoss) - Course Teacher"
+msgstr ""
+
+# @ boss-sensei
+# @ boss-learndash
+#: widgets/widget-boss-edu-course-progress.php:247
+#: widgets/widget-boss-edu-course-teacher.php:175
+msgid "Course by"
+msgstr ""
+
+# @ learndash-buddypress
+#: widgets/widget-boss-edu-course-progress.php:260
+#: widgets/widget-boss-edu-course-teacher.php:199
+msgid "Course Discussion"
+msgstr ""
+
+# @ learndash
+#: widgets/widget-boss-edu-course-progress.php:235
+msgid "Return to"
+msgstr ""
+
+# @ boss-sensei
+#: widgets/widget-boss-edu-course-progress.php:244
+msgid "About this Course"
+msgstr ""

@@ -1,0 +1,80 @@
+<?php 
+function mom_gellery_new_shortcode($atts, $content = null) {
+extract(shortcode_atts(array(
+'ids' => '',
+'columns' => 3,
+), $atts));
+$cols = $columns;
+switch ($columns) {
+	case '2':
+		$columns = 'two';
+		break;
+
+	case '4':
+		$columns = 'four';
+		break;
+	case '5':
+		$columns = 'five';
+		break;
+	case '6':
+		$columns = 'six';
+		break;
+	case '7':
+		$columns = 'seven';
+		break;
+	case '8':
+		$columns = 'eight';
+		break;
+	case '9':
+		$columns = 'nine';
+		break;
+}
+ob_start();
+?>
+
+<div class="mom_images_grid mom_images_<?php echo $columns; ?>_cols">
+<?php 
+if ($ids != '') {
+$images = explode(',', $ids);
+} else {
+$images = get_children(array('post_parent' => get_the_ID(),'post_type' => 'attachment','post_mime_type' => 'image', 'orderby' => 'menu_order_ID'));
+}
+
+if ($images) :
+$count = 1;
+
+$image_list = '<ul class="galleryslider">'; 
+foreach( $images as $image ) :
+$class = '';
+if ($ids != '') {
+$image = get_post($image);
+} 
+if ( ($count - 1 ) % $cols == 0 || $cols == 1 ) {
+	$class = 'first';
+}
+if ( $count%$cols == 0 ) {
+		$class = 'last';
+}
+$attachmenturl = wp_get_attachment_url($image->ID);
+$link = wp_get_attachment_image_src($image->ID, 'full' );
+$link = $link[0];
+$attachmentimage = wp_get_attachment_image_src($image->ID, 'slider-thumb' );
+$attachmentimage = $attachmentimage[0];
+$img_title = $image->post_title;
+$img_desc = $image->post_excerpt;
+$image_list .= '<li class="'.$class.'"><a href="'.$link.'" data-title="'.$img_desc.'" title="'.$img_title.'"><img alt="'.$img_title.'" src="'.$attachmentimage.'"></a></li>';
+$count++;
+endforeach; 
+$image_list .= '</ul>'; 
+echo $image_list; 
+endif;
+?>
+</div>
+<?php 
+      $output = ob_get_contents();
+      ob_end_clean();
+      return $output;
+}
+add_shortcode("gallery", "mom_gellery_new_shortcode");
+
+?>

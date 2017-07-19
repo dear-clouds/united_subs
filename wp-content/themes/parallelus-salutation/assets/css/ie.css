@@ -1,0 +1,6 @@
+ul.horizontalList li { zoom: 1; float: left; }
+.content-post-list .style-image-left .the-post-container { margin-left: 0; }
+.ie7 input, .ie7 button { vertical-align: middle; }
+#MainMenu .inner-1 { z-index: 9999;}
+
+.item-container, .messageBox, .pagination, .nextPageLinks p, .widget ul.item-list li, .styled-image, .styled-slideshow, .gallery .gallery-icon a, .widget_bp_core_recently_active_widget .avatar-block, .widget_bp_core_whos_online_widget .avatar-block { border-bottom: 1px solid #ccc; }

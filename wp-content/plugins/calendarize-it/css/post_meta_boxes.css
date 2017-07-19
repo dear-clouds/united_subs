@@ -1,0 +1,153 @@
+
+
+
+.meta-box-sortables .description {
+	-moz-border-radius:8px 8px 8px 8px;
+	-webkit-border-radius:8px 8px 8px 8px;
+	-html-border-radius:8px 8px 8px 8px;
+	border-radius:8px 8px 8px 8px;
+	background:none repeat scroll 0 0 #F1F1F1;
+	color:#777777;
+	padding:15px;
+	display:block;
+	float:right;
+	max-width:350px;
+	margin:0 0 10px 5px;
+	width:100%;
+}
+
+.pt-clear{
+	clear:both;
+}
+
+.pt-checkbox-label {
+	padding:0 0 0 5px;
+}
+
+.pt-label {
+	padding:0 5px 0 0;
+}
+
+.pt-label.pt-type-yesno {
+	padding-right:12px;
+}
+
+.pt-option {
+	clear:left;	
+}
+
+.pt-option-onoff {
+	margin-bottom: 10px;
+	width:100% !important;
+}
+
+.pt-option-text, .pt-option-checkbox {
+	margin-bottom: 10px;
+}
+
+.pt-label.pt-type-onoff {
+	display: inline-block;
+	width: 60%;
+	font-weight:400;
+}
+
+/* slider option field*/
+.pt-option-range {
+   padding-top:10px;
+   
+}
+.pt-option-range .pt-label { 
+	margin:5px 10px 0 0;
+	float:left;
+}
+
+.pt-option-range .slider {
+	background:#3C72E6 url(images/h30.png) repeat-x 0 0; 
+    border: 1px solid #333;
+    cursor: pointer;
+    height: 9px;
+    margin-top: 10px;
+    position: relative;
+    width: 300px;
+	display:block;
+	float:left;
+	clear:none;
+	-moz-border-radius:5px; 
+	-webkit-border-radius:5px; 
+	-moz-box-shadow:inset 0 0 8px #000;	
+}
+.pt-option-range .range {
+    border: 1px inset #DDDDDD;
+    border-radius: 5px 5px 5px 5px;
+    font-size: 20px;
+    margin: 0 0 0 15px;
+    padding: 3px 0;
+    text-align: center;
+    width: 50px;
+	float:left;
+}
+input[type="text"].pop-colorpicker {
+	width:70px;
+}
+.pt-save-button {
+	text-align:right;
+}
+.pt-option-textarea textarea{
+	width:380px;
+}
+
+.pop-onoff > button.pop-onoff-btn {
+	text-shadow: 0 0px 0px rgba(255, 255, 255, 0.75) !important;
+}
+
+.pop-onoff > button.pop-onoff-btn:first-child {
+	border-right: 0;
+}
+
+body .rhcalendar .ui-helper-hidden-accessible {
+	top:0;
+	position:static !important;
+	display:none;
+}
+
+/* custom fields close and arrow icons */
+.rhc-extra-info-cell a.ui-icon {
+	text-decoration: none;
+}
+
+.rhc-extra-info-cell a.ui-icon:before {
+	font: 400 20px/1 dashicons;
+	padding: 0;
+	color: rgb(170, 170, 170);
+	color: rgba(170, 170, 170, 0.8);
+}
+
+.rhc-extra-info-cell a.ui-icon.ui-icon-closethick {
+	min-width:30px;
+}
+
+.rhc-extra-info-cell a.ui-icon.ui-icon-closethick:before {
+	content: '\f153';
+	padding-right:10px;
+}
+
+.rhc-extra-info-cell a.ui-icon.extra-info-toggle.ui-icon-triangle-1-s,
+.rhc-extra-info-cell a.ui-icon.extra-info-toggle.ui-icon-triangle-1-n {
+	min-width:20px;
+}
+
+.rhc-extra-info-cell a.ui-icon.extra-info-toggle.ui-icon-triangle-1-s:before {
+	content: '\f140';
+}
+
+.rhc-extra-info-cell a.ui-icon.extra-info-toggle.ui-icon-triangle-1-n:before {
+	content: '\f142';
+}
+
+/* uncomment if bootstrap is loaded in the admin and breaking the custom fields metabox.
+.rhc-extra-info-cell[class^="icon-"], .rhc-extra-info-cell[class*=" icon-"]{
+width:93%;
+height:auto;
+line-height:1em;
+}
+*/

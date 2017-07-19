@@ -1,0 +1,3 @@
+[submodule "shared-ui"]
+	path = shared-ui
+	url = git@bitbucket.org:incsub/shared-ui.git

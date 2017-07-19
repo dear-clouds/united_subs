@@ -1,0 +1,628 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Upload to FTP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-12-28 14:26+0800\n"
+"PO-Revision-Date: 2016-12-28 14:27+0800\n"
+"Last-Translator: Richer Yang <fantasyworldidvtw@gmail.com>\n"
+"Language-Team: fantasyworldidvtw@gmail.com\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class.ry-ftp.admin-html.php:8
+msgid "Upload to FTP Options"
+msgstr "Upload to FTP 設定"
+
+#: class.ry-ftp.admin-html.php:10
+msgid "FTP Options"
+msgstr "FTP 設定"
+
+#: class.ry-ftp.admin-html.php:11
+msgid "Basic Options"
+msgstr "基本設定"
+
+#: class.ry-ftp.admin-html.php:12
+msgid "Advanced Options"
+msgstr "進階設定"
+
+#: class.ry-ftp.admin-html.php:26
+msgid "Your server does not support FTP-related functions"
+msgstr "你的伺服器不支援 FTP 相關函式"
+
+#: class.ry-ftp.admin-html.php:36
+msgid "FTP Status"
+msgstr "FTP 狀態"
+
+#: class.ry-ftp.admin-html.php:38
+msgid "Upload Status:"
+msgstr "上傳狀態："
+
+#: class.ry-ftp.admin-html.php:38
+msgid "Can upload"
+msgstr "可以上傳"
+
+#: class.ry-ftp.admin-html.php:38
+msgid "Can not upload"
+msgstr "不能上傳"
+
+#: class.ry-ftp.admin-html.php:39
+msgid "File Link Status:"
+msgstr "檔案連結狀態："
+
+#: class.ry-ftp.admin-html.php:39
+msgid "HTML File Link is OK"
+msgstr "檔案連結正常"
+
+#: class.ry-ftp.admin-html.php:39
+msgid "HTML File Link is Error"
+msgstr "檔案連結錯誤"
+
+#: class.ry-ftp.admin-html.php:40
+msgid "Delete Status:"
+msgstr "刪除狀態："
+
+#: class.ry-ftp.admin-html.php:40
+msgid "Can delete"
+msgstr "可以刪除"
+
+#: class.ry-ftp.admin-html.php:40
+msgid "Can not delete"
+msgstr "不能刪除"
+
+#: class.ry-ftp.admin-html.php:43
+msgid "FTP Host"
+msgstr "FTP 主機"
+
+#: class.ry-ftp.admin-html.php:44
+msgid "FTP Port"
+msgstr "FTP 連接埠"
+
+#: class.ry-ftp.admin-html.php:45
+msgid "FTP Timeout"
+msgstr "FTP 連線逾時"
+
+#: class.ry-ftp.admin-html.php:46
+msgid "FTP Username"
+msgstr "FTP 使用者名稱"
+
+#: class.ry-ftp.admin-html.php:47
+msgid "FTP Password"
+msgstr "FTP 密碼"
+
+#: class.ry-ftp.admin-html.php:47
+msgid "Only when you want to change your password, enter it."
+msgstr "只有在您想要變更密碼的時候輸入"
+
+#: class.ry-ftp.admin-html.php:49
+msgid "FTP Mode"
+msgstr "FTP 模式"
+
+#: class.ry-ftp.admin-html.php:50
+msgid "Passive"
+msgstr "被動"
+
+#: class.ry-ftp.admin-html.php:50
+msgid "Active"
+msgstr "主動"
+
+#: class.ry-ftp.admin-html.php:52
+msgid "FTP Directory"
+msgstr "FTP 目錄"
+
+#: class.ry-ftp.admin-html.php:53
+msgid "HTML link url"
+msgstr "HTML 網址連結"
+
+#: class.ry-ftp.admin-html.php:55
+msgid "Save & Test Changes"
+msgstr "儲存 & 測試 變更"
+
+#: class.ry-ftp.admin-html.php:65
+msgid "Rename file"
+msgstr "檔案重新命名"
+
+#: class.ry-ftp.admin-html.php:68 class.ry-ftp.admin-html.php:78
+msgid "disable"
+msgstr "停用"
+
+#: class.ry-ftp.admin-html.php:69 class.ry-ftp.admin-html.php:79
+msgid "enable"
+msgstr "啟用"
+
+#: class.ry-ftp.admin-html.php:71
+msgid ""
+"Proposal enabled! Because the file name to avoid some of the resulting error "
+"can not be expected"
+msgstr "建議啟用！以避免一些因為檔名而產生的不可預期的錯誤"
+
+#: class.ry-ftp.admin-html.php:75
+msgid "Delete Auto build local file"
+msgstr "刪除自動生成的本地檔案"
+
+#: class.ry-ftp.admin-html.php:81
+msgid "Only enable the when you local storage space have limited."
+msgstr "只有在你本地儲存空間有限制的時候才啟用。"
+
+#: class.ry-ftp.admin-html.php:85
+msgid "Save Changes"
+msgstr "儲存變更"
+
+#: class.ry-ftp.admin-html.php:94
+msgid "This setting is ONLY set the mark of the media."
+msgstr "這設定只是將媒體文件進行註記。"
+
+#: class.ry-ftp.admin-html.php:95
+msgid "You NEED move the file to you ftp by youself."
+msgstr "你必須手動的將文件移動到你的 FTP 上。"
+
+#: class.ry-ftp.admin-html.php:96
+msgid ""
+"And all the post you had will stile use the file from this webserver until "
+"you reimport the media to the post."
+msgstr ""
+"而且所有你的文章依然使用本地主機的檔案，直到你重新插入媒體進入文章當中。"
+
+#: class.ry-ftp.admin-html.php:98
+msgid "Set Exists File In FTP"
+msgstr "設定媒體於 FTP 中"
+
+#: class.ry-ftp.admin.php:29
+msgid "Settings"
+msgstr "設定"
+
+#: class.ry-ftp.admin.php:35
+msgid "Upload to FTP"
+msgstr "Upload to FTP"
+
+#: class.ry-ftp.admin.php:79
+msgid "to FTP"
+msgstr "上傳到 FTP"
+
+#: class.ry-ftp.admin.php:96
+msgid "un-upload"
+msgstr "未上傳"
+
+#: class.ry-ftp.admin.php:146
+msgid "FTP connect error"
+msgstr "FTP 連結失敗"
+
+#: class.ry-ftp.admin.php:149
+msgid "FTP login error with username"
+msgstr "FTP 登入失敗 使用者帳號："
+
+#: class.ry-ftp.admin.php:153
+msgid "FTP open directory failure"
+msgstr "FTP 開啟指定目錄失敗"
+
+#: class.ry-ftp.admin.php:158
+msgid "FTP is not writable"
+msgstr "FTP 是不可寫入的"
+
+#: class.ry-ftp.admin.php:166
+msgid "HTML link url don't match FTP dir"
+msgstr "HTML 網址連結 與 FTP 目錄 不相吻合"
+
+#: class.ry-ftp.admin.php:195
+msgid "Updated FTP Options Success"
+msgstr "成功的更新FTP設定"
+
+#: class.ry-ftp.admin.php:207
+msgid "Updated Basic Options Success"
+msgstr "成功的基本更新設定"
+
+#~ msgid "Auto delete local file"
+#~ msgstr "自動刪除本地檔案"
+
+#~ msgid "Save original file"
+#~ msgstr "保留原始檔"
+
+#~ msgid ""
+#~ "If don't save original file, still have an 0 Byte file to keep the file "
+#~ "name unique."
+#~ msgstr "如果不保留原始檔，仍有一個 0 Byte 的檔案確保檔案名稱的唯一性。"
+
+#~ msgid "FTP Status:"
+#~ msgstr "FTP 狀態："
+
+#~ msgid "FTP Host:"
+#~ msgstr "FTP 主機："
+
+#~ msgid "FTP Port:"
+#~ msgstr "FTP 連接埠："
+
+#~ msgid "FTP Timeout:"
+#~ msgstr "FTP 逾時："
+
+#~ msgid "FTP Username:"
+#~ msgstr "FTP 使用者名稱："
+
+#~ msgid "FTP Password:"
+#~ msgstr "FTP 密碼："
+
+#~ msgid "FTP Mode:"
+#~ msgstr "FTP 模式："
+
+#~ msgid "FTP Directory:"
+#~ msgstr "FTP 目錄："
+
+#~ msgid "HTML link url:"
+#~ msgstr "HTML 網址連結："
+
+#~ msgid "Rename file:"
+#~ msgstr "檔案重新命名："
+
+#~ msgid "Auto delete local file:"
+#~ msgstr "自動刪除本地檔案："
+
+#~ msgid "About Plugin"
+#~ msgstr "關於外掛"
+
+#~ msgid "Author's website"
+#~ msgstr "作者的網站"
+
+#~ msgid "Plugin webpage"
+#~ msgstr "外掛網頁"
+
+#~ msgid "Version history"
+#~ msgstr "版本歷史"
+
+#~ msgid "Version: "
+#~ msgstr "版本："
+
+#~ msgid "Donate me"
+#~ msgstr "贊助我"
+
+#~ msgid ""
+#~ "You can buy me some special coffees if you like this plugin, thank you!"
+#~ msgstr "如果你喜歡這一個外掛，請幫我買一些咖啡吧！<br />感謝你！"
+
+#~ msgid ""
+#~ "Please go to <a href=\"%s\">Upload to ftp setting page</a> update you "
+#~ "options."
+#~ msgstr "請前往 <a href=\"%s\">Upload to FTP 設定頁面</a> 設定FTP資料"
+
+#~ msgid "Change Log"
+#~ msgstr "版本歷史"
+
+#~ msgid "not rename"
+#~ msgstr "不要 重新命名"
+
+#~ msgid "more info"
+#~ msgstr ""
+#~ "建議重新命名，以免 FTP 傳輸上有不可預期的失敗，特別是使用非英語系字元的時"
+#~ "候。"
+
+#~ msgid "views"
+#~ msgstr "瀏覽數"
+
+#~ msgid "user views"
+#~ msgstr "使用者瀏覽數"
+
+#~ msgid "bot views"
+#~ msgstr "機器人瀏覽數"
+
+#~ msgid "Reset Optionsto Default Success"
+#~ msgstr "成功的回復到預設值"
+
+#~ msgid "UNINSTALL WP-PostViews Plus"
+#~ msgstr "停用 WP-PostViews Plus 外掛"
+
+#~ msgid "Post Meta Key '%s' has been deleted."
+#~ msgstr "文章自訂欄位 '%s' 已經被刪除"
+
+#~ msgid "Error deleting Post Meta Key '%s'."
+#~ msgstr "文章自訂欄位 '%s' 刪除失敗"
+
+#~ msgid "Setting Key '%s' has been deleted."
+#~ msgstr "設定值 '%s' 已經被刪除"
+
+#~ msgid "Error deleting Setting Key '%s'."
+#~ msgstr "設定值 '%s' 刪除失敗"
+
+#~ msgid "Uninstall WP-PostViews Plus"
+#~ msgstr "停用 WP-PostViews Plus 外掛"
+
+#~ msgid ""
+#~ "<a href=\"%s\">Click Here</a> To Finish The Uninstallation And WP-"
+#~ "PostViews Plus Will Be Deactivated Automatically."
+#~ msgstr ""
+#~ "<a href=\"%s\">點擊這裡</a>來完成刪除的動作， WP-PostViews Plus 將會被自動"
+#~ "的停用。"
+
+#~ msgid "Post Views Plus Options"
+#~ msgstr "Post Views Plus 設定"
+
+#~ msgid "Count Views From:"
+#~ msgstr "計數器的動作："
+
+#~ msgid "Everyone"
+#~ msgstr "所有人"
+
+#~ msgid "Guests Only"
+#~ msgstr "只有訪客"
+
+#~ msgid "Registered Users Only"
+#~ msgstr "只有註冊的使用者"
+
+#~ msgid "Reflash check:"
+#~ msgstr "防灌水檢查："
+
+#~ msgid "Close"
+#~ msgstr "關閉"
+
+#~ msgid "Open"
+#~ msgstr "開啟"
+
+#~ msgid "Check is based on IP."
+#~ msgstr "基於 IP 來檢查"
+
+#~ msgid "Reflash timeout:"
+#~ msgstr "灌水檢查時間："
+
+#~ msgid "second."
+#~ msgstr "秒。"
+
+#~ msgid "Views Template:"
+#~ msgstr "瀏覽數顯示樣版："
+
+#~ msgid "All views:"
+#~ msgstr "所有瀏覽數："
+
+#~ msgid "Allowed Variables:"
+#~ msgstr "允許的變數"
+
+#~ msgid "Only user views:"
+#~ msgstr "只有使用者瀏覽數："
+
+#~ msgid "Only bot views:"
+#~ msgstr "只有機器人瀏覽數："
+
+#~ msgid "Most Viewed Template:"
+#~ msgstr "最多人瀏覽的樣板："
+
+#~ msgid "For each BOT user_agent one line."
+#~ msgstr "每一個 BOT User_agent 一行"
+
+#~ msgid "Home Page:"
+#~ msgstr "首頁："
+
+#~ msgid "Display to everyone"
+#~ msgstr "顯示給所有人"
+
+#~ msgid "Display to registered users only"
+#~ msgstr "只顯示給註冊的使用者"
+
+#~ msgid "Don't display on home page"
+#~ msgstr "在首頁不要顯示"
+
+#~ msgid ""
+#~ "These options specify where the view counts should be displayed and to "
+#~ "whom.<br />Note that the theme files must contain a call to "
+#~ "<code>the_views()</code> in order for any view count to be displayed."
+#~ msgstr ""
+#~ "這選項讓你可以針對指定版面決定是否顯示瀏覽數。<br />注意：主題樣板中必須呼"
+#~ "叫 <code>the_views()</code> 系列函數來顯示瀏覽次數。"
+
+#~ msgid "Singe Posts:"
+#~ msgstr "單一文章："
+
+#~ msgid "Don't display on single posts"
+#~ msgstr "不要在單一文章頁面顯示"
+
+#~ msgid "Pages:"
+#~ msgstr "獨立分頁："
+
+#~ msgid "Don't display on pages"
+#~ msgstr "不要在獨立頁面顯示"
+
+#~ msgid "Archive Pages:"
+#~ msgstr "匯整頁面："
+
+#~ msgid "Don't display on archive pages"
+#~ msgstr "不要在匯整頁面顯示"
+
+#~ msgid "Search Pages:"
+#~ msgstr "搜尋頁面"
+
+#~ msgid "Don't display on search pages"
+#~ msgstr "不要在搜尋頁面顯示"
+
+#~ msgid "Other Pages:"
+#~ msgstr "其他頁面："
+
+#~ msgid "Don't display on other pages"
+#~ msgstr "不要在其他頁面顯示"
+
+#~ msgid "Reset to Default"
+#~ msgstr "回覆預設值"
+
+#~ msgid ""
+#~ "Deactivating WP-PostViews Plus plugin does not remove any data that may "
+#~ "have been created, such as the views data. To completely remove this "
+#~ "plugin, you can uninstall it here."
+#~ msgstr ""
+#~ "停用 WP-PostViews Plus 外掛不會移除任何由其建立的資料，例如瀏覽數。為了完"
+#~ "整的移除外掛，你可以從這裡移除。"
+
+#~ msgid "WARNING:"
+#~ msgstr "注意："
+
+#~ msgid ""
+#~ "Once uninstalled, this cannot be undone. You should use a Database Backup "
+#~ "plugin of WordPress to back up all the data first."
+#~ msgstr ""
+#~ "一但刪除之後，將無法復原。如果你想要保留資料請先行將 WordPress 的資料庫備"
+#~ "份"
+
+#~ msgid "The database table <strong>%s</strong> will be DELETED."
+#~ msgstr "資料表 <strong>%s</strong> 將被刪除"
+
+#~ msgid "The following WordPress Options/PostMetas will be DELETED:"
+#~ msgstr "以下的 WordPress 設定與文章的自訂欄位將被刪除："
+
+#~ msgid "WordPress Options"
+#~ msgstr "WordPress 設定值"
+
+#~ msgid "WordPress PostMetas"
+#~ msgstr "文章自訂欄位"
+
+#~ msgid "Yes"
+#~ msgstr "是的"
+
+#~ msgid ""
+#~ "You Are About To Uninstall WP-PostViews Plus From WordPress.\\nThis "
+#~ "Action Is Not Reversible.\\n\\n Choose [Cancel] To Stop, [OK] To "
+#~ "Uninstall."
+#~ msgstr ""
+#~ "你將從 WordPress 刪除 WP-PostViews Plus \\n這舉動是不可以回復的。\\n\\n點"
+#~ "選 [取消] 來停止動作， [確定]執行刪除"
+
+#~ msgid "PostViews+"
+#~ msgstr "瀏覽數+"
+
+#~ msgid "There is no excerpt because this is a protected post."
+#~ msgstr "文章受密碼保護，無法產生摘要。"
+
+#~ msgid "N/A"
+#~ msgstr "沒有文章"
+
+#~ msgid "WP-PostViews plus views statistics"
+#~ msgstr "WP-PostViews plus 的瀏覽排行"
+
+#~ msgid "Views Stats"
+#~ msgstr "瀏覽數排行"
+
+#~ msgid "Views"
+#~ msgstr "瀏覽數"
+
+#~ msgid "Title:"
+#~ msgstr "標題："
+
+#~ msgid "Statistics Type:"
+#~ msgstr "排行型態："
+
+#~ msgid "Most Viewed"
+#~ msgstr "最多人瀏覽"
+
+#~ msgid "Most Viewed By Category"
+#~ msgstr "依分類最多人瀏覽"
+
+#~ msgid "Most Viewed By Tag"
+#~ msgstr "依標籤最多人瀏覽"
+
+#~ msgid "Include Views From:"
+#~ msgstr "包含的頁面型態："
+
+#~ msgid "Posts &amp; Pages"
+#~ msgstr "文章 &amp; 分頁"
+
+#~ msgid "Posts Only"
+#~ msgstr "只有文章"
+
+#~ msgid "Pages Only"
+#~ msgstr "只有分頁"
+
+#~ msgid "Only work with "
+#~ msgstr "只作用於"
+
+#~ msgid "No. Of Records To Show:"
+#~ msgstr "顯示的文章數量："
+
+#~ msgid "Maximum Post Title Length (Characters):"
+#~ msgstr "最多標題字數："
+
+#~ msgid "<strong>0</strong> to disable."
+#~ msgstr "<strong>0</strong> 不限制"
+
+#~ msgid "With BOT Views:"
+#~ msgstr "包含機器人的瀏覽："
+
+#~ msgid "With BOT"
+#~ msgstr "包含機器人"
+
+#~ msgid "Without BOT"
+#~ msgstr "不包含機器人"
+
+#~ msgid "Category IDs:"
+#~ msgstr "分類 ID："
+
+#~ msgid "Seperate mutiple categories with commas."
+#~ msgstr "多個分類以 ',' 區分"
+
+#~ msgid "Tag IDs:"
+#~ msgstr "標籤 ID："
+
+#~ msgid ""
+#~ "* If you are not using any category or tag statistics, you can ignore it."
+#~ msgstr "* 如果你不使用分類或標籤也行，你不需裡會他。"
+
+#~ msgid "Reset Post View Timws Success"
+#~ msgstr "成功的重置瀏覽數"
+
+#~ msgid "Cleared User User_agent Success"
+#~ msgstr "成功的清除使用者的 User_agent"
+
+#~ msgid "Update BOT User_agent Success"
+#~ msgstr "成功的更新機器人的 User_agent"
+
+#~ msgid "Report BOT User_agent Success"
+#~ msgstr "成功的回報機器人的 User_agent"
+
+#~ msgid "Report BOT User_agent Fail"
+#~ msgstr "失敗的回報機器人的 User_agent"
+
+#~ msgid "Reset Bot User_agent Success"
+#~ msgstr "成功的重置機器人的 User_agent"
+
+#~ msgid "Remember the User_agent Of User."
+#~ msgstr "記住訪客的 User_agent."
+
+#~ msgid "Add views number if User is logoin."
+#~ msgstr "當使用者登入後也計算文章閱覽數."
+
+#~ msgid "In every %s minute is redundant IP does not calculate views number."
+#~ msgstr "每 %s 分鐘內重複的 IP 不計算瀏覽數."
+
+#~ msgid ""
+#~ "Output format of most views. (%1$s: Views number. %2$s: Post link. %3$s: "
+#~ "Post Date.)"
+#~ msgstr "最多人瀏覽的輸出格式. (%1$s:瀏覽數. %2$s: 文章連結. %3$s:發文日期)"
+
+#~ msgid "without bot views."
+#~ msgstr "不包含機器人."
+
+#~ msgid "Reset Option"
+#~ msgstr "重置設定"
+
+#~ msgid "User User_agent"
+#~ msgstr "使用者的 User_agent"
+
+#~ msgid "Clear User User_agent record"
+#~ msgstr "清除使用者的 User_agent 紀錄"
+
+#~ msgid ""
+#~ "Here are a list of Bot User_agent. Start each User_agent on a new line."
+#~ msgstr "這是監測機器人所使用的 User_agent 的清單.每一個 User_agent 在一行."
+
+#~ msgid "Update BOT User_agent"
+#~ msgstr "更新機器人的 User_agent"
+
+#~ msgid "Reset BOT User_agent"
+#~ msgstr "重置機器人的 User_agent"
+
+#~ msgid "Add Views number in Blog Index Page."
+#~ msgstr "在部落格首頁的閱覽計算在文章閱覽數內."
+
+#, fuzzy
+#~ msgid "Output format of most views. (%1$s: Views number. %2$s: Post link.)1"
+#~ msgstr "最多人瀏覽的輸出格式. (%1$s:瀏覽數. %2$s: 文章連結.)"
+
+#~ msgid "Output format of most views. (%1$s: Post link. %2$s: Views number.)"
+#~ msgstr "最多人瀏覽的輸出格式. (%1$s:瀏覽數. %2$s: 文章連結.)"

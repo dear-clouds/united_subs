@@ -1,0 +1,8 @@
+<wpml-config>
+    <admin-texts>
+        <key name="boss_options">
+            <key name="boss_copyright"/>
+            <key name="boss_slides"/>
+        </key>
+    </admin-texts>
+</wpml-config>

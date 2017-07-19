@@ -1,0 +1,419 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BuddyPress for LearnDash\n"
+"Report-Msgid-Bugs-To: https://www.buddyboss.com/contact/\n"
+"POT-Creation-Date: 2016-12-29 21:57:24+00:00\n"
+"PO-Revision-Date: 2016-05-01 14:44-0400\n"
+"Last-Translator: jean-pierre michaud <nexialys@yahoo.com>\n"
+"Language-Team: jean-pierre michaud <nexialys@yahoo.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: buddypress-learndash.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: buddypress-learndash.php:75
+msgid "Couldn't load Plugin_Requirements_Check class at:<br/>%s"
+msgstr "N'a pas pu charger la classe BPCP_Plugin_Check à :<br>%s"
+
+#: buddypress-learndash.php:81 buddypress-learndash.php:126
+msgid "<h1>Fatal error:</h1><hr/><pre>%s</pre>"
+msgstr "<h1>Erreur fatale:</h1><hr/><pre>%s</pre>"
+
+#: buddypress-learndash.php:120
+msgid "Couldn't load main class at:<br/>%s"
+msgstr "Impossible de charger les composantes sur:<br/>%s"
+
+#: buddypress-learndash.php:169
+msgid ""
+"<strong>BuddyPress for LearnDash</strong> requires the LearnDash and "
+"BuddyPress plugins to work. Please intall <a href=\"http://www.learndash.com/"
+"\" target=\"_blank\">LearnDash</a> and <a href=\"https://buddypress.org/\" "
+"target=\"_blank\">BuddyPress</a> first."
+msgstr ""
+"<strong>BuddyPress pour LearnDash</strong> requiert les plugins LearnDash et "
+"BuddyPress travailler. Vous devez intaller <a href=\"http://www.learndash."
+"com/\" target=\"_blank\">LearnDash</a> et <a href=\"https://buddypress.org/"
+"\" target=\"_blank\">BuddyPress</a> en premier."
+
+#: buddypress-learndash.php:179
+msgid ""
+"<strong>BuddyPress for LearnDash</strong> requires LearnDash v2.1.8 or "
+"higher to work. Please <a href=\"http://www.learndash.com/\">update "
+"LearnDash</a> first."
+msgstr ""
+"<strong>BuddyPress pour LearnDash</strong> nécessite LearnDash v2.1.8 ou "
+"supérieur pour fonctionner. Vous devez <a href=\"http://www.learndash.com/"
+"\">mettre à jour LearnDash</a> en premier."
+
+#: includes/admin.php:177
+msgid "General Settings"
+msgstr "Réglages généraux"
+
+#: includes/admin.php:179
+msgid "Visibility"
+msgstr "Visibilité"
+
+#: includes/admin.php:180
+msgid "User Roles"
+msgstr "Rôles d’utilisateur"
+
+#: includes/admin.php:210 includes/admin.php:272
+msgid "Settings"
+msgstr "Réglages"
+
+#: includes/admin.php:246
+msgid "Buddypress Learndash"
+msgstr "BuddyPress pour LearnDash"
+
+#: includes/admin.php:250
+msgid "Settings updated."
+msgstr "Réglages mis à jour."
+
+#: includes/admin.php:257
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
+#: includes/admin.php:307
+msgid "Display <em>Profile > %s</em> content publicly"
+msgstr "afficher le contenue du <em>Profile > %s</em> en public"
+
+#: includes/admin.php:320
+msgid "Convert subscribers to user role Student"
+msgstr "Convertir des abonnés au rôle d'utilisateur étudiant"
+
+#: includes/admin.php:333
+msgid "Convert group leaders to user role Group Leader"
+msgstr "Convertir les chefs de groupe au rôle d'utilisateur Chef de groupe"
+
+#: includes/bp-learndash-courses.php:12
+msgid "Expand All"
+msgstr "Tout déployer"
+
+#: includes/bp-learndash-courses.php:12
+msgid "/"
+msgstr "/"
+
+#: includes/bp-learndash-courses.php:12
+msgid "Collapse All"
+msgstr "Tout contracter"
+
+#: includes/bp-learndash-courses.php:17
+msgid "Registered %s"
+msgstr "%s Enregistré"
+
+#: includes/bp-learndash-functions.php:27
+#: includes/bp-learndash-functions.php:455
+msgid "My %s"
+msgstr "Mes %s"
+
+#: includes/bp-learndash-functions.php:36
+msgid "my-%s"
+msgstr "my-%s"
+
+#: includes/bp-learndash-functions.php:40
+msgid "Create a %s"
+msgstr "Créer un %s"
+
+#: includes/bp-learndash-functions.php:44
+msgid "create-%s"
+msgstr "create-%s"
+
+#: includes/bp-learndash-functions.php:488
+msgid "Add to Menu"
+msgstr "Ajouter au menu"
+
+#: includes/bp-learndash-group-experiences.php:91
+msgid "This %s has no %s added yet"
+msgstr "Ce %s n'a pas de %s ajouté"
+
+#: includes/bp-learndash-group-settings.php:18
+msgid "%s Settings"
+msgstr "%s Paramètres"
+
+#: includes/bp-learndash-group-settings.php:41
+msgid "Group %s"
+msgstr "Groupe de %s"
+
+#: includes/bp-learndash-group-settings.php:43
+#: includes/bp-learndash-groups.php:87
+msgid "--Select--"
+msgstr "--Sélectionner--"
+
+#: includes/bp-learndash-group-settings.php:65
+msgid "%s Activity"
+msgstr "Activité %s"
+
+#: includes/bp-learndash-group-settings.php:66
+msgid "Which %s activity should be displayed in this group?"
+msgstr "Quelle activité de %s doit s'afficher dans ce groupe ?"
+
+#: includes/bp-learndash-group-settings.php:67
+msgid "User starts a %s"
+msgstr "Un membre débute un %s"
+
+#: includes/bp-learndash-group-settings.php:68
+#: includes/bp-learndash-group-settings.php:70
+#: includes/bp-learndash-group-settings.php:72
+msgid "User completes a %s"
+msgstr "Un membre a complété un %s"
+
+#: includes/bp-learndash-group-settings.php:69
+#: includes/bp-learndash-group-settings.php:71
+msgid "User creates a %s"
+msgstr "Un membre créée un %s"
+
+#: includes/bp-learndash-group-settings.php:73
+msgid "User passes a %s"
+msgstr "Un membre passe un %s"
+
+#: includes/bp-learndash-group-settings.php:74
+#: includes/bp-learndash-group-settings.php:75
+#: includes/bp-learndash-group-settings.php:76
+msgid "User comments on single %s page"
+msgstr "Commentaires d'utilisateurs sur une seule page %s"
+
+#: includes/bp-learndash-groups.php:68
+msgid "%s Group"
+msgstr "Groupe du %s"
+
+#: includes/bp-learndash-groups.php:85
+msgid "Add this %s to a BuddyPress group."
+msgstr "Ajouter ce %s à un groupe BuddyPress."
+
+#: includes/bp-learndash-groups.php:99
+msgid "&#43; Create New Group"
+msgstr "&#43; Créer un Nouveau Groupe"
+
+#: includes/bp-learndash-groups.php:230
+msgid "Private Course Group"
+msgstr "Groupe de Cours Privé"
+
+#: includes/bp-learndash-groups.php:233
+msgid "Hidden Course Group"
+msgstr "Groupe de Cours Caché"
+
+#: includes/bp-learndash-groups.php:265
+msgid "%s Discussion"
+msgstr "Groupe de discussion du %s"
+
+#: includes/bp-learndash-loader.php:117 includes/bp-learndash-loader.php:183
+msgid "%1$s added the %2$s %3$s to the %4$s %5$s"
+msgstr "%1$s ajouté le %2$s %3$s à %4$s %5$s"
+
+#: includes/bp-learndash-loader.php:218
+msgid "%1$s started taking the course %2$s"
+msgstr "%1$s a commencé à prendre le cours %2$s"
+
+#: includes/bp-learndash-loader.php:254 includes/bp-learndash-loader.php:291
+msgid "%1$s completed the %2$s %3$s"
+msgstr "%1$s completé le %2$s %3$s"
+
+#: includes/bp-learndash-loader.php:327
+msgid "%1$s completed the course %2$s"
+msgstr "%1$s a complété le cours %2$s"
+
+#: includes/bp-learndash-loader.php:369 includes/bp-learndash-loader.php:410
+#: includes/bp-learndash-loader.php:453
+msgid "%1$s commented on %2$s %3$s"
+msgstr "%1$s commenté sur le %2$s, %3$s"
+
+#: includes/bp-learndash-loader.php:495
+msgid "%1$s commented on course %2$s"
+msgstr "%1$s a commenté le cours %2$s"
+
+#: includes/bp-learndash-loader.php:537
+msgid "%1$s has passed the %2$s %3$s with score %4$s"
+msgstr "%1$s a passé le %2$s %3$s avec le score %4$s"
+
+#: includes/bp-learndash-loader.php:667
+msgid "Students"
+msgstr "Etudiants"
+
+#: includes/bp-learndash-loader.php:668
+msgid "Student"
+msgstr "Étudiant(e)"
+
+#: includes/bp-learndash-loader.php:673
+msgid "Group Leaders"
+msgstr "Responsables de groupe"
+
+#: includes/bp-learndash-loader.php:674
+msgid "Group Leader"
+msgstr "Chef de Groupe"
+
+#: includes/bp-learndash-loader.php:681
+msgid "Group Leaders <span>%s</span>"
+msgstr "Chef du Groupe <span>%s</span>"
+
+#: includes/bp-learndash-loader.php:682
+msgid "Students <span>%s</span>"
+msgstr "Étudiants de <span>%s</span>"
+
+#: includes/bp-learndash-member-mass-enrollment.php:104
+msgid "Mass Group Enrollment"
+msgstr "Inscription de Masse"
+
+#: includes/bp-learndash-member-mass-enrollment.php:110
+msgid ""
+"Please be patient while the mass enrollment process. This can take a while "
+"if your server is slow (inexpensive hosting) or if you have many "
+"students(members). Do not navigate away from this dialog until this script "
+"is done."
+msgstr ""
+"S'il vous plaît être patient pendant que le processus d'inscription de "
+"masse. Cela peut prendre un certain temps si votre serveur est lent "
+"(hébergement bon marché) ou si vous avez de nombreux étudiants (membres). Ne "
+"quittez pas cette boîte de dialogue jusqu'à ce que ce script ait terminé."
+
+#: includes/bp-learndash-member-mass-enrollment.php:125
+msgid "To go back to the previous page, <a href=\"%s\">click here</a>."
+msgstr "Pour revenir à la page précédente, <a href=\"%s\">cliquez ici</a>."
+
+#: includes/bp-learndash-member-mass-enrollment.php:126
+msgid ""
+"All done! %1$s image(s) were successfully resized in %2$s seconds and there "
+"were %3$s failure(s). To try regenerating the failed images again, <a href="
+"\"%4$s\">click here</a>. %5$s"
+msgstr ""
+"Terminé! %1$s image(s) ont été retaillées en %2$s secondes et il n'y a %3$s "
+"échecs. Tentez de reprendre la retaille des images manquées, <a href=\"%4$s"
+"\">clicker ici</a>. %5$s"
+
+#: includes/bp-learndash-member-mass-enrollment.php:127
+msgid ""
+"All done! %1$s image(s) were successfully resized in %2$s seconds and there "
+"were 0 failures. %3$s"
+msgstr ""
+"Terminé! %1$s image(s) ont été retaillées en %2$s secondes et il n'y a aucun "
+"échec. %3$s"
+
+#: includes/bp-learndash-member-mass-enrollment.php:129
+msgid "You must enable Javascript in order to proceed!"
+msgstr "Vous devez activer Javascript afin d'aller de l'avant !"
+
+#: includes/bp-learndash-member-mass-enrollment.php:135
+msgid "Abort Joining Members"
+msgstr "Annuler l'inscription des Membres"
+
+#: includes/bp-learndash-member-mass-enrollment.php:137
+msgid "Debugging Information"
+msgstr "Rapport de Debogage"
+
+#: includes/bp-learndash-member-mass-enrollment.php:140
+msgid "Total Members: %s"
+msgstr "Total des membres: %s"
+
+#: includes/bp-learndash-member-mass-enrollment.php:141
+msgid "Members Joined: %s"
+msgstr "Membres Inscrit: %s"
+
+#: includes/bp-learndash-member-mass-enrollment.php:142
+msgid "Join Failures: %s"
+msgstr "Echecs de Connection: %s"
+
+#: includes/bp-learndash-member-mass-enrollment.php:175
+msgid "Stopping..."
+msgstr "Arrêt…"
+
+#: includes/bp-learndash-member-mass-enrollment.php:231
+msgid ""
+"The resize request was abnormally terminated (ID %s). This is likely due to "
+"the image exceeding available memory or some other type of fatal error."
+msgstr ""
+"La demande de modification de taille a été anormalement terminée (ID% s). "
+"Cela est probablement dû à l'image dépassant la mémoire disponible ou un "
+"autre type d'erreur fatale."
+
+#: includes/bp-learndash-member-mass-enrollment.php:306
+msgid ""
+"&quot;%1$s&quot; (ID %2$s) failed to resize. The error message was: %3$s"
+msgstr ""
+"&quot;%1$s&quot; (ID %2$s) n'a pas réussi à redimensionner. Le message "
+"d'erreur était: %3$s"
+
+#: includes/main-class.php:183 includes/main-class.php:190
+msgid "Cheatin&#8217; huh?"
+msgstr "On triche, hum?"
+
+#: includes/main-class.php:514
+#, fuzzy
+msgid ""
+"<strong>BuddyPress for Learndash</strong> requires User Groups component to "
+"be enabled. Please enable it in your <a href=\"%s\">BuddyPress Settings</a>."
+msgstr ""
+"<strong>BuddyPress pour LearnDash</strong> nécessite LearnDash v2.1.8 ou "
+"supérieur pour fonctionner. Vous devez <a href=\"http://www.learndash.com/"
+"\">mettre à jour LearnDash</a> en premier."
+
+#: includes/requirements-class.php:22
+msgid ""
+"Please install the <a target=\"_blank\" href=\"http://www.learndash.com/"
+"\">LearnDash</a> plugin first."
+msgstr ""
+"Merci d’installer le plugin <a href=\"http://www.learndash.com/\">LearnDash</"
+"a> avant tout."
+
+#: includes/requirements-class.php:40
+msgid ""
+"Please install <a href=\"http://www.learndash.com/\">LearnDash</a> plugin "
+"first."
+msgstr ""
+"Merci d’installer le plugin <a href=\"http://www.learndash.com/\">LearnDash</"
+"a> avant tout."
+
+#: templates/courses.php:75
+msgid "%s Progress Overview"
+msgstr "Aperçu %s"
+
+#: templates/courses.php:78
+msgid "%s out of %s steps completed"
+msgstr "%s sur %s étapes complétées"
+
+#: templates/courses.php:84
+msgid "%s%% Complete"
+msgstr "%s%% Completé"
+
+#: templates/courses.php:92
+msgid "Certificate"
+msgstr "Certificat"
+
+#: templates/courses.php:93
+msgid "Score"
+msgstr "Score"
+
+#: templates/courses.php:94
+msgid "Date"
+msgstr "Date"
+
+#: templates/courses.php:120
+msgid "No %s found."
+msgstr "Aucun %s trouvé"
+
+#~ msgid "BuddyPress for LearnDash"
+#~ msgstr "BuddyPress pour LearnDash"
+
+#~ msgid "http://buddyboss.com/product/buddypress-learndash/"
+#~ msgstr "http://buddyboss.com/product/buddypress-learndash/"
+
+#~ msgid ""
+#~ "Integrate the LearnDash LMS plugin with BuddyPress, so you can add "
+#~ "courses to your social network."
+#~ msgstr ""
+#~ "Intégrer l'extension LearnDash LMS avec BuddyPress, de sorte que vous "
+#~ "pouvez ajouter des cours à votre réseau social."
+
+#~ msgid "BuddyBoss"
+#~ msgstr "BuddyBoss"
+
+#~ msgid "http://buddyboss.com"
+#~ msgstr "http://buddyboss.com"

@@ -1,0 +1,33 @@
+
+span.katracker-error {
+	color: red;
+	font-style: italic;
+	font-weight: bold;
+}
+
+span.katracker-active {
+	color: green;
+	font-weight: bold;
+}
+
+span.katracker-inactive {
+	color: red;
+	font-weight: bold;
+}
+
+span.katracker-thumbnail-button {
+	width:100px;
+	height:100px;
+	border:1px dashed #ccc;
+	border-radius:10px;
+	display: block;
+}
+
+span.katracker-hidden {
+	display: none;
+}
+
+img.katracker-torrent-image {
+	outline:none;
+	display:none;
+}

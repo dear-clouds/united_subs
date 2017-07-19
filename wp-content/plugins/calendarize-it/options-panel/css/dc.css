@@ -1,0 +1,286 @@
+.clear {
+	clear:both;
+}
+#downloadables {
+	float:left;
+}
+.action-links {
+	padding:3px 0 0 3px;
+}
+.action-links a {
+	cursor:pointer;
+}
+.dc-version,
+.dc-filesize {
+	max-width:75px;
+}
+#installing {
+display:none;
+}
+.dc-loading {
+	display:block;
+	float:left;
+	min-width:42px;
+	min-height:42px;
+	background: url('images/spinner_32x32.gif') no-repeat center left;
+}
+.install-message {
+	display:block;
+	float:left;
+	margin: 5px 0 15px;
+	background-color: #FFFFE0;
+    border-color: #E6DB55;	
+    border-radius: 3px 3px 3px 3px;
+    border-style: solid;
+    border-width: 1px;
+    padding: 0 0.6em;	
+	min-width:300px;
+}
+.current-cat {
+	background-color: #FFFFE0;
+    border-color: #E6DB55;	
+    border-radius: 3px 3px 3px 3px;
+    border-style: solid;
+    border-width: 1px;	
+}
+
+/* new DLC center */
+.pop-dlc-item {
+	background: white;
+	padding: 15px 15px 125px;
+	margin-right: 15px;
+	margin-bottom: 15px;
+	border: 1px solid #E3E3E3;
+	-webkit-border-radius: 3px;
+	 -khtml-border-radius: 11px;
+	   -moz-border-radius: 3px;
+		    border-radius: 3px;	   
+	min-width:200px;
+	min-height: 397px;
+	max-width:298px;
+	box-sizing: border-box;
+	-webkit-box-shadow: inset 0 1px 0 white, inset 0 0 20px rgba(0, 0, 0, 0.05), 0 1px 2px rgba( 0, 0, 0, 0.1 );
+	   -moz-box-shadow: inset 0 1px 0 #fff, inset 0 0 20px rgba(0,0,0,0.05), 0 1px 2px rgba( 0,0,0,0.1 );
+	        box-shadow: inset 0 1px 0 white, inset 0 0 20px rgba(0, 0, 0, 0.05), 0 1px 2px rgba( 0, 0, 0, 0.1 );	
+}
+
+.pop-price-cont .pop-dlc-price-label,
+.pop-version-cont .pop-dlc-version-label,
+.pop-iversion-cont .pop-dlc-iversion-label,
+.pop-filesize-cont .pop-dlc-filesize-label {
+	display:inline;
+	font-weight:bold;
+}
+
+.pop-price-cont .pop-dlc-price,
+.pop-version-cont .pop-dlc-version,
+.pop-iversion-cont .pop-dlc-iversion,
+.pop-filesize-cont .pop-dlc-filesize {
+	display:inline-block;
+	width:auto;
+}
+
+.pop-dlc-description {
+	margin:7px 0;
+}
+
+.dlc-controls {
+	display:block;
+	position: absolute;
+    margin: 5px 0;
+    text-align: left;
+    bottom: 15px;
+    left: 0;
+    width: 100%;
+    padding: 0 15px;
+    box-sizing: border-box;
+}
+
+.pop-dlc-price,
+.pop-dlc-filesize,
+.pop-dlc-version,
+.pop-dlc-iversion {
+	float:right;
+}
+
+.pop-dlc-details {
+	float:right;
+	display:block;
+	width:50%;
+	margin:0 0 7px 7px;
+}
+
+.pop-dlc-image {
+	display:block;
+	min-height:90px;
+}
+
+.pop-clear {
+clear:both;
+}
+
+.btn-download {
+float:right;
+}
+
+.dlc-addon-control {
+margin-left:3px;
+}
+
+.pop-purchase-cont {
+	padding-top:5px;
+	text-align:right;
+	padding-bottom: 5px;
+}
+
+.btn-purchased {
+	display:inline-block;
+}
+
+body h4.pop-dlc-name {
+	margin-top:0;
+	font-weight: bold;
+}
+
+.btn-buynow {
+
+}
+
+body .alert.main-license-message {
+	margin:10px 0;
+}
+
+/* DLC Buttons */
+.rhpop.isotope .btn {
+    background-image:none;
+    border: none;
+    font-size: 15px;
+    font-weight: normal;
+    line-height: 1.4;
+    text-shadow: none;
+    border-radius: 4px;
+    box-shadow:none;
+    padding: 4px 11px;
+    -webkit-font-smoothing: subpixel-antialiased;
+    -webkit-transition: .25s linear;
+    transition: .25s linear;
+}
+
+.rhpop .btn-pop-inner {
+    color: #ffffff;
+}
+
+.rhpop.isotope .btn.btn-visit-site {
+    color: #ffffff;
+    background-color: #bdc3c7;
+}
+
+.rhpop.isotope .btn.btn-visit-site:hover {
+    color: #ffffff;
+    background-color: #cacfd2;
+    border-color: #cacfd2;
+}
+.rhpop.isotope .btn-group .btn.enable-addon {
+    color: #ffffff;
+    background-image: none;
+    border-radius: 4px 0 0 4px;
+}
+.rhpop.isotope .btn-group .btn.enable-addon.active {
+   /* background-color: #51a351;*/
+}
+.rhpop.isotope .btn-group .btn.disable-addon {
+    border-radius: 0 4px 4px 0;
+}
+.rhpop.isotope .btn-group .btn.disable-addon.active {
+    /*background-color: #bdc3c7;*/
+}
+.rhpop.isotope .btn-group .btn:hover {
+    opacity: .7;
+}
+.rhpop.isotope .btn.btn-download{
+    text-shadow:none;
+	min-width: 94px;
+}
+.rhpop.isotope .btn.btn-download:hover {
+    opacity:.7;
+}
+.rhpop.isotope .btn.btn-download.disabled {
+    color: #ffffff;
+    background-color: #bdc3c7;
+    opacity: .5;
+}
+.rhpop.isotope .btn.btn-purchased {
+    min-width: 111px;
+}
+.rhpop.isotope .btn.btn-buynow {
+    min-width: 111px;
+}
+.pop-discount-code {
+	text-align:right;
+}
+
+.rhpop .btn.btn-pop-discount-code {
+    background-color: #5bb75b;
+}
+
+.rhpop input.pop-discount-code-inp[type="text"]{
+	float:left;
+	width:48%;
+	height:30px;
+	border: 2px solid #bdc3c7;
+	color: #34495e;
+	font-family: 'Lato', sans-serif;
+	padding: 8px 5px;
+	text-indent: 6px;
+	-webkit-appearance: none;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+	-webkit-transition: border .25s linear, color .25s linear;
+	-moz-transition: border .25s linear, color .25s linear;
+	-o-transition: border .25s linear, color .25s linear;
+	transition: border .25s linear, color .25s linear;
+	-webkit-backface-visibility: hidden;
+	font-size:14px;	
+	margin-bottom:0;
+}
+.btn-pop-discount-code {
+background-color:#0044cc;
+}
+.pop-discount-code {
+	opacity:0;
+	max-height:0;
+	z-index:0;
+	overflow:hidden;
+	-webkit-transition: opacity .25s linear, max-height .5s linear;
+	-moz-transition: opacity .25s linear, max-height .5s linear;
+	-o-transition: opacity .25s linear, max-height .5s linear;
+	transition: opacity .25s linear, max-height .5s linear;	
+}
+.show-coupon .pop-discount-code {
+	opacity:1;
+	max-height:125px;
+}
+
+.dlc-update button.btn.btn-primary.btn-download {
+    background-color: #f1c40f;
+}
+
+.pop-dlc-iversion {
+	color:#5bb75b;
+}
+
+.dlc-update .pop-dlc-iversion {
+    color:#c0392b;
+}
+
+.dc-content .subsubsub {
+	margin-bottom:10px;
+}
+
+.rhpop .pop-dlc-image img {
+    width: 100%;
+}

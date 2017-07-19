@@ -1,0 +1,289 @@
+/*************************** General Styling ***************************/
+
+/* Text Styling */
+a {
+color: #AF582C;
+}
+a:hover {
+color: #5D3928;
+}
+
+/* Form Styling */
+input[type="button"],
+input[type="submit"],
+input[type="reset"] {
+border-color: #65574E;
+background-color: #453B35;
+background-image: -moz-linear-gradient(#453B35, #1A1614);
+background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#453B35), to(#1A1614));
+background-image: -webkit-linear-gradient(#453B35, #1A1614);
+background-image: -o-linear-gradient(#453B35, #1A1614);
+background-image: -ms-linear-gradient(#453B35, #1A1614);
+-pie-background: linear-gradient(#453B35, #1A1614);
+}
+
+
+/*************************** Header ***************************/
+
+/* Header Outer */
+#header-outer {
+background-color: #3A312C;
+background-image: url(lib/images/header-bg-brown.png), -moz-linear-gradient(#3A312C, #000);
+background-image: url(lib/images/header-bg-brown.png), -webkit-gradient(linear, 0% 0%, 0% 100%, from(#3A312C), to(#000));
+background-image: url(lib/images/header-bg-brown.png), -webkit-linear-gradient(#3A312C, #000);
+background-image: url(lib/images/header-bg-brown.png), -o-linear-gradient(#3A312C, #000);
+background-image: url(lib/images/header-bg-brown.png), -ms-linear-gradient(#3A312C, #000);
+}
+.ie8 #header-outer,
+.ie9 #header-outer {
+-pie-background: url(lib/images/header-bg-brown.png) right top no-repeat, linear-gradient(#3A312C, #000);
+}
+	
+/* Logo */
+.default-logo {
+background-image: url(lib/images/logo-brown.png);
+}
+
+
+/*************************** Navigation Menus ***************************/
+
+/* Nav Wrapper */
+#nav {
+border-color: #806e62;
+background-color: #685950;
+background-image: -moz-linear-gradient(#685950, #453B35);
+background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#685950), to(#453B35));
+background-image: -webkit-linear-gradient(#685950, #453B35);
+background-image: -o-linear-gradient(#685950, #453B35);
+background-image: -ms-linear-gradient(#685950, #453B35);
+-pie-background: linear-gradient(#685950, #453B35);
+}
+.mobile-menu {
+border-color: #4E423B;
+}
+
+/* Top Level Nav */
+#nav a {
+border-left-color: #4E423B;
+border-right-color: #5F5149;
+}
+#nav li.home a {
+background-position: -295px -21px;
+}
+
+/* Drop Down Menus */
+#nav .sub-menu {
+border-color: #28221F;
+background-color: #453B35;
+}
+#nav .sub-menu a {
+border-color: #65574E;
+}
+#nav .sub-menu a:hover {
+color: #BFB3AB;
+}
+
+
+/*************************** Social Icons ***************************/
+
+#social-icons {
+border-color: #4E423B;
+border-top-color: #3F3731;
+}
+
+
+/*************************** Top Content ***************************/
+
+/* Top Content */
+#top-content {
+color: #BFB3AB;
+border-color: #65574E;
+background-color: #453B35;
+background-image: -moz-linear-gradient(#453B35, #1A1614);
+background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#453B35), to(#1A1614));
+background-image: -webkit-linear-gradient(#453B35, #1A1614);
+background-image: -o-linear-gradient(#453B35, #1A1614);
+background-image: -ms-linear-gradient(#453B35, #1A1614);
+-pie-background: linear-gradient(#453B35, #1A1614);
+}
+#top-content.top-content-stripes {
+background-image: url(lib/images/top-content-bg.png), -moz-linear-gradient(#453B35, #1A1614);
+background-image: url(lib/images/top-content-bg.png), -webkit-gradient(linear, 0% 0%, 0% 100%, from(#453B35), to(#1A1614));
+background-image: url(lib/images/top-content-bg.png), -webkit-linear-gradient(#453B35, #1A1614);
+background-image: url(lib/images/top-content-bg.png), -o-linear-gradient(#453B35, #1A1614);
+background-image: url(lib/images/top-content-bg.png), -ms-linear-gradient(#453B35, #1A1614);
+}
+.ie8 #top-content.top-content-stripes,
+.ie9 #top-content.top-content-stripes {
+-pie-background: url(lib/images/top-content-bg.png) right bottom no-repeat, linear-gradient(#453B35, #1A1614);
+}
+
+/* Post Meta */
+.post-meta {
+color: #8B7F79;
+}
+.post-meta a {
+color: #8B7F79;
+}
+
+/* Breadcrumbs */
+#breadcrumbs a {
+font-weight: normal;
+color: #BFB3AB;
+}
+
+/* Search Form */
+#top-content #searchform {
+border-color: #403730;
+background-color: #201B18;
+background-image: -moz-linear-gradient(#201B18, #29231F);
+background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#201B18), to(#29231F));
+background-image: -webkit-linear-gradient(#201B18, #29231F);
+background-image: -o-linear-gradient(#201B18, #29231F);
+background-image: -ms-linear-gradient(#201B18, #29231F);
+-pie-background: linear-gradient(#201B18, #29231F);
+}
+#top-content #searchbar {
+color: #6A584E;
+}
+#top-content #searchsubmit {
+background-position: -348px -36px;
+}
+
+
+/*************************** Page/Post Styling ***************************/
+
+/* Posts */
+.post-text h2 a {
+color: #5D3928;
+}
+.post-text h2 a:hover {
+color: #AF582C;
+}
+
+
+/*************************** Shortcodes: Author Info ***************************/
+
+.author-info {
+background-color: #453B35;
+background-image: -moz-linear-gradient(#453B35, #1A1614);
+background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#453B35), to(#1A1614));
+background-image: -webkit-linear-gradient(#453B35, #1A1614);
+background-image: -o-linear-gradient(#453B35, #1A1614);
+background-image: -ms-linear-gradient(#453B35, #1A1614);
+-pie-background: linear-gradient(#453B35, #1A1614);
+}
+.author-info .author-links {
+color: #BFB3AB;
+}
+.author-info .author-links a:hover {
+color: #BFB3AB;
+}
+.author-info .author-desc {
+color: #BFB3AB;
+}
+
+
+/*************************** Shortcodes: Buttons ***************************/
+
+/* Buttons */
+.sc-button {
+color: #fff;
+border-color: #748894;
+background-color: #685950;
+background-image: -moz-linear-gradient(#685950, #453B35);
+background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#685950), to(#453B35));
+background-image: -webkit-linear-gradient(#685950, #453B35);
+background-image: -o-linear-gradient(#685950, #453B35);
+background-image: -ms-linear-gradient(#685950, #453B35);
+-pie-background: linear-gradient(#685950, #453B35);
+}
+.sc-button:hover {
+color: #fff;
+background: #453B35;
+}
+
+
+/*************************** Shortcodes: Price Box ***************************/
+
+.sc-price-box {
+background-color: #453B35;
+background-image: -moz-linear-gradient(#453B35, #1A1614);
+background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#453B35), to(#1A1614));
+background-image: -webkit-linear-gradient(#453B35, #1A1614);
+background-image: -o-linear-gradient(#453B35, #1A1614);
+background-image: -ms-linear-gradient(#453B35, #1A1614);
+-pie-background: linear-gradient(#453B35, #1A1614);
+}
+.sc-price-divider {
+border-top-color: #2B2521;
+border-bottom-color: #3C342F;
+}
+.sc-price-box-content {
+color: #BFB3AB;
+}
+
+
+/*************************** Shortcodes: Pricing Table ***************************/
+
+.sc-pricing-table thead th {
+border-color: #65574E;
+background-color: #453B35;
+background-image: -moz-linear-gradient(#453B35, #1A1614);
+background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#453B35), to(#1A1614));
+background-image: -webkit-linear-gradient(#453B35, #1A1614);
+background-image: -o-linear-gradient(#453B35, #1A1614);
+background-image: -ms-linear-gradient(#453B35, #1A1614);
+-pie-background: linear-gradient(#453B35, #1A1614);
+}
+.sc-pricing-table .price {
+color: #BFB3AB;
+}
+
+
+/*************************** Shortcodes: Slider ***************************/
+
+/* Slide Caption */
+.caption {
+background-color: #453B35;
+}
+
+
+/*************************** Shortcodes: Text Boxes ***************************/
+
+#top-content .text-box {
+color: #BFB3AB;
+}
+
+
+/*************************** Widgets ***************************/
+
+/* Custom Menus Widget */
+.widget_nav_menu a:hover,
+.widget_nav_menu .current-menu-item > a {
+background-color: #453B35;
+background-image: -moz-linear-gradient(#453B35, #1A1614);
+background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#453B35), to(#1A1614));
+background-image: -webkit-linear-gradient(#453B35, #1A1614);
+background-image: -o-linear-gradient(#453B35, #1A1614);
+background-image: -ms-linear-gradient(#453B35, #1A1614);
+-pie-background: linear-gradient(#453B35, #1A1614);
+}
+
+
+/*************************** Page Navigation ***************************/
+
+/* Page & Comments Navigation */
+.wp-pagenavi span,
+.wp-pagenavi.cat-navi a,
+.wp-pagenavi.comment-navi a,
+.wp-pagenavi.post-navi a span {
+border-color: #65574E;
+background-color: #453B35;
+background-image: -moz-linear-gradient(#453B35, #1A1614);
+background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#453B35), to(#1A1614));
+background-image: -webkit-linear-gradient(#453B35, #1A1614);
+background-image: -o-linear-gradient(#453B35, #1A1614);
+background-image: -ms-linear-gradient(#453B35, #1A1614);
+-pie-background: linear-gradient(#453B35, #1A1614);
+}

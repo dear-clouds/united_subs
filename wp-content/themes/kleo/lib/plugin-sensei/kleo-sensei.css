@@ -1,0 +1,224 @@
+#main .course, #main .course-container{
+    border: none;
+}
+nav#post-entries{
+    margin:5px 0;
+    display: block;
+    clear:both;
+    overflow: hidden;
+}
+nav#post-entries div{
+    display: inline-block;
+}
+nav#post-entries a{
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    padding: 5px 10px;
+    margin:5px 0;
+    background: transparent;
+    color:#777;
+    display: inline-block;
+}
+
+#my-courses *{
+    outline:none;
+}
+#my-courses .ui-tabs-panel{
+    clear:both !important;
+    width: 100% !important;
+}
+
+#my-courses, #my-courses.ui-tabs{
+    border:none;
+    padding: 0;
+    margin: 0;
+    clear:both;
+    display: block;
+}
+
+#my-courses>ul,
+#my-courses.ui-tabs ul.ui-tabs-nav{
+    font-weight: normal;
+    font-size:13px;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 22px;
+    border:none;
+    background: transparent;
+    list-style: none;
+    padding: 0;
+    overflow: hidden;
+
+}
+
+#my-courses ul li,
+#my-courses ul.ui-tabs-nav li.ui-state-default{
+    font-weight: normal;
+    font-size:13px;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 22px;
+    border:none;
+    background: transparent;
+    display: inline-block;
+    padding: 0;
+    margin: 5px 5px 0 0;
+    top:0;
+    float:left;
+}
+
+#my-courses ul li a,
+#my-courses.ui-tabs ul.ui-tabs-nav li.ui-state-default a.ui-tabs-anchor,
+a.my-messages-link{
+    font-weight: normal;
+    font-size:13px;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 22px;    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    padding: 5px 10px;
+    margin:0;
+    background: transparent;
+    color:#777;
+    display: inline-block;
+}
+a.my-messages-link:hover,
+#my-courses.ui-tabs ul.ui-tabs-nav li.ui-state-active a.ui-tabs-anchor,
+#my-courses.ui-tabs ul.ui-tabs-nav li.ui-state-hover a.ui-tabs-anchor{
+    background: #ccc;
+    color:#fff;
+}
+
+.my-messages-link-container{
+    text-align: right;
+    border:0px solid red;
+    position:relative;
+    float:right;
+    z-index: 10;
+    clear:both;
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+    height:40px;
+    margin-bottom:-40px;
+    bottom:-5px;
+
+}
+a.my-messages-link{
+    margin-right:7px;
+}
+@media (max-width: 480px) {
+    .my-messages-link-container{
+        text-align: center;
+        margin-bottom: 0px;
+        position: relative;
+        width:100%;
+    }
+    a.my-messages-link{
+        margin-right: 0px;
+    }
+    #my-courses ul li,
+    #my-courses.ui-tabs ul li{
+        display:block;
+        width:100%;
+        clear:both;
+        text-align: center;
+    }
+    #my-courses ul li a,
+    #my-courses.ui-tabs ul.ui-tabs-nav li.ui-state-default a.ui-tabs-anchor{
+        float:none;
+        display:inline-block;
+    }
+    .learner-info .learner-content, .learner-info>h2{
+        display:none;
+    }
+    .learner-info{
+        text-align: center;
+    }
+    #learner-info .learner-avatar{
+        float:none;
+        display: inline-block;
+    }
+
+}
+.learner-info{
+    position: relative;
+}
+.learner-avatar img{
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+}
+.meter{
+    overflow:hidden;
+    width:100%;
+    height:20px;
+    margin:10px 0;
+    clear:both;
+}
+.meter>span{
+    font-size:12px;
+    font-weight: normal;
+    line-height: 18px;
+}
+.lesson-status.complete{
+    font-weight: bold;
+}
+body.sensei button.single_add_to_cart_button,
+body.sensei input.quiz-submit,
+body.sensei input.course-delete,
+body.learner-profile input.course-delete,
+body.sensei input.course-start,
+body.learner-profile a.button,
+body.sensei a.button,
+body.sensei .course-meta .status{
+    padding:10px 20px !important;
+    margin:0 !important;
+    display: inline-block;
+    font-size:12px !important;
+}
+.course-lessons>article h2{
+    font-size:20px;
+}
+.course-lessons>article{
+
+}
+
+
+.widget_sensei_course_component>ul>li>a>.woo-image,
+.widget_sensei_lesson_component>ul>li>a>.woo-image,
+.widget_sensei_category_courses>ul>li>a>.woo-image{
+    max-width:60px;
+    max-height:60px;
+
+}
+.widget_sensei_course_component>ul>li>a,
+.widget_sensei_lesson_component>ul>li>a,
+.widget_sensei_category_courses>ul>li>a{
+
+}
+
+.widget_sensei_course_component>ul>li,
+.widget_sensei_lesson_component>ul>li,
+.widget_sensei_category_courses>ul>li{
+    border-top:1px solid #eee;
+    padding:10px 0;
+}
+
+li.my-account>a.button{
+    padding:10px 0 !important;
+}
+
+article.course>a{
+    float:left;
+}
+.woo-image.thumbnail{
+    border:none;
+    padding:0;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    padding-bottom:15px;
+}
+
+.sensei-course-participant.fix.hide[style="display: list-item;"]{ display:inline-block !important; }

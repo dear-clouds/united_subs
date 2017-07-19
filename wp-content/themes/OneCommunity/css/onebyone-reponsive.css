@@ -1,0 +1,61 @@
+@media screen and (max-width:1240px)
+{
+.page-template-frontpage1-php .oneByOne1 { width: 950px; height: 520px; }   
+.page-template-frontpage1-php #banner .oneByOne_item { width: 950px; height: 520px; }
+
+.slider-text-a1 { font-size:170px; }
+.slider-text-a2 { font-size:70px; }
+.slider-text-b1 { font-size:62px; width:420px; }
+.slider-text-b2 { font-size:35px; width:440px; }
+.slider-text-b3 { font-size:18px; width:440px; }
+.slider-text-c1, .slider-text-c2, .slider-text-c3 { font-size:80px; margin-top:130px; }
+
+.buttonArea { left: 470px; }
+
+}
+
+
+
+@media screen and (max-width:960px)
+{
+.page-template-frontpage1-php .oneByOne1 { width: 670px; height: 450px; }  
+.page-template-frontpage1-php #banner .oneByOne_item { width: 670px; height: 450px; }
+.page-template-frontpage1-php #slider { margin-bottom:0px; }
+
+.page-template-frontpage1-php #slider { background-image: url( "../images/bokeh.png" ); background-size:100% auto; }
+
+.slider-text-a1 { font-size:110px; }
+.slider-text-a2 { font-size:38px; }
+.slider-text-a3 { font-size:21px; }
+.slider-text-b1 { font-size:46px; width:310px; }
+.slider-text-b2 { font-size:32px; width:300px; }
+.slider-text-b3 { font-size:16px; width:300px; }
+.slider-text-c1, .slider-text-c2, .slider-text-c3 { font-size:65px; margin-top:120px; }
+.slider-text-c1 img { max-width:100%; }
+
+.buttonArea { left: 350px; top: 410px; } 
+
+}
+
+
+
+
+
+@media screen and (max-width:760px)
+{
+.page-template-frontpage1-php .oneByOne1 { width: 400px; height: 480px; }   
+.page-template-frontpage1-php #banner .oneByOne_item { width: 400px; height: 480px; }
+.page-template-frontpage1-php #slider { margin-bottom:0px; background:none; }
+.slider-text-a1 { font-size:72px; }
+.slider-text-a2 { font-size:28px; }
+.slider-text-a2 span { padding-top:7px; padding-bottom:10px; }
+.slider-text-a3 { font-size:18px; }
+.slider-text-b1 { font-size:46px; width:400px; text-align:left; margin-top:0px; }
+.slider-text-b2 { font-size:32px; width:400px; margin-top:10px; }
+.slider-text-b3 { font-size:14px; width:400px; }
+.slider-text-c1, .slider-text-c2, .slider-text-c3 { font-size:65px; width:100%; margin-top:30px; }
+
+.buttonArea { left: 200px; top: 440px; }  
+.slider-join { margin-right:100px!important; }
+
+}

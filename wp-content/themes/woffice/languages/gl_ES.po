@@ -1,0 +1,5538 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woffice\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-27 16:09+0100\n"
+"PO-Revision-Date: 2015-10-11 21:10+0100\n"
+"Last-Translator: xanocebreiro <xanocebreiro@hotmail.com>\n"
+"Language-Team: Xano <dplingua@gmail.com>\n"
+"Language: Galician (Spain)\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Loco-Target-Locale: es_ES\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../buddypress/members/single/groups/invites.php:14
+#, php-format
+msgctxt "Group member count"
+msgid "1 member"
+msgid_plural "%d members"
+msgstr[0] "1 membro"
+msgstr[1] "%d membros"
+
+#: ../buddypress/activity/index.php:67
+#, php-format
+msgctxt "Number of new activity mentions"
+msgid "%s new"
+msgid_plural "%s new"
+msgstr[0] "%s novo"
+msgstr[1] "%s novos"
+
+#: ../inc/register.php:143
+msgid "Register"
+msgstr "Rexistrar"
+
+#: ../inc/buddypress.php:198 ../inc/buddypress.php:201
+msgid "Activity"
+msgstr "Actividade"
+
+#: ../inc/buddypress.php:207
+msgid "Favorites"
+msgstr "Favoritos"
+
+#: ../inc/buddypress.php:210 ../inc/buddypress.php:279
+msgid "Friends"
+msgstr "Amigos"
+
+#: ../inc/buddypress.php:213 ../inc/buddypress.php:294
+msgid "Groups"
+msgstr "Grupos"
+
+#: ../inc/buddypress.php:222
+msgid "Profile"
+msgstr "Perfil"
+
+#: ../inc/buddypress.php:240
+msgid "Notifications"
+msgstr "Avisos"
+
+#: ../inc/buddypress.php:255
+msgid "Messages"
+msgstr "Mensaxes"
+
+#: ../inc/buddypress.php:258
+msgid "Inbox"
+msgstr "Bandexa de entrada"
+
+#: ../inc/buddypress.php:261
+msgid "Starred"
+msgstr "Preferido"
+
+#: ../inc/buddypress.php:264
+msgid "Sent"
+msgstr "Enviado"
+
+#: ../inc/buddypress.php:267
+msgid "Compose"
+msgstr "Composición"
+
+#: ../inc/buddypress.php:270
+msgid "Notices"
+msgstr "Avisos"
+
+#: ../inc/buddypress.php:282
+msgid "Friendships"
+msgstr "Amizades"
+
+#: ../inc/buddypress.php:285
+msgid "Requests"
+msgstr "Solicitudes"
+
+#: ../inc/buddypress.php:297
+msgid "Memberships"
+msgstr "Membresía"
+
+#: ../inc/buddypress.php:300
+msgid "Invitations"
+msgstr "Convites"
+
+#: ../inc/buddypress.php:312
+msgid "General"
+msgstr "Xeral"
+
+#: ../inc/buddypress.php:318
+msgid "Profile Visibility"
+msgstr "Visibilidade de Perfil"
+
+#: ../inc/buddypress.php:321
+msgid "Capabilities"
+msgstr "Capacidades"
+
+#: ../framework-customizations/theme/options/posts.php:106
+msgid "Notice user on task assignment ?"
+msgstr "Avisar usuario na asignación de tarefas ?"
+
+#: ../framework-customizations/theme/options/posts.php:107
+msgid ""
+"Do you want to notice the user by email when a project task is assigned to "
+"the user ?"
+msgstr ""
+"Queres avisarlle ao usuario por correo electrónico cando se lle asigna unha "
+"tarefa de proxecto?"
+
+#: ../framework-customizations/theme/options/posts.php:120
+msgid "Email's content"
+msgstr "Contido do correo"
+
+#: ../framework-customizations/theme/options/posts.php:121
+msgid "This is the content of the email before the task name."
+msgstr "Este é o contido do correo electrónico antes do nome da tarefa ."
+
+#: ../framework-customizations/theme/options/buddypress.php:28
+msgid "If checked the field will be displayed on the members page."
+msgstr "Se se marca o campo, amosarase na páxina de membros."
+
+#: ../framework-customizations/theme/options/buddypress.php:33
+msgid "Field's icon"
+msgstr "Icona do campo"
+
+#: ../framework-customizations/theme/options/buddypress.php:77
+msgid "Display fields in Buddypress members directory"
+msgstr "Ver campos no directorio de membros de Buddypress"
+
+#: ../framework-customizations/theme/options/posts/project.php:87
+msgid "Specific member ?"
+msgstr "Membro específico?"
+
+#: ../framework-customizations/theme/options/posts/project.php:89
+msgid ""
+"If you have already some project\\s member, the selected user have to be one "
+"of them."
+msgstr ""
+"Se xa tes algún membro do proxecto, o usuario seleccionado ten que ser un "
+"deles ."
+
+#: ../framework-customizations/extensions/woffice-poll/hooks.php:69
+#: ../framework- customizations/extensions/woffice-poll/views/view.php:62
+msgid "Thanks ! Here are the results for"
+msgstr "Graciñas! Estes son os resultados para"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/config.
+#: php:8
+msgid "LearnDash"
+msgstr "LearnDash"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/config.
+#: php:9
+msgid "Display Learndash elements"
+msgstr "Ver elementos Learndash"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.
+#: php:15
+msgid "What do you want to display ?"
+msgstr "Que queres ver?"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.
+#: php:18
+msgid "Current User data (Courses, scores, certificates..)"
+msgstr "Datos de usuario actuais (cursos, puntuacións, certificados...)"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.
+#: php:19
+msgid "Courses list"
+msgstr "Listaxe de cursos"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.
+#: php:20
+msgid "Lessons list"
+msgstr "Listaxe de Unidades"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.
+#: php:21
+msgid "Quizzes list"
+msgstr "Listaxe de cuestionarios"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.
+#: php:22
+msgid "Course's content"
+msgstr "Contido do curso"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.
+#: php:27
+msgid "Info"
+msgstr "Info"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.
+#: php:28
+msgid ""
+"The next options are only if you have selected Course, Lessons, Quizzes list "
+"in the option above."
+msgstr ""
+"As seguintes opcións só se seleccionaches Curso, Listaxe de unidades, "
+"Cuestionarios na opción anterior ."
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.
+#: php:32
+msgid "Number :"
+msgstr "Número:"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.
+#: php:42
+msgid "order :"
+msgstr "orde:"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.
+#: php:45
+msgid "Ascending"
+msgstr "Ascendente"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.
+#: php:49
+msgid "Descending"
+msgstr "Descendente"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.
+#: php:55
+msgid "Optional Tag :"
+msgstr "Etiqueta opcional:"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.
+#: php:56
+msgid "Display only the ones from a specific tag. We need its slug here."
+msgstr "Amosar só de unha etiqueta específica. Precísase o teu slug aquí."
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.
+#: php:60
+msgid "Optional Category :"
+msgstr "Categoría opcional:"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.
+#: php:61
+msgid "Display only the ones from a specific category. We need its slug here."
+msgstr "Amosar só de unha categoría específica. Necesítase o teu slug aquí."
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.
+#: php:65
+msgid "For the current user :"
+msgstr "Para o usuario actual:"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.
+#: php:66
+msgid ""
+"Display the data only for the current user ? (Not all courses, but his "
+"courses for example). ONLY FOR THE COURSES"
+msgstr ""
+"Amosar os datos só para o usuario actual? (Non todos os cursos, senón os "
+"seus, por exemplo) . SÓ PARA OS CURSOS"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-
+#: woffice-projects.php:153
+msgid "You have a new task"
+msgstr "Tes unha nova Tarefa"
+
+#: ../framework-customizations/extensions/woffice-projects/helpers.php:196
+msgid "Assign an user (optional)"
+msgstr "Asignar un usuario (opcional )"
+
+#. Name of the template
+msgid "Maintenance"
+msgstr "Mantemento"
+
+#. Name of the template
+msgctxt "Tablero"
+msgid "Dashboard"
+msgstr "Panel"
+
+#. Name of the template
+msgctxt "Directorio"
+msgid "Directory"
+msgstr "Directorio"
+
+#. Name of the template
+msgctxt "Login"
+msgid "Login"
+msgstr "Entrar"
+
+#. Theme URI of the theme
+msgctxt "http://themeforest.net/user/2Fwebd"
+msgid "http://themeforest.net/user/2Fwebd"
+msgstr "http://themeforest.net/user/2Fwebd"
+
+#. Description of the theme
+msgctxt "Woffice - Intranet/Extranet Multipurpose Wordpress theme"
+msgid "Woffice - Intranet/Extranet Multipurpose Wordpress theme"
+msgstr "Woffice - Intranet/Extranet Multipurpose Wordpress theme"
+
+#. Author of the theme
+msgctxt "2Fwebd"
+msgid "2Fwebd"
+msgstr "2Fwebd"
+
+#: ../category.php:12
+#, php-format
+msgid "Category Archives: <span>%s</span>"
+msgstr "Arquivos de categoría: <span>%s</span>"
+
+#: ../single-wiki.php:14 ../single-project.php:14 ../single.php:27 ..
+#: inc/frontend.php:62
+msgid "Please enter a title."
+msgstr "Por favor, escribe un título"
+
+#: ../single-wiki.php:62 ../inc/buddypress.php:225 ../framework-
+#: customizations/extensions/woffice-projects/helpers.php:13
+msgid "View"
+msgstr "Ver"
+
+#: ../single-wiki.php:65 ../content-page.php:18 ../buddypress.php:33 ..
+#: inc/buddypress.php:228 ../page-templates/wiki.php:45 ../page-
+#: templates/projects.php:47
+msgid "Edit"
+msgstr "Editar"
+
+#: ../single-wiki.php:69 ../framework-customizations/extensions/woffice-
+#: projects/helpers.php:51
+msgid "Comments"
+msgstr "Comentarios"
+
+#: ../single-wiki.php:74
+msgid "Revisions"
+msgstr "Revisións"
+
+#: ../single-wiki.php:82 ../framework-customizations/extensions/woffice-
+#: projects/helpers.php:62
+msgid "Are you sure you wish to delete article :"
+msgstr "¿Seguro que desexas eliminar o artigo?:"
+
+#: ../single-wiki.php:83
+#: ../buddypress/members/single/messages/messages-loop.php:76
+#: ../buddypress/members/single/messages/single.php:28 ../framework-
+#: customizations/extensions/woffice-projects/helpers.php:63
+msgid "Delete"
+msgstr "Borrar"
+
+#: ../single-wiki.php:117 ../single-project.php:193 ../single.php:112 ..
+#: inc/frontend.php:242
+msgid "Article's Title:"
+msgstr "Título do artigo:"
+
+#: ../single-wiki.php:123 ../single-project.php:199 ../single.php:118 ..
+#: inc/frontend.php:249
+msgid "Please enter a title"
+msgstr "Por favor, escribe un título"
+
+#: ../single-wiki.php:128 ../single-project.php:204 ../single.php:123 ..
+#: inc/frontend.php:378
+msgid "Article's Content:"
+msgstr "Contido do Artigo"
+
+#: ../single-wiki.php:141 ../single.php:135
+msgid "Update Article"
+msgstr "Actualización de artigo"
+
+#: ../single-wiki.php:154 ../single-project.php:268
+msgid "Comments are closed..."
+msgstr "Os comentarios están pechados."
+
+#: ../single-wiki.php:162
+msgid "This post was last modified by"
+msgstr "Esta mensaxe foi modificada por última vez por"
+
+#: ../single-wiki.php:163 ../single-wiki.php:180 ../framework-
+#: customizations/extensions/woffice-birthdays/class-fw-extension-woffice-
+#: birthdays.php:261
+msgid " on"
+msgstr "en"
+
+#: ../single-wiki.php:175
+msgid "This article has not been revised since publication."
+msgstr "Este artigo non foi revisado desde a súa publicación."
+
+#: ../single-wiki.php:179
+msgid "This post was created by"
+msgstr "Este artigo foi creado por"
+
+#: ../content-none.php:20 ../404.php:27
+msgid "Nothing Found"
+msgstr "Non se atopou nada"
+
+#: ../content-none.php:26
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+"No se atoparon resultados. Podes empregar o buscador para dar cunha entrada "
+"relacionada."
+
+#: ../content-none.php:30 ../404.php:37 ../content-private.php:33
+msgid "Back on the home page"
+msgstr "Voltar á páxina principal"
+
+#: ../content.php:56
+msgid "Read More"
+msgstr "Ler máis"
+
+#: ../archive.php:20
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr "Arquivos diarios: <span>%s</span>"
+
+#: ../archive.php:22
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr "Arquivos por mes: <span>%s</span>"
+
+#: ../archive.php:22
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: ../archive.php:24
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr "Arquivo por anos: <span>%s</span>"
+
+#: ../archive.php:24
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: ../archive.php:27 ../taxonomy-directory-category.php:12
+msgid " Archives"
+msgstr "Arquivos"
+
+#: ../archive.php:29
+msgid "Wiki Articles"
+msgstr "Artigos de Wiki"
+
+#: ../archive.php:31 ../framework-customizations/extensions/woffice-
+#: projects/class-fw-extension-woffice-projects.php:23 ../framework-
+#: customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.
+#: php:25
+msgid "Projects"
+msgstr "Proxectos"
+
+#: ../archive.php:33
+msgid "Archives"
+msgstr "Arquivos"
+
+#: ../404.php:11
+msgid "404 Error. Not found..."
+msgstr "Erro 404: Non atopado"
+
+#: ../404.php:33
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Vaia, non atopamos nada que se axuste á túa procura. Por favor, inténtao de "
+"novo con outras palabras clave."
+
+#: ../content-masonry.php:34 ../inc/hooks.php:767 ../inc/hooks.php:770
+msgid ", "
+msgstr ", "
+
+#: ../content-masonry.php:47
+msgid "Read more"
+msgstr "Ler máis"
+
+#: ../index.php:75
+msgid "New Blog Article"
+msgstr "Novo Artigo de Blogue"
+
+#: ../single-project.php:122
+msgid "Project's Members"
+msgstr "Membros do proxecto"
+
+#: ../single-project.php:151
+msgid "Project's Links"
+msgstr "Ligazóns do Proxecto"
+
+#: ../single-project.php:217
+msgid "Update Project"
+msgstr "Actualizar proxecto"
+
+#: ../comments.php:24
+#, php-format
+msgid "<i class=\"fa fa-comment\"></i> One comment"
+msgid_plural "<i class=\"fa fa-comments\"></i> %1$s comments"
+msgstr[0] "<i class=\"fa fa-comment\"></i> Un comentario"
+msgstr[1] "<i class=\"fa fa-comments-o\"></i> %1$s Comentarios"
+
+#: ../comments.php:34 ../buddypress/groups/single/forum/edit.php:10
+msgid "Reply"
+msgstr "Responder"
+
+#: ../comments.php:45
+msgid "Comment navigation"
+msgstr "Navegar entre comentarios"
+
+#: ../comments.php:46
+msgid "<i class=\"fa fa-chevron-left\"></i> Older Comments"
+msgstr "<i class=\"fa fa-chevron-left\"></i>Comentarios Anteriores"
+
+#: ../comments.php:47
+msgid "Newer Comments <i class=\"fa fa-chevron-right\"></i>"
+msgstr "Comentarios recentes <i class=\"fa fa-chevron-right\"></i>"
+
+#: ../comments.php:52
+msgid "Comments are closed."
+msgstr "Os comentarios están pechados."
+
+#: ../comments.php:67
+msgid "Leave a Reply"
+msgstr "Deixa un comentario"
+
+#: ../comments.php:68
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Responder a %s"
+
+#: ../comments.php:69
+msgid "Cancel Reply"
+msgstr "Cancelar Resposta"
+
+#: ../comments.php:70 ../inc/hooks.php:789
+msgid "Post Comment"
+msgstr "Enviar comentario"
+
+#: ../header.php:98
+msgid "Hi"
+msgstr "Ola"
+
+#: ../header.php:139 ../inc/hooks.php:908
+msgid "View your shopping cart"
+msgstr "Ver Carro de Compra"
+
+#: ../single.php:92
+msgid "Edit Post"
+msgstr "Editar anotación"
+
+#: ../single.php:141 ../inc/frontend.php:403
+msgid "Go Back"
+msgstr "Volver"
+
+#: ../content-private.php:20
+msgid "Private content here"
+msgstr "Contido Privado"
+
+#: ../content-private.php:24
+msgid "Apologies, you do not have the right to access to this page."
+msgstr "Non tes acceso a esta páxina."
+
+#: ../content-private.php:28
+msgid "You may just need to sign in to see the page content."
+msgstr "Só precisarás iniciar sesión para ver o contido da páxina."
+
+#: ../content-private.php:35
+msgid "Sign in"
+msgstr "Iniciar sesión"
+
+#: ../search.php:10
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Resultados da procura para: %s"
+
+#: ../buddypress/members/members-loop.php:152
+msgid "Sorry, no members were found."
+msgstr "Vaia, non se atoparon membros."
+
+#: ../buddypress/members/register.php:30
+msgid "User registration is currently not allowed."
+msgstr "Non se permite o rexistro de novos usuarios."
+
+#: ../buddypress/members/register.php:49
+msgid ""
+"Registering for this site is easy. Just fill in the fields below, and we'll "
+"get a new account set up for you in no time."
+msgstr ""
+"Rexistrarse neste sitio é doado. Simplemente enche os campos seguintes e "
+"crearemos a túa conta no momento."
+
+#: ../buddypress/members/register.php:64
+msgid "Account Details"
+msgstr "Detalles da Conta"
+
+#: ../buddypress/members/register.php:66 ../inc/register.php:36
+msgid "Username"
+msgstr "Nome de usuario"
+
+#: ../buddypress/members/register.php:66 ../buddypress/members/register.php:77
+#: .. buddypress/members/register.php:88
+#: ../buddypress/members/register.php:100 buddypress/members/register.php:249
+#: ../buddypress/members/register.php:265
+msgid "(required)"
+msgstr "(requirido)"
+
+#: ../buddypress/members/register.php:77
+msgid "Email Address"
+msgstr "Enderezo de correo"
+
+#: ../buddypress/members/register.php:88
+msgid "Choose a Password"
+msgstr "Escoller un Contrasinal"
+
+#: ../buddypress/members/register.php:100
+msgid "Confirm Password"
+msgstr "Confirma o contrasinal"
+
+#: ../buddypress/members/register.php:146 ../inc/register.php:102
+msgid "Profile Details"
+msgstr "Detalles de Perfil"
+
+#: ../buddypress/members/register.php:168
+#: ../buddypress/members/register.php:183
+#, php-format
+msgid ""
+"This field can be seen by: <span class=\"current-visibility-level\">%s</span>"
+msgstr ""
+"Este campo pode ser visto por: <span class=”current-visibility-level”>%s</"
+"span>"
+
+#: ../buddypress/members/register.php:168
+msgctxt "Change profile field visibility level"
+msgid "Change"
+msgstr "Cambiar"
+
+#: ../buddypress/members/register.php:173
+msgid "Who can see this field?"
+msgstr "Quen pode ver este campo?"
+
+#: ../buddypress/members/register.php:178
+msgid "Close"
+msgstr "Pechar"
+
+#: ../buddypress/members/register.php:243
+msgid "Blog Details"
+msgstr "Detalles do Blogue"
+
+#: ../buddypress/members/register.php:245
+msgid "Yes, I'd like to create a new site"
+msgstr "Si, gustaríame crear un novo sitio"
+
+#: ../buddypress/members/register.php:249
+msgid "Blog URL"
+msgstr "URL do Blogue"
+
+#: ../buddypress/members/register.php:265
+msgid "Site Title"
+msgstr "Título do sitio"
+
+#: ../buddypress/members/register.php:276
+msgid ""
+"I would like my site to appear in search engines, and in public listings "
+"around this network."
+msgstr ""
+"Gustaría que o meu sitio apareza nos motores de busca, e nas listaxes "
+"públicas sobre esta rede."
+
+#: ../buddypress/members/register.php:286 ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:24
+msgid "Yes"
+msgstr "Si"
+
+#: ../buddypress/members/register.php:287 ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:28
+msgid "No"
+msgstr "Non"
+
+#: ../buddypress/members/register.php:323
+msgid "Complete Sign Up"
+msgstr "Completa o rexistro"
+
+#: ../buddypress/members/register.php:355
+msgid ""
+"You have successfully created your account! To begin using this site you "
+"will need to activate your account via the email we have just sent to your "
+"address."
+msgstr ""
+"Creaches a túa conta correctamente! Para comezar a usar este sitio, terás "
+"que activar a túa conta a través do correo electrónico que acabamos de "
+"enviar ao teu enderezo."
+
+#: ../buddypress/members/register.php:357
+msgid ""
+"You have successfully created your account! Please log in using the username "
+"and password you have just created."
+msgstr ""
+"Creaches a túa conta correctamente! Por favor, inicia sesión empregando o "
+"nome de usuario e o contrasinal que acabas de indicar."
+
+#: ../buddypress/members/activate.php:14
+msgid ""
+"Your account was activated successfully! Your account details have been sent "
+"to you in a separate email."
+msgstr ""
+"A túa conta foi activada con éxito! Os detalles enviáronse ao teu enderezo "
+"de correo electrónico."
+
+#: ../buddypress/members/activate.php:16
+#, php-format
+msgid ""
+"Your account was activated successfully! You can now <a href=\"%s\">log in</"
+"a> with the username and password you provided when you signed up."
+msgstr ""
+"A túa conta foi activada correctamente! Agora podes<a href=“%s”>iniciar "
+"sesión</a> co nome de usuario e contrasinal que proporcionaches cando te "
+"inscribiches."
+
+#: ../buddypress/members/activate.php:21
+msgid "Please provide a valid activation key."
+msgstr "Por favor, proporciona unha clave de activación válida."
+
+#: ../buddypress/members/activate.php:25
+msgid "Activation Key:"
+msgstr "Clave de activación:"
+
+#: ../buddypress/members/activate.php:29
+#: ../inc/class-tgm-plugin-activation.php:1312 ../inc/class-tgm-plugin-
+#: activation.php:1410
+msgid "Activate"
+msgstr "Activar"
+
+#: ../buddypress/members/single/forums.php:18 ..
+#: buddypress/members/single/friends.php:20
+#: ../buddypress/members/single/blogs. php:19
+#: ../buddypress/members/single/groups.php:20
+#: buddypress/groups/single/forum.php:36
+msgid "Order By:"
+msgstr "Ordenar por:"
+
+#: ../buddypress/members/single/forums.php:20 ..
+#: buddypress/members/single/friends.php:22
+#: ../buddypress/members/single/blogs. php:21
+#: ../buddypress/members/single/groups.php:22
+#: buddypress/groups/single/forum.php:38
+msgid "Last Active"
+msgstr "Última vez activo"
+
+#: ../buddypress/members/single/forums.php:21
+#: ../buddypress/groups/single/forum. php:39
+msgid "Most Posts"
+msgstr "Maioría de publicacións"
+
+#: ../buddypress/members/single/forums.php:22
+#: ../buddypress/groups/single/forum. php:40
+msgid "Unreplied"
+msgstr "Sen contestar"
+
+#: ../buddypress/members/single/friends.php:23
+msgid "Newest Registered"
+msgstr "Rexistro máis recente"
+
+#: ../buddypress/members/single/friends.php:24
+#: ../buddypress/members/single/blogs. php:23
+#: ../buddypress/members/single/groups.php:25
+msgid "Alphabetical"
+msgstr "Alfabeticamente"
+
+#: ../buddypress/members/single/blogs.php:22
+msgid "Newest"
+msgstr "Recente"
+
+#: ../buddypress/members/single/activity.php:18 ..
+#: buddypress/groups/single/activity.php:8 ../buddypress/activity/index.php:90
+msgid "Show:"
+msgstr "Amosar:"
+
+#: ../buddypress/members/single/activity.php:20 ..
+#: buddypress/groups/single/activity.php:10
+#: ../buddypress/activity/index.php:92
+msgid "&mdash; Everything &mdash;"
+msgstr "&mdash; Todo  &mdash;"
+
+#: ../buddypress/members/single/groups.php:23
+msgid "Most Members"
+msgstr "Maioría de Membros"
+
+#: ../buddypress/members/single/groups.php:24
+msgid "Newly Created"
+msgstr "Creado recentemente"
+
+#: ../buddypress/members/single/settings/delete-account.php:7
+msgid ""
+"Deleting your account will delete all of the content you have created. It "
+"will be completely irrecoverable."
+msgstr ""
+"ADVERTENCIA: Pechar esta conta eliminará completamente todo o contido "
+"asociado. Non hai volta atrás; ten conta con esta opción."
+
+#: ../buddypress/members/single/settings/delete-account.php:11
+msgid ""
+"Deleting this account will delete all of the content it has created. It will "
+"be completely irrecoverable."
+msgstr ""
+"ADVERTENCIA: Pechar esta conta eliminará completamente todo o contido "
+"asociado. Non hai volta atrás; ten conta con esta opción."
+
+#: ../buddypress/members/single/settings/delete-account.php:23
+msgid "I understand the consequences."
+msgstr "Entendo as consecuencias."
+
+#: ../buddypress/members/single/settings/delete-account.php:27
+msgid "Delete Account"
+msgstr "Eliminar conta"
+
+#: ../buddypress/members/single/settings/profile.php:15
+msgid "Visibility"
+msgstr "Visibilidade"
+
+#: ../buddypress/members/single/settings/profile.php:42
+msgid "Save Settings"
+msgstr "Gardar axustes"
+
+#: ../buddypress/members/single/settings/general.php:7
+msgid ""
+"Current Password <span>(required to update email or change current password)"
+"</span>"
+msgstr ""
+"Contrasinal actual <span> (necesario para actualizar o correo electrónico ou "
+"cambiar contrasinal actual) </ span>"
+
+#: ../buddypress/members/single/settings/general.php:8
+msgid "Password Lost and Found"
+msgstr "Contrasinal achado e perdido"
+
+#: ../buddypress/members/single/settings/general.php:8
+msgid "Lost your password?"
+msgstr "Esqueciches o teu contrasinal?"
+
+#: ../buddypress/members/single/settings/general.php:12
+msgid "Account Email"
+msgstr "Correo da conta"
+
+#: ../buddypress/members/single/settings/general.php:15
+msgid "Change Password <span>(leave blank for no change)</span>"
+msgstr ""
+"Cambiar Contrasinal <span>( deixar en branco para non modificala )</span>"
+
+#: ../buddypress/members/single/settings/general.php:16
+msgid "New Password"
+msgstr "Contrasinal novo"
+
+#: ../buddypress/members/single/settings/general.php:18
+msgid "Repeat New Password"
+msgstr "Repite o contrasinal novo"
+
+#: ../buddypress/members/single/settings/general.php:23 ..
+#: buddypress/members/single/settings/notifications.php:11
+#: buddypress/groups/single/admin.php:32
+#: ../buddypress/groups/single/admin.php:117
+#: ../buddypress/groups/single/forum/edit.php:58
+#: buddypress/groups/single/forum/edit.php:74
+msgid "Save Changes"
+msgstr "Gardar cambios"
+
+#: ../buddypress/members/single/settings/notifications.php:4
+msgid "Send an email notice when:"
+msgstr "Enviar un aviso por correo electrónico cando:"
+
+#: ../buddypress/members/single/settings/capabilities.php:9
+msgid "This user is a spammer."
+msgstr "Este usuario é un spammer."
+
+#: ../buddypress/members/single/settings/capabilities.php:13
+#: ../inc/multiverso. php:322
+msgid "Save"
+msgstr "Gardar"
+
+#: ../buddypress/members/single/profile/change-avatar.php:1
+#: ../inc/buddypress.php:231
+msgid "Change Profile Photo"
+msgstr "Cambiar foto de perfil"
+
+#: ../buddypress/members/single/profile/change-avatar.php:7
+msgid ""
+"Your profile photo will be used on your profile and throughout the site. If "
+"there is a <a href=\"http://gravatar.com\">Gravatar</a> associated with your "
+"account email we will use that, or you can upload an image from your "
+"computer."
+msgstr ""
+"A túa foto de perfil será usada no teu perfil e en todo o sitio. Se tes un "
+"<a href=“http://gravatar.com”>Gravatar</a> asociado á túa conta de correo "
+"electrónico, empregarémolo, ou ben podes subir unha imaxe desde o ordenador."
+
+#: ../buddypress/members/single/profile/change-avatar.php:14
+msgid ""
+"Click below to select a JPG, GIF or PNG format photo from your computer and "
+"then click 'Upload Image' to proceed."
+msgstr ""
+"Clica a continuación para escoller unha foto formato JPG, GIF ou PNG do "
+"computador e preme en ‘Subir imaxe’ para proceder."
+
+#: ../buddypress/members/single/profile/change-avatar.php:18 ..
+#: buddypress/groups/create.php:154 ../buddypress/groups/single/admin.php:131
+msgid "Upload Image"
+msgstr "Subir unha imaxe"
+
+#: ../buddypress/members/single/profile/change-avatar.php:23
+msgid ""
+"If you'd like to delete your current profile photo but not upload a new one, "
+"please use the delete profile photo button."
+msgstr ""
+"Se desexas eliminar a foto do perfil actual, pero non subir unha nova, "
+"emprega o botón de borrar foto do perfil."
+
+#: ../buddypress/members/single/profile/change-avatar.php:24
+msgid "Delete Profile Photo"
+msgstr "Eliminar a foto do perfil"
+
+#: ../buddypress/members/single/profile/change-avatar.php:24
+msgid "Delete My Profile Photo"
+msgstr "Eliminar a foto do meu perfil"
+
+#: ../buddypress/members/single/profile/change-avatar.php:31
+msgid "Crop Your New Profile Photo"
+msgstr "Recortar a nova foto de perfil"
+
+#: ../buddypress/members/single/profile/change-avatar.php:33
+msgid "Profile Photo to crop"
+msgstr "Recortar foto de perfil"
+
+#: ../buddypress/members/single/profile/change-avatar.php:36
+msgid "Profile Photo preview"
+msgstr "Vista previa da foto de perfil"
+
+#: ../buddypress/members/single/profile/change-avatar.php:39 ..
+#: buddypress/groups/create.php:173 ../buddypress/groups/single/admin.php:157
+msgid "Crop Image"
+msgstr "Recortar imaxe"
+
+#: ../buddypress/members/single/profile/change-avatar.php:55
+msgid ""
+"Your profile photo will be used on your profile and throughout the site. To "
+"change your profile photo, please create an account with <a href=\"http://"
+"gravatar.com\">Gravatar</a> using the same email address as you used to "
+"register with this site."
+msgstr ""
+"A imaxe de perfil será empregada en todo o sitio. Para cambiar a foto, crea "
+"unha conta en <a href=“http://gravatar.com”>Gravatar</a> usando o mesmo "
+"correo electrónico do rexistro neste sitio, ou sube unha foto desde o "
+"ordenador."
+
+#: ../buddypress/members/single/profile/profile-wp.php:8 ..
+#: buddypress/activity/post-form.php:47
+msgid "My Profile"
+msgstr "O meu perfil"
+
+#: ../buddypress/members/single/profile/profile-wp.php:8
+#, php-format
+msgid "%s's Profile"
+msgstr "Perfil de %s"
+
+#: ../buddypress/members/single/profile/profile-wp.php:15 ../framework-
+#: customizations/theme/options/posts/project.php:64
+#: customizations/theme/options/posts/project.php:81
+#: customizations/extensions/woffice-projects/helpers.php:176
+#: customizations/extensions/woffice-directory/settings-options.php:50
+msgid "Name"
+msgstr "Nome"
+
+#: ../buddypress/members/single/profile/profile-wp.php:24
+msgid "About Me"
+msgstr "Sobre Min"
+
+#: ../buddypress/members/single/profile/profile-wp.php:33
+msgid "Website"
+msgstr "Sitio web"
+
+#: ../buddypress/members/single/profile/profile-wp.php:42
+msgid "Jabber"
+msgstr "Jabber"
+
+#: ../buddypress/members/single/profile/profile-wp.php:51
+msgid "AOL Messenger"
+msgstr "AOL Messenger"
+
+#: ../buddypress/members/single/profile/profile-wp.php:60
+msgid "Yahoo Messenger"
+msgstr "Yahoo Messenger"
+
+#: ../buddypress/members/single/groups/invites.php:23 ..
+#: buddypress/members/single/friends/requests.php:37
+msgid "Accept"
+msgstr "Aceptar"
+
+#: ../buddypress/members/single/groups/invites.php:24 ..
+#: buddypress/members/single/friends/requests.php:38
+msgid "Reject"
+msgstr "Rexeitar"
+
+#: ../buddypress/members/single/groups/invites.php:37
+msgid "You have no outstanding group invites."
+msgstr "Non tes ningún convite a grupos pendente."
+
+#: ../buddypress/members/single/notifications/notifications-loop.php:6 ..
+#: buddypress/members/single/messages/messages-loop.php:27
+msgid "Select all"
+msgstr "Seleccionar todo"
+
+#: ../buddypress/members/single/notifications/notifications-loop.php:7
+msgid "Notification"
+msgstr "Aviso"
+
+#: ../buddypress/members/single/notifications/notifications-loop.php:8
+msgid "Date Received"
+msgstr "Data de Recepción"
+
+#: ../buddypress/members/single/notifications/notifications-loop.php:9 ..
+#: buddypress/members/single/messages/messages-loop.php:30
+#: ../inc/multiverso.php:103
+msgid "Actions"
+msgstr "Accións"
+
+#: ../buddypress/members/single/notifications/feedback-no-notifications.php:7
+msgid "You have no unread notifications."
+msgstr "Non tes avisos sen ler"
+
+#: ../buddypress/members/single/notifications/feedback-no-notifications.php:11
+msgid "This member has no unread notifications."
+msgstr "Este usuario non ten avisos sen ler."
+
+#: ../buddypress/members/single/notifications/feedback-no-notifications.php:19
+msgid "You have no notifications."
+msgstr "Non tes avisos."
+
+#: ../buddypress/members/single/notifications/feedback-no-notifications.php:23
+msgid "This member has no notifications."
+msgstr "Este usuario non ten avisos."
+
+#: ../buddypress/members/single/messages/messages-loop.php:28
+msgid "From"
+msgstr "De"
+
+#: ../buddypress/members/single/messages/messages-loop.php:29
+msgid "Subject"
+msgstr "Asunto"
+
+#: ../buddypress/members/single/messages/messages-loop.php:46
+msgid "From:"
+msgstr "De:"
+
+#: ../buddypress/members/single/messages/messages-loop.php:53
+msgid "To:"
+msgstr "Para:"
+
+#: ../buddypress/members/single/messages/messages-loop.php:60
+msgid "View Message"
+msgstr "Ver mensaxe"
+
+#: ../buddypress/members/single/messages/messages-loop.php:68
+#: ../inc/buddypress. php:246
+msgid "Read"
+msgstr "Lido"
+
+#: ../buddypress/members/single/messages/messages-loop.php:72
+#: ../inc/buddypress. php:243
+msgid "Unread"
+msgstr "Sen Ler"
+
+#: ../buddypress/members/single/messages/messages-loop.php:102
+msgid "Sorry, no messages were found."
+msgstr "Vaia, non se atoparon mensaxes."
+
+#: ../buddypress/members/single/messages/single.php:14
+msgid "You are alone in this conversation."
+msgstr "Estás ti só nesta conversa."
+
+#: ../buddypress/members/single/messages/single.php:18
+#, php-format
+msgid "Conversation between %s recipients."
+msgstr "Conversa entre %s destinatarios."
+
+#: ../buddypress/members/single/messages/single.php:22
+#, php-format
+msgid "Conversation between %s and you."
+msgstr "Conversa entre %s e mais ti."
+
+#: ../buddypress/members/single/messages/single.php:28
+msgid "Delete Conversation"
+msgstr "Eliminar Conversa"
+
+#: ../buddypress/members/single/messages/single.php:90
+msgid "Send a Reply"
+msgstr "Enviar resposta"
+
+#: ../buddypress/members/single/messages/single.php:106
+msgid "Send Reply"
+msgstr "Enviar resposta"
+
+#: ../buddypress/members/single/messages/notices-loop.php:36
+msgid "Sent:"
+msgstr "Enviado:"
+
+#: ../buddypress/members/single/messages/notices-loop.php:43
+msgid "Delete Message"
+msgstr "Eliminar mensaxe"
+
+#: ../buddypress/members/single/messages/notices-loop.php:54
+msgid "Sorry, no notices were found."
+msgstr "Vaia, non se atopan avisos."
+
+#: ../buddypress/members/single/friends/requests.php:68
+msgid "You have no pending friendship requests."
+msgstr "Non tes solicitudes de amizade pendentes."
+
+#: ../buddypress/groups/index.php:23
+#, php-format
+msgid "All Groups <span>%s</span>"
+msgstr "Todos os grupos <span>%s</span>"
+
+#: ../buddypress/groups/index.php:26 ../buddypress/activity/index.php:49
+#, php-format
+msgid "My Groups <span>%s</span>"
+msgstr "Os meus Grupos <span>%s</span>"
+
+#: ../buddypress/groups/create.php:34 ../buddypress/groups/single/admin.php:16
+msgid "Group Name (required)"
+msgstr "Nome do grupo (requirido)"
+
+#: ../buddypress/groups/create.php:39 ../buddypress/groups/single/admin.php:19
+msgid "Group Description (required)"
+msgstr "Descrición do grupo (requirido)"
+
+#: ../buddypress/groups/create.php:56 ../buddypress/groups/single/admin.php:56
+msgid "Privacy Options"
+msgstr "Opcións de Privacidade"
+
+#: ../buddypress/groups/create.php:59 ../buddypress/groups/single/admin.php:61
+msgid "This is a public group"
+msgstr "Este é un grupo público"
+
+#: ../buddypress/groups/create.php:61 ../buddypress/groups/single/admin.php:63
+msgid "Any site member can join this group."
+msgstr "Calquera membro do sitio pode unirse a este grupo."
+
+#: ../buddypress/groups/create.php:62 ../buddypress/groups/create.php:73 ..
+#: buddypress/groups/single/admin.php:64
+#: ../buddypress/groups/single/admin.php:74
+msgid ""
+"This group will be listed in the groups directory and in search results."
+msgstr ""
+"Este grupo será listado no directorio de grupos e nos resultados de busca."
+
+#: ../buddypress/groups/create.php:63 ../buddypress/groups/single/admin.php:65
+msgid "Group content and activity will be visible to any site member."
+msgstr ""
+"O contido e a actividade do grupo serán visíbeis para calquera membro do "
+"sitio."
+
+#: ../buddypress/groups/create.php:69 ../buddypress/groups/single/admin.php:71
+msgid "This is a private group"
+msgstr "Este é un grupo privado"
+
+#: ../buddypress/groups/create.php:72 ../buddypress/groups/single/admin.php:73
+msgid "Only users who request membership and are accepted can join the group."
+msgstr ""
+"Só os usuarios que soliciten entrar e sexan aceptados poden unirse ao grupo."
+
+#: ../buddypress/groups/create.php:74 ../buddypress/groups/create.php:85 ..
+#: buddypress/groups/single/admin.php:75
+#: ../buddypress/groups/single/admin.php:85
+msgid ""
+"Group content and activity will only be visible to members of the group."
+msgstr ""
+"O contido e a actividade do grupo só serán visíbeis para membros do grupo."
+
+#: ../buddypress/groups/create.php:80 ../buddypress/groups/single/admin.php:81
+msgid "This is a hidden group"
+msgstr "Este é un grupo oculto"
+
+#: ../buddypress/groups/create.php:83 ../buddypress/groups/single/admin.php:83
+msgid "Only users who are invited can join the group."
+msgstr "Só os usuarios que son convidados poden unirse ao grupo."
+
+#: ../buddypress/groups/create.php:84 ../buddypress/groups/single/admin.php:84
+msgid ""
+"This group will not be listed in the groups directory or search results."
+msgstr ""
+"Este grupo non se incluirá no directorio de grupos ou resultados de busca."
+
+#: ../buddypress/groups/create.php:90 ../buddypress/groups/single/admin.php:92
+msgid "Group Invitations"
+msgstr "Convites de grupo"
+
+#: ../buddypress/groups/create.php:92 ../buddypress/groups/single/admin.php:94
+msgid "Which members of this group are allowed to invite others?"
+msgstr "Que membros deste grupo poden convidar a outros?"
+
+#: ../buddypress/groups/create.php:97 ../buddypress/groups/single/admin.php:99
+msgid "All group members"
+msgstr "Todos os membros do grupo"
+
+#: ../buddypress/groups/create.php:102
+#: ../buddypress/groups/single/admin.php:104
+msgid "Group admins and mods only"
+msgstr "Só os administradores do grupo e moderadores"
+
+#: ../buddypress/groups/create.php:107
+#: ../buddypress/groups/single/admin.php:109
+msgid "Group admins only"
+msgstr "Só os administradores do grupo"
+
+#: ../buddypress/groups/create.php:113
+msgid "Group Forums"
+msgstr "Foros do grupo"
+
+#: ../buddypress/groups/create.php:117
+msgid "Should this group have a forum?"
+msgstr "Este grupo debe ter un foro?"
+
+#: ../buddypress/groups/create.php:120
+#: ../buddypress/groups/single/admin.php:47
+msgid "Enable discussion forum"
+msgstr "Habilitar foro de discusión"
+
+#: ../buddypress/groups/create.php:124
+#, php-format
+msgid ""
+"<strong>Attention Site Admin:</strong> Group forums require the <a href=\"%s"
+"\">correct setup and configuration</a> of a bbPress installation."
+msgstr ""
+"<strong>Atención administrador do sitio</strong>Os foros de grupo requiren "
+"a  <a href=“%s”>instalación e configuración correcta</a> dunha instalación "
+"de bbPress."
+
+#: ../buddypress/groups/create.php:150
+#: ../buddypress/groups/single/admin.php:127
+msgid ""
+"Upload an image to use as a profile photo for this group. The image will be "
+"shown on the main group page, and in search results."
+msgstr ""
+"Sube unha imaxe para utilizala como foto de perfil para este grupo. A imaxe "
+"amosarase na páxina principal do grupo e nos resultados de busca."
+
+#: ../buddypress/groups/create.php:158
+msgid ""
+"To skip the group profile photo upload process, hit the \"Next Step\" button."
+msgstr ""
+"Para omitir o proceso de carga da foto de perfil de grupo, preme o botón "
+"\"Next Step\"."
+
+#: ../buddypress/groups/create.php:165
+msgid "Crop Group Profile Photo"
+msgstr "Recortar a foto do perfil do grupo"
+
+#: ../buddypress/groups/create.php:167
+#: ../buddypress/groups/single/admin.php:151
+msgid "Profile photo to crop"
+msgstr "Foto de perfil para recortar"
+
+#: ../buddypress/groups/create.php:170
+#: ../buddypress/groups/single/admin.php:154
+msgid "Profile photo preview"
+msgstr "Vista previa da foto de perfil"
+
+#: ../buddypress/groups/create.php:212
+msgid "Select people to invite from your friends list."
+msgstr "Selecciona desde a túa listaxe de amigos para convidar."
+
+#: ../buddypress/groups/create.php:230
+#: ../buddypress/groups/single/invites-loop. php:52
+msgid "Remove Invite"
+msgstr "Retirar convite"
+
+#: ../buddypress/groups/create.php:247
+msgid ""
+"Once you have built up friend connections you will be able to invite others "
+"to your group."
+msgstr ""
+"Unha vez que establezas as conexións para amigos, poderás convidar outros ao "
+"grupo."
+
+#: ../buddypress/groups/create.php:269
+msgid "Back to Previous Step"
+msgstr "Voltar ao paso anterior"
+
+#: ../buddypress/groups/create.php:276
+msgid "Next Step"
+msgstr "Seguinte paso"
+
+#: ../buddypress/groups/create.php:283
+msgid "Create Group and Continue"
+msgstr "Crear grupo e continuar"
+
+#: ../buddypress/groups/create.php:290
+msgid "Finish"
+msgstr "Finalizar"
+
+#: ../buddypress/groups/groups-loop.php:47 ../buddypress/groups/single/group-
+#: header.php:42
+#, php-format
+msgid "active %s"
+msgstr "activo %s"
+
+#: ../buddypress/groups/groups-loop.php:95
+msgid "There were no groups found."
+msgstr "Non se atoparon grupos."
+
+#: ../buddypress/groups/single/forum.php:19
+msgid "New Topic"
+msgstr "Novo tema"
+
+#: ../buddypress/groups/single/forum.php:27 ..
+#: buddypress/groups/single/forum/edit.php:16
+#: buddypress/groups/single/forum/topic.php:17
+msgid "Forum Directory"
+msgstr "Directorio do foro"
+
+#: ../buddypress/groups/single/forum.php:69
+msgid "You will auto join this group when you start a new topic."
+msgstr "Uniraste a este grupo automaticamente cando inicies un tema."
+
+#: ../buddypress/groups/single/forum.php:73
+msgid "Post a New Topic:"
+msgstr "Publicar un novo tema:"
+
+#: ../buddypress/groups/single/forum.php:75 ..
+#: buddypress/groups/single/forum/edit.php:47
+msgid "Title:"
+msgstr "Título:"
+
+#: ../buddypress/groups/single/forum.php:78 ..
+#: buddypress/groups/single/forum/edit.php:50
+msgid "Content:"
+msgstr "Contido:"
+
+#: ../buddypress/groups/single/forum.php:81 ..
+#: buddypress/groups/single/forum/edit.php:53
+msgid "Tags (comma separated):"
+msgstr "Etiquetas (separadas por comas):"
+
+#: ../buddypress/groups/single/forum.php:87
+msgid "Post Topic"
+msgstr "Tema do Artigo"
+
+#: ../buddypress/groups/single/activity.php:3
+#: ../buddypress/activity/index.php:85
+msgid "RSS Feed"
+msgstr "Semente RSS"
+
+#: ../buddypress/groups/single/activity.php:3
+#: ../buddypress/activity/index.php:85
+msgid "RSS"
+msgstr "RSS"
+
+#: ../buddypress/groups/single/request-membership.php:4
+#, php-format
+msgid "You are requesting to become a member of the group '%s'."
+msgstr "Estás solicitando converterte en membro do grupo ‘%s’."
+
+#: ../buddypress/groups/single/request-membership.php:7
+msgid "Comments (optional)"
+msgstr "Comentarios (opcional)"
+
+#: ../buddypress/groups/single/request-membership.php:12
+msgid "Send Request"
+msgstr "Enviar solicitude"
+
+#: ../buddypress/groups/single/invites-loop.php:81
+msgid "Select friends to invite."
+msgstr "Selecciona amizades para convidar."
+
+#: ../buddypress/groups/single/invites-loop.php:91
+msgid "Send Invites"
+msgstr "Enviar convites"
+
+#: ../buddypress/groups/single/group-header.php:11
+msgid "Group Admins"
+msgstr "Grupo de administradores"
+
+#: ../buddypress/groups/single/group-header.php:20
+msgid "Group Mods"
+msgstr "Grupo de moderadores"
+
+#: ../buddypress/groups/single/admin.php:26
+msgid "Notify group members of these changes via email"
+msgstr "Notificar aos membros do grupo estes cambios vía correo"
+
+#: ../buddypress/groups/single/admin.php:137
+msgid ""
+"If you'd like to remove the existing group profile photo but not upload a "
+"new one, please use the delete group profile photo button."
+msgstr ""
+"Se desexas eliminar a foto de perfil de grupo, pero non cargar unha nova, "
+"emprega o botón de borrar foto de perfil de grupo."
+
+#: ../buddypress/groups/single/admin.php:139
+#: ../buddypress/groups/single/admin. php:139
+msgid "Delete Group Profile Photo"
+msgstr "Eliminar a foto de perfil do grupo"
+
+#: ../buddypress/groups/single/admin.php:149
+msgid "Crop Profile Photo"
+msgstr "Recortar a foto de perfil"
+
+#: ../buddypress/groups/single/admin.php:177
+msgid "Administrators"
+msgstr "Administradores"
+
+#: ../buddypress/groups/single/admin.php:185
+#: ../buddypress/groups/single/admin. php:212
+#, php-format
+msgid "Profile picture of %s"
+msgstr "Foto do perfil de %s"
+
+#: ../buddypress/groups/single/admin.php:190
+#: ../buddypress/groups/single/admin. php:217
+msgid "Demote to Member"
+msgstr "Degradar a membro"
+
+#: ../buddypress/groups/single/admin.php:205
+msgid "Moderators"
+msgstr "Moderadores"
+
+#: ../buddypress/groups/single/admin.php:216
+#: ../buddypress/groups/single/admin. php:216
+#: ../buddypress/groups/single/admin.php:272 ..
+#: buddypress/groups/single/admin.php:272
+msgid "Promote to Admin"
+msgstr "Ascender a Administrador"
+
+#: ../buddypress/groups/single/admin.php:231 ../framework-
+#: customizations/extensions/shortcodes/shortcodes/members/config.php:8
+msgid "Members"
+msgstr "Membros"
+
+#: ../buddypress/groups/single/admin.php:260
+msgid "(banned)"
+msgstr "(baneado)"
+
+#: ../buddypress/groups/single/admin.php:266
+msgid "Unban this member"
+msgstr "Desbloquear este membro"
+
+#: ../buddypress/groups/single/admin.php:266
+msgid "Remove Ban"
+msgstr "Retirar bloqueo"
+
+#: ../buddypress/groups/single/admin.php:270
+msgid "Kick and ban this member"
+msgstr "Expulsar e bloquear este membro"
+
+#: ../buddypress/groups/single/admin.php:270
+msgid "Kick &amp; Ban"
+msgstr "Expulsar e bloquear"
+
+#: ../buddypress/groups/single/admin.php:271
+#: ../buddypress/groups/single/admin. php:271
+msgid "Promote to Mod"
+msgstr "Ascender a moderador"
+
+#: ../buddypress/groups/single/admin.php:276
+msgid "Remove this member"
+msgstr "Eliminar este membro"
+
+#: ../buddypress/groups/single/admin.php:276
+msgid "Remove from group"
+msgstr "Eliminar do grupo"
+
+#: ../buddypress/groups/single/admin.php:290
+msgid "This group has no members."
+msgstr "Este grupo non ten membros."
+
+#: ../buddypress/groups/single/admin.php:324
+msgid ""
+"WARNING: Deleting this group will completely remove ALL content associated "
+"with it. There is no way back, please be careful with this option."
+msgstr ""
+"ADVERTENCIA: A eliminación deste grupo borrará por completo TODO o contido "
+"asociado ao mesmo. Non hai volta atrás, ten conta con esta opción."
+
+#: ../buddypress/groups/single/admin.php:327
+msgid "I understand the consequences of deleting this group."
+msgstr "Entendo as consecuencias da eliminación deste grupo."
+
+#: ../buddypress/groups/single/admin.php:332
+msgid "Delete Group"
+msgstr "Eliminar grupo"
+
+#: ../buddypress/groups/single/members.php:79
+msgid "No members were found."
+msgstr "Non se atoparon membros."
+
+#: ../buddypress/groups/single/send-invites.php:24
+msgid "Group invitations can only be extended to friends."
+msgstr "Convites de grupo só poden estenderse a amigos."
+
+#: ../buddypress/groups/single/send-invites.php:25
+msgid ""
+"Once you've made some friendships, you'll be able to invite those members to "
+"this group."
+msgstr ""
+"Unha vez que teñas algunhas amizades, poderás convidalos para este grupo."
+
+#: ../buddypress/groups/single/send-invites.php:33
+msgid "All of your friends already belong to this group."
+msgstr "Todos os teus amigos xa pertencen a este grupo."
+
+#: ../buddypress/groups/single/forum/edit.php:25
+msgid "Edit:"
+msgstr "Editar:"
+
+#: ../buddypress/groups/single/forum/edit.php:87
+msgid "This topic does not exist."
+msgstr "Este tema non existe."
+
+#: ../buddypress/groups/single/forum/topic.php:9
+msgid "New Reply"
+msgstr "Nova resposta"
+
+#: ../buddypress/groups/single/forum/topic.php:32
+msgid "Topic tags:"
+msgstr "Etiquetas do tema:"
+
+#: ../buddypress/groups/single/forum/topic.php:81
+#, php-format
+msgid "%1$s said %2$s:"
+msgstr "%1$s dixo %2$s:"
+
+#: ../buddypress/groups/single/forum/topic.php:95
+msgid "Permanent link to this post"
+msgstr "Ligazón a este artigo"
+
+#: ../buddypress/groups/single/forum/topic.php:119
+msgid "There are no posts for this topic."
+msgstr "Non hai mensaxes neste tema."
+
+#: ../buddypress/groups/single/forum/topic.php:134
+msgid "You will auto join this group when you reply to this topic."
+msgstr "Uniraste a este grupo automaticamente cando respondas a este tema."
+
+#: ../buddypress/groups/single/forum/topic.php:139
+msgid "Add a reply:"
+msgstr "Engadir resposta:"
+
+#: ../buddypress/groups/single/forum/topic.php:144
+msgid "Post Reply"
+msgstr "Resposta ao Artigo"
+
+#: ../buddypress/groups/single/forum/topic.php:155
+msgid "This topic is closed, replies are no longer accepted."
+msgstr "Este tema está pechado e non se aceptan máis respostas."
+
+#: ../buddypress/activity/comment.php:27
+#, php-format
+msgid ""
+"<a href=\"%1$s\">%2$s</a> replied <a href=\"%3$s\" class=\"activity-time-"
+"since\"><span class=\"time-since\">%4$s</span></a>"
+msgstr ""
+"<a href=“%1$s”>%2$s</a> respondeu <a href=“%3$s” class=“activity-time-"
+"since”><span class=“time-since”>%4$s</span></a>"
+
+#: ../buddypress/activity/index.php:27
+msgid "The public activity for everyone on this site."
+msgstr "A actividade pública para todo o mundo neste sitio."
+
+#: ../buddypress/activity/index.php:27
+#, php-format
+msgid "All Members <span>%s</span>"
+msgstr "Todos os membros <span>%s</span>"
+
+#: ../buddypress/activity/index.php:37
+msgid "The activity of my friends only."
+msgstr "A actividade das miñas amizades só."
+
+#: ../buddypress/activity/index.php:37
+#, php-format
+msgid "My Friends <span>%s</span>"
+msgstr "As miñas amizades <span>%s</span>"
+
+#: ../buddypress/activity/index.php:49
+msgid "The activity of groups I am a member of."
+msgstr "A actividade dos grupos dos que son membro."
+
+#: ../buddypress/activity/index.php:59
+msgid "The activity I've marked as a favorite."
+msgstr "Actividade que marquei como favorita."
+
+#: ../buddypress/activity/index.php:59
+#, php-format
+msgid "My Favorites <span>%s</span>"
+msgstr "Os meus Favoritos <span>%s</span>"
+
+#: ../buddypress/activity/index.php:67
+msgid "Activity that I have been mentioned in."
+msgstr "Actividade na que se me menciona."
+
+#: ../buddypress/activity/index.php:67 ../inc/buddypress.php:204
+msgid "Mentions"
+msgstr "Mencións"
+
+#: ../buddypress/activity/entry.php:50
+msgid "View Conversation"
+msgstr "Ver conversa"
+
+#: ../buddypress/activity/entry.php:66
+msgid "Mark as Favorite"
+msgstr "Marcar como favorito"
+
+#: ../buddypress/activity/entry.php:70
+msgid "Remove Favorite"
+msgstr "Eliminar favorito"
+
+#: ../buddypress/activity/entry.php:113
+msgid "Post"
+msgstr "Anotación"
+
+#: ../buddypress/activity/entry.php:113
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: ../buddypress/activity/post-form.php:23
+#, php-format
+msgid "What's new in %s, %s?"
+msgstr "Que nos dis en %s, %s?"
+
+#: ../buddypress/activity/post-form.php:25
+#, php-format
+msgid "What's new, %s?"
+msgstr "Que compartes, %s?"
+
+#: ../buddypress/activity/post-form.php:37
+msgid "Post Update"
+msgstr "Actualizar publicación"
+
+#: ../buddypress/activity/post-form.php:44
+msgid "Post in"
+msgstr "Publicar en"
+
+#: ../buddypress/activity/activity-loop.php:20
+msgid "Load More"
+msgstr "Cargar máis"
+
+#: ../buddypress/activity/activity-loop.php:34
+msgid "Sorry, there was no activity found. Please try a different filter."
+msgstr "Vaia, non se atopou actividade. Por favor, proba un filtro diferente."
+
+#: ../inc/register.php:43 ../inc/buddypress.php:315
+msgid "Email"
+msgstr "Email"
+
+#: ../inc/register.php:50
+msgid "Password"
+msgstr "Contrasinal"
+
+#: ../inc/register.php:57
+msgid "First Name"
+msgstr "Nome"
+
+#: ../inc/register.php:64
+msgid "Last Name"
+msgstr "Apelidos"
+
+#: ../inc/register.php:81 ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:44
+msgid "Default"
+msgstr "Por defecto"
+
+#: ../inc/register.php:85
+msgid "Role"
+msgstr "Rol"
+
+#: ../inc/register.php:153
+msgid "Required form field is missing"
+msgstr "Non se atopa campo de formulario requerido"
+
+#: ../inc/register.php:157
+msgid "Username too short. At least 4 characters is required"
+msgstr ""
+"Ese nome de usuario é demasiado curto; requírese polo menos 4 caracteres."
+
+#: ../inc/register.php:161
+msgid "Password length must be greater than 5"
+msgstr "A lonxitude do contrasinal debe superar 5"
+
+#: ../inc/register.php:165
+msgid "Email is not valid"
+msgstr "O correo non é válido."
+
+#: ../inc/register.php:169
+msgid "Email Already in use"
+msgstr "Este correo xa está en uso"
+
+#: ../inc/register.php:174
+msgid "Website is not a valid URL"
+msgstr "Este enderezo web non é válido"
+
+#: ../inc/register.php:193
+msgid "Sorry, the captcha is not valid."
+msgstr "O captcha non é válido."
+
+#: ../inc/register.php:234
+msgid "Registration complete. You can now "
+msgstr "Rexistro completo, xa podes "
+
+#: ../inc/register.php:234
+msgid "Sign In"
+msgstr "Iniciar sesión"
+
+#: ../inc/frontend.php:105
+msgid "Dates are not good, please check again."
+msgstr "As datas non serven; por favor, inténtao de novo."
+
+#: ../inc/frontend.php:234
+msgid "Information"
+msgstr "Información"
+
+#: ../inc/frontend.php:235
+msgid ""
+"You'll only find here basic settings for the projects, for more settings "
+"please contact an user with author right."
+msgstr ""
+"Só atoparás aquí a configuración básica dos proxectos, para máis axustes "
+"ponte en contacto cun usuario con dereito de autor."
+
+#: ../inc/frontend.php:242
+msgid "Project's Title:"
+msgstr "Título do Proxecto:"
+
+#: ../inc/frontend.php:269
+msgid "Article's Category:"
+msgstr "Categoría de artigo:"
+
+#: ../inc/frontend.php:272 ../inc/frontend.php:315 ../inc/frontend.php:361
+msgid "No category"
+msgstr "Ningunha categoría"
+
+#: ../inc/frontend.php:288
+msgid "Project's starting date:"
+msgstr "Data de inicio do Proxecto"
+
+#: ../inc/frontend.php:294
+msgid "Project's ending date:"
+msgstr "Data de fin do proxecto"
+
+#: ../inc/frontend.php:312
+msgid "Project's Category:"
+msgstr "Categoría do proxecto"
+
+#: ../inc/frontend.php:331
+msgid "Project's members:"
+msgstr "Membros do Proxecto:"
+
+#: ../inc/frontend.php:332
+msgid "If it's empty, all the members will be allowed"
+msgstr "Se está baleiro, permitirase a todos os membros"
+
+#: ../inc/frontend.php:358
+msgid "Article's Category :"
+msgstr "Categoría de artigo:"
+
+#: ../inc/frontend.php:370
+msgid "Article's Thumbnail :"
+msgstr "Miniatura do Artigo:"
+
+#: ../inc/frontend.php:378
+msgid "Project's Description:"
+msgstr "Descrición do proxecto:"
+
+#: ../inc/frontend.php:393
+msgid "Create Project"
+msgstr "Crear Proxecto"
+
+#: ../inc/frontend.php:393
+msgid "Create Article"
+msgstr "Crear artigo"
+
+#: ../inc/class-tgm-plugin-activation.php:161
+msgid "Install Required Plugins"
+msgstr "Instalar os plugins necesarios"
+
+#: ../inc/class-tgm-plugin-activation.php:162
+msgid "Install Plugins"
+msgstr "Instalar Plugins"
+
+#: ../inc/class-tgm-plugin-activation.php:163
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instalando Plugin: %s"
+
+#: ../inc/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr "Algo correu mal."
+
+#: ../inc/class-tgm-plugin-activation.php:165
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema require o seguinte plugin: %1$s."
+msgstr[1] "Este tema require os seguintes plugins: %1$s."
+
+#: ../inc/class-tgm-plugin-activation.php:166
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomenda o seguinte plugin: %1$s."
+msgstr[1] "Este tema recomenda os seguintes plugins: %1$s."
+
+#: ../inc/class-tgm-plugin-activation.php:167
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+"Vaia, non tes os permisos precisos para instalar o plugin %s. Contacta co "
+"administrador."
+msgstr[1] ""
+"Vaia, non tes os permisos precisos para instalar os plugins %s. Contacta co "
+"administrador."
+
+#: ../inc/class-tgm-plugin-activation.php:168
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "O seguinte plugin requirido está inactivo: %1$s."
+msgstr[1] "Os seguintes plugins requiridos están inactivos: %1$s."
+
+#: ../inc/class-tgm-plugin-activation.php:169
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "O seguinte plugin recomendado está actualmente inactivo: %1$s."
+msgstr[1] ""
+"Os seguintes plugins recomendados están actualmente inactivos: %1$s."
+
+#: ../inc/class-tgm-plugin-activation.php:170
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+"Vaia, non tes os permisos precisos para activar o plugin %s. Contacta co "
+"administrador."
+msgstr[1] ""
+"Vaia, non tes os permisos precisos para activar os plugins %s. Contacta co "
+"administrador."
+
+#: ../inc/class-tgm-plugin-activation.php:171
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"O seguinte plugin necesita ser actualizado para asegurar a compatibilidade "
+"máxima con este tema: %1$s."
+msgstr[1] ""
+"Os seguintes plugins necesitan ser actualizados para asegurar a "
+"compatibilidade máxima con este tema: %1$s."
+
+#: ../inc/class-tgm-plugin-activation.php:172
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+"Vaia, non tes os permisos precisos para actualizar o plugin %s. Contacta co "
+"administrador."
+msgstr[1] ""
+"Vaia, non tes os permisos precisos para actualizar os plugins %s. Contacta "
+"co administrador."
+
+#: ../inc/class-tgm-plugin-activation.php:173
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Comezar a instalación do plugin"
+msgstr[1] "Comezar a instalación dos plugins"
+
+#: ../inc/class-tgm-plugin-activation.php:174
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Inicia a activación do plugin"
+msgstr[1] "Inicia a activación dos plugins"
+
+#: ../inc/class-tgm-plugin-activation.php:175
+msgid "Return to Required Plugins Installer"
+msgstr "Voltar ao instalador de plugins requiridos"
+
+#: ../inc/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr "Voltar ao Panel"
+
+#: ../inc/class-tgm-plugin-activation.php:177
+#: ../inc/class-tgm-plugin-activation. php:1956
+msgid "Plugin activated successfully."
+msgstr "Plugin activado correctamente."
+
+#: ../inc/class-tgm-plugin-activation.php:178
+#: ../inc/class-tgm-plugin-activation. php:1644
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "O seguinte plugin activouse correctamente:"
+msgstr[1] "Os seguintes plugins activáronse correctamente:"
+
+#: ../inc/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos os plugins instalados e activados con éxito. %1$s"
+
+#: ../inc/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr "Descartar este aviso"
+
+#: ../inc/class-tgm-plugin-activation.php:532
+#: ../inc/class-tgm-plugin-activation. php:532
+#: ../inc/class-tgm-plugin-activation.php:2173 ../inc/class-tgm-plugin-
+#: activation.php:2173
+msgid "Return to the Dashboard"
+msgstr "Voltar ao Panel"
+
+#: ../inc/class-tgm-plugin-activation.php:1167
+#: ../inc/class-tgm-plugin-activation. php:1348
+msgid "Private Repository"
+msgstr "Repositorio Privado"
+
+#: ../inc/class-tgm-plugin-activation.php:1170
+#: ../inc/class-tgm-plugin-activation. php:1351
+msgid "Pre-Packaged"
+msgstr "Pre-Cargado"
+
+#: ../inc/class-tgm-plugin-activation.php:1175
+msgid "WordPress Repository"
+msgstr "Repositorio WordPress"
+
+#: ../inc/class-tgm-plugin-activation.php:1178
+msgid "Required"
+msgstr "Requirido"
+
+#: ../inc/class-tgm-plugin-activation.php:1178
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: ../inc/class-tgm-plugin-activation.php:1181
+msgid "Not Installed"
+msgstr "Non Instalado"
+
+#: ../inc/class-tgm-plugin-activation.php:1183
+msgid "Installed But Not Activated"
+msgstr "Instalado pero non Activado"
+
+#: ../inc/class-tgm-plugin-activation.php:1288
+#: ../inc/class-tgm-plugin-activation. php:1288
+#: ../inc/class-tgm-plugin-activation.php:1409
+msgid "Install"
+msgstr "Instalar"
+
+#: ../inc/class-tgm-plugin-activation.php:1372
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Non hai plugins para instalar ou activar. <a href=“%1$s” title=“Voltar ao "
+"Panel”>Voltar ao Panel</a>"
+
+#: ../inc/class-tgm-plugin-activation.php:1388
+msgid "Plugin"
+msgstr "Plugin"
+
+#: ../inc/class-tgm-plugin-activation.php:1389
+msgid "Source"
+msgstr "Fonte"
+
+#: ../inc/class-tgm-plugin-activation.php:1390
+msgid "Type"
+msgstr "Tipo"
+
+#: ../inc/class-tgm-plugin-activation.php:1391 ../inc/multiverso.php:102 ..
+#: inc/multiverso.php:205 ../inc/multiverso.php:301 ../framework-
+#: customizations/extensions/woffice-maintenance/settings-options.php:17
+msgid "Status"
+msgstr "Estado"
+
+#: ../inc/class-tgm-plugin-activation.php:1939
+msgid "Install package not available."
+msgstr "Paquete de instalación non dispoñíbel."
+
+#: ../inc/class-tgm-plugin-activation.php:1940
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+"Descargando paquete de instalación desde <span class=\"code\">%s</"
+"span>&#8230;"
+
+#: ../inc/class-tgm-plugin-activation.php:1941
+msgid "Unpacking the package&#8230;"
+msgstr "Extracción do paquete&#8230"
+
+#: ../inc/class-tgm-plugin-activation.php:1942
+msgid "Installing the plugin&#8230;"
+msgstr "Instalando o plugin&#8230;"
+
+#: ../inc/class-tgm-plugin-activation.php:1943
+msgid "Plugin install failed."
+msgstr "Erro na instalación del Plugin."
+
+#: ../inc/class-tgm-plugin-activation.php:1944
+msgid "Plugin installed successfully."
+msgstr "Plugin instalado correctamente."
+
+#: ../inc/class-tgm-plugin-activation.php:1955
+msgid "Plugin activation failed."
+msgstr "Erro na activación de plugin."
+
+#: ../inc/class-tgm-plugin-activation.php:2069
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"O proceso de instalación e activación estase iniciando. Pode tardar un pouco "
+"nalgúns servidores. Por favor, paciencia."
+
+#: ../inc/class-tgm-plugin-activation.php:2070
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado e activado correctamente."
+
+#: ../inc/class-tgm-plugin-activation.php:2070
+#: ../inc/class-tgm-plugin-activation. php:2079
+msgid "Show Details"
+msgstr "Ver Detalles"
+
+#: ../inc/class-tgm-plugin-activation.php:2070
+#: ../inc/class-tgm-plugin-activation. php:2079
+msgid "Hide Details"
+msgstr "Agachar Detalles"
+
+#: ../inc/class-tgm-plugin-activation.php:2071
+msgid "All installations and activations have been completed."
+msgstr "Todas as instalacións e activacións completadas."
+
+#: ../inc/class-tgm-plugin-activation.php:2072
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando e activando plugin %1$s (%2$d/%3$d)"
+
+#: ../inc/class-tgm-plugin-activation.php:2076
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"O proceso de instalación estase iniciando. Pode tardar un pouco nalgúns "
+"servidores. Por favor, paciencia."
+
+#: ../inc/class-tgm-plugin-activation.php:2077
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Houbo un erro durante a instalación de %1$s: <strong>%2$s</strong>."
+
+#: ../inc/class-tgm-plugin-activation.php:2078
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "﻿A instalación de %1$s fallou."
+
+#: ../inc/class-tgm-plugin-activation.php:2079
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado correctamente."
+
+#: ../inc/class-tgm-plugin-activation.php:2080
+msgid "All installations have been completed."
+msgstr "Todas as instalacións completadas."
+
+#: ../inc/class-tgm-plugin-activation.php:2081
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando Plugin %1$s (%2$d/%3$d)"
+
+#: ../inc/multiverso.php:11
+msgid "You need to be logged to manage your files!"
+msgstr "Tes que iniciar sesión para administrar os arquivos!"
+
+#: ../inc/multiverso.php:86 ../inc/multiverso.php:246
+msgid "Add new File"
+msgstr "Engadir arquivo"
+
+#: ../inc/multiverso.php:100 ../inc/multiverso.php:167
+#: ../inc/multiverso.php:253 . inc/widgets/wpml/class-widget-wpml.php:38
+#: ../inc/widgets/eventon/class- widget-eventon.php:39
+#: ../inc/widgets/cf7/class-widget-cf7.php:38 ..
+#: inc/widgets/visualizer/class-widget-visualizer.php:38
+#: inc/widgets/wisechat/class-widget-wisechat.php:38 ../framework-
+#: customizations/extensions/woffice-wiki/includes/class-fw-widget-woffice-wiki.
+#: php:46
+#: ../framework-customizations/extensions/woffice-poll/includes/class-fw-
+#: widget-woffice-poll.php:51
+#: customizations/extensions/shortcodes/shortcodes/alert/options.php:5
+#: framework-
+#: customizations/extensions/shortcodes/shortcodes/woffice_headlines/config.php:6
+#: customizations/extensions/shortcodes/shortcodes/woffice_headlines/options.php:
+#: 8
+#: customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:30
+#: framework-customizations/extensions/woffice-projects/includes/class-fw-widget-
+#: woffice-projects.php:45 ../framework-customizations/extensions/woffice-
+#: map/includes/class-fw-widget-woffice-map.php:53
+#: customizations/extensions/woffice-funfacts/includes/class-fw-widget-woffice-
+#: funfacts.php:49
+msgid "Title"
+msgstr "Título"
+
+#: ../inc/multiverso.php:101
+msgid "Category/Folder"
+msgstr "Categoría / Cartafol"
+
+#: ../inc/multiverso.php:121
+msgid "Are you sure you wish to trash the file: "
+msgstr "Seguro que desexas eliminar o arquivo?:"
+
+#: ../inc/multiverso.php:161
+msgid "Edit File"
+msgstr "Editar Arquivo"
+
+#: ../inc/multiverso.php:169 ../inc/multiverso.php:260
+msgid "Description"
+msgstr "Descrición"
+
+#: ../inc/multiverso.php:176 ../inc/multiverso.php:266
+msgid "Category"
+msgstr "Categoría"
+
+#: ../inc/multiverso.php:207 ../inc/multiverso.php:303
+msgid "Published"
+msgstr "Publicado"
+
+#: ../inc/multiverso.php:208 ../inc/multiverso.php:304
+msgid "Pending Review"
+msgstr "Pendente de revisión:"
+
+#: ../inc/multiverso.php:209 ../inc/multiverso.php:305
+msgid "Draft"
+msgstr "Borrador"
+
+#: ../inc/multiverso.php:210 ../inc/multiverso.php:306
+msgid "Trashed"
+msgstr "Eliminado"
+
+#: ../inc/multiverso.php:228
+msgid "Update"
+msgstr "Actualizar"
+
+#: ../inc/hooks.php:439
+msgid "Search..."
+msgstr "Procurar…"
+
+#: ../inc/hooks.php:464
+msgid "Content Sidebar"
+msgstr "Contido da barra lateral"
+
+#: ../inc/hooks.php:466
+msgid ""
+"Appears in the main content, left or right as you like see theme settings. "
+"Every widget need a title."
+msgstr ""
+"Aparece na páxina principal, esquerda ou dereita segundo vexas a "
+"configuración do tema. Cada widget necesita un título."
+
+#: ../inc/hooks.php:474
+msgid "Dashboard Widgets"
+msgstr "Widgets do Panel"
+
+#: ../inc/hooks.php:476
+msgid "Appears in the dashboard page."
+msgstr "Aparece na páxina de Escritorio-"
+
+#: ../inc/hooks.php:484
+msgid "Footer Widgets"
+msgstr "Widgets do Pé de páxina"
+
+#: ../inc/hooks.php:486
+msgid "Appears in the footer section of the site."
+msgstr "Aparece na sección de pé de páxina do sitio."
+
+#: ../inc/hooks.php:640
+msgid "News"
+msgstr "Novas"
+
+#: ../inc/hooks.php:672
+msgid "Search"
+msgstr "Buscar"
+
+#: ../inc/hooks.php:725
+msgid "Previous Posts"
+msgstr "Entradas anteriores"
+
+#: ../inc/hooks.php:729
+msgid "Next Posts"
+msgstr "Entradas seguintes"
+
+#: ../inc/hooks.php:745
+msgid "<i class=\"fa fa-hand-o-left\"></i> %title"
+msgstr "<i class=\"fa fa-hand-o-left\"></i> %title"
+
+#: ../inc/hooks.php:747
+msgid "%title <i class=\"fa fa-hand-o-right\"></i>"
+msgstr "%title <i class=\"fa fa-hand-o-right\"></i>"
+
+#: ../inc/hooks.php:940
+msgid "Unit Price"
+msgstr "Prezo unidade"
+
+#: ../inc/hooks.php:941
+msgid "Quantity"
+msgstr "Cantidade"
+
+#: ../inc/hooks.php:947
+msgid "No products in the cart."
+msgstr "Non hai productos no carro."
+
+#: ../inc/hooks.php:950
+msgid "Cart Subtotal"
+msgstr "Subtotal da cesta:"
+
+#: ../inc/hooks.php:953
+msgid "Cart"
+msgstr "Carro"
+
+#: ../inc/hooks.php:956
+msgid "Checkout"
+msgstr "Finalizar a Compra"
+
+#: ../inc/menus.php:8
+msgid "[Woffice] main menu in the header."
+msgstr "[Woffice] menú principal na cabeceira."
+
+#: ../inc/menus.php:14
+msgid "[Woffice] Menu for non-logged users."
+msgstr "[Woffice] Menú para usuarios non rexistrados."
+
+#: ../inc/buddypress.php:116
+msgid "Select Members"
+msgstr "Seleccionar membros"
+
+#: ../inc/buddypress.php:186
+msgid "Welcome"
+msgstr "Benvida"
+
+#: ../inc/buddypress.php:309 ../framework-customizations/extensions/woffice-
+#: directory/settings-options.php:10
+msgid "Settings"
+msgstr "Axustes"
+
+#: ../inc/buddypress.php:327
+msgid "Log Out"
+msgstr "Pechar Sesión"
+
+#: ../inc/buddypress.php:382
+msgid ""
+"This address will be used on the members directory map, please make sur the "
+"address is valid for Google Map"
+msgstr ""
+"Este enderezo empregarase no mapa directorio de membros; por favor, "
+"asegúrate de que é válido para Google Maps"
+
+#: ../inc/buddypress.php:395 ../inc/buddypress.php:408
+#: ../inc/buddypress.php:421 . inc/buddypress.php:434
+#: ../inc/buddypress.php:447 ../inc/buddypress.php:460 ..
+#: inc/buddypress.php:473
+msgid ""
+"Copy past your URL in this field please, if it is empty it will not be "
+"displayed."
+msgstr "Copia/pega a túa URL neste campo, se está baleiro non se verá."
+
+#: ../inc/buddypress.php:500
+msgid "Facebook URL"
+msgstr "URL de Facebook"
+
+#: ../inc/buddypress.php:501
+msgid "Twitter URL"
+msgstr "URL de Twitter"
+
+#: ../inc/buddypress.php:502
+msgid "Linkedin URL"
+msgstr "URL de Linkedin"
+
+#: ../inc/buddypress.php:503
+msgid "Slack URL"
+msgstr "URL Slack"
+
+#: ../inc/buddypress.php:504
+msgid "Google URL"
+msgstr "URL Google"
+
+#: ../inc/buddypress.php:505
+msgid "Github URL"
+msgstr "URL de Github"
+
+#: ../inc/buddypress.php:506
+msgid "Instagram URL"
+msgstr "URL de Instagram"
+
+#: ../inc/widgets/wpml/class-widget-wpml.php:10
+msgid "(Woffice) WPML languages"
+msgstr "(Woffice) idiomas WPML"
+
+#: ../inc/widgets/eventon/class-widget-eventon.php:10
+msgid "(Woffice) Events"
+msgstr "(Woffice) Eventos"
+
+#: ../inc/widgets/eventon/class-widget-eventon.php:45 ../framework-
+#: customizations/extensions/woffice-wiki/includes/class-fw-widget-woffice-wiki.
+#: php:52
+msgid "Number"
+msgstr "Número"
+
+#: ../inc/widgets/eventon/views/widget.php:18
+msgid "No post found..."
+msgstr "Non se atoparon publicacións"
+
+#: ../inc/widgets/cf7/class-widget-cf7.php:10
+msgid "(Woffice) Form"
+msgstr "(Woffice) Formulario"
+
+#: ../inc/widgets/cf7/class-widget-cf7.php:44
+msgid "Form:"
+msgstr "Formulario:"
+
+#: ../inc/widgets/cf7/class-widget-cf7.php:56
+msgid "No form Found"
+msgstr "Ningún formulario atopado"
+
+#: ../inc/widgets/visualizer/class-widget-visualizer.php:10
+msgid "(Woffice) Graph"
+msgstr "(Woffice) Gráfico"
+
+#: ../inc/widgets/visualizer/class-widget-visualizer.php:44
+msgid "Graph:"
+msgstr "Gráfico:"
+
+#: ../inc/widgets/visualizer/class-widget-visualizer.php:57
+msgid "No Graph Found"
+msgstr "Non se atopou ningún gráfico"
+
+#: ../inc/widgets/wisechat/class-widget-wisechat.php:10
+msgid "(Woffice) Chat"
+msgstr "(Woffice) Chatear"
+
+#: ../inc/widgets/wisechat/views/widget.php:16
+msgid "Sorry Wise chat isn't enabled...Please install it."
+msgstr "Vaia, Wise chat non está habilitado ... Por favor, instálao."
+
+#: ../framework-customizations/theme/manifest.php:9
+msgid "Woffice"
+msgstr "Woffice"
+
+#: ../framework-customizations/theme/manifest.php:11
+msgid "Another awesome Wordpress theme"
+msgstr "Outro tema impresionante de Wordpress"
+
+#: ../framework-customizations/theme/options/widgets.php:7
+msgid "Custom Widgets"
+msgstr "Widgets personalizados"
+
+#: ../framework-customizations/theme/options/widgets.php:16 ../framework-
+#: customizations/extensions/woffice-funfacts/settings-options.php:13
+msgid "Fun Facts Widget"
+msgstr "Fun Facts Widget"
+
+#: ../framework-customizations/theme/options/widgets.php:27 ../framework-
+#: customizations/extensions/woffice-funfacts/settings-options.php:24
+msgid "Fun facts"
+msgstr "Fun facts"
+
+#: ../framework-customizations/theme/options/widgets.php:28 ../framework-
+#: customizations/extensions/woffice-funfacts/settings-options.php:25
+msgid ""
+"They will be displayed as in a slider within the widget, you can use for any "
+"other purpose than fun facts."
+msgstr ""
+"Amosaranse como nun control deslizante no widget que podes empregar para "
+"calquera outro propósito á parte dos fun facts"
+
+#: ../framework-customizations/theme/options/widgets.php:32 ../framework-
+#: customizations/theme/options/posts/directory.php:48
+#: customizations/extensions/shortcodes/shortcodes/alert/options.php:10 ..
+#: framework-customizations/extensions/shortcodes/shortcodes/full/options.php:5
+#: .
+#: framework-customizations/extensions/woffice-maintenance/settings-options.php:
+#: 10
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.
+#: php:38 ../framework-customizations/extensions/woffice-funfacts/settings-
+#: options.php:29
+msgid "Content"
+msgstr "Contido:"
+
+#: ../framework-customizations/theme/options/widgets.php:36 ../framework-
+#: customizations/theme/options/posts/directory.php:49
+#: customizations/theme/options/posts/project.php:66
+#: customizations/extensions/shortcodes/shortcodes/progressbar/options.php:16
+#: ..
+#: framework-customizations/extensions/shortcodes/shortcodes/alert/options.php:
+#: 17
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.
+#: php:91 ../framework-customizations/extensions/woffice-funfacts/settings-
+#: options.php:33 ../framework-customizations/extensions/woffice-
+#: directory/settings-options.php:52
+msgid "Icon"
+msgstr "Icona"
+
+#: ../framework-customizations/theme/options/widgets.php:47
+msgid "Poll Widget"
+msgstr "Widget de enquisa"
+
+#: ../framework-customizations/theme/options/widgets.php:51
+msgid "Sidebar Position"
+msgstr "Posición da Barra Lateral"
+
+#: ../framework-customizations/theme/options/widgets.php:55
+msgid "Left"
+msgstr "Esquerda"
+
+#: ../framework-customizations/theme/options/widgets.php:59
+msgid "Right"
+msgstr "Dereita"
+
+#: ../framework-customizations/theme/options/footer.php:7
+msgid "Footer & Extrafooter"
+msgstr "Pé de páxina e Extrafooter"
+
+#: ../framework-customizations/theme/options/footer.php:11
+msgid "Footer Options"
+msgstr "Opcións do pé de páxina"
+
+#: ../framework-customizations/theme/options/footer.php:15
+msgid "Show the Footer Widgets"
+msgstr "Amosar Widgets de Pé de páxina"
+
+#: ../framework-customizations/theme/options/footer.php:19 ../framework-
+#: customizations/theme/options/footer.php:90
+#: customizations/theme/options/general.php:20
+#: customizations/theme/options/posts.php:62
+#: customizations/theme/options/buddypress.php:26
+#: customizations/extensions/woffice-glogin/settings-options.php:46
+#: customizations/extensions/woffice-glogin/settings-options.php:77
+msgid "Show"
+msgstr "Amosar"
+
+#: ../framework-customizations/theme/options/footer.php:23 ../framework-
+#: customizations/theme/options/footer.php:94
+#: customizations/theme/options/general.php:24
+#: customizations/theme/options/posts.php:66
+#: customizations/extensions/woffice-glogin/settings-options.php:50
+#: customizations/extensions/woffice-glogin/settings-options.php:81
+msgid "Hide"
+msgstr "Agachar"
+
+#: ../framework-customizations/theme/options/footer.php:26
+msgid ""
+"They will be above the copyright bar and below the extrafooter bar. You can "
+"set them in the widget page."
+msgstr ""
+"Estarán enriba da barra de copyright e por debaixo da barra de extrafooter. "
+"Pódese establecer na páxina de widgets."
+
+#: ../framework-customizations/theme/options/footer.php:29
+msgid "Number of columns ?"
+msgstr "Número de columnas ?"
+
+#: ../framework-customizations/theme/options/footer.php:31
+msgid "For the footer widgets."
+msgstr "Para os widgets de pé de páxina."
+
+#: ../framework-customizations/theme/options/footer.php:43 ../framework-
+#: customizations/theme/options/header.php:56
+#: customizations/extensions/woffice-maintenance/settings-options.php:62
+msgid "Text color"
+msgstr "Cor do texto"
+
+#: ../framework-customizations/theme/options/footer.php:44
+msgid "This is the color used in the footer for the texts."
+msgstr "Esta é a cor usada no texto do pé de páxina."
+
+#: ../framework-customizations/theme/options/footer.php:49
+msgid "Link color"
+msgstr "Cor da ligazón"
+
+#: ../framework-customizations/theme/options/footer.php:50
+msgid "The colored color within the footer"
+msgstr "Cor do interior do Pé de páxina"
+
+#: ../framework-customizations/theme/options/footer.php:55
+msgid "Widgets Background Color"
+msgstr "Cor de Fondo de Widgets"
+
+#: ../framework-customizations/theme/options/footer.php:56
+msgid "Color used in the widget background"
+msgstr "Cor empregada no fondo do widget"
+
+#: ../framework-customizations/theme/options/footer.php:61
+msgid "Copyright Background Color"
+msgstr "Cor de Fondo de Copyright"
+
+#: ../framework-customizations/theme/options/footer.php:64
+msgid "Copyright text in uppercase ?"
+msgstr "Texto do Copyright en maiúsculas?"
+
+#: ../framework-customizations/theme/options/footer.php:69
+msgid "Copyright Content"
+msgstr "Contido de Copyright"
+
+#: ../framework-customizations/theme/options/footer.php:76
+msgid "Color of the border between the widgets and the copyright."
+msgstr "Cor do borde entre os widgets e o copyright."
+
+#: ../framework-customizations/theme/options/footer.php:81
+msgid "Extra Footer"
+msgstr "Extra Footer"
+
+#: ../framework-customizations/theme/options/footer.php:85
+msgid "Show extra footer bar ?"
+msgstr "Amosar barra de extra footer?"
+
+#: ../framework-customizations/theme/options/footer.php:86
+msgid ""
+"That is a box with random photos of your members with a tagline over these "
+"images and a link to any page you like. (Usually, the member directory page)"
+msgstr ""
+"É unha ventá con fotos aleatorias dos membros cun lema sobre estas imaxes e "
+"unha ligazón a calquera páxina que desexes. (Polo xeral, a páxina de "
+"directorio de membros)"
+
+#: ../framework-customizations/theme/options/footer.php:100
+msgid "Extrafooter Content"
+msgstr "Extrafooter contido"
+
+#: ../framework-customizations/theme/options/footer.php:102
+msgid ""
+"The text on the extra footer, you can use some \"span\" elements to color "
+"some words."
+msgstr ""
+"O texto no extrafooter, podes empregar algúns elementos de \"span\" para dar "
+"cor a algunhas palabras."
+
+#: ../framework-customizations/theme/options/footer.php:107
+msgid "Extrafooter Link"
+msgstr "Extrafooter Ligazón"
+
+#: ../framework-customizations/theme/options/footer.php:108
+msgid "Link when the user click on that extra footer bar."
+msgstr "Ligazón cando o usuario faga clic nesa barra extrafooter."
+
+#: ../framework-customizations/theme/options/footer.php:113 ../framework-
+#: customizations/theme/options/page-title.php:84
+msgid "Border color"
+msgstr "Cor do borde"
+
+#: ../framework-customizations/theme/options/footer.php:114
+msgid "Color of the border between the content and the extrafooter."
+msgstr "Cor da fronteira entre contido e extrafooter."
+
+#: ../framework-customizations/theme/options/login.php:16
+msgid "Login Page"
+msgstr "Páxina de acceso"
+
+#: ../framework-customizations/theme/options/login.php:20
+msgid "Login options"
+msgstr "Opcións de acceso"
+
+#: ../framework-customizations/theme/options/login.php:24
+msgid "Custom Login Page"
+msgstr "Páxina de inicio personalizada"
+
+#: ../framework-customizations/theme/options/login.php:28 ../framework-
+#: customizations/theme/options/login.php:103
+#: customizations/theme/options/login.php:116
+#: customizations/theme/options/login.php:142
+#: customizations/theme/options/login.php:157
+#: customizations/theme/options/login.php:172
+#: customizations/theme/options/styling.php:49
+#: customizations/theme/options/styling.php:63
+#: customizations/theme/options/styling.php:77
+#: customizations/theme/options/general.php:34
+#: customizations/theme/options/general.php:56
+#: customizations/theme/options/general.php:70
+#: customizations/theme/options/posts.php:76
+#: customizations/theme/options/posts.php:111
+#: customizations/theme/options/sidebar.php:19
+#: customizations/theme/options/sidebar.php:33
+#: customizations/theme/options/sidebar.php:47
+#: customizations/theme/options/sidebar.php:61
+#: customizations/theme/options/sidebar.php:75
+#: customizations/theme/options/sidebar.php:102
+#: customizations/theme/options/sidebar.php:124
+#: customizations/theme/options/sidebar.php:138
+#: customizations/theme/options/page-title.php:72
+#: customizations/theme/options/header.php:44
+#: customizations/theme/options/header.php:82
+#: customizations/theme/options/header.php:96
+#: customizations/extensions/shortcodes/shortcodes/trello/options.php:28 ..
+#: framework-customizations/extensions/woffice-birthdays/settings-options.php:26
+msgid "Yep"
+msgstr "Si"
+
+#: ../framework-customizations/theme/options/login.php:32 ../framework-
+#: customizations/theme/options/login.php:107
+#: customizations/theme/options/login.php:120
+#: customizations/theme/options/login.php:146
+#: customizations/theme/options/login.php:161
+#: customizations/theme/options/login.php:176
+msgid "nope"
+msgstr "Non"
+
+#: ../framework-customizations/theme/options/login.php:35
+msgid ""
+"That is going to replace the login page from Wordpress with the new one from "
+"Woffice -> IMPORTANT! The page as to be named LOGIN please."
+msgstr ""
+"Isto vai substituír a páxina de inicio de sesión de Wordpress pola nova de "
+"Woffice -> IMPORTANTE! A páxina debe ter o nome LOGIN ."
+
+#: ../framework-customizations/theme/options/login.php:39
+msgid "Login page"
+msgstr "Páxina de inicio de sesión"
+
+#: ../framework-customizations/theme/options/login.php:40
+msgid ""
+"This is the login page, it needs the Template fields to be set as \"LOGIN\"."
+msgstr ""
+"Esta é a páxina de inicio de sesión, é preciso que os campos do modelo sexan "
+"establecidos como \"LOGIN\"."
+
+#: ../framework-customizations/theme/options/login.php:44
+msgid "Just select the page's name here"
+msgstr "Só tes que seleccionar o nome da páxina aquí"
+
+#: ../framework-customizations/theme/options/login.php:49
+msgid "Welcome Message"
+msgstr "﻿Mensaxe de benvida"
+
+#: ../framework-customizations/theme/options/login.php:50
+msgid "Above the login form"
+msgstr "Enriba do formulario de Login"
+
+#: ../framework-customizations/theme/options/login.php:61 ../framework-
+#: customizations/theme/options/menu.php:17
+#: customizations/theme/options/header.php:62
+#: customizations/extensions/shortcodes/shortcodes/alert/options.php:23 ..
+#: framework-customizations/extensions/woffice-maintenance/settings-options.php:68
+msgid "Background color"
+msgstr "Cor de fondo"
+
+#: ../framework-customizations/theme/options/login.php:62 ../framework-
+#: customizations/extensions/woffice-maintenance/settings-options.php:69
+msgid "This is the background color and the image will be over it."
+msgstr "Esta é a cor de fondo e a imaxe estará sobre ela."
+
+#: ../framework-customizations/theme/options/login.php:65 ../framework-
+#: customizations/extensions/woffice-maintenance/settings-options.php:72
+msgid "Background Image"
+msgstr "Imaxe de Fondo"
+
+#: ../framework-customizations/theme/options/login.php:66 ../framework-
+#: customizations/extensions/woffice-maintenance/settings-options.php:73
+msgid "Large Image on fullscreen."
+msgstr "Imaxe Grande a pantalla completa"
+
+#: ../framework-customizations/theme/options/login.php:70
+msgid "Image Opacity"
+msgstr "Opacidade da imaxe"
+
+#: ../framework-customizations/theme/options/login.php:78
+msgid "This is the opacity of the image over the background color"
+msgstr "Esta é a opacidade da imaxe sobre a cor de fondo"
+
+#: ../framework-customizations/theme/options/login.php:79 ../framework-
+#: customizations/theme/options/page-title.php:59
+#: customizations/extensions/woffice-maintenance/settings-options.php:86
+msgid "A number between 0 - 1, if you choose 0 it will becomes hidden."
+msgstr "Un número entre 0 - 1, se escolles 0 quedará oculto."
+
+#: ../framework-customizations/theme/options/login.php:82
+msgid "Logo Image"
+msgstr "Imaxe do logo"
+
+#: ../framework-customizations/theme/options/login.php:83
+msgid "Just your logo as a PNG file"
+msgstr "Só o logotipo como un arquivo PNG"
+
+#: ../framework-customizations/theme/options/login.php:87 ../framework-
+#: customizations/theme/options/header.php:21
+msgid "Logo Width"
+msgstr "Ancho do logo"
+
+#: ../framework-customizations/theme/options/login.php:90
+msgid "This is the width of your logo in the login page, no \"px\" please."
+msgstr ""
+"Esta é a anchura do teu logotipo na páxina de inicio de sesión; non \"px\" "
+"por favor."
+
+#: ../framework-customizations/theme/options/login.php:93
+msgid "Logo Height"
+msgstr "Altura do logotipo"
+
+#: ../framework-customizations/theme/options/login.php:96
+msgid "This is the height of your logo in the login page, no \"px\" please."
+msgstr ""
+"Esta é a altura do teu logotipo na páxina de inicio de sesión; non \"px\" "
+"por favor."
+
+#: ../framework-customizations/theme/options/login.php:99
+msgid "Show Wordpress Logo"
+msgstr "Amosar Logo de Wordpress"
+
+#: ../framework-customizations/theme/options/login.php:112
+msgid "Show reset password link"
+msgstr "Amosar ligazón de restablecemento de contrasinal"
+
+#: ../framework-customizations/theme/options/login.php:123
+msgid ""
+"If you select Yep, we will add a link to the \"reset password\" Wordpress "
+"page, so the visitor can get a new password."
+msgstr ""
+"Se escolles Si, engadirase unha ligazón de \"reset password\" á páxina de "
+"WordPress, polo que o visitante poderá obter un novo contrasinal."
+
+#: ../framework-customizations/theme/options/login.php:128
+msgid "Registers Options"
+msgstr "Opcións de rexistros"
+
+#: ../framework-customizations/theme/options/login.php:132
+msgid "Register message"
+msgstr "Mensaxe Rexistro"
+
+#: ../framework-customizations/theme/options/login.php:135
+msgid ""
+"This is the text displayed before the Register button if the anyone can "
+"register in the Wordpress settings."
+msgstr ""
+"Este é o texto que se amosa antes do botón Rexistrar se está activada a "
+"opción de que calquera persoa poida rexistrarse."
+
+#: ../framework-customizations/theme/options/login.php:138
+msgid "Buddypress Xprofile fields ?"
+msgstr "¿BuddyPress campos Xprofile?"
+
+#: ../framework-customizations/theme/options/login.php:149
+msgid ""
+"Do you want to see the Buddypress Xprofile fields from the \"Base\" "
+"displayed on the register form ? Thus, you can add as many field as you like."
+msgstr ""
+"Queres ver os campos de Buddypress Xprofile desde a \"Base\" no formulario "
+"de rexistro? Daquela, podes engadir tantos campos como queiras."
+
+#: ../framework-customizations/theme/options/login.php:153
+msgid "Role field in the form"
+msgstr "Campo Rol no formulario"
+
+#: ../framework-customizations/theme/options/login.php:164
+msgid ""
+"Do you want to see the Role field in the registration form ? Of course, "
+"\"administrator\" is not in the option."
+msgstr ""
+"Queres ver o campo Rol no formulario de rexistro? Por suposto, "
+"\"administrator\" non se pode escoller."
+
+#: ../framework-customizations/theme/options/login.php:168
+msgid "Captcha on Register form ?"
+msgstr "CAPTCHA no formulario de rexistro?"
+
+#: ../framework-customizations/theme/options/login.php:179
+msgid ""
+"Do you want to see a captcha on the register page, if you select \"yep\" "
+"please fill the fields below."
+msgstr ""
+"Desexas ver un captcha da páxina de rexistro; se escolles \"yep\" enche os "
+"campos a continuación."
+
+#: ../framework-customizations/theme/options/login.php:182
+msgid "Captcha Question"
+msgstr "Pregunta de CAPTCHA"
+
+#: ../framework-customizations/theme/options/login.php:185
+msgid "A question that humans can reply but not robots."
+msgstr "Unha pregunta que os humanos poden responder, non robós."
+
+#: ../framework-customizations/theme/options/login.php:188
+msgid "Captcha Answer"
+msgstr "Resposta ao CAPTCHA"
+
+#: ../framework-customizations/theme/options/login.php:191
+msgid "The answer of the question above."
+msgstr "A resposta da pregunta anterior."
+
+#: ../framework-customizations/theme/options/styling.php:7
+msgid "Styling"
+msgstr "Estilo"
+
+#: ../framework-customizations/theme/options/styling.php:11
+msgid "Fonts options"
+msgstr "Opcións do tipo de letra"
+
+#: ../framework-customizations/theme/options/styling.php:26
+msgid "Main font Family"
+msgstr "Familia de fonte"
+
+#: ../framework-customizations/theme/options/styling.php:27
+msgid "Used for the main texts (content, menu, footer ...)."
+msgstr "Emprégase para os principais textos (contido, menú, pé de páxina ...)."
+
+#: ../framework-customizations/theme/options/styling.php:41
+msgid "Headlines font Family"
+msgstr "Familia de fonte para títulos"
+
+#: ../framework-customizations/theme/options/styling.php:42
+msgid "Used for all the headlines. The size set here does not matters."
+msgstr "Emprégase para todos os titulares. O tamaño axustado aquí non importa."
+
+#: ../framework-customizations/theme/options/styling.php:45
+msgid "Extended latin ?"
+msgstr "Latin estendido?"
+
+#: ../framework-customizations/theme/options/styling.php:53 ../framework-
+#: customizations/theme/options/styling.php:67
+#: customizations/theme/options/styling.php:81
+#: customizations/theme/options/general.php:38
+#: customizations/theme/options/general.php:60
+#: customizations/theme/options/general.php:74
+#: customizations/theme/options/posts.php:80
+#: customizations/theme/options/posts.php:115
+#: customizations/theme/options/sidebar.php:23
+#: customizations/theme/options/sidebar.php:37
+#: customizations/theme/options/sidebar.php:51
+#: customizations/theme/options/sidebar.php:65
+#: customizations/theme/options/sidebar.php:79
+#: customizations/theme/options/sidebar.php:106
+#: customizations/theme/options/sidebar.php:128
+#: customizations/theme/options/sidebar.php:142
+#: customizations/theme/options/page-title.php:76
+#: customizations/theme/options/header.php:48
+#: customizations/theme/options/header.php:86
+#: customizations/theme/options/header.php:100
+#: customizations/extensions/shortcodes/shortcodes/trello/options.php:32 ..
+#: framework-customizations/extensions/woffice-birthdays/settings-options.php:30
+msgid "Nope"
+msgstr "Non"
+
+#: ../framework-customizations/theme/options/styling.php:56
+msgid "This is for some fonts in some language (polish for example)."
+msgstr "Isto é para algunhas fontes nalgún idioma (polaco, por exemplo)."
+
+#: ../framework-customizations/theme/options/styling.php:59
+msgid "Bold Headlines ?"
+msgstr "Titulares en grosa?"
+
+#: ../framework-customizations/theme/options/styling.php:70 ../framework-
+#: customizations/theme/options/styling.php:84
+msgid ""
+"This is a global option for most of the titles, you will have something "
+"similar to the demo."
+msgstr ""
+"Esta é unha opción global para a maioría dos títulos, haberá algo similar á "
+"demo."
+
+#: ../framework-customizations/theme/options/styling.php:73
+msgid "Uppercase Headlines ?"
+msgstr "Titulares en maiúscula?"
+
+#: ../framework-customizations/theme/options/styling.php:89
+msgid "Color options"
+msgstr "Opcións de cor"
+
+#: ../framework-customizations/theme/options/styling.php:93 ../framework-
+#: customizations/extensions/woffice-glogin/settings-options.php:17
+#: customizations/extensions/woffice-glogin/settings-options.php:62
+msgid "Important :"
+msgstr "Importante:"
+
+#: ../framework-customizations/theme/options/styling.php:95
+msgid "Some colors can be found on the other tabs of the page settings ;)"
+msgstr ""
+"Algunhas cores pódense atopar nas outras pestanas de configuración de "
+"páxina ;)"
+
+#: ../framework-customizations/theme/options/styling.php:100
+msgid "Main color"
+msgstr "Cor principal do Sitio"
+
+#: ../framework-customizations/theme/options/styling.php:101
+msgid ""
+"This is your brand color (used in the links or in the buttons background for "
+"instance)."
+msgstr ""
+"Esta é a túa cor da marca (utilizado nas ligazóns ou no fondo dos botóns, "
+"por exemplo)."
+
+#: ../framework-customizations/theme/options/styling.php:106
+msgid "Main text color"
+msgstr "Cor do texto principal"
+
+#: ../framework-customizations/theme/options/styling.php:107
+msgid "This is the main color for the content, sidebar ..."
+msgstr "Esta é a cor principal para o contido, barra lateral ..."
+
+#: ../framework-customizations/theme/options/styling.php:112
+msgid "Body background color"
+msgstr "Cor do fondo do corpo"
+
+#: ../framework-customizations/theme/options/styling.php:117
+msgid "Light Color #1"
+msgstr "Cor clara #1"
+
+#: ../framework-customizations/theme/options/styling.php:118 ../framework-
+#: customizations/theme/options/styling.php:124
+msgid ""
+"We use this color for some design effects in the content (sidebar, form, box "
+"title...)"
+msgstr ""
+"Empregamos esta cor para algúns efectos de deseño no contido (barra lateral, "
+"de forma, de título caixa...)"
+
+#: ../framework-customizations/theme/options/styling.php:123
+msgid "Light Color #2"
+msgstr "Cor clara #2"
+
+#: ../framework-customizations/theme/options/styling.php:129
+msgid "Light Color #3"
+msgstr "Cor clara #3"
+
+#: ../framework-customizations/theme/options/styling.php:130
+msgid ""
+"We use this color for some design effects in the content (messages, "
+"icons ...)"
+msgstr ""
+"Empregamos esta cor para algúns efectos de deseño no contido (mensaxes, "
+"iconas ...)"
+
+#: ../framework-customizations/theme/options/styling.php:135
+msgid "Notifications color"
+msgstr "Cor dos Avisos"
+
+#: ../framework-customizations/theme/options/general.php:7
+msgid "General Options"
+msgstr "Opcións xerais"
+
+#: ../framework-customizations/theme/options/general.php:11 ../framework-
+#: customizations/theme/options/news.php:11
+#: customizations/theme/options/posts.php:19
+#: customizations/theme/options/menu.php:11
+#: customizations/theme/options/sidebar.php:11
+#: customizations/theme/options/dashboard.php:11
+#: customizations/theme/options/buddypress.php:51
+#: customizations/theme/options/page-title.php:11
+#: customizations/theme/options/header.php:11
+msgid "Main options"
+msgstr "Opcións principais"
+
+#: ../framework-customizations/theme/options/general.php:15
+msgid "Page loading"
+msgstr "Cargando páxina"
+
+#: ../framework-customizations/theme/options/general.php:16
+msgid "Show the page loading bar above the navbar."
+msgstr "Amosar a barra de carga da páxina enriba da barra de navegación."
+
+#: ../framework-customizations/theme/options/general.php:29
+msgid "Do you want to make this website public ?"
+msgstr "Queres facer pública esta páxina web?"
+
+#: ../framework-customizations/theme/options/general.php:30
+msgid ""
+"As an Intranet, every visitor have to login to access to the content and the "
+"wbesite, with this option your Website will be free to be reached by "
+"everyone..."
+msgstr ""
+"Como unha Intranet, cada visitante ten que iniciar sesión para acceder ao "
+"contido e o sitio, con esta opción será accesible para todos ..."
+
+#: ../framework-customizations/theme/options/general.php:43
+msgid "Excluded pages"
+msgstr "Páxinas excluídas"
+
+#: ../framework-customizations/theme/options/general.php:44
+msgid ""
+"If the website is private you can still make some pages public with this "
+"option. That means that the pages selected will not be affected by the "
+"redirection to the login page"
+msgstr ""
+"Se o sitio web é privado, pódese aínda facer algunhas páxinas públicas con "
+"esta opción. Iso significa que non se verán afectadas as páxinas "
+"seleccionadas pola redirección á páxina de inicio de sesión"
+
+#: ../framework-customizations/theme/options/general.php:51
+msgid "Hide website ?"
+msgstr "Agachar o sitio?"
+
+#: ../framework-customizations/theme/options/general.php:52
+msgid ""
+"Do you want to hide the website from Search engines, so it is only "
+"accessible by URL."
+msgstr ""
+"Queres ocultar o sitio web de motores de busca, polo que só é accesíbel por "
+"URL?"
+
+#: ../framework-customizations/theme/options/general.php:65
+msgid "Doc link ?"
+msgstr "Ligazón do documento?"
+
+#: ../framework-customizations/theme/options/general.php:66
+msgid "Do you want to see the Woffice documentation link in the admin bar."
+msgstr "Queres ver a ligazón de documentación de Woffice na barra de admin."
+
+#: ../framework-customizations/theme/options/general.php:81
+msgid "Favicons"
+msgstr "Favicons"
+
+#: ../framework-customizations/theme/options/general.php:85
+msgid "Favicon"
+msgstr "Favicon"
+
+#: ../framework-customizations/theme/options/general.php:86
+msgid "Upload a favicon image (PNG 32px x 32px)"
+msgstr "Sube unha imaxe favicon (PNG 32px x 32px)"
+
+#: ../framework-customizations/theme/options/general.php:90
+msgid "(Android) Icon 1"
+msgstr "(Android) Icona 1"
+
+#: ../framework-customizations/theme/options/general.php:91
+msgid "Upload an image (PNG 192px x 192px). For screens with a density of 4.0"
+msgstr ""
+"Sube unha imaxe (PNG 192px x 192px). Para pantallas cunha densidade de 4,0"
+
+#: ../framework-customizations/theme/options/general.php:95
+msgid "(Android) Icon 2"
+msgstr "(Android) Icona 2"
+
+#: ../framework-customizations/theme/options/general.php:96
+msgid "Upload an image (PNG 144px x 144px). For screens with a density of 3.0"
+msgstr ""
+"Sube unha imaxe (PNG 144px x 144px). Para pantallas cunha densidade de 3,0"
+
+#: ../framework-customizations/theme/options/general.php:100
+msgid "(Iphone) Icon"
+msgstr "(Iphone) Icona"
+
+#: ../framework-customizations/theme/options/general.php:101
+msgid "Upload an image (PNG 114px x 114px)"
+msgstr "Sube unha imaxe (PNG 114px x 114px)"
+
+#: ../framework-customizations/theme/options/general.php:105
+msgid "(Ipad) Icon"
+msgstr "(Ipad) Icona"
+
+#: ../framework-customizations/theme/options/general.php:106
+msgid "Upload an image (PNG 144px x 144px)"
+msgstr "Sube unha imaxe (PNG 144px x 144px)"
+
+#: ../framework-customizations/theme/options/custom-css.php:7
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+#: ../framework-customizations/theme/options/custom-css.php:11
+msgid "Custom CSS, JS"
+msgstr "CSS, JS personalizado"
+
+#: ../framework-customizations/theme/options/custom-css.php:15
+msgid "Type your custom CSS here "
+msgstr "Insire código CSS personalizado aquí"
+
+#: ../framework-customizations/theme/options/custom-css.php:17
+msgid ""
+"No need to set the tags (&lt;style&gt;&lt;/style&gt;). It is better to "
+"change the CSS changes here than editing the theme files ;) or you can "
+"create a child theme if you have a lot of changes."
+msgstr ""
+"Non hai necesidade de axustar as etiquetas (&lt;style&gt;&lt;/style&gt;). É "
+"mellor modificar os cambios de estilo CSS aquí que editando os arquivos do "
+"tema ;) ou pódese crear un tema fillo se se ten moitos cambios."
+
+#: ../framework-customizations/theme/options/custom-css.php:18
+msgid "Without the HTML tags \"style\" please"
+msgstr "Sen as etiquetas HTML \"style\" por favor"
+
+#: ../framework-customizations/theme/options/custom-css.php:21
+msgid "Type your custom Jquery/Javascript here "
+msgstr "Insire Jquery/Javascript personalizado aquí"
+
+#: ../framework-customizations/theme/options/custom-css.php:23
+msgid ""
+"No need to set the tags (&lt;script&gt;&lt;/script&gt;). It will understands "
+"the \"$\", all is wrapped in a Jquery function."
+msgstr ""
+"Non hai necesidade de fixar as etiquetas (< script >< / script >). Enténdese "
+"que o \"$\", todo envolto nunha función de Jquery."
+
+#: ../framework-customizations/theme/options/custom-css.php:24
+msgid "Without the HTML tags \"script\" please"
+msgstr "Sen o código HTML tags \"script\" por favor"
+
+#: ../framework-customizations/theme/options/news.php:7
+msgid "Blog"
+msgstr "Blogue"
+
+#: ../framework-customizations/theme/options/news.php:15
+msgid "Number of posts displayed per page"
+msgstr "Numero de artigos por páxina"
+
+#: ../framework-customizations/theme/options/news.php:18 ../framework-
+#: customizations/theme/options/menu.php:24
+#: customizations/theme/options/header.php:24
+#: customizations/theme/options/header.php:31
+msgid "A number please"
+msgstr "Un número, por favor"
+
+#: ../framework-customizations/theme/options/news.php:21
+msgid "Display Sidebar ?"
+msgstr "Amosar Barra lateral"
+
+#: ../framework-customizations/theme/options/news.php:25
+msgid "With Sidebar"
+msgstr "Coa barra lateral"
+
+#: ../framework-customizations/theme/options/news.php:29
+msgid "Full Width"
+msgstr "Ancho Total"
+
+#: ../framework-customizations/theme/options/posts.php:10 ../framework-
+#: customizations/theme/options/posts/wiki.php:15
+#: customizations/theme/options/posts/post.php:15
+#: customizations/theme/options/posts/project.php:15
+#: customizations/theme/options/posts/page.php:15
+#: customizations/extensions/woffice-projects/helpers.php:202
+msgid "No one"
+msgstr "Ninguén"
+
+#: ../framework-customizations/theme/options/posts.php:15
+#: ../bbpress/loop-replies. php:24 ../bbpress/loop-replies.php:76
+msgid "Posts"
+msgstr "Anotacións"
+
+#: ../framework-customizations/theme/options/posts.php:23
+msgid "Who can create a Blog article ?"
+msgstr "Quen pode crear un artigo de Blogue?"
+
+#: ../framework-customizations/theme/options/posts.php:24
+msgid ""
+"It is only affecting a front end button on the main Blog page. The roles "
+"with post edit capabilities will still be able to create Blog article from "
+"the backend."
+msgstr ""
+"Só está afectando a un botón do exterior na Páxina principal do Blogue. Os "
+"roles con capacidades de edición de artigo aínda serán capaces de crear "
+"anotacións desde o interior."
+
+#: ../framework-customizations/theme/options/posts.php:30
+msgid "Who can create a Wiki article ?"
+msgstr "Quen pode crear un artigo de Wiki?"
+
+#: ../framework-customizations/theme/options/posts.php:31
+msgid ""
+"It is only affecting a front end button on the main wiki page. The roles "
+"with post edit capabilities will still be able to create Wiki from the "
+"backend."
+msgstr ""
+"Só está afectando a un botón do exterior na Páxina principal do Wiki. Os "
+"roles con capacidades de edición de artigo aínda serán capaces de crear "
+"anotacións desde o interior."
+
+#: ../framework-customizations/theme/options/posts.php:37
+msgid "Who can create a project article ?"
+msgstr "Quen pode crear un artigo do proxecto?"
+
+#: ../framework-customizations/theme/options/posts.php:38
+msgid ""
+"It is only affecting a front end button on the main projects page. The roles "
+"with post edit capabilities will still be able to create Projects from the "
+"backend."
+msgstr ""
+"Só está afectando a un botón do exterior na Páxina principal do Proxecto. Os "
+"roles con capacidades de edición de artigo aínda serán capaces de crear "
+"anotacións desde o interior."
+
+#: ../framework-customizations/theme/options/posts.php:44
+msgid "Who can create a directory item ?"
+msgstr "Quen pode crear un elemento de directorio?"
+
+#: ../framework-customizations/theme/options/posts.php:45
+msgid ""
+"It is only affecting a front end button on the main directory page. The "
+"roles with post edit capabilities will still be able to create an item from "
+"the backend."
+msgstr ""
+"Só está afectando a un botón do exterior na Páxina do directorio. Os roles "
+"con capacidades de edición de artigo aínda serán capaces de crear anotacións "
+"desde o interior."
+
+#: ../framework-customizations/theme/options/posts.php:51
+msgid "Blog Page Title"
+msgstr "Título da Páxina do Blogue"
+
+#: ../framework-customizations/theme/options/posts.php:52
+msgid "It is the default Wordpress page here"
+msgstr "É a páxina de Wordpress por defecto"
+
+#: ../framework-customizations/theme/options/posts.php:57
+msgid "Show comments on pages"
+msgstr "Amosar Comentarios en páxinas"
+
+#: ../framework-customizations/theme/options/posts.php:58
+msgid ""
+"Do you want to display the comments to allow user to comment on pages ? If "
+"it you choose \"show\" you will still be able to override it on every page."
+msgstr ""
+"Queres amosar os comentarios para permitirlle ao usuario comentar nas "
+"páxinas? Se elixes \"show\" poderás sobreescribilo en cada páxina."
+
+#: ../framework-customizations/theme/options/posts.php:71
+msgid "Are the projects public ?"
+msgstr "Son os proxectos públicos?"
+
+#: ../framework-customizations/theme/options/posts.php:72
+msgid ""
+"If it is \"Yep\", every non logged users can view the project but not edit "
+"them."
+msgstr ""
+"Se é \"Yep\", todos os usuarios non rexistrados poden ver o proxecto pero "
+"non editar."
+
+#: ../framework-customizations/theme/options/posts.php:85
+msgid "Blog layout"
+msgstr "Deseño do Blogue"
+
+#: ../framework-customizations/theme/options/posts.php:86
+msgid "This is the blog layout for the main page"
+msgstr "Este é o deseño de blogue para a Páxina principal"
+
+#: ../framework-customizations/theme/options/posts.php:90
+msgid "Classic"
+msgstr "Clásico"
+
+#: ../framework-customizations/theme/options/posts.php:94
+msgid "Masonry"
+msgstr "Masonry."
+
+#: ../framework-customizations/theme/options/posts.php:99
+msgid "Wiki Exclude categories"
+msgstr "Excluír Categorías de Wiki"
+
+#: ../framework-customizations/theme/options/posts.php:100
+msgid "Do you want to exclude categories from the Wiki page ?"
+msgstr "Queres excluír categorías do Wiki?"
+
+#: ../framework-customizations/theme/options/menu.php:7
+msgid "Menu"
+msgstr "Menú"
+
+#: ../framework-customizations/theme/options/menu.php:18
+msgid "The background color of the menu"
+msgstr "A cor de fondo do menú"
+
+#: ../framework-customizations/theme/options/menu.php:21
+msgid "Menu Width"
+msgstr "Ancho do Menú"
+
+#: ../framework-customizations/theme/options/menu.php:25 ../framework-
+#: customizations/theme/options/header.php:25
+#: customizations/theme/options/header.php:32
+msgid "No need to set px"
+msgstr "Non hai necesidade de establecer px"
+
+#: ../framework-customizations/theme/options/menu.php:30
+msgid "Menu color #2"
+msgstr "Cor do menú # 2"
+
+#: ../framework-customizations/theme/options/menu.php:31
+msgid "Used for the text color and the borders"
+msgstr "Empregado para a color do texto e dos bordes"
+
+#: ../framework-customizations/theme/options/menu.php:36
+msgid "Menu hover color"
+msgstr "Cor do menú ao pasar por enriba"
+
+#: ../framework-customizations/theme/options/menu.php:37
+msgid "Used as a link background, link color on it is white."
+msgstr "Emprégase como o fondo de ligazóns, a cor da ligazón nel é o branco."
+
+#: ../framework-customizations/theme/options/sidebar.php:7
+msgid "Sidebar"
+msgstr "Barra Lateral"
+
+#: ../framework-customizations/theme/options/sidebar.php:15
+msgid "Display the Sidebar on pages"
+msgstr "Amosar a barra lateral nas páxinas"
+
+#: ../framework-customizations/theme/options/sidebar.php:26
+msgid ""
+"This is a global option for the whole website, you can still use a full "
+"width layout by using a page template."
+msgstr ""
+"Esta é unha opción global para todo o sitio, podes seguir empregando un "
+"deseño de ancho completo mediante o uso dun modelo de páxina."
+
+#: ../framework-customizations/theme/options/sidebar.php:29
+msgid "Only for logged users ?"
+msgstr "Só para usuarios rexistrados?"
+
+#: ../framework-customizations/theme/options/sidebar.php:40
+msgid "Do you want to restrict sidebar access only to the logged users ?"
+msgstr ""
+"Queres restrinxir o acceso da barra lateral só aos usuarios rexistrados?"
+
+#: ../framework-customizations/theme/options/sidebar.php:43
+msgid "Sidebar on Group & Member pages ?"
+msgstr "Barra lateral de páxinas grupo & membros?"
+
+#: ../framework-customizations/theme/options/sidebar.php:54 ../framework-
+#: customizations/theme/options/sidebar.php:68
+msgid "Do you want to see the sidebar on these pages"
+msgstr "Queres ver a barra lateral nestas páxinas"
+
+#: ../framework-customizations/theme/options/sidebar.php:57
+msgid "Sidebar on Blog pages ?"
+msgstr "Barra lateral das páxinas do Blogue?"
+
+#: ../framework-customizations/theme/options/sidebar.php:71
+msgid "Open the sidebar by default"
+msgstr "Abrir a barra lateral por defecto"
+
+#: ../framework-customizations/theme/options/sidebar.php:82
+msgid ""
+"The sidebar can either be hidden or be visible by default, the user will "
+"find an action button in the header bar."
+msgstr ""
+"A barra lateral ou ben pode estar oculta ou ben visíbel por defecto, o "
+"usuario atopará un botón de acción na barra de cabeceiro."
+
+#: ../framework-customizations/theme/options/sidebar.php:98
+msgid "Display the Sidebar on mobiles"
+msgstr "Amosar a barra lateral nos móbiles"
+
+#: ../framework-customizations/theme/options/sidebar.php:109
+msgid ""
+"If you choose \"yep\" the sidebar will be toggled with a button fixed on the "
+"right side during the navigation."
+msgstr ""
+"Se escolles \"yep\" da barra lateral, conmútase cun botón fixo no lado "
+"dereito durante a navegación."
+
+#: ../framework-customizations/theme/options/sidebar.php:112
+msgid "Minimum sidebar height"
+msgstr "Altura mínima da barra lateral"
+
+#: ../framework-customizations/theme/options/sidebar.php:114
+msgid ""
+"You can set here a minimum height for the sidebar, it may looks weird but "
+"that is better for the layout and prevent some javascript bugs."
+msgstr ""
+"Podes establecer aquí unha altura mínima da barra lateral; pode verse "
+"extraño, pero é mellor para o deseño e para evitar algúns erros de "
+"javascript."
+
+#: ../framework-customizations/theme/options/sidebar.php:116
+msgid "A value in Pixel but no needs for the px."
+msgstr "Un valor en Pixel, pero non é preciso poñer px."
+
+#: ../framework-customizations/theme/options/sidebar.php:119
+msgid "Show scroll top arrow ?"
+msgstr "Amosar frecha superior de desprazamento?"
+
+#: ../framework-customizations/theme/options/sidebar.php:121
+msgid ""
+"This is the arrow at the bottom of the page which allow the user to scroll "
+"to the top."
+msgstr ""
+"Esta é a frecha na parte inferior da páxina, que lle permite ao usuario "
+"desprazarse á parte superior."
+
+#: ../framework-customizations/theme/options/sidebar.php:133
+msgid "Show scroll arrow in the sidebar ?"
+msgstr "Amosar frecha de desprazamento na barra lateral?"
+
+#: ../framework-customizations/theme/options/sidebar.php:135
+msgid ""
+"Do you want to display at the bottom of the right sidebar an arrow to help "
+"user navigation."
+msgstr ""
+"Queres amosar na parte inferior da barra lateral dereita unha frecha para "
+"axudar a navegar?"
+
+#: ../framework-customizations/theme/options/dashboard.php:7
+msgid "Home Dashboard"
+msgstr "Panel"
+
+#: ../framework-customizations/theme/options/dashboard.php:15
+msgid "Number of columns in the dashboard"
+msgstr "Número de columnas no Panel"
+
+#: ../framework-customizations/theme/options/dashboard.php:18
+msgid "This is only for non-mobiles devices, because it is responsive."
+msgstr "Isto é só para dispositivos que non son móbiles, xa que é adaptábel."
+
+#: ../framework-customizations/theme/options/dashboard.php:20
+msgid "1 Columns"
+msgstr "1 Columna"
+
+#: ../framework-customizations/theme/options/dashboard.php:21
+msgid "2 Columns"
+msgstr "﻿2 Columnas"
+
+#: ../framework-customizations/theme/options/dashboard.php:22
+msgid "3 Columns"
+msgstr "3 Columnas"
+
+#: ../framework-customizations/theme/options/buddypress.php:47
+msgid "Buddypress"
+msgstr "BuddyPress"
+
+#: ../framework-customizations/theme/options/buddypress.php:56
+msgid "New Member Types"
+msgstr "Novo Tipo de membros"
+
+#: ../framework-customizations/theme/options/buddypress.php:58
+msgid ""
+"This is a way to categorise your members (members directory, privacy on "
+"certain pages...), you will have more/better options with this plugin :"
+msgstr ""
+"Esta é unha maneira de categorizar os seus membros (do directorio, "
+"privacidade en certas páxinas...); ti terás máis e mellores opcións con este "
+"plugin:"
+
+#: ../framework-customizations/theme/options/buddypress.php:62
+msgid "Role Name"
+msgstr "Nome de rol"
+
+#: ../framework-customizations/theme/options/buddypress.php:66
+msgid "Role capabilities"
+msgstr "Capacidades de Rol de Usuarios"
+
+#: ../framework-customizations/theme/options/buddypress.php:69
+msgid "You can learn more about user capabilities here"
+msgstr "Podes aprender máis sobre as capacidades dos usuarios aquí"
+
+#: ../framework-customizations/theme/options/page-title.php:7
+msgid "Title Box"
+msgstr "Título da Caixa"
+
+#: ../framework-customizations/theme/options/page-title.php:15
+msgid "Default Featured image"
+msgstr "Imaxe Destacada por defecto"
+
+#: ../framework-customizations/theme/options/page-title.php:16
+msgid "Upload a large image"
+msgstr "Sube unha imaxe grande"
+
+#: ../framework-customizations/theme/options/page-title.php:21
+msgid "Alignment of the background image ?"
+msgstr "Alineación da imaxe de fondo ?"
+
+#: ../framework-customizations/theme/options/page-title.php:24
+msgid "Vertical alignment here"
+msgstr "Aliñamento vertical"
+
+#: ../framework-customizations/theme/options/page-title.php:26 ../framework-
+#: customizations/extensions/woffice-map/settings-options.php:44
+#: customizations/extensions/woffice-directory/settings-options.php:41
+msgid "Center"
+msgstr "Centro"
+
+#: ../framework-customizations/theme/options/page-title.php:27
+msgid "Bottom"
+msgstr "Base"
+
+#: ../framework-customizations/theme/options/page-title.php:28
+msgid "Top"
+msgstr "Parte superior"
+
+#: ../framework-customizations/theme/options/page-title.php:32
+msgid "Height of the page title box"
+msgstr "Altura da caixa de título da páxina"
+
+#: ../framework-customizations/theme/options/page-title.php:35
+msgid "In pixels pixels please, but without the PX"
+msgstr "En píxeles, pero sen o PX"
+
+#: ../framework-customizations/theme/options/page-title.php:36
+msgid "Just a number without the PX"
+msgstr "Só un número sen o PX"
+
+#: ../framework-customizations/theme/options/page-title.php:39
+msgid "Headline text in uppercase ?"
+msgstr "Texto do título en maiúsculas?"
+
+#: ../framework-customizations/theme/options/page-title.php:44
+msgid "Font weight: bold ?"
+msgstr "Peso da fonte: grosa?"
+
+#: ../framework-customizations/theme/options/page-title.php:49
+msgid "Headline Color"
+msgstr "Cor do Título"
+
+#: ../framework-customizations/theme/options/page-title.php:52
+msgid "This is the color of the headline."
+msgstr "Esta é a cor do título."
+
+#: ../framework-customizations/theme/options/page-title.php:55 ../framework-
+#: customizations/extensions/woffice-maintenance/settings-options.php:77
+msgid "Layer Opacity"
+msgstr "Opacidade da capa"
+
+#: ../framework-customizations/theme/options/page-title.php:58
+msgid ""
+"This is the opacity of the layer behind the page title and over the featured "
+"image"
+msgstr ""
+"Esta é a opacidade da capa detrás do título da páxina e sobre a imaxe "
+"destacada"
+
+#: ../framework-customizations/theme/options/page-title.php:62
+msgid "Layer Color"
+msgstr "Cor da Capa"
+
+#: ../framework-customizations/theme/options/page-title.php:65
+msgid ""
+"This is the color of the layer behind the page title and over the featured "
+"image"
+msgstr ""
+"Esta é a cor da capa detrás do título da páxina e sobre a imaxe destacada"
+
+#: ../framework-customizations/theme/options/page-title.php:68
+msgid "Show border bottom"
+msgstr "Amosar Borde Inferior"
+
+#: ../framework-customizations/theme/options/page-title.php:79
+msgid "This is the colored border below this title box."
+msgstr "Este é o borde de cor por debaixo deste cadro de título."
+
+#: ../framework-customizations/theme/options/page-title.php:85
+msgid "Color of the border below the the box title."
+msgstr "Cor do borde debaixo do título da caixa."
+
+#: ../framework-customizations/theme/options/header.php:7
+msgid "Header bar"
+msgstr "Barra do Cabeceiro"
+
+#: ../framework-customizations/theme/options/header.php:15
+msgid "Main Logo"
+msgstr "Logotipo"
+
+#: ../framework-customizations/theme/options/header.php:16
+msgid "Upload your image for the logo (white color advised)"
+msgstr "Sube a túa imaxe para o logotipo (aconséllase cor branca)"
+
+#: ../framework-customizations/theme/options/header.php:28
+msgid "Navigation Bar Height"
+msgstr "Altura da barra de navegación"
+
+#: ../framework-customizations/theme/options/header.php:35
+msgid "Do you want to hide the logo ?"
+msgstr "Queres ocultar o logotipo?"
+
+#: ../framework-customizations/theme/options/header.php:40
+msgid "Fixed navigation ?"
+msgstr "Navegación fixa?"
+
+#: ../framework-customizations/theme/options/header.php:51
+msgid ""
+"Do you want to fix the navigation on the top of the screen when scrolling."
+msgstr ""
+"Queres arranxar a navegación na parte superior da pantalla cando se despraza?"
+
+#: ../framework-customizations/theme/options/header.php:57
+msgid "This is the color used for the text (username)"
+msgstr "Esta é a cor usada para o texto (nome de usuario)"
+
+#: ../framework-customizations/theme/options/header.php:63
+msgid "The background color of the navbar"
+msgstr "A cor de fondo da barra de navegación"
+
+#: ../framework-customizations/theme/options/header.php:68
+msgid "Icons color"
+msgstr "Cor de iconas"
+
+#: ../framework-customizations/theme/options/header.php:69
+msgid "This is the color used in the header for the icons."
+msgstr "Esta é a cor usada nas iconas da cabeceira."
+
+#: ../framework-customizations/theme/options/header.php:74
+msgid "Link hover color"
+msgstr "Cor da ligazón ao pasar por enriba"
+
+#: ../framework-customizations/theme/options/header.php:75
+msgid "The Hover color on the menu links, also for the submenu."
+msgstr "A cor das ligazóns do menú ao pasar por enriba, tamén para o submenú."
+
+#: ../framework-customizations/theme/options/header.php:78
+msgid "Search icon in the menu ?"
+msgstr "Buscar icona no menú?"
+
+#: ../framework-customizations/theme/options/header.php:89
+msgid "Do you want to show the seacrh icon at the end of the menu."
+msgstr "Queres amosar a icona de busca ao final do menú?"
+
+#: ../framework-customizations/theme/options/header.php:92
+msgid "User box ?"
+msgstr "Xanela de usuario?"
+
+#: ../framework-customizations/theme/options/header.php:103
+msgid "Do you want to show the user box in the navbar ?"
+msgstr "Queres amosar a xanela de usuario na barra de navegación?"
+
+#: ../framework-customizations/theme/options/posts/directory.php:35
+#: ../framework- customizations/theme/options/posts/directory.php:44
+msgid "Custom fields"
+msgstr "Campos personalizados"
+
+#: ../framework-customizations/theme/options/posts/directory.php:45
+msgid ""
+"You can add any data here (salary,population,dates,birthdays...anything you "
+"like)."
+msgstr ""
+"Podes engadir todos os datos (salario, poboación, datas, aniversarios... "
+"calquera cousa que desexes)."
+
+#: ../framework-customizations/theme/options/posts/directory.php:57
+msgid "Item settings "
+msgstr "Configuración de ítem"
+
+#: ../framework-customizations/theme/options/posts/directory.php:62
+msgid "Location"
+msgstr "Situación"
+
+#: ../framework-customizations/theme/options/posts/directory.php:63
+msgid "The location will be visible in the main directory page & single page."
+msgstr ""
+"A situación será visíbel na páxina directorio principal e en páxina única."
+
+#: ../framework-customizations/theme/options/posts/directory.php:68
+msgid "Button text"
+msgstr "Botón de texto"
+
+#: ../framework-customizations/theme/options/posts/directory.php:69
+msgid ""
+"If you fill this option, you'll the possibility to add a button on the "
+"single page (can link to a form within your site or an extern URL). If you "
+"leave it empty, it won't be displayed."
+msgstr ""
+"Se cubres esta opción, terás a posibilidade de engadir un botón na páxina "
+"única (pode ligar a un formulario dentro do sitio web ou unha URL externa). "
+"Se o deixas baleiro, non se amosarán."
+
+#: ../framework-customizations/theme/options/posts/directory.php:73
+msgid "Button link"
+msgstr "Ligazón do botón"
+
+#: ../framework-customizations/theme/options/posts/directory.php:77
+msgid "Button Icon"
+msgstr "Icona do botón"
+
+#: ../framework-customizations/theme/options/posts/wiki.php:20
+msgid "Wiki settings "
+msgstr "Configuración de wiki"
+
+#: ../framework-customizations/theme/options/posts/wiki.php:25 ../framework-
+#: customizations/theme/options/posts/post.php:31
+#: customizations/theme/options/posts/page.php:62
+msgid "Exclude Roles"
+msgstr "Excluír roles"
+
+#: ../framework-customizations/theme/options/posts/wiki.php:26 ../framework-
+#: customizations/theme/options/posts/post.php:32
+#: customizations/theme/options/posts/page.php:63
+msgid "Help tip : Hold Ctrl to select multiple roles."
+msgstr "Consello: Mantén Ctrl para seleccionar varios usuarios."
+
+#: ../framework-customizations/theme/options/posts/wiki.php:27
+msgid ""
+"The excluded roles will not be able to see that wiki article, they will "
+"receive an error message instead. "
+msgstr ""
+"Os roles excluídos non poderán ver ese artigo de wiki, recibirán unha "
+"mensaxe de erro."
+
+#: ../framework-customizations/theme/options/posts/post.php:20
+msgid "Post Options"
+msgstr "Opcións de Artigo"
+
+#: ../framework-customizations/theme/options/posts/post.php:24
+msgid "Top featured image (optional)"
+msgstr "Imaxe destacada superior (opcional)"
+
+#: ../framework-customizations/theme/options/posts/post.php:25
+msgid ""
+"Change the image behind the page title, otherwise we are going to use the "
+"default one."
+msgstr ""
+"Cambiar a imaxe de detrás do título da páxina, se non imos usar a "
+"predeterminada."
+
+#: ../framework-customizations/theme/options/posts/post.php:33
+msgid ""
+"The excluded roles will not be able to see that blog post, they will receive "
+"an error message instead. "
+msgstr ""
+"Os roles excluídos non serán quen de ver este artigo de blogue, recibirán "
+"unha mensaxe de erro."
+
+#: ../framework-customizations/theme/options/posts/project.php:19
+msgid "Project settings "
+msgstr "Configuración do proxecto"
+
+#: ../framework-customizations/theme/options/posts/project.php:24
+msgid "Project Starting Date"
+msgstr "Data de inicio do proxecto"
+
+#: ../framework-customizations/theme/options/posts/project.php:25
+#: ../framework- customizations/theme/options/posts/project.php:31
+msgid ""
+"Will be used for the progress bar on the single project page and in the "
+"widget."
+msgstr ""
+"Empregarase para a barra de progreso na páxina de proxecto e no widget."
+
+#: ../framework-customizations/theme/options/posts/project.php:30
+msgid "Project Ending Date"
+msgstr "Data de fin do proxecto"
+
+#: ../framework-customizations/theme/options/posts/project.php:36
+msgid "Project Members"
+msgstr "Membros do proxecto"
+
+#: ../framework-customizations/theme/options/posts/project.php:37
+#: ../framework- customizations/theme/options/posts/page.php:56
+msgid "Help tip : Hold Ctrl to select multiple users."
+msgstr "Consello: Mantén Ctrl para seleccionar varios usuarios."
+
+#: ../framework-customizations/theme/options/posts/project.php:38
+msgid ""
+"They will be allowed to modify the project from the single page and view it "
+"of course."
+msgstr ""
+"Permitiraselles modificar o proxecto desde a páxina única e velo, por "
+"suposto."
+
+#: ../framework-customizations/theme/options/posts/project.php:43
+msgid "Project Files"
+msgstr "Arquivos do proxecto"
+
+#: ../framework-customizations/theme/options/posts/project.php:44
+msgid ""
+"If it is checked, a Multiverso category will be created for this project and "
+"you will be able to add and manage files from the project page."
+msgstr ""
+"Se se selecciona, unha categoría Multiverso crearase para este proxecto e "
+"poderanse engadir e xestionar arquivos desde a páxina do proxecto."
+
+#: ../framework-customizations/theme/options/posts/project.php:49
+msgid "Allow edit"
+msgstr "Permitir edición"
+
+#: ../framework-customizations/theme/options/posts/project.php:50
+msgid ""
+"Allowing the frontend edit from the users allowed to see the project, this "
+"may not be a good idea if you are using the page builder on that page. You "
+"can also choose in the other options."
+msgstr ""
+"Permitir a edición frontend dos usuarios que poden ver o proyecto. Isto pode "
+"non ser unha boa idea se estás empregando o page builder nesa páxina. Pode "
+"tamén seleccionalo nas outras opcións."
+
+#: ../framework-customizations/theme/options/posts/project.php:52
+msgid "Frontend Edit"
+msgstr "Edición Frontend"
+
+#: ../framework-customizations/theme/options/posts/project.php:53
+msgid "Backend Edit link"
+msgstr "Ligazón edición Backend"
+
+#: ../framework-customizations/theme/options/posts/project.php:54
+msgid "No Edit icon"
+msgstr "Non hai icona de edición"
+
+#: ../framework-customizations/theme/options/posts/project.php:60
+msgid "Project extern Links"
+msgstr "Ligazóns externas do Proxecto"
+
+#: ../framework-customizations/theme/options/posts/project.php:61
+msgid "You can add here extern links related to the projects."
+msgstr "Podes engadir aquí ligazóns externas relacionadas cos proxectos."
+
+#: ../framework-customizations/theme/options/posts/project.php:65
+msgid "Link"
+msgstr "Ligazón"
+
+#: ../framework-customizations/theme/options/posts/project.php:71
+msgid "Project Todo"
+msgstr "Plan do Proxecto"
+
+#: ../framework-customizations/theme/options/posts/project.php:72
+msgid ""
+"If it is checked, a todo tab will be displayed and the project members will "
+"be able to create tasks for the project. Note it\\ll be overwritten if you "
+"enter a Wunderlist List ID below."
+msgstr ""
+"Se se activa, amosarase unha ficha ToDo e os membros do proxecto serán "
+"capaces de crear tarefas. Nota: será sobreescrito se se insire un ID dunha "
+"listaxe Wunderlist abaixo."
+
+#: ../framework-customizations/theme/options/posts/project.php:77
+msgid "Project Todo tasks"
+msgstr "Plan de tarefas do Proxecto"
+
+#: ../framework-customizations/theme/options/posts/project.php:78
+msgid "It can be edited on the frontend by the projects member."
+msgstr "Poden editarse no exterior por membros do proxecto."
+
+#: ../framework-customizations/theme/options/posts/project.php:82
+msgid "Done ?"
+msgstr "Feito?"
+
+#: ../framework-customizations/theme/options/posts/project.php:83
+msgid "Due Date ?"
+msgstr "Data de vencemento?"
+
+#: ../framework-customizations/theme/options/posts/project.php:84
+msgid "Note ?"
+msgstr "Nota ?"
+
+#: ../framework-customizations/theme/options/posts/project.php:96
+msgid "Wunderlist List ID"
+msgstr "ID de lista Wunderlist"
+
+#: ../framework-customizations/theme/options/posts/project.php:97
+msgid "The xxxxx in https://www.wunderlist.com/list/xxxxx"
+msgstr "O xxxxx en https://www.wunderlist.com/list/xxxxx"
+
+#: ../framework-customizations/theme/options/posts/project.php:98
+msgid ""
+"You can set here a Wunderlist list ID, once it is PUBLISHED. However, this "
+"is an experimental feature for now, because your list will be public but "
+"only the persons with the link will be able to see it "
+msgstr ""
+"Podes establecer aquí un ID de lista Wunderlist, unha vez publicada. Porén, "
+"esta é unha característica experimental por agora, debido a que a túa lista "
+"será pública, pero só as persoas coa ligazón serán capaces de velo"
+
+#: ../framework-customizations/theme/options/posts/page.php:23
+msgid "Select users :"
+msgstr "Seleccionar usuarios :"
+
+#: ../framework-customizations/theme/options/posts/page.php:44
+msgid "Page settings "
+msgstr "Configuración da páxina"
+
+#: ../framework-customizations/theme/options/posts/page.php:48
+msgid "Hide the title"
+msgstr "Agachar título"
+
+#: ../framework-customizations/theme/options/posts/page.php:49
+msgid "Only the featured image will be visible, the title will be hidden."
+msgstr "Só a imaxe destacada será visíbel, o título ocúltase."
+
+#: ../framework-customizations/theme/options/posts/page.php:55
+msgid "Exclude Members"
+msgstr "Excluír Membros"
+
+#: ../framework-customizations/theme/options/posts/page.php:57
+msgid ""
+"The excluded members will not be able to see that page, they will receive an "
+"error message instead."
+msgstr ""
+"Os membros excluídos non serán quen de ver a páxina, recibirán unha mensaxe "
+"de erro."
+
+#: ../framework-customizations/theme/options/posts/page.php:64
+msgid ""
+"The excluded roles will not be able to see that page, they will receive an "
+"error message instead. "
+msgstr ""
+"Os membros excluídos non serán quen de ver a páxina, recibirán unha mensaxe "
+"de erro."
+
+#: ../framework-customizations/theme/options/posts/page.php:68
+msgid "Only for logged users"
+msgstr "Só para usuarios rexistrados"
+
+#: ../framework-customizations/theme/options/posts/page.php:69
+msgid ""
+"If your website is public you can hide this page from non-logged users, they "
+"will find a link to the login page."
+msgstr ""
+"Se o sitio é público, podes ocultar esta páxina dos usuarios non "
+"rexistrados, van atopar unha ligazón á páxina de inicio de sesión."
+
+#: ../framework-customizations/theme/options/posts/page.php:75
+msgid "Add a slider"
+msgstr "Engadir slider"
+
+#: ../framework-customizations/theme/options/posts/page.php:76
+msgid ""
+"This will override the page title box (image & title), you'll have the "
+"selected Revolution slider instead."
+msgstr ""
+"Isto sobreescribirá o cadro de título da páxina (imaxe e título), terás "
+"Revolution Slider seleccionado no seu lugar."
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-
+#: wiki.php:22 ../framework-customizations/extensions/woffice-wiki/class-fw-
+#: extension-woffice-wiki.php:24
+msgid "Wiki"
+msgstr "Wiki"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-
+#: wiki.php:23 ../framework-customizations/extensions/woffice-wiki/class-fw-
+#: extension-woffice-wiki.php:25
+#: ../framework-customizations/extensions/woffice-
+#: wiki/class-fw-extension-woffice-wiki.php:27
+msgid "Article"
+msgstr "Artigo"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-
+#: wiki.php:26
+#: ../framework-customizations/extensions/woffice-projects/class-fw-
+#: extension-woffice-projects.php:27 ../framework-
+#: customizations/extensions/woffice-directory/class-fw-extension-woffice-
+#: directory.php:37
+msgid "Add New"
+msgstr "Engadir novo"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-
+#: wiki.php:28
+msgid "Edit Article"
+msgstr "Editar artigo..."
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-
+#: wiki.php:29
+msgid "View Article"
+msgstr "Ver artigo"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-
+#: wiki.php:30 ../page-templates/wiki.php:154
+msgid "All Articles"
+msgstr "Todos os artigos"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-
+#: wiki.php:31
+msgid "Search Article"
+msgstr "Buscar artigo"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-
+#: wiki.php:32
+msgid "No Article found."
+msgstr "Non se atopou ningún artigo"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-
+#: wiki.php:33
+msgid "No Article found in Trash."
+msgstr "Non se atopou ningún artigo na papeleira"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-
+#: wiki.php:64
+msgid "Wiki Categories"
+msgstr "Categorías de Wiki"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-
+#: wiki.php:65
+msgid "Article Category"
+msgstr "Categoría de artigo"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-
+#: wiki.php:66
+msgid "Search Wiki Categories"
+msgstr "Buscar Categorías de Wiki"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-
+#: wiki.php:67
+msgid "All Wiki Categories"
+msgstr "Todas as categorías de Wiki"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-
+#: wiki.php:68
+#: ../framework-customizations/extensions/woffice-projects/class-fw-
+#: extension-woffice-projects.php:80
+msgid "Edit Category"
+msgstr "Editar Categoría"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-
+#: wiki.php:69
+msgid "Update Wiki Category"
+msgstr "Actualizar Categoría de Wiki"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-
+#: wiki.php:70
+msgid "Add New Wiki Category"
+msgstr "Engadir categoría de Wiki"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-
+#: wiki.php:71
+msgid "New Wiki Category"
+msgstr "Nova categoría de Wiki"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-
+#: wiki.php:72
+#: ../framework-customizations/extensions/woffice-projects/class-fw-
+#: extension-woffice-projects.php:84 ../framework-
+#: customizations/extensions/woffice-directory/class-fw-extension-woffice-
+#: directory.php:94
+msgid "Categories"
+msgstr "Categorías"
+
+#: ../framework-customizations/extensions/woffice-wiki/helpers.php:50
+msgid "I like this article"
+msgstr "Gústame este artigo"
+
+#: ../framework-customizations/extensions/woffice-wiki/manifest.php:7
+msgid "Woffice Wiki"
+msgstr "Woffice Wiki"
+
+#: ../framework-customizations/extensions/woffice-wiki/manifest.php:8
+msgid "Enables the possibility to add a wiki management to your site."
+msgstr "Permite a posibilidade de engadir unha xestión wiki ao sitio."
+
+#: ../framework-customizations/extensions/woffice-wiki/includes/class-fw-widget-
+#: woffice-wiki.php:15
+msgid "(Woffice) Wiki Articles"
+msgstr "(Woffice) Artigos Wiki"
+
+#: ../framework-customizations/extensions/woffice-poll/settings-options.php:12
+msgid "Build Poll"
+msgstr "Elaborar Enquisa"
+
+#: ../framework-customizations/extensions/woffice-poll/settings-options.php:15
+msgid "Information :"
+msgstr "Información :"
+
+#: ../framework-customizations/extensions/woffice-poll/settings-options.php:20
+msgid "Poll Question"
+msgstr "Pregunta da enquisa"
+
+#: ../framework-customizations/extensions/woffice-poll/settings-options.php:38
+msgid "Poll answers"
+msgstr "Respostas da enquisa"
+
+#: ../framework-customizations/extensions/woffice-poll/settings-options.php:40
+msgid "These questions will be displayed within the widget in Woffice."
+msgstr "Estas preguntas amosaranse no widget en Woffice."
+
+#: ../framework-customizations/extensions/woffice-poll/settings-options.php:48
+msgid "Results"
+msgstr "Resultados"
+
+#: ../framework-customizations/extensions/woffice-poll/hooks.php:61
+msgid ""
+"Error, something is wrong please refresh this page. Note that you can not "
+"vote twice."
+msgstr ""
+"Erro, algo está mal, deberás recargar esta páxina. Ten en conta que non se "
+"pode votar dúas veces."
+
+#: ../framework-customizations/extensions/woffice-poll/class-fw-extension-woffice-
+#: poll.php:211
+msgid "No results :"
+msgstr "Sen resultados :"
+
+#: ../framework-customizations/extensions/woffice-poll/class-fw-extension-woffice-
+#: poll.php:225
+msgid "In percentage (%)"
+msgstr "En porcentaxe (%)"
+
+#: ../framework-customizations/extensions/woffice-poll/class-fw-extension-woffice-
+#: poll.php:234
+msgid "Total answers number :"
+msgstr "Número total de respostas:"
+
+#: ../framework-customizations/extensions/woffice-poll/manifest.php:7
+msgid "Woffice Poll"
+msgstr "Enquisa Woffice"
+
+#: ../framework-customizations/extensions/woffice-poll/manifest.php:8
+msgid ""
+"Enables the possibility to add a poll widget in Woffice. (See documentation "
+"for detailed informations)."
+msgstr ""
+"Permite a posibilidade de engadir un widget de enquisa en Woffice. (Consulta "
+"a documentación para obter información detallada)."
+
+#: ../framework-customizations/extensions/woffice-poll/views/view.php:53
+msgid "Send"
+msgstr "Enviar"
+
+#: ../framework-customizations/extensions/woffice-poll/views/view.php:85
+msgid "Sorry, there is no answer set yet in the Extension options."
+msgstr ""
+"Vaia, non hai unha resposta preestablecida aínda nas opcións de extensión."
+
+#: ../framework-customizations/extensions/woffice-poll/includes/class-fw-widget-
+#: woffice-poll.php:16
+msgid "Get the poll from the Unyson Extensions"
+msgstr "Obter a enquisa das Extensións Unyson"
+
+#: ../framework-customizations/extensions/woffice-poll/includes/class-fw-widget-
+#: woffice-poll.php:17
+msgid "(Woffice) Poll"
+msgstr "(Woffice) Enquisa"
+
+#: ../framework-customizations/extensions/woffice-poll/includes/class-fw-widget-
+#: woffice-poll.php:45
+msgid "Poll"
+msgstr "Enquisa"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/trello/options.
+#: php:8
+msgid "Type of Trello element"
+msgstr "Tipo de elemento de Trello"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/trello/options.
+#: php:9
+msgid "You need to have installed before the Plugin WP Trello."
+msgstr "Necesitas ter instalado antes o Plugin WP Trello."
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/trello/options.
+#: php:20 ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:33
+msgid "ID"
+msgstr "ID"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/trello/options.
+#: php:21
+msgid ""
+"The ID of the element, you can find it in the URL or in Settings -> WP "
+"TRELLO -> API Helper"
+msgstr ""
+"O ID do elemento podes atopalo na URL ou en configuración-> WP TRELLO-> API "
+"Helper"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/trello/options.
+#: php:24
+msgid "Link ?"
+msgstr "Ligazón?"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/trello/options.
+#: php:35
+msgid "Display as a link to Trello."
+msgstr "Amosar como ligazón a Trello."
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/trello/config.php:8
+msgid "Trello"
+msgstr "Trello"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/trello/config.php:9
+msgid "Add a Trello Element"
+msgstr "Engadir elemento de Trello"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/trello/config.php:
+#: 10 ../framework-
+#: customizations/extensions/shortcodes/shortcodes/progressbar/config.php:8 ..
+#: framework-
+#: customizations/extensions/shortcodes/shortcodes/animated_number/config.php:10
+#: .
+#: framework-customizations/extensions/shortcodes/shortcodes/alert/config.php:7
+#: ../framework-customizations/extensions/shortcodes/shortcodes/members/config.
+#: php:10
+#: customizations/extensions/shortcodes/shortcodes/woffice_headlines/config.php:8
+#: ../framework-customizations/extensions/shortcodes/shortcodes/full/config.php:7
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/config.
+#: customizations/extensions/shortcodes/shortcodes/list/config.php:10
+#: customizations/extensions/shortcodes/shortcodes/woffice_button/config.php:8
+#: framework-customizations/extensions/shortcodes/shortcodes/woocommerce/config.
+#: customizations/extensions/shortcodes/shortcodes/contactform7/config.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/multiverso/config.
+#: customizations/extensions/shortcodes/shortcodes/bigbluebutton/config.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/eventon/config.php:
+#: customizations/extensions/shortcodes/shortcodes/eventon_form/config.php:10
+msgid "Content Elements"
+msgstr "Elementos do contido"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/trello/views/view.
+#: php:12
+msgid "Please select an ID for the Trello Element."
+msgstr "Por favor, escolle unha ID para o elemento de Trello."
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/trello/views/view.
+#: php:16
+msgid "Please install the plugin "
+msgstr "Por favor instala o plugin"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/progressbar/options.php:13
+msgid "Progress"
+msgstr "Progreso"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/progressbar/options.php:17
+msgid "Choose an icon that will be on the progress bar at the beginning."
+msgstr "Escoller unha icona que estará na barra de progreso ao inicio."
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/progressbar/config.php:6
+msgid "Progress Bar"
+msgstr "Barra de progreso"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/progressbar/config.php:7
+msgid "A cool progress bar"
+msgstr "Unha barra de progreso Cool"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/animated_number/options.php:9
+msgid "The animated number"
+msgstr "Número animado"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/animated_number/options.php:10
+msgid "Only number please or it will not work."
+msgstr "Só un número, ou non funcionará."
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/animated_number/options.php:15
+msgid "Title under"
+msgstr "Título debaixo"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/animated_number/config.php:8
+msgid "Animated Number"
+msgstr "Número animado"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/animated_number/config.php:9
+msgid ""
+"Show an animated number with a title under, it will takes the full width so "
+"you can wrap it in columns."
+msgstr ""
+"Amosar un número animado cun título debaixo, tomará todo o ancho, así que se "
+"pode inserir en columnas."
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/column/options.
+#: php:5
+msgid "Extra Class to the column"
+msgstr "Clase Extra na columna"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/column/options.
+#: php:6
+msgid "Such as: center to align in the middle the content inside."
+msgstr "Tales como: Centrar para alinear no medio o interior do contido."
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/alert/config.php:5
+msgid "Alert Box"
+msgstr "Cadro de alerta"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/alert/config.php:6
+msgid "This is a box that you can customize with an icon and a background"
+msgstr "Este é un cadro que se pode personalizar cunha icona e un fondo"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/alert/options.php:6
+msgid "This is the title of the box."
+msgstr "Este é o título da Ventá"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/alert/options.php:
+#: 14
+msgid "This is the content of the box."
+msgstr "Este é o contido da ventá"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/alert/options.php:
+#: 19
+msgid "The icon will be displayed in the background with a small opacity"
+msgstr "A icona aparecerá no fondo cunha pequena opacidade"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/alert/options.php:
+#: 25
+msgid ""
+"The background of the box, remember that the white color should come out."
+msgstr "O fondo da caixa, lembra que a cor branca debe saír."
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/members/options.
+#: php:8
+msgid "All Users"
+msgstr "Todos os usuarios"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/members/options.
+#: php:14
+msgid "Select members type"
+msgstr "Seleccionar Tipo de membros"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/members/config.
+#: php:9
+msgid "Display avatars of the members with link to their profiles."
+msgstr "Ver avatares dos membros con ligazón aos seus perfís."
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woffice_headlines/config.php:7
+msgid "Title with borders."
+msgstr "Título con Bordes"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woffice_headlines/options.php:9
+msgid "Write the heading title content."
+msgstr "Escribe o contido do encabezado do título"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woffice_headlines/options.php:13
+msgid "Heading Size"
+msgstr "Tamaño do Cabeceiro"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/full/config.php:5
+msgid "Full Width Text"
+msgstr "Texto de ancho completo"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/full/config.php:6
+msgid ""
+"Full width container, it is not in the white container and will use light "
+"colors as in the sidebar."
+msgstr ""
+"Contentor de ancho completo, non está en branco e empregará as cores claras "
+"como na barra lateral."
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/full/options.php:9
+msgid "This is the content of the container."
+msgstr "Este é o contido do recipiente."
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.
+#: php:14 ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:14
+msgid "Type :"
+msgstr "Tipo:"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/list/options.php:9
+msgid "List style"
+msgstr "Estilo de Lista"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/list/options.php:10
+msgid "This is the icon at the beginning."
+msgstr "Esta é a icona inicial"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/list/options.php:21
+msgid "List Items"
+msgstr "Lista de elementos"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/list/config.php:8
+msgid "List"
+msgstr "Listaxe"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/list/config.php:9
+msgid "Add a list with some icons"
+msgstr "Engadir lista con algunhas iconas"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:7
+msgid "Button Label"
+msgstr "Etiqueta do botón"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:8
+msgid "This is the text that appears on your button"
+msgstr "Este é o texto que aparece no teu botón"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:13
+msgid "Button Link"
+msgstr "Ligazón do botón"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:14
+msgid "Where should your button link to"
+msgstr "Con que debe ligar o teu botón?"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:20
+msgid "Open Link in New Window"
+msgstr "Abrir esta ligazón nunha nova xanela"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:21
+msgid "Select here if you want to open the linked page in a new window"
+msgstr "Seleccione aquí se desexas abrir a páxina vinculada nunha nova ventá"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:32
+msgid "Button icon"
+msgstr "Icona do Botón"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:33
+msgid "Choose an icon for your button just before the label"
+msgstr "Escoller unha icona para o botón xusto antes da etiqueta"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:38
+msgid "Button size"
+msgstr "Tamaño do botón"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:39
+msgid "Choose a size for your button"
+msgstr "Escoller un tamaño para o botón"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:43
+msgid "Small"
+msgstr "Pequeno"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:45
+msgid "Large"
+msgstr "Grande"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:49
+msgid "Button color"
+msgstr "Cor do botón"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:50
+msgid "Choose a color for your button background"
+msgstr "Escoller unha cor para o fondo do botón"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woffice_button/config.php:6
+msgid "Button"
+msgstr "Botón"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woffice_button/config.php:7
+msgid "A very awesome button"
+msgstr "Un botón impresionante"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:7
+#: ..
+#: framework-customizations/extensions/woffice-maintenance/settings-options.php:32
+msgid "Headline"
+msgstr "Cabeceiro"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:8
+msgid "This is the heading that appears above the carousel"
+msgstr "Este é o título que aparece enriba do carrusel"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:15
+msgid "You need to have installed before the Plugin Woocommerce."
+msgstr "Necesitas ter instalado antes o Plugin Woocommerce."
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:17
+msgid "Recent Products"
+msgstr "Produtos recentes"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:18
+msgid "Featured Products"
+msgstr "Produtos destacados"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:19
+msgid "Products"
+msgstr "Produtos"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:20
+msgid "Top Rated Products"
+msgstr "Produtos mellor valorados"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:21
+msgid "Releated Products"
+msgstr "Produtos relacionados"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:27
+msgid "Order by :"
+msgstr "Ordenar por:"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:29
+msgid "Menu Order"
+msgstr "Orde do Menú"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:31
+msgid "Date"
+msgstr "Data"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:32
+msgid "Rand"
+msgstr "Rand"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:39
+msgid "Order"
+msgstr "Orde"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:40
+msgid "This is the order of the products"
+msgstr "Esta é a orde dos produtos"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:43
+msgid "ASC"
+msgstr "ASC"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:47
+msgid "DESC"
+msgstr "DESC"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:58
+msgid "How many ?"
+msgstr "Cantos?"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:59
+msgid ""
+"How many products do you want to show, they'll be added in a 4 columns "
+"carousel."
+msgstr ""
+"Cantos produtos desexas amosar, engadíronse nun carrusel de 4 columnas."
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woocommerce/config.php:8
+msgid "Woocommerce"
+msgstr "WooCommerce"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/woocommerce/config.php:9
+msgid "Add a Woocommerce products"
+msgstr "Engadir a produtos Woocommerce"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/contactform7/config.php:8
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/contactform7/config.php:9
+msgid "Add a contact form7"
+msgstr "Engadir un contact form7"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/contactform7/options.php:14
+msgid "Choose a form :"
+msgstr "Escoller un formulario:"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/contactform7/options.php:15
+msgid "You need to have installed before the Plugin Contact Form 7."
+msgstr "Necesitas telo instalado antes que o Plugin Contact Form 7"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/contactform7/views/view.php:10
+msgid "Please select a form in the shortcode option."
+msgstr "Por favor, escolle un formulario na opción de shortcode."
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/config.
+#: php:8
+msgid "File Manager"
+msgstr "Administrador de arquivos"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/config.
+#: php:9
+msgid "Add a Multiverso file manager/file/all files/category..."
+msgstr ""
+"Engadir xestor de arquivos Multiverso / arquivo / todos os arquivos / "
+"categoría ..."
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/multiverso/options.php:24
+msgid "Content :"
+msgstr "Contido:"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/multiverso/options.php:25
+msgid "Choose here what you want to generate"
+msgstr "Escoller aquí o que queres xerar"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/multiverso/options.php:27
+msgid "All files"
+msgstr "Todos os Arquivos"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/multiverso/options.php:28
+msgid "Single File"
+msgstr "Un único Arquivo"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/multiverso/options.php:29
+msgid "Files Category"
+msgstr "Categoría de Arquivos"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/multiverso/options.php:30
+msgid "Files Manager"
+msgstr "Administrador de arquivos"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/multiverso/options.php:35
+msgid "Select File :"
+msgstr "Seleccionar Arquivo:"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/multiverso/options.php:36
+msgid "(If you have chosen -> Single file)"
+msgstr "(Se elixiches -> arquivo individual)"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/multiverso/options.php:41
+msgid "Select Category :"
+msgstr "Selecciona unha categoría:"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/multiverso/options.php:42
+msgid "(If you have chosen -> Files Category)"
+msgstr "(Se elixiches -> Categoría de Arquivos)"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/multiverso/views/view.php:19
+msgid "Please select a value in the shortcode option."
+msgstr "Por favor, escolle un formulario na opción de shortcode."
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/bigbluebutton/config.php:8
+msgid "BigBlueutton Meetings"
+msgstr "Reunións BigBlueutton"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/bigbluebutton/config.php:9
+msgid "Dropdown list to show all the meetings from your BigBluebutton account."
+msgstr ""
+"Listaxe despregábel para amosar todas as reunións desde a túa conta "
+"BigBlueButton."
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/bigbluebutton/views/view.php:11
+msgid "Sorry, you need to install this plugin first"
+msgstr "Vaia, cómpre instalar este plugin primeiro"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/eventon/options.
+#: php:7
+msgid "Unique ID :"
+msgstr "ID único"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/eventon/options.
+#: php:8
+msgid "Any number you like, just to difference them (example: 9999999)"
+msgstr "Calquera número que queiras para diferencialos ( ejemplo: 9999999 )"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/eventon/config.
+#: php:8
+msgid "EventOn Calendar"
+msgstr "Calendario de Eventos - EventOn"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/eventon/config.
+#: php:9
+msgid "Add a full month calendar from EventON events"
+msgstr "Engadir Calendario de Eventos de mes completo - EventOn"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/eventon/views/view.php:10
+msgid "Please select an unique ID in the shortcode option."
+msgstr "Por favor, escolle un ID único na opción de código."
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/eventon_form/config.php:8
+msgid "EventOn Calendar Form"
+msgstr "Formulario de Calendario de Eventos - EventOn"
+
+#: ../framework-
+#: customizations/extensions/shortcodes/shortcodes/eventon_form/config.php:9
+msgid "Add a form so user can create event"
+msgstr "Engadir formulario para que o usuario poida crear eventos"
+
+#: ../framework-customizations/extensions/woffice-projects/hooks.php:169
+msgid "The task has been deleted !"
+msgstr "Eliminouse a tarefa!"
+
+#: ../framework-customizations/extensions/woffice-projects/hooks.php:295
+msgid "The task has been added !"
+msgstr "A tarefa engadiuse!"
+
+#: ../framework-customizations/extensions/woffice-projects/manifest.php:7
+msgid "Woffice Projects"
+msgstr "Proxectos Woffice"
+
+#: ../framework-customizations/extensions/woffice-projects/manifest.php:8
+msgid "Enables the possibility to add a project management to your site."
+msgstr "Permite a posibilidade de engadir unha xestión de proxectos ao sitio."
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-
+#: woffice-projects.php:24 ../framework-customizations/extensions/woffice-
+#: projects/class-fw-extension-woffice-projects.php:26 ../framework-
+#: customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.
+#: php:28
+msgid "Project"
+msgstr "Proxecto"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-
+#: woffice-projects.php:29
+msgid "Edit Project"
+msgstr "Editar Proxecto"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-
+#: woffice-projects.php:30
+msgid "View Project"
+msgstr "Ver Proxecto"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-
+#: woffice-projects.php:31
+msgid "All Projects"
+msgstr "Todos os Proxectos"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-
+#: woffice-projects.php:32
+msgid "Search Project"
+msgstr "Buscar proxecto"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-
+#: woffice-projects.php:33
+msgid "No Project found."
+msgstr "Non se atopou Proxecto ningún."
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-
+#: woffice-projects.php:34
+msgid "No Project found in Trash."
+msgstr "Sen proxectos na papeleira."
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-
+#: woffice-projects.php:76
+msgid "Project Categories"
+msgstr "Categorías de proxecto"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-
+#: woffice-projects.php:77
+msgid "Project Category"
+msgstr "Categoría de proxecto"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-
+#: woffice-projects.php:78
+msgid "Search Project Categories"
+msgstr "Buscar categorías de proxecto"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-
+#: woffice-projects.php:79
+msgid "All Project Categories"
+msgstr "Todas as categorías de proxecto"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-
+#: woffice-projects.php:81
+msgid "Update Project Category"
+msgstr "Actualizar categoría de proxecto"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-
+#: woffice-projects.php:82
+msgid "Add New Project Category"
+msgstr "Engadir categoría de proxecto"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-
+#: woffice-projects.php:83
+msgid "New Project Category"
+msgstr "Nova categoría de proxecto"
+
+#: ../framework-customizations/extensions/woffice-projects/helpers.php:21 ..
+#: framework-customizations/extensions/woffice-projects/helpers.php:23
+msgid "Quick Edit"
+msgstr "Edición rápida"
+
+#: ../framework-customizations/extensions/woffice-projects/helpers.php:33
+msgid "Todo"
+msgstr "Parar facer"
+
+#: ../framework-customizations/extensions/woffice-projects/helpers.php:43
+msgid "Files"
+msgstr "Ficheiros"
+
+#: ../framework-customizations/extensions/woffice-projects/helpers.php:170
+msgid "Add a New Task"
+msgstr "Engadir nova tarefa"
+
+#: ../framework-customizations/extensions/woffice-projects/helpers.php:181
+msgid "Due date"
+msgstr "Data de vencemento"
+
+#: ../framework-customizations/extensions/woffice-projects/helpers.php:189
+msgid "Add a note"
+msgstr "Engadir nota"
+
+#: ../framework-customizations/extensions/woffice-projects/helpers.php:212
+msgid "Add Task"
+msgstr "Engadir tarefa"
+
+#: ../framework-customizations/extensions/woffice-projects/views/widget.php:23
+msgid "Sorry you don't have any project yet."
+msgstr "Vaia, non hai proxecto ningún aínda."
+
+#: ../framework-customizations/extensions/woffice-projects/includes/class-fw-
+#: widget-woffice-projects.php:15
+msgid "(Woffice) Projects"
+msgstr "(Woffice) Proxectos"
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.
+#: php:13
+msgid "Content Options"
+msgstr "Opcións de contido"
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.
+#: php:18
+msgid ""
+"Once enabled it'll redirects all the visitors/members to the maintenance "
+"page."
+msgstr ""
+"Unha vez habilitados, redirecciona todos os visitantes/membros á páxina de "
+"mantemento."
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.
+#: php:22
+msgid "On"
+msgstr "Acendido"
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.
+#: php:26
+msgid "Off"
+msgstr "Apagado"
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.
+#: php:33
+msgid "This is the headline displayed on the page."
+msgstr "Este é o titular que aparece na páxina."
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.
+#: php:39
+msgid "Below the headline"
+msgstr "Debaixo do cabezallo"
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.
+#: php:53
+msgid "Style"
+msgstr "Estilo"
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.
+#: php:56
+msgid "Background Options"
+msgstr "Opcións de Fondo"
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.
+#: php:63
+msgid "This is the text color over the image."
+msgstr "Esta é a cor do texto sobre a imaxe."
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.
+#: php:85
+msgid ""
+"This is the opacity of the layer with the color over the background image."
+msgstr "Esta é a opacidade da capa coa cor sobre a imaxe de fondo."
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.
+#: php:92
+msgid "This is an extra icon so it looks better."
+msgstr "Trátase dunha icona extra, polo que se ve mellor."
+
+#: ../framework-customizations/extensions/woffice-maintenance/manifest.php:7
+msgid "Woffice Maintenance"
+msgstr "Woffice mantemento"
+
+#: ../framework-customizations/extensions/woffice-maintenance/manifest.php:8
+msgid ""
+"Enables the possibility to add a Coming Soon & Maintenance feature in "
+"Woffice. (See documentation for detailed informations)."
+msgstr ""
+"Permite a posibilidade de engadir unha función Coming Soon & Maintenance en "
+"Woffice. (Ver documentación para obter información detallada)."
+
+#: ../framework-customizations/extensions/woffice-updater/settings-options.php:13
+msgid "Updater Settings"
+msgstr "Axustes do actualizador"
+
+#: ../framework-customizations/extensions/woffice-updater/settings-options.php:16
+msgid "Envato Username"
+msgstr "Nome de usuario de Envato"
+
+#: ../framework-customizations/extensions/woffice-updater/settings-options.php:18
+msgid "Your Envato (Themeforest) Username goes here. "
+msgstr "Aquí vai o teu nome de usuario de Envato (Themeforest)."
+
+#: ../framework-customizations/extensions/woffice-updater/settings-options.php:21
+msgid "Woffice Purchase code"
+msgstr "Código de compra de Woffice"
+
+#: ../framework-customizations/extensions/woffice-updater/settings-options.php:23
+msgid ""
+"The Purchase code of this license. You can find it in the Themeforest's "
+"download page (it's a large number)."
+msgstr ""
+"O código de compra desta licenza . Pódelo atopar na páxina de descargas de "
+"ThemeForest (un gran número)."
+
+#: ../framework-customizations/extensions/woffice-updater/settings-options.php:26
+msgid "Purchase code status"
+msgstr "Estado do código de compra"
+
+#: ../framework-customizations/extensions/woffice-updater/manifest.php:7
+msgid "Woffice Updater"
+msgstr "Actualizador de Woffice"
+
+#: ../framework-customizations/extensions/woffice-updater/manifest.php:8
+msgid ""
+"Auto Update your theme with the latest release, just by entering your "
+"purchase code."
+msgstr ""
+"Autoactualiza o tema coa última versión, simplemente introducindo o código "
+"de compra"
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:14
+msgid "Google Login"
+msgstr "Google Login"
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:22
+#: .
+#: framework-customizations/extensions/woffice-glogin/settings-options.php:67
+msgid "Your callback URL :"
+msgstr "URL de callback:"
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:27
+msgid "Project name"
+msgstr "Nome do proxecto:"
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:29
+msgid ""
+"When you have enabled the Google+ API in the Google API page, you have "
+"created a project. Please copy/past its name here."
+msgstr ""
+"Cando actives a API de Google + na páxina do API, crearás un proxecto. Por "
+"favor, copia/pega o teu nome aquí."
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:32
+msgid "Client ID"
+msgstr "ID de Cliente"
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:34
+msgid "Your Google API client ID for this project (see Credentials page)."
+msgstr ""
+"O teu ID de cliente da API de Google para este proxecto (ver credenciais de "
+"páxina)."
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:37
+msgid "Client Secret"
+msgstr "Clave secreta"
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:39
+msgid ""
+"Your Google API Secret key for this project (downloaded in a JSON file)."
+msgstr ""
+"A túa clave secreta de API de Google para este proxecto (descargada nun "
+"arquivo JSON)."
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:42
+#: .
+#: framework-customizations/extensions/woffice-glogin/settings-options.php:73
+msgid "Show the button ?"
+msgstr "Amosar o botón?"
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:53
+msgid ""
+"Do you want to show it on the login page, you can hide if you only want to "
+"use Facebook one."
+msgstr ""
+"Desexa amosar na páxina de inicio de sesión, pódese ocultar se só desexas "
+"usar o de Facebook."
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:59
+msgid "Facebook Sign In (Register)"
+msgstr "Iniciar sesión con Facebook (Rexistrarse)"
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:70
+msgid ""
+"If it is on OFF, please be sure to have installed and activated the plugin : "
+"Nextend Facebook Connect."
+msgstr ""
+"Se está en OFF, por favor asegúrate de ter instalado e activado o plugin: "
+"Nextend Facebook Connect."
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:84
+msgid ""
+"Do you want to show it on the login page, you can hide if you only want to "
+"use Google one, if the plugin is not installed it will be hide by default."
+msgstr ""
+"Desexas amosar na páxina de inicio de sesión, podes ocultalo se só desexas "
+"usar Google, se o plugin non está instalado será ocultado por defecto."
+
+#: ../framework-customizations/extensions/woffice-glogin/helpers.php:26
+msgid "Login With Google"
+msgstr "Iniciar sesión con Google"
+
+#: ../framework-customizations/extensions/woffice-glogin/helpers.php:32
+msgid "Sign In With Facebook"
+msgstr "Iniciar sesión con Facebook"
+
+#: ../framework-customizations/extensions/woffice-glogin/helpers.php:37
+msgid "or"
+msgstr "ou"
+
+#: ../framework-customizations/extensions/woffice-glogin/manifest.php:7
+msgid "Woffice Social Login"
+msgstr "Inicio de sesión de Woffice Social"
+
+#: ../framework-customizations/extensions/woffice-glogin/manifest.php:8
+msgid ""
+"Enables the possibility to login with your Google & Facebook Account. (See "
+"documentation for detailed informations)."
+msgstr ""
+"Permite a posibilidade de iniciar sesión coa conta de Google e Facebook. "
+"(Ver documentación para obter información detallada)."
+
+#: ../framework-customizations/extensions/woffice-map/settings-options.php:12
+#: ..
+#: framework-customizations/extensions/woffice-map/includes/class-fw-widget-
+#: woffice-map.php:47
+msgid "Users Map"
+msgstr "Mapa de Usuarios"
+
+#: ../framework-customizations/extensions/woffice-map/settings-options.php:15
+msgid "Google API Public Key"
+msgstr "Clave Pública de Google API"
+
+#: ../framework-customizations/extensions/woffice-map/settings-options.php:18
+msgid ""
+"We are using the GeoCoding Google API to get coordinates from users "
+"locations. By default it is working with our API key but as there are many "
+"Woffice around, the Quota (2500 requests per day) may be reached really "
+"quickly so the map will no longer be available. That is why it is important "
+"to use you own Google API key. Please see : "
+msgstr ""
+"Estamos empregando a API GeoCoding Google para obter coordenadas de "
+"situación dos usuarios. Por defecto estase traballando coa chave da API, "
+"pero xa que hai moitos Woffice, la Cota (2500 solicitudes por día) pódese "
+"acadar axiña, polo que o mapa xa non estará dispoñíbel. É por iso que é "
+"importante empregar unha clave API de Google propia. Por favor, mira :"
+
+#: ../framework-customizations/extensions/woffice-map/settings-options.php:21
+msgid "Google API Status"
+msgstr "Estado da API de Google"
+
+#: ../framework-customizations/extensions/woffice-map/settings-options.php:33
+#: ..
+#: framework-customizations/extensions/woffice-directory/settings-options.php:30
+msgid "Zoom level"
+msgstr "Nivel de zoom"
+
+#: ../framework-customizations/extensions/woffice-map/settings-options.php:34
+msgid "Just the level of zooming in the map."
+msgstr "Simplemente o nivel de zoom no mapa."
+
+#: ../framework-customizations/extensions/woffice-map/settings-options.php:45
+msgid "This is the center of the map."
+msgstr "Este é o centro do mapa."
+
+#: ../framework-customizations/extensions/woffice-map/manifest.php:7
+msgid "Woffice Members Map"
+msgstr "Mapa de Membros de Woffice"
+
+#: ../framework-customizations/extensions/woffice-map/manifest.php:8
+msgid ""
+"Enables the possibility to add a map of Buddypress members in Woffice. (See "
+"documentation for detailed informations)."
+msgstr ""
+"Permite a posibilidade de engadir un mapa dos membros BuddyPress en Woffice. "
+"(Consulta a documentación para obter información detallada)."
+
+#: ../framework-customizations/extensions/woffice-map/includes/class-fw-widget-
+#: woffice-map.php:15
+msgid "(Woffice) Users Map"
+msgstr "(Woffice) Mapa de usuarios"
+
+#: ../framework-customizations/extensions/woffice-map/views/view.php:19
+msgid "Members around the world"
+msgstr "Membros en todo o Mundo"
+
+#: ../framework-customizations/extensions/woffice-map/views/view.php:26
+msgid ""
+"Sorry there is no users locations so we can not display the map. As it is "
+"empty."
+msgstr "Non hai situacións de usuario, polo que non se pode amosar o mapa."
+
+#: ../framework-customizations/extensions/woffice-funfacts/manifest.php:7
+msgid "Woffice FunFacts"
+msgstr "Woffice FunFacts"
+
+#: ../framework-customizations/extensions/woffice-funfacts/manifest.php:8
+msgid ""
+"Enables the possibility to add a funfacts widget in Woffice. (See "
+"documentation for detailed informations)."
+msgstr ""
+"Permite a posibilidade de engadir un widget funfacts en Woffice. (Consulta a "
+"documentación para obter información detallada)."
+
+#: ../framework-customizations/extensions/woffice-funfacts/settings-options.php:
+#: 10
+#: ../framework-customizations/extensions/woffice-funfacts/includes/class-fw-
+#: widget-woffice-funfacts.php:43
+msgid "Fun Facts"
+msgstr "Fun Facts"
+
+#: ../framework-customizations/extensions/woffice-funfacts/includes/class-fw-
+#: widget-woffice-funfacts.php:15
+msgid "(Woffice) Fun Facts"
+msgstr "(Woffice) Fun Facts"
+
+#: ../framework-customizations/extensions/woffice-directory/settings-options.php:13
+msgid "Main Options"
+msgstr "Opcións principais"
+
+#: ../framework-customizations/extensions/woffice-directory/settings-options.php:18
+msgid "Directory item name"
+msgstr "Nome do artigo do directorio"
+
+#: ../framework-customizations/extensions/woffice-directory/settings-options.php:19
+msgid ""
+"This is the name in the Wordpress menus, like Job, Partners, Corporates..."
+msgstr ""
+"Este é o nome no menú de Wordpress, como traballo, socios, sociedades..."
+
+#: ../framework-customizations/extensions/woffice-directory/settings-options.php:31
+msgid "Just the level of zooming in the map (Main directory page)."
+msgstr "Simplemente o nivel de zoom no mapa (páxina de directorio principal)."
+
+#: ../framework-customizations/extensions/woffice-directory/settings-options.php:42
+msgid "This is the center of the map (Main directory page)."
+msgstr "Este é o centro do mapa (páxina de directorio principal)."
+
+#: ../framework-customizations/extensions/woffice-directory/settings-options.php:46
+msgid "Default fields"
+msgstr "Campos por defecto"
+
+#: ../framework-customizations/extensions/woffice-directory/settings-options.php:47
+msgid ""
+"This is the default fields displayed on all the directory single page, if it "
+"is empty you'll be able to choose different fields for every item."
+msgstr ""
+"Trátase dos campos predeterminados que aparecen en todo directorio de "
+"páxina; se está baleiro poderás escoller diferentes campos para cada artigo."
+
+#: ../framework-customizations/extensions/woffice-directory/settings-options.php:51
+msgid "Default value"
+msgstr "Valor por defecto"
+
+#: ../framework-customizations/extensions/woffice-directory/manifest.php:7
+msgid "Woffice Directory"
+msgstr "Directorio de Woffice"
+
+#: ../framework-customizations/extensions/woffice-directory/manifest.php:8
+msgid ""
+"Enables the possibility to add a complete directory page to your site for "
+"Jobs, Partners..."
+msgstr ""
+"Permite a posibilidade de engadir unha páxina de directorio completo no "
+"sitio para postos de traballo, socios..."
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-
+#: woffice-directory.php:36
+msgid "Item"
+msgstr "Ítem"
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-
+#: woffice-directory.php:39
+msgid "Edit Item"
+msgstr "Editar Ítem"
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-
+#: woffice-directory.php:40
+#, php-format
+msgid "View %s"
+msgstr "Ver %s"
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-
+#: woffice-directory.php:41
+#, php-format
+msgid "All %s"
+msgstr "Todos os %s"
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-
+#: woffice-directory.php:42
+#, php-format
+msgid "Search %s"
+msgstr "Buscar %s"
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-
+#: woffice-directory.php:43
+#, php-format
+msgid "No %s found"
+msgstr "Non se atopou %s"
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-
+#: woffice-directory.php:44
+#, php-format
+msgid "No %s found in the trash"
+msgstr "Non se atopou %s na Papeleira"
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-
+#: woffice-directory.php:86
+msgid "Directory Categories"
+msgstr "Categorías de directorio"
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-
+#: woffice-directory.php:87
+msgid "Directory Category"
+msgstr "Categoría do directorio"
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-
+#: woffice-directory.php:88
+msgid "Search Directory Categories"
+msgstr "Buscar categorías de directorio"
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-
+#: woffice-directory.php:89
+msgid "All Directory Categories"
+msgstr "Todas as categorías do directorio"
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-
+#: woffice-directory.php:90
+msgid "Edit Directory"
+msgstr "Editar directorio"
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-
+#: woffice-directory.php:91
+msgid "Update Directory Category"
+msgstr "Actualizar a categoría do directorio"
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-
+#: woffice-directory.php:92
+msgid "Add New Directory Category"
+msgstr "Engadir categoría de directorio"
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-
+#: woffice-directory.php:93
+msgid "New Directory Category"
+msgstr "Nova categoría de directorio"
+
+#: ../framework-customizations/extensions/woffice-birthdays/class-fw-extension-
+#: woffice-birthdays.php:188
+msgid "Birthdays"
+msgstr "Aniversario"
+
+#: ../framework-customizations/extensions/woffice-birthdays/class-fw-extension-
+#: woffice-birthdays.php:191
+msgid "Birthday"
+msgstr "Aniversario"
+
+#: ../framework-customizations/extensions/woffice-birthdays/class-fw-extension-
+#: woffice-birthdays.php:194
+msgid "Happy"
+msgstr "Feliz"
+
+#: ../framework-customizations/extensions/woffice-birthdays/class-fw-extension-
+#: woffice-birthdays.php:197
+msgid "Next Birthday"
+msgstr "Próximo aniversario"
+
+#: ../framework-customizations/extensions/woffice-birthdays/class-fw-extension-
+#: woffice-birthdays.php:202
+msgid "Sorry no birthdays set..."
+msgstr "Vaia, non hai aniversarios establecidos..."
+
+#: ../framework-customizations/extensions/woffice-birthdays/class-fw-extension-
+#: woffice-birthdays.php:232
+msgid " years old"
+msgstr "anos"
+
+#: ../framework-customizations/extensions/woffice-birthdays/manifest.php:7
+msgid "Woffice Birthdays"
+msgstr "Aniversarios de Woffice"
+
+#: ../framework-customizations/extensions/woffice-birthdays/manifest.php:8
+msgid ""
+"Enables the possibility to add a birthdays widget in Woffice. (See "
+"documentation for detailed informations)."
+msgstr ""
+"Permite a posibilidade de engadir un widget de aniversario en Woffice. (Ver "
+"documentación para obter información detallada)."
+
+#: ../framework-customizations/extensions/woffice-birthdays/settings-options.php:13
+msgid "Birthdays Extension"
+msgstr "Extensión de aniversarios"
+
+#: ../framework-customizations/extensions/woffice-birthdays/settings-options.php:16
+msgid "Wigdet Options"
+msgstr "Opcións de widget"
+
+#: ../framework-customizations/extensions/woffice-birthdays/settings-options.php:21
+msgid "Show the age of the person"
+msgstr "Amosar a idade da persoa"
+
+#: ../framework-customizations/extensions/woffice-birthdays/settings-options.php:22
+msgid "In the widget beside the name"
+msgstr "No widget ao lado do nome"
+
+#: ../framework-customizations/extensions/woffice-birthdays/hooks.php:26
+msgid ""
+"We will only use it for the Birthday widget, so we can celebrate everyone\\s "
+"birthday."
+msgstr ""
+"Só o empregaremos para o widget de aniversario, polo que podemos celebrar o "
+"de todos."
+
+#: ../framework-customizations/extensions/woffice-birthdays/includes/class-fw-
+#: widget-woffice-birthdays.php:15
+msgid "(Woffice) Birthdays"
+msgstr "(Woffice) Aniversario"
+
+#: ../page-templates/wiki.php:150
+msgid "New Wiki Article"
+msgstr "Novo artigo de Wiki"
+
+#: ../page-templates/projects.php:90
+msgid "See Project"
+msgstr "Ver Proxecto"
+
+#: ../page-templates/projects.php:109
+msgid "Create a project"
+msgstr "Crear un proxecto novo"
+
+#: ../page-templates/login.php:54 ../page-templates/login.php:59 ../page-
+#: templates/login.php:64
+msgid "ERROR:"
+msgstr "ERRO:"
+
+#: ../page-templates/login.php:55
+msgid "Invalid username and/or password."
+msgstr "Nome de usuario ou contrasinal non válido"
+
+#: ../page-templates/login.php:60
+msgid "Username and/or Password is empty."
+msgstr "Nome de usuario e/ou campo de contrasinal baleiro"
+
+#: ../page-templates/login.php:65
+msgid "You are logged out."
+msgstr "Estás desconectado."
+
+#: ../page-templates/login.php:95
+msgid "Lost Password"
+msgstr "Esqueciches o contrasinal?"
+
+#: ../page-templates/login.php:104
+msgid "Sign Up"
+msgstr "Inscríbete"
+
+#: ../page-templates/login.php:108
+msgid "Go back"
+msgstr "Volver"
+
+#: ../page-templates/login.php:120
+msgid "Proudly powered by"
+msgstr "Coa tecnoloxía de"
+
+#: ../bbpress/loop-replies.php:18 ../bbpress/loop-replies.php:70
+msgid "Author"
+msgstr "Autor"
+
+#: ../bbpress/loop-replies.php:42 ../bbpress/loop-replies.php:80
+msgid "Replies"
+msgstr "Respostas"
+
+#: ../bbpress/loop-single-reply.php:21
+msgid "in reply to: "
+msgstr "en resposta a:"
+
+#: ../bbpress/loop-single-topic.php:60
+#, php-format
+msgid "Started by: %1$s"
+msgstr "Iniciado por: %1$s"
+
+#: ../bbpress/loop-single-topic.php:68
+#, php-format
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr "en: <a href=“%1$s”>%2$s</a>"
+
+#: ../bbpress/loop-topics.php:19
+msgid "Topic"
+msgstr "Tema"
+
+#: ../bbpress/form-topic.php:41
+#, php-format
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr "Agora Editando &ldquo;%s&rdquo;"
+
+#: ../bbpress/form-topic.php:43
+#, php-format
+msgid "Create New Topic in &ldquo;%s&rdquo;"
+msgstr "Crear un Tema Novo en &ldquo;%s&rdquo;"
+
+#: ../bbpress/form-topic.php:43
+msgid "Create New Topic"
+msgstr "Crear Tema Novo"
+
+#: ../bbpress/form-topic.php:53
+msgid ""
+"This forum is marked as closed to new topics, however your posting "
+"capabilities still allow you to do so."
+msgstr ""
+"Este foro marcouse como pechado para temas novos, pero os teus permisos de "
+"publicación aínda che permiten facelo."
+
+#: ../bbpress/form-topic.php:61
+msgid "Your account has the ability to post unrestricted HTML content."
+msgstr ""
+"A túa conta está habilitada para publicar contido HTML sen restricións."
+
+#: ../bbpress/form-topic.php:75
+#, php-format
+msgid "Topic Title (Maximum Length: %d):"
+msgstr "Título do Tema (Lonxitude máxima: %d):"
+
+#: ../bbpress/form-topic.php:90
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes:"
+msgstr ""
+"Podes usar as seguintes <abbr title=\"HyperText Markup Language\">etiquetas "
+"e atributos HTML</abbr>:"
+
+#: ../bbpress/form-topic.php:101
+msgid "Topic Tags:"
+msgstr "Etiquetas do Tema:"
+
+#: ../bbpress/form-topic.php:114
+msgid "Forum:"
+msgstr "Foro:"
+
+#: ../bbpress/form-topic.php:117
+msgid "(No Forum)"
+msgstr "(Non hai Foros)"
+
+#: ../bbpress/form-topic.php:133
+msgid "Topic Type:"
+msgstr "Tipo de Tema:"
+
+#: ../bbpress/form-topic.php:145
+msgid "Topic Status:"
+msgstr "Estado do Tema:"
+
+#: ../bbpress/form-topic.php:164
+msgid "Notify the author of follow-up replies via email"
+msgstr "Notificar ao autor o seguimento das respostas por correo"
+
+#: ../bbpress/form-topic.php:168
+msgid "Notify me of follow-up replies via email"
+msgstr "Notificarme o seguimento das respostas por correo"
+
+#: ../bbpress/form-topic.php:184
+msgid "Keep a log of this edit:"
+msgstr "Gardar un rexistro desta edición:"
+
+#: ../bbpress/form-topic.php:188
+msgid "Optional reason for editing:"
+msgstr "Motivo opcional da edición:"
+
+#: ../bbpress/form-topic.php:203
+msgid "Submit"
+msgstr "Enviar"
+
+#: ../bbpress/form-topic.php:226
+#, php-format
+msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+msgstr "O foro &#8216;%s&#8217; está pechado a temas novos e respostas."
+
+#: ../bbpress/form-topic.php:234
+msgid "You cannot create new topics."
+msgstr "Non podes crear temas nuevos."
+
+#: ../bbpress/form-topic.php:234
+msgid "You must be logged in to create new topics."
+msgstr "Debes estar autenticado para crear temas novos."
+
+#: ../woocommerce/single-product/up-sells.php:44
+msgid "You may also like&hellip;"
+msgstr "Podes estar interesado in&hellip;"
+
+#: ../woocommerce/single-product/related.php:43
+msgid "Related Products"
+msgstr "Produtos Relacionados"
+
+#: ../woocommerce/cart/cross-sells.php:41
+msgid "You may be interested in&hellip;"
+msgstr "Podes estar interesado in&hellip;"
+
+#: ../woocommerce/cart/cart-totals.php:20
+msgid "Cart Totals"
+msgstr "Total do Carro"
+
+#: ../woocommerce/cart/cart-totals.php:26
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: ../woocommerce/cart/cart-totals.php:48
+msgid "Shipping"
+msgstr "Envío"
+
+#: ../woocommerce/cart/cart-totals.php:80
+msgid "Total"
+msgstr "Total"
+
+#: ../woocommerce/cart/cart-totals.php:92
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr "(impostos estimados para %s)"
+
+#: ../woocommerce/cart/cart-totals.php:95
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+"Nota: Os gastos de envío e impostos son estimados%s e actualizaranse durante "
+"a compra segundo o enderezo e o envío."

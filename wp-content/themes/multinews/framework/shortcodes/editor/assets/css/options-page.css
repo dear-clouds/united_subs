@@ -1,0 +1,264 @@
+.mom-su-clear {
+	height: 0;
+	clear: both;
+}
+.mom-su-clearfix:before,
+.mom-su-clearfix:after {
+	display: table;
+	content: " ";
+}
+.mom-su-clearfix:after { clear: both; }
+
+.mom-su-ajax {
+	min-height: 60px;
+	background-image: url("../images/loading.gif") !important;
+	background-position: 50% 50% !important;
+	background-repeat: no-repeat !important;
+}
+.mom-su-ajax * { visibility: hidden; }
+
+/* About screen */
+#mom-su-about-screen { }
+#mom-su-about-screen h1 { margin: 1.5em 0; }
+#mom-su-about-screen h1 small {
+	display: block;
+	margin: 7px 0 0 20px;
+	color: #aaa;
+	font-weight: normal;
+	font-size: 0.5em;
+}
+#mom-su-about-screen .mom-su-about-column {
+	width: 400px;
+	margin-bottom: 1em;
+	float: left;
+}
+#mom-su-links {
+	margin-bottom: 1.5em;
+	line-height: 1.6;
+}
+#mom-su-links span {
+	display: inline-block;
+	width: 1px;
+	height: 1em;
+	margin: 0 0.5em;
+	border-right: 1px dotted #777;
+	vertical-align: middle;
+}
+#mom-su-video {
+	width: 100%;
+	min-width: 200px;
+	max-width: 630px;
+	margin-top: 40px;
+}
+#mom-su-video iframe {
+	width: 100%;
+	height: 370px;
+}
+
+/* Custom CSS screen */
+#mom-su-custom-css-screen { }
+#mom-su-custom-css-screen textarea {
+	width: 100%;
+	border: 1px solid #ccc;
+}
+
+.mom-su-custom-css-originals,
+.mom-su-custom-css-vars {
+	margin: 1.5em 0;
+	line-height: 1.8;
+}
+.mom-su-custom-css-originals span {
+	display: inline-block;
+	width: 1px;
+	height: 1em;
+	margin: 0 0.5em;
+	border-right: 1px dotted #777;
+	vertical-align: middle;
+}
+
+body.toplevel_page_mom-shortcodes-ultimate .mfp-iframe-scaler iframe { background: #fff; }
+
+.js #sunrise-field-custom-css-editor { height: 300px; }
+#sunrise-field-custom-css-editor .ace_scrollbar { overflow-y: auto !important; }
+
+/* Add-ons screen */
+#mom-su-addons-screen { margin: 40px 20px; }
+#mom-su-addons-screen h2 {
+	margin: 0 0 1.2em 0;
+	padding: 0 0 0.8em 0;
+	border-bottom: 1px solid #ddd;
+	color: #666;
+	font-weight: normal;
+	font-size: 2em;
+}
+.mom-su-addons-loop { margin-bottom: 40px; }
+.mom-su-addons-item {
+	position: relative;
+	width: 220px;
+	margin: 0 20px 20px 0;
+	float: left;
+	border: 1px solid #ccc;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	background: #fafafa;
+	-webkit-box-shadow: 0 2px 4px #ddd;
+	-moz-box-shadow: 0 2px 4px #ddd;
+	box-shadow: 0 2px 4px #ddd;
+	cursor: pointer;
+	-webkit-transition: all .2s;
+	-moz-transition: all .2s;
+	transition: all .2s;
+}
+.mom-su-addons-item:hover {
+	top: -5px;
+	border-color: #26779C;
+	background: #fff;
+	-webkit-box-shadow: 0 4px 9px #ccc;
+	-moz-box-shadow: 0 4px 9px #ccc;
+	box-shadow: 0 4px 9px #ccc;
+}
+.mom-su-addons-item img {
+	display: block;
+	width: 100%;
+	height: 140px;
+	margin: 0;
+	padding: 0;
+	border: none;
+	border-bottom: 7px solid #ddd;
+	-webkit-border-top-left-radius: 3px;
+	-moz-border-radius-topleft: 3px;
+	border-top-left-radius: 3px;
+	-webkit-border-top-right-radius: 3px;
+	-moz-border-radius-topright: 3px;
+	border-top-right-radius: 3px;
+	background: #eee;
+}
+.mom-su-addons-item-content { padding: 15px; }
+.mom-su-addons-item-content h4 {
+	height: 16px;
+	margin: 0 0 15px 0;
+	overflow: hidden;
+	color: #000;
+	font-weight: bold;
+	font-size: 14px;
+}
+.mom-su-addons-item-content p {
+	height: 90px;
+	margin: 15px 0;
+	overflow: hidden;
+	color: #555;
+	font-size: 12px;
+	line-height: 1.5;
+}
+.mom-su-addons-item-button {
+	margin-top: 30px;
+	text-align: right;
+}
+
+/* Examples screen */
+#mom-su-examples-screen { margin: 40px 20px; }
+#mom-su-examples-screen h2 {
+	margin: 0 0 1.2em 0;
+	padding: 0 0 0.8em 0;
+	border-bottom: 1px solid #ddd;
+	color: #666;
+	font-weight: normal;
+	font-size: 2em;
+}
+.mom-su-examples-group { margin-bottom: 40px; }
+.mom-su-examples-item {
+	position: relative;
+	height: 15px;
+	max-width: 700px;
+	margin: 0 0 10px 0;
+	padding: 15px 20px 15px 65px;
+	overflow: hidden;
+	border: 1px solid #ddd;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	background: #f8f8f8;
+	color: #444;
+	font-size: 13px;
+	line-height: 15px;
+	cursor: pointer;
+}
+.mom-su-examples-item:hover {
+	border-color: #53ACD5;
+	background: #fff;
+	color: #26779C;
+}
+.mom-su-examples-item i {
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: block;
+	width: 45px;
+	height: 45px;
+	-webkit-border-top-left-radius: 3px;
+	-moz-border-radius-topleft: 3px;
+	border-top-left-radius: 3px;
+	-webkit-border-bottom-left-radius: 3px;
+	-moz-border-radius-bottomleft: 3px;
+	border-bottom-left-radius: 3px;
+	background: #eee;
+	text-align: center;
+	font-size: 17px;
+	line-height: 45px;
+	-webkit-transition: all .2s;
+	-moz-transition: all .2s;
+	transition: all .2s;
+}
+.mom-su-examples-item:hover i { font-size: 25px; }
+#mom-su-examples-window {
+	position: relative;
+	width: 85%;
+	min-height: 60px;
+	max-width: 700px;
+	margin: 28px auto 100px;
+	padding: 20px;
+	-webkit-border-bottom-right-radius: 5px;
+	-moz-border-radius-bottomright: 5px;
+	border-bottom-right-radius: 5px;
+	-webkit-border-bottom-left-radius: 5px;
+	-moz-border-radius-bottomleft: 5px;
+	border-bottom-left-radius: 5px;
+	background: #fff;
+	-webkit-box-shadow: 0 2px 25px #000;
+	-moz-box-shadow: 0 2px 25px #000;
+	box-shadow: 0 2px 25px #000;
+	-webkit-transition: max-width .2s;
+	-moz-transition: max-width .2s;
+	transition: max-width .2s;
+}
+.mom-su-examples-error {
+	width: 100%;
+	height: 40px;
+	color: #f03;
+	text-align: center;
+	line-height: 40px;
+}
+#mom-su-examples-window h2 {
+	margin: 30px 0 20px;
+	border-bottom: 1px solid #ddd;
+	padding: 0 0 10px 0;
+	font-size: 1.2em;
+	color: #555;
+}
+.mom-su-examples-code {
+	margin: 20px 0;
+}
+.mom-su-examples-code textarea {
+	display: none;
+	width: 99%;
+	background: #FFFFE0;
+	font-family: Monaco, Consolas, monospace;
+}
+
+body.mom-su-mfp-shown .mfp-bg { z-index: 10000 !important; }
+body.mom-su-mfp-shown .mfp-wrap { z-index: 10001 !important; }
+body.mom-su-mfp-shown .mfp-preloader { z-index: 10002 !important; }
+body.mom-su-mfp-shown .mfp-content { z-index: 10003 !important; }
+body.mom-su-mfp-shown button.mfp-close,
+body.mom-su-mfp-shown button.mfp-arrow { z-index: 10004 !important; }

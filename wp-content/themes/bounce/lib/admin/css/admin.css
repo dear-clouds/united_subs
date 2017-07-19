@@ -1,0 +1,259 @@
+/*************************** Theme Options ***************************/
+
+/* Wrapper */
+.appearance_page_theme-options #gp-theme-options.wrap {
+position: relative;
+width: 791px;
+}
+
+/* Buttons */
+#gp-theme-options .submit {
+width: 100%;
+margin: 15px 0;
+padding: 0;
+float: left;
+clear: both;
+}
+
+/* Tabs */
+#gp-theme-options .tabs {
+float: left;
+position: relative;
+z-index: 1;
+margin: 0;
+width: 200px;
+border-top: 1px solid #c0c0c0;
+}
+#gp-theme-options .tabs a {
+display: block;
+padding:10px 15px;
+margin: 0;
+text-decoration:none !important;
+font-size:12px;
+color: #000000;
+font-weight: normal;
+background: #f1f1f1;
+color: #404040;
+border-left: 1px solid #c0c0c0;
+border-right: 1px solid #c0c0c0;
+border-bottom: 1px solid #c0c0c0;
+cursor: pointer;
+}
+#gp-theme-options .tabs a:hover {
+background-color:#ffffff;
+}
+#gp-theme-options .tabs .tab-active {
+background: #ffffff;
+color: #000000;
+border-right: 0px solid #ffffff;
+font-weight: bold;
+}
+
+/* Panels */
+#gp-theme-options #panels {
+float: left;
+position: relative;
+}
+#gp-theme-options .panel {
+float: left;
+position: relative;
+z-index: 0;
+width: 550px;
+min-height: 700px;
+padding: 10px 20px 10px 20px;
+background: #ffffff;
+margin-left: -1px;
+border: 1px solid #c0c0c0;
+}
+
+/* Header */
+#gp-theme-options .option-header {
+margin-bottom: 30px;
+}
+#gp-theme-options .option-header h2 {
+margin-bottom: 10px;
+padding-bottom: 0;
+}
+#gp-theme-options .option-header .option-desc {
+font-size: 12px;
+line-height: 19px;
+}
+
+/* General Option Styling */
+#gp-theme-options .panel h3 {
+font-size: 14px;
+margin: 0 0 5px 0;
+padding: 0;
+}
+#gp-theme-options .option {
+clear: both;
+margin: 0 0 20px 0;
+}
+#gp-theme-options .option-desc {
+font-size: 12px;
+color: #808080;
+margin-top: 4px;
+}
+
+/* Textarea */
+#gp-theme-options .option textarea {
+width: 100%;
+}
+
+/* Checkbox */
+#gp-theme-options .multi-checkbox h3 {
+margin-bottom: 15px;
+}
+#gp-theme-options input[type="checkbox"] {
+float: left;
+margin: 2px 5px 0 0;
+}
+#gp-theme-options .multi-checkbox .option-desc {
+color: #808080;
+float: left;
+width: 410px;
+font-size: 16px;
+margin-top: 0;
+padding: 0 0 10px 10px;
+}
+
+/* Radio Buttons */
+#gp-theme-options .radio-buttons input[type="radio"] {
+float: left;
+margin-top: 0;
+}
+#gp-theme-options .radio-buttons label {
+float: left;
+display: block;
+margin: -1px 15px 0 5px;
+}
+
+/* Color Picker */
+#gp-theme-options .meta-box .wp-color-result {
+margin: 5px 0 1px 0;
+}
+#gp-theme-options .meta-box input[type="text"].wp-color-picker {
+width: 30%;
+}
+
+
+/*************************** Theme Meta Options ***************************/
+
+/* Meta Settings */
+#gp-theme-options .meta-settings {
+font-size: 12px;
+width: 100%;
+}
+#gp-theme-options .meta-settings h4 {
+float: left;
+font-size: 13px;
+margin: 10px 0 20px 0;
+}
+#gp-theme-options .meta-settings-desc {
+font-size: 12px;
+line-height: 19px;
+color: #808080;
+line-height: 16px;
+margin: -15px 0 20px 0;
+}
+
+/* Meta Box */
+#gp-theme-options .meta-box {
+float: left;
+width: 23%;
+padding-right: 1%;
+}
+#gp-theme-options .meta-box strong {
+padding-bottom: 5px;
+}
+#gp-theme-options .meta-box-desc {
+font-size: 11px;
+line-height: 16px;
+padding-top: 5px;
+color: #808080;
+}
+#gp-theme-options .meta-box input[type="text"],
+#gp-theme-options .meta-box select,
+#gp-theme-options .meta-box textarea {
+margin-top: 5px;
+width: 90%;
+}
+#gp-theme-options .meta-box.uploader input[type="text"] {
+width: 60%;
+}
+#gp-theme-options .text-small input[type="text"] {
+width: 45px;
+}
+#gp-theme-options .meta-box.text-large {
+width: 100%;
+padding: 0;
+}
+#gp-theme-options .text-large textarea {
+float: left;
+width: 100%;
+height: 200px;
+padding-bottom: 10px;
+}
+#gp-theme-options .separator {
+clear: both;
+width: 100%;
+height: 1px;
+line-height: 1px;
+padding: 0;
+margin: 20px 0 10px 0;
+border-top: 1px solid #c0c0c0;
+}
+#gp-theme-options code {
+font-size: 10px;
+}
+
+
+/*************************** Order Slides List ***************************/
+
+#gp-theme-options #sort-list {
+margin-top: 20px;
+}
+#gp-theme-options #sort-list li {
+padding: 10px;
+font-weight: bold;
+background-color: #FCFCFC;
+cursor: move;
+border: 1px solid #ddd;
+border-radius: 2px;
+-moz-border-radius: 2px;
+-webkit-border-radius: 2px;
+}
+#gp-theme-options #sort-list li img {
+float: left;
+margin-right: 10px;
+}
+#gp-theme-options #sort-list h4 {
+padding: 0;
+margin: 0 0 10px 0;
+}
+#gp-theme-options #loading-animation {
+display: none;
+}
+
+
+/*************************** General Styling ***************************/
+
+#gp-theme-options .divider {
+clear: both;
+width: 100%;
+height: 1px;
+line-height: 1px;
+padding: 0;
+margin: 15px 0;
+border-top: 1px dotted #c0c0c0;
+}
+#gp-theme-options .clear {
+clear: both;
+line-height: 0;
+padding: 0;
+margin: 0;
+height: 0;
+display:block;
+font-size:0;
+width:100%;
+}

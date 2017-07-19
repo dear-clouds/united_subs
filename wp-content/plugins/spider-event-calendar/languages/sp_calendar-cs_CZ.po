@@ -1,0 +1,350 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: spider_calendar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-13 18:43+0400\n"
+"PO-Revision-Date: 2016-01-18 15:27+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-SearchPath-0: C:/wamp/www/wordpress3.5/wp-content/plugins/"
+"spider-event-calendar\n"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/functions_for_xml_and_ajax.php:451
+msgid "Date"
+msgstr "Datum"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/functions_for_xml_and_ajax.php:458
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/functions_for_xml_and_ajax.php:461
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/functions_for_xml_and_ajax.php:475
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/functions_for_xml_and_ajax.php:478
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/functions_for_xml_and_ajax.php:481
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/functions_for_xml_and_ajax.php:484
+msgid "Repeat Every"
+msgstr "Opakujte každý"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/functions_for_xml_and_ajax.php:458
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarday.php:366
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarday_widget.php:228
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarlist.php:364
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarlist_widget.php:205
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth.php:263
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth_widget.php:201
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarweek.php:387
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarweek_widget.php:235
+msgid "Day"
+msgstr "Den"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/functions_for_xml_and_ajax.php:461
+msgid "Week(s) on"
+msgstr "Týden (y) na"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/functions_for_xml_and_ajax.php:475
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/functions_for_xml_and_ajax.php:478
+msgid "Month(s) on the"
+msgstr "Měsíc (y) na"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/functions_for_xml_and_ajax.php:481
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/functions_for_xml_and_ajax.php:484
+msgid "Year(s) in"
+msgstr "Rok (y) v"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/functions_for_xml_and_ajax.php:481
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/functions_for_xml_and_ajax.php:484
+msgid "on the"
+msgstr "na"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/functions_for_xml_and_ajax.php:492
+msgid "There Is No Text For This Event"
+msgstr "Není tam žádná Text pro tuto událost"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/functions_for_xml_and_ajax.php:509
+msgid "Back to event list"
+msgstr "Zpět na seznam událostí"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarday.php:78
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarday_widget.php:43
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarlist.php:87
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarlist_widget.php:43
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth.php:80
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth_widget.php:43
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarweek.php:78
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarweek_widget.php:44
+msgid "January"
+msgstr "Leden"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarday.php:79
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarday_widget.php:44
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarlist.php:88
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarlist_widget.php:44
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth.php:81
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth_widget.php:44
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarweek.php:79
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarweek_widget.php:45
+msgid "February"
+msgstr "Únor"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarday.php:80
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarday_widget.php:45
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarlist.php:89
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarlist_widget.php:45
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth.php:82
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth_widget.php:45
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarweek.php:80
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarweek_widget.php:46
+msgid "March"
+msgstr "Březen"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarday.php:81
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarday_widget.php:46
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarlist.php:90
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarlist_widget.php:46
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth.php:83
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth_widget.php:46
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarweek.php:81
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarweek_widget.php:47
+msgid "April"
+msgstr "Duben"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarday.php:82
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarday_widget.php:47
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarlist.php:91
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarlist_widget.php:47
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth.php:84
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth_widget.php:47
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarweek.php:82
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarweek_widget.php:48
+msgid "May"
+msgstr "květen"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarday.php:83
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarday_widget.php:48
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarlist.php:92
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarlist_widget.php:48
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth.php:85
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth_widget.php:48
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarweek.php:83
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarweek_widget.php:49
+msgid "June"
+msgstr "Červen"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarday.php:84
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarday_widget.php:49
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarlist.php:93
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarlist_widget.php:49
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth.php:86
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth_widget.php:49
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarweek.php:84
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarweek_widget.php:50
+msgid "July"
+msgstr "Červenec"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarday.php:85
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarday_widget.php:50
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarlist.php:94
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarlist_widget.php:50
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth.php:87
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth_widget.php:50
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarweek.php:85
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarweek_widget.php:51
+msgid "August"
+msgstr "Srpen"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarday.php:86
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarday_widget.php:51
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarlist.php:95
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarlist_widget.php:51
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth.php:88
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth_widget.php:51
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarweek.php:86
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarweek_widget.php:52
+msgid "September"
+msgstr "Září"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarday.php:87
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarday_widget.php:52
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarlist.php:96
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarlist_widget.php:52
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth.php:89
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth_widget.php:52
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarweek.php:87
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarweek_widget.php:53
+msgid "October"
+msgstr "Říjen"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarday.php:88
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarday_widget.php:53
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarlist.php:97
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarlist_widget.php:53
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth.php:90
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth_widget.php:53
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarweek.php:88
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarweek_widget.php:54
+msgid "November"
+msgstr "Listopad"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarday.php:89
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarday_widget.php:54
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarlist.php:98
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarlist_widget.php:54
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth.php:91
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth_widget.php:54
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarweek.php:89
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarweek_widget.php:55
+msgid "December"
+msgstr "Prosinec"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarday.php:379
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarday_widget.php:241
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarlist.php:377
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarlist_widget.php:218
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth.php:276
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth_widget.php:214
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarweek.php:400
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarweek.php:475
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarweek_widget.php:248
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarweek_widget.php:310
+msgid "Week"
+msgstr "Týden"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarday.php:391
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarday_widget.php:253
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarlist.php:389
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarlist_widget.php:230
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth.php:288
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth_widget.php:226
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarweek.php:412
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarweek_widget.php:260
+msgid "List"
+msgstr "Seznam"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarday.php:403
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarday_widget.php:265
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarlist.php:401
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarlist_widget.php:242
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth.php:300
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth_widget.php:238
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarweek.php:424
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarweek_widget.php:272
+msgid "Month"
+msgstr "Měsíc"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarday.php:556
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarday_widget.php:378
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarweek.php:638
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarweek_widget.php:458
+msgid "There are no events on this date"
+msgstr "Není tam žádná akce v tento den"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarlist.php:536
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarlist_widget.php:339
+msgid "There are no events for this month"
+msgstr "Není tam žádná událost v tomto měsíci"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth.php:398
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth.php:421
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth_widget.php:305
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth_widget.php:328
+msgid "Su"
+msgstr "Ne"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth.php:402
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth_widget.php:309
+msgid "Mo"
+msgstr "Po"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth.php:405
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth_widget.php:312
+msgid "Tu"
+msgstr "Vú"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth.php:408
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth_widget.php:315
+msgid "We"
+msgstr "Stostě"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth.php:411
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth_widget.php:318
+msgid "Th"
+msgstr "Čt"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth.php:414
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth_widget.php:321
+msgid "Fr"
+msgstr "Pá"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth.php:417
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth_widget.php:324
+msgid "Sa"
+msgstr "So"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth.php:508
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth.php:558
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth.php:612
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth.php:667
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth.php:718
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/bigcalendarmonth.php:771
+#, fuzzy
+msgid "See more"
+msgstr "Více ..."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/frontend_functions.php:927
+msgid "First"
+msgstr "Za prvé"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/frontend_functions.php:930
+msgid "Second"
+msgstr "Vteřina"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/frontend_functions.php:933
+msgid "Third"
+msgstr "Za třetí"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/frontend_functions.php:936
+msgid "Fourth"
+msgstr "Čtyřka."
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/frontend_functions.php:939
+msgid "Last"
+msgstr "Poslední"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/frontend_functions.php:945
+msgid "Monday"
+msgstr "Pondělí"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/frontend_functions.php:948
+msgid "Tuesday"
+msgstr "Vúterý"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/frontend_functions.php:951
+msgid "Wednesday"
+msgstr "Středa"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/frontend_functions.php:954
+msgid "Thursday"
+msgstr "Čtvrtek"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/frontend_functions.php:957
+msgid "Friday"
+msgstr "Pátek"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/frontend_functions.php:960
+msgid "Saturday"
+msgstr "Sobota"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/frontend_functions.php:963
+msgid "Sunday"
+msgstr "Neděle"
+
+#: C:\wamp\www\wordpress3.5\wp-content\plugins\spider-event-calendar/front_end/views.php:760
+msgid "All categories"
+msgstr "Všechny kategorie"
+
+#~ msgid "No Repeat"
+#~ msgstr "Ne Opakovat"

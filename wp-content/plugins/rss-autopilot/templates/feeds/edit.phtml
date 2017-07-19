@@ -1,0 +1,150 @@
+<div class="wrap rssap-form">
+
+    <h2><?php echo esc_html( __( 'Edit Feed', 'rss-autopilot' ) ); ?></h2>
+
+    <form method="post" action="<?php echo $this->menuUrl('rssap-feeds', 'edit', array('post'=>$feed->id)); ?>" id="rssap-add-source-form" class="edit">
+        <input type="hidden" value="<?php echo $this->menuUrl('rssap-feeds', 'preview'); ?>" id="rssap-load-preview-url" />
+        <input type="hidden" value="<?php echo $this->menuUrl('rssap-feeds', 'extract'); ?>" id="rssap-content-extractor-url" />
+        <?php wp_nonce_field( 'rssap-save-rss-autopilot'); ?>
+        <div id="rssap-add-source-form-container" class="metabox-holder">
+            <div id="titlediv" class="rssap-field-container">
+                <input type="text" name="title" size="80" value="<?php echo esc_attr($feed->title); ?>" id="title" spellcheck="true" autocomplete="off" placeholder="<?php esc_attr_e('Enter source title', 'rss-autopilot'); ?>" />
+            </div>
+            <div id="rssap-types-list" class="meta-box-sortables">
+                <div class="postbox">
+                    <div class="handlediv" title="<?php esc_html_e('Click to toggle', 'rss-autopilot'); ?>"><br></div>
+                    <h3 class="hndle ui-sortable-handle"><span><?php esc_html_e('General Options', 'rss-autopilot'); ?></span></h3>
+                    <div class="inside">
+                        <label for="rssap-url"><b><?php esc_html_e('Feed URL', 'rss-autopilot'); ?></b></label>
+                        <div class="field rssap-field-container">
+                            <input id="rssap-url" name="url" value="<?php echo esc_attr($feed->url); ?>" size="100" />
+                        </div>
+
+                        <div>
+                            <div class="alignleft rssap-column rssap-width-60">
+
+                                <table width="100%">
+                                    <tr>
+                                        <td>
+                                            <label for="rssap-author"><b><?php esc_html_e('Default Author', 'rss-autopilot'); ?></b></label>
+                                            <div class="field rssap-field-container">
+                                                <?php wp_dropdown_users(array('selected'=>$feed->author, 'name'=>'author', 'id'=>'rssap-author')); ?>
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <label for="rssap-status"><b><?php esc_html_e('Default Status', 'rss-autopilot'); ?></b></label>
+                                            <div class="field rssap-field-container">
+                                                <select id="rssap-status" name="status">
+                                                    <?php foreach ($statuses as $k=>$status) : ?>
+                                                        <option value="<?php echo esc_attr($k); ?>" <?php if ($k == $feed->status) : ?>selected="selected"<?php endif; ?>><?php echo esc_html($status); ?></option>
+                                                    <?php endforeach; ?>
+                                                </select>
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <label for="rssap-type"><b><?php esc_html_e('Post type', 'rss-autopilot'); ?></b></label>
+                                            <div class="field rssap-field-container">
+                                                <select id="rssap-type" name="type">
+                                                    <?php foreach ($postTypes as $type) : ?>
+                                                        <option value="<?php echo esc_attr($type); ?>" <?php if ($type==$feed->type) :?>selected="selected"<?php endif; ?>><?php echo esc_html($type); ?></option>
+                                                    <?php endforeach; ?>
+                                                </select>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <label for="rssap-update-frequency"><b><?php esc_html_e('Update frequency', 'rss-autopilot'); ?></b></label>
+                                            <div class="field rssap-field-container">
+                                                <select id="rssap-update-frequency" name="update_frequency">
+                                                    <?php foreach ($updateFrequences as $k=>$frequency) : ?>
+                                                        <option value="<?php echo esc_attr($k); ?>" <?php if ($k == $feed->update_frequency) : ?>selected="selected"<?php endif; ?>><?php echo esc_html($frequency); ?></option>
+                                                    <?php endforeach; ?>
+                                                </select>
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <div class="field rssap-field-container">
+                                                <p><label for="rssap-use-date"><input type="checkbox" value="1" <?php if ($feed->use_date) : ?>checked="checked"<?php endif; ?> name="use_date" id="rssap-use-date" /> <?php esc_html_e('Use date from feed', 'rss-autopilot'); ?></label><span class="rss-tooltip" title="<?php esc_html_e('By default post date and time are set to current on script execution', 'rss-autopilot'); ?>">?</span></p>
+                                            </div>
+                                        </td>
+                                        <td>
+                                            <div class="field rssap-field-container">
+                                                <p><label for="rssap-download-images"><input type="checkbox" value="1" <?php if ($feed->download_images) : ?>checked="checked"<?php endif; ?> name="download_images" id="rssap-download-images" /> <?php esc_html_e('Download images', 'rss-autopilot'); ?></label><span class="rss-tooltip" title="<?php esc_html_e('By default images are referring to original website. You can download them to your server with this option.', 'rss-autopilot'); ?>">?</span></p>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                </table>
+
+                                <div class="field rssap-field-container">
+                                    <p><label for="rssap-display-readmore"><input type="checkbox" <?php if ($feed->display_readmore) : ?>checked="checked"<?php endif; ?> value="1" name="display_readmore" id="rssap-display-readmore" /> <?php esc_html_e('Display read more', 'rss-autopilot'); ?></label></p>
+                                    <input type="text" size="50" name="readmore_template" value="<?php echo esc_attr($feed->readmore_template); ?>" />
+                                    <span title="<?php esc_html_e('HTML allowed. Use %LINK% placeholder to add URL', 'rss-autopilot'); ?>" class="rss-tooltip">?</span>
+                                </div>
+
+                                <div class="field rssap-field-container">
+                                    <p><label for="rssap-enable-scrapper"><input type="checkbox" <?php if ($feed->enable_scrapper) : ?>checked="checked"<?php endif; ?> name="enable_scrapper" value="1" id="rssap-enable-scrapper" /> <?php esc_html_e('Enable web scraper', 'rss-autopilot'); ?></label><span class="rss-tooltip" title="<?php esc_html_e('You can enable web scraper to download full article contents. Please note, it takes more time to download.', 'rss-autopilot'); ?>">?</span></p>
+                                    <div class="content-extractor-options">
+                                        <p><a id="content-extractor-btn" href="#content-extractor" class="button"><?php esc_html_e('Configure content extractor', 'rss-autopilot'); ?></a></p>
+                                        <textarea rows="4" cols="30" name="content_extractor_rule" id="content-extractor-rule" placeholder="<?php esc_attr_e('XPath selector can be set here', 'rss-autopilot'); ?>"><?php echo esc_html($feed->content_extractor_rule); ?></textarea>
+                                        <textarea rows="4" cols="30" name="content_extractor_ignore_rule" id="content-extractor-ignore-rule" placeholder="<?php esc_attr_e('XPath selectors for ignored elements can be set here', 'rss-autopilot'); ?>"><?php echo esc_html($feed->content_extractor_ignore_rule); ?></textarea>
+                                    </div>
+                                </div>
+
+                                <div class="field rssap-field-container">
+                                    <p><b><?php esc_html_e('Set featured image', 'rss-autopilot'); ?></b></p>
+                                    <p><label><input type="radio" name="thumbnail" value="" <?php if (!$feed->thumbnail) : ?>checked="checked"<?php endif; ?> /> <?php esc_html_e('None', 'rss-autopilot'); ?></label></p>
+                                    <p><label><input type="radio" name="thumbnail" value="feed" <?php if ($feed->thumbnail == 'feed') : ?>checked="checked"<?php endif; ?> /> <?php esc_html_e('Thumbnail from feed', 'rss-autopilot'); ?></label><span class="rss-tooltip" title="<?php esc_attr_e('Set featured image from feed file', 'rss-autopilot'); ?>">?</span></p>
+                                    <p><label><input type="radio" name="thumbnail" value="content" <?php if ($feed->thumbnail == 'content') : ?>checked="checked"<?php endif; ?> /> <?php esc_html_e('Image from content', 'rss-autopilot'); ?></label><span class="rss-tooltip" title="<?php esc_attr_e('Set featured image from article summary or article content (if content extractor is in use)', 'rss-autopilot'); ?>">?</span></p>
+                                </div>
+
+
+                                <hr>
+                                <div class="field rssap-field-container">
+                                    <p><label for="rssap-enable-filters"><input type="checkbox" name="enable_filters" value="1" id="rssap-enable-filters" <?php if ($feed->enable_filters) : ?>checked="checked"<?php endif; ?> /> <?php esc_html_e('Enable content filters', 'rss-autopilot'); ?></label><span class="rss-tooltip" title="<?php esc_html_e('Using this option you can filter articles by specified keywords', 'rss-autopilot'); ?>">?</span></p>
+                                    <div class="content-filter-options">
+                                        <p><label for="rssap-filter-must"><?php esc_html_e('Specify words any of which MUST be presented in a content in order to be added (comma separated):', 'rss-autopilot'); ?></label></p>
+                                        <textarea rows="3" cols="60" name="filter_keywords_must" id="rssap-filter-must" placeholder="<?php esc_attr_e('Comma separated words', 'rss-autopilot'); ?>"><?php echo esc_html($feed->filter_keywords_must); ?></textarea>
+
+                                        <p><label for="rssap-filter-block"><?php esc_html_e('Don\'t add articles containing any of following words (comma separated):', 'rss-autopilot'); ?></label></p>
+                                        <textarea rows="3" cols="60" name="filter_keywords_block" id="rssap-filter-block" placeholder="<?php esc_attr_e('Comma separated words', 'rss-autopilot'); ?>"><?php echo esc_html($feed->filter_keywords_block); ?></textarea>
+                                    </div>
+                                </div>
+
+
+                                <div class="field rssap-field-container">
+                                    <p><label for="rssap-add-canonical"><input type="checkbox" name="add_canonical" value="1" id="rssap-add-canonical" <?php if ($feed->add_canonical) : ?>checked="checked"<?php endif; ?>  /> <?php esc_html_e('Add canonical URL to source', 'rss-autopilot'); ?></label></p>
+                                </div>
+                            </div>
+
+                            <div class="alignleft rssap-column rssap-left-border">
+                                <label><b><?php esc_html_e('Select Categories', 'rss-autopilot'); ?></b></label>
+                                <div class="field rssap-field-container">
+                                    <ul class="rssap-categories-list">
+                                        <?php wp_category_checklist( 0, 0, $feed->post_category, false, null, true ); ?>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+
+                        <p><a href="#" class="button feed-preview-btn"><?php esc_html_e('Preview', 'rss-autopilot');?></a></p>
+                    </div>
+                </div>
+            </div>
+
+            <div id="rssap-preview" class="rssap-meta-box-container meta-box-sortables">
+                <div class="postbox">
+                    <div class="handlediv" title="<?php esc_html_e('Click to toggle', 'rss-autopilot'); ?>"><br></div>
+                    <h3 class="hndle"><span><?php esc_html_e('Preview', 'rss-autopilot');?></span></h3>
+                    <div class="inside"></div>
+                </div>
+            </div>
+
+            <div class="save-rss-autopilot-form">
+                <input type="submit" class="button-primary" name="save" value="<?php echo esc_attr( __( 'Save', 'rss-autopilot' ) ); ?>" />
+            </div>
+        </div>
+    </form>
+</div>
+<div id="content-extractor" style="display:none;"><iframe id="content-extractor-iframe"></iframe></div>

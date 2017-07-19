@@ -1,0 +1,5 @@
+<?php if ($page) : ?>
+    <?php echo $page; ?>
+<?php else: ?>
+    <p><?php esc_html_e('Error loading page', 'rss-autopilot'); ?></p>
+<?php endif; ?>

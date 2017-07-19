@@ -1,0 +1,71 @@
+<h2>YouTube video</h2>
+
+[%mom_su_youtube url="http://youtube.com/watch?v=DR2c266yWEA"]
+
+-----
+
+<h2>Vimeo video</h2>
+
+[%mom_su_vimeo url="http://vimeo.com/78106175"]
+
+-----
+
+<h2>Self-hosted video (mp4/flv)</h2>
+
+[%mom_su_video url="http://www.jplayer.org/video/m4v/Big_Buck_Bunny_Trailer.m4v"]
+
+-----
+
+<h2>Non-responsive videos</h2>
+
+You can customize width and height for this videos
+
+[%mom_su_youtube url="http://youtube.com/watch?v=DR2c266yWEA" width="300" height="200" responsive="no"]
+
+[%mom_su_vimeo url="http://vimeo.com/78106175" width="300" height="200" responsive="no"]
+
+-----
+
+<h2>Self-hosted audio-files (HTML5/Flash)</h2>
+
+[%mom_su_audio url="http://www.jplayer.org/audio/mp3/TSP-01-Cro_magnon_man.mp3?1"]
+
+-----
+
+<h2>Audio player with custom width</h2>
+
+[%mom_su_audio url="http://www.jplayer.org/audio/mp3/TSP-01-Cro_magnon_man.mp3?2" width="400px"]
+
+-----
+
+<h2>Advanced YouTube setup #1 - no controls, no related videos</h2>
+
+[%mom_su_youtube_advanced url="http://youtu.be/NbE8INOjTKM" controls="no" showinfo="no" rel="no"]
+
+-----
+
+<h2>Advanced YouTube setup #2 - always visible controls, light theme</h2>
+
+[%mom_su_youtube_advanced url="http://youtu.be/NbE8INOjTKM" autohide="no" theme="light"]
+
+-----
+
+<h2>Media grid: responsive videos + columns</h2>
+
+[%mom_su_row]
+	[%mom_su_column size="1/2"] [%mom_su_youtube] [/%mom_su_column]
+	[%mom_su_column size="1/2"] [%mom_su_vimeo] [/%mom_su_column]
+[/%mom_su_row]
+
+[%mom_su_row]
+	[%mom_su_column size="1/2"] [%mom_su_youtube] [/%mom_su_column]
+	[%mom_su_column size="1/2"] [%mom_su_vimeo] [/%mom_su_column]
+[/%mom_su_row]
+
+-----
+
+<h2>Autoplay and loop</h2>
+
+You can add autoplay="yes" and loop="yes" to any of these elements and the playback will be automatically started and looped.
+
+For example: [[%mom_su_youtube url="" autoplay="yes"]]

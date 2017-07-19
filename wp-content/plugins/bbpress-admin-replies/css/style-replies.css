@@ -1,0 +1,45 @@
+.topic .bbp-admin-reply {
+    background: rgba(22, 38, 63, 1) !important;
+    border-left: 2px solid #1b61bf !important;
+}
+.bbp-admin-reply .bbp-reply-content {
+    background: rgba(35, 50, 72, 1) !important;
+    margin-right: -15px;
+}
+.bbp-admin-reply {
+    color: #ddd !important;
+}
+.user-id-1 {
+    border-left: 2px solid #1b61bf !important;
+    border-radius: 2px;
+}
+.bbp-admin-reply a {
+    color: #fff !important;
+}
+.bbp-admin-reply .bbp-signature {
+    color: rgba(255, 255, 255, 0.8) !important;
+}
+.bbp-admin-reply .reply .bbp-signature {
+    color: rgba(255, 255, 255, 0.8) !important;
+}
+.bbp-admin-reply .reply a {
+    color: #777 !important;
+}
+.bbp-admin-reply .reply {
+    color: #333 !important;
+}
+#bbpress-forums div.bbp-admin-reply {
+    color: #ddd !important;
+}
+#bbpress-forums div.bbp-admin-reply {
+    background-color: rgba(22, 38, 63, 1) !important;
+    border-left: 2px solid #1b61bf;
+}
+/*media all*/
+#bbpress-forums div.bbp-admin-topic {
+    color: #ddd !important;
+}
+/*media all*/
+#bbpress-forums div.bbp-admin-reply .bbp-signature {
+    color: rgba(255, 255, 255, 0.8) !important;
+}

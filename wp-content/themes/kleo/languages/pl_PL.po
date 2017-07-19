@@ -1,0 +1,4805 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kleo v2.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-10-15 11:53+0200\n"
+"Last-Translator: admin <gabriel@seventhqueen.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Textdomain-Support: yes\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ kleo_framework
+#: 404.php:31 page-templates/404-page.php:29
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Jest to nieco krępujące, nieprawdaż, isn&rsquo;t it?"
+
+# @ kleo_framework
+#: 404.php:33 page-templates/404-page.php:31
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+"Wygląda na to, nic nie zostało znalezione w tym miejscu. Może spróbuj "
+"wyszukiwania?"
+
+# @ kleo_framework
+#: lib/theme-functions.php:731
+msgid "Forums"
+msgstr "Forum"
+
+# @ kleo_framework
+#: kleo-framework/lib/function-breadcrumb.php:1190
+msgid "Merge"
+msgstr "iść"
+
+# @ kleo_framework
+#: functions.php:735
+msgid "Name"
+msgstr "Imię "
+
+# @ kleo_framework
+#: functions.php:737
+msgid "Website"
+msgstr "Witryna internetowa"
+
+# @ kleo_framework
+#: page-parts/general-popups.php:22
+msgid "Username"
+msgstr "Nazwa użytkownika"
+
+# @ kleo_framework
+#: functions.php:736
+msgid "Email"
+msgstr "Email"
+
+# @ kleo_framework
+#: page-parts/general-popups.php:23
+msgid "Password"
+msgstr "hasło"
+
+# @ kleo_framework
+#: page-parts/general-popups.php:54
+msgid "Username or Email"
+msgstr "Nazwa użytkownika lub email"
+
+# @ kleo_framework
+#: lib/menu-items.php:49
+msgid "Register"
+msgstr "Rejestracja"
+
+# @ kleo_framework
+#: functions.php:663
+msgid "Author"
+msgstr "autor"
+
+# @ kleo_framework
+#: content-aside.php:32 content-audio.php:30 content-gallery.php:30
+#: content-image.php:30 content-link.php:24 content-quote.php:31
+#: content-video.php:30 content.php:32 functions.php:681
+#: kleo-framework/lib/function-breadcrumb.php:1162
+#: kleo-framework/lib/function-breadcrumb.php:1194
+#: kleo-framework/lib/function-breadcrumb.php:1209
+#: kleo-framework/lib/function-breadcrumb.php:1236
+msgid "Edit"
+msgstr "Edycja "
+
+# @ kleo_framework
+#: functions.php:685
+msgid "Reply"
+msgstr "Odpowiedzi"
+
+# @ kleo_framework
+#: buddypress/buddypress-functions.php:1611
+msgid "show less"
+msgstr "Pokaż mniej "
+
+# @ kleo_framework
+#: buddypress/buddypress-functions.php:1612
+msgid "show more"
+msgstr "pokaż więcej "
+
+# @ kleo_framework
+#: lib/item-likes.php:232 lib/widgets/recent_posts.php:143
+msgid "Title:"
+msgstr "tytuł:"
+
+# @ kleo_framework
+#: lib/theme-functions.php:623
+msgid "Members"
+msgstr "Użytkownicy"
+
+# @ buddypress
+#: buddypress/members/single/settings/delete-account.php:11
+msgid ""
+"Deleting this account will delete all of the content it has created. It will "
+"be completely irrecoverable."
+msgstr ""
+"Usunięcie tego konta spowoduje usunięcie wszystkich treści . To będzie "
+"zupełnie niemożliwe do odzyskania."
+
+# @ buddypress
+#: buddypress/members/single/settings/delete-account.php:23
+msgid "I understand the consequences."
+msgstr "Rozumiem konsekwencje."
+
+# @ buddypress
+#: buddypress/members/single/settings/delete-account.php:27
+msgid "Delete Account"
+msgstr "Usuń konto"
+
+# @ buddypress
+#: buddypress/members/single/settings/general.php:7
+msgid ""
+"Current Password <span>(required to update email or change current "
+"password)</span>"
+msgstr ""
+"Aktualne hasło <span>(wymagane do aktualizacji e-mail lub zmienić aktualne "
+"hasło)</span>"
+
+# @ buddypress
+#: buddypress/members/single/settings/general.php:8
+msgid "Password Lost and Found"
+msgstr "Hasło "
+
+# @ buddypress
+# @ default
+#: buddypress/members/single/settings/general.php:8
+#: page-parts/general-popups.php:29
+msgid "Lost your password?"
+msgstr "Nie pamiętasz hasła ?"
+
+# @ buddypress
+#: buddypress/members/single/settings/general.php:12
+msgid "Account Email"
+msgstr "Konto e-mail"
+
+# @ buddypress
+#: buddypress/members/single/settings/general.php:15
+msgid "Change Password <span>(leave blank for no change)</span>"
+msgstr "Zmień hasło <span>(pozostaw puste bez zmian)</span>"
+
+# @ buddypress
+#: buddypress/members/single/settings/general.php:18
+msgid "Repeat New Password"
+msgstr "Powtórz nowe hasło"
+
+# @ buddypress
+#: buddypress/members/single/settings/notifications.php:4
+msgid "Send an email notice when:"
+msgstr "Wyślij powiadomienie e-mail, gdy:"
+
+# @ kleo_framework
+#: comments.php:24
+msgid "0 Comments"
+msgstr "0 Komentarzy "
+
+# @ kleo_framework
+#: comments.php:24
+msgid "1 Comment"
+msgstr "1 komentarz"
+
+# @ kleo_framework
+#: comments.php:24
+msgid "% Comments"
+msgstr "% Komentarz"
+
+# @ kleo_framework
+#: comments.php:33 comments.php:43
+msgid "Previous"
+msgstr "Poprzedni"
+
+# @ kleo_framework
+#: comments.php:34 comments.php:44
+msgid "Next"
+msgstr "następny"
+
+# @ kleo_framework
+#: comments.php:49
+msgid "Comments are closed."
+msgstr "Możliwość dodawania komentarzy nie jest dostępna."
+
+# @ kleo_framework
+#: content-aside.php:41 content-audio.php:51 content-gallery.php:60
+#: content-image.php:48 content-video.php:92 content.php:50
+msgid "Continue reading"
+msgstr "Kontynuuj czytanie"
+
+# @ kleo_framework
+#: content-aside.php:46 content-audio.php:56 content-gallery.php:65
+#: content-image.php:53 content-link.php:29 content-quote.php:36
+#: content-video.php:97 content.php:55
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Kontynuuj czytanie <span class=\"meta-nav\">&rarr;</span>"
+
+# @ kleo_framework
+#: content-aside.php:47 content-audio.php:57 content-gallery.php:66
+#: content-image.php:54 content-link.php:30 content-page.php:107
+#: content-quote.php:37 content-video.php:98 content.php:56 image.php:51
+msgid "Pages:"
+msgstr "Strony:"
+
+# @ kleo_framework
+#: content-none.php:14
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Gotowy aby opublikować swój pierwszy post ? <a href=\"%1$s\">Get started "
+"here</a>."
+
+# @ kleo_framework
+#: content-none.php:18
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Przepraszamy, ale nie spełniłeś warunków wyszukiwania. Proszę spróbować "
+"ponownie."
+
+# @ kleo_framework
+#: content-none.php:23
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+# @ kleo_framework
+#: content-video.php:21 content.php:23
+#, php-format
+msgid "Permalink to %s"
+msgstr "bezpośredni odnośnik do %s"
+
+# @ kleo_framework
+#: functions.php:66
+msgid "Primary Menu"
+msgstr "Pierwotne Menu"
+
+# @ kleo_framework
+#: functions.php:67
+msgid "Top Menu"
+msgstr "Górne menu"
+
+# @ kleo_framework
+#. Translators: %s is the page number.
+#: functions.php:133 kleo-framework/lib/function-breadcrumb.php:199
+#, php-format
+msgid "Page %s"
+msgstr "strona %s"
+
+# @ kleo_framework
+#: functions.php:445
+msgid "Main Sidebar"
+msgstr "głównym Sidebar"
+
+# @ kleo_framework
+#: functions.php:447
+msgid "Default sidebar"
+msgstr "Domyślnie pasek boczny"
+
+# @ kleo_framework
+#: functions.php:526 functions.php:531
+msgid ", "
+msgstr ""
+
+# @ kleo_framework
+#: functions.php:554 functions.php:588
+#, php-format
+msgid "View all posts by %s"
+msgstr "Zobacz wszystkie posty %s"
+
+# @ kleo_framework
+#: functions.php:621
+#, php-format
+msgid "This article has one comment"
+msgid_plural "This article has %1$s comments"
+msgstr[0] "Ten artykuł ma jeden komentarz"
+msgstr[1] "Ten artykuł ma %1$s komentarze"
+
+# @ kleo_framework
+#: functions.php:671
+msgid "ago"
+msgstr "temu"
+
+# @ kleo_framework
+#: functions.php:675
+msgid "<span class='unapproved'>Your comment is awaiting moderation.</span>\n"
+msgstr "<span class='unapproved'>Twój komentarz czeka na moderację.</span>\n"
+
+# @ kleo_framework
+#: functions.php:686
+msgid "Log in to reply."
+msgstr "Zaloguj się, aby odpowiedzieć."
+
+# @ kleo_framework
+#: functions.php:749
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"Zalogowany jako <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out "
+"of this account\">Log out?</a>"
+
+# @ kleo_framework
+#: functions.php:750
+msgid "Leave a reply"
+msgstr "Napisz komentarz "
+
+# @ kleo_framework
+#: functions.php:751
+#, php-format
+msgid "Leave a reply to %s"
+msgstr "Dodaj komentarz do %s"
+
+# @ kleo_framework
+#: functions.php:752
+msgid "Click here to cancel the reply"
+msgstr "Kliknij tutaj, aby anulować odpowiadanie"
+
+# @ kleo_framework
+#: functions.php:753
+msgid "Post comment"
+msgstr "Wyślij komentarz "
+
+# @ kleo_framework
+#: functions.php:754
+msgid "Comment"
+msgstr "Komentarz"
+
+# @ kleo_framework
+#: functions.php:755
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "musisz być <a href=\"%s\">zalogowany</a> aby dodać komentarz."
+
+# @ kleo_framework
+#: functions.php:1151 functions.php:1154 lib/options.php:252
+#: lib/options.php:256
+msgid "Theme options"
+msgstr "Opcje tematyczne"
+
+# @ kleo_framework
+#: image.php:58
+msgid "Previous Image"
+msgstr "Poprzednie zdjęcie"
+
+# @ kleo_framework
+#: image.php:59
+msgid "Next Image"
+msgstr "następne zdjęcie"
+
+# @ kleo_framework
+#: kleo-framework/lib/function-core.php:417 lib/options.php:806
+msgid "Blog"
+msgstr "Blog"
+
+# @ envato
+#: kleo-framework/inc/pixelentity-themes-updater/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr "Wprowadź nazwę użytkownika "
+
+# @ envato
+#: kleo-framework/inc/pixelentity-themes-updater/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr "Wpisz nazwę (zalecaneAPI kod)"
+
+# @ envato
+#: kleo-framework/inc/pixelentity-themes-updater/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr "API \"zestaw\" jest wymagany parametr."
+
+# @ envato
+#: kleo-framework/inc/pixelentity-themes-updater/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+# @ kleo_framework
+# @ tgmpa
+#: kleo-framework/kleo.php:177
+#: kleo-framework/lib/class-tgm-plugin-activation.php:155
+msgid "Install Required Plugins"
+msgstr "Wymaga instalacji wtyczki"
+
+# @ kleo_framework
+# @ tgmpa
+#: kleo-framework/kleo.php:178
+#: kleo-framework/lib/class-tgm-plugin-activation.php:156
+msgid "Install Plugins"
+msgstr "Zainstaluj Wtyczki"
+
+# @ kleo_framework
+# @ tgmpa
+#: kleo-framework/kleo.php:179
+#: kleo-framework/lib/class-tgm-plugin-activation.php:157
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instalacja wtyczki:% s"
+
+# @ kleo_framework
+#: kleo-framework/kleo.php:180
+msgid "Something went wrong with the plugin API."
+msgstr "Coś poszło nie tak z API wtyczek."
+
+# @ kleo_framework
+#: kleo-framework/kleo.php:181
+#: kleo-framework/lib/class-tgm-plugin-activation.php:159
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ kleo_framework
+#: kleo-framework/kleo.php:182
+#: kleo-framework/lib/class-tgm-plugin-activation.php:160
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ kleo_framework
+#: kleo-framework/kleo.php:183
+#: kleo-framework/lib/class-tgm-plugin-activation.php:161
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ kleo_framework
+#: kleo-framework/kleo.php:184
+#: kleo-framework/lib/class-tgm-plugin-activation.php:162
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ kleo_framework
+#: kleo-framework/kleo.php:185
+#: kleo-framework/lib/class-tgm-plugin-activation.php:163
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ kleo_framework
+#: kleo-framework/kleo.php:186
+#: kleo-framework/lib/class-tgm-plugin-activation.php:164
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ kleo_framework
+#: kleo-framework/kleo.php:187
+#: kleo-framework/lib/class-tgm-plugin-activation.php:165
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ kleo_framework
+#: kleo-framework/kleo.php:188
+#: kleo-framework/lib/class-tgm-plugin-activation.php:166
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ kleo_framework
+#: kleo-framework/kleo.php:189
+#: kleo-framework/lib/class-tgm-plugin-activation.php:167
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ kleo_framework
+#: kleo-framework/kleo.php:190
+#: kleo-framework/lib/class-tgm-plugin-activation.php:168
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ kleo_framework
+# @ tgmpa
+#: kleo-framework/kleo.php:191
+#: kleo-framework/lib/class-tgm-plugin-activation.php:169
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+# @ kleo_framework
+# @ tgmpa
+#: kleo-framework/kleo.php:192
+#: kleo-framework/lib/class-tgm-plugin-activation.php:171
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1841
+msgid "Plugin activated successfully."
+msgstr ""
+
+# @ kleo_framework
+#: kleo-framework/kleo.php:193
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+# @ tgmpa
+#: kleo-framework/lib/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr "Coś poszło nie tak."
+
+# @ tgmpa
+#: kleo-framework/lib/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr "Powrót do deski rozdzielczej"
+
+# @ tgmpa
+#: kleo-framework/lib/class-tgm-plugin-activation.php:173
+msgid "All plugins installed and activated successfully."
+msgstr "Wszystkie wtyczki zainstalowany i aktywowany pomyślnie."
+
+# @ tgmpa
+#: kleo-framework/lib/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr "Odrzuć ten post"
+
+# @ tgmpa
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1086
+msgid "External Link"
+msgstr "link zewnętrzny"
+
+# @ tgmpa
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1091
+msgid "Private Repository"
+msgstr "Prywatne repozytorium"
+
+# @ tgmpa
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1094
+msgid "Pre-Packaged"
+msgstr ""
+
+# @ tgmpa
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1098
+msgid "WordPress Repository"
+msgstr ""
+
+# @ tgmpa
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1101
+msgid "Required"
+msgstr "wymagany"
+
+# @ tgmpa
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1101
+msgid "Recommended"
+msgstr "zalecane"
+
+# @ tgmpa
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1104
+msgid "Not Installed"
+msgstr "Nie zainstalowany"
+
+# @ tgmpa
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1106
+msgid "Installed But Not Activated"
+msgstr "Zainstalowany, ale nie aktywny"
+
+# @ tgmpa
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1276
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+# @ tgmpa
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1292
+msgid "Plugin"
+msgstr "Podłącz"
+
+# @ tgmpa
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1293
+msgid "Source"
+msgstr "źródło"
+
+# @ tgmpa
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1294
+msgid "Type"
+msgstr "typ"
+
+# @ tgmpa
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1295
+msgid "Status"
+msgstr "Status"
+
+# @ tgmpa
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1313
+msgid "Install"
+msgstr "instalować"
+
+# @ tgmpa
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1539
+#: kleo-framework/lib/class-tgm-plugin-activation.php:172
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Następująca wtyczka została aktywowana powodzeniem:"
+msgstr[1] "Następujące wtyczki zostały aktywowane z powodzeniem:"
+
+# @ tgmpa
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1824
+msgid "Install package not available."
+msgstr "Zainstalowany pakiet nie jest dostępny "
+
+# @ tgmpa
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1825
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+# @ tgmpa
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1826
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+# @ tgmpa
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1827
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+# @ tgmpa
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1828
+msgid "Plugin install failed."
+msgstr ""
+
+# @ tgmpa
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1829
+msgid "Plugin installed successfully."
+msgstr ""
+
+# @ tgmpa
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1840
+msgid "Plugin activation failed."
+msgstr ""
+
+# @ tgmpa
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1950
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+# @ tgmpa
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1951
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+# @ tgmpa
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1951
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1960
+msgid "Show Details"
+msgstr "Pokaż szczegóły"
+
+# @ tgmpa
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1951
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1960
+msgid "Hide Details"
+msgstr "Ukryj szczegóły"
+
+# @ tgmpa
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1952
+msgid "All installations and activations have been completed."
+msgstr ""
+
+# @ tgmpa
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1953
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+# @ tgmpa
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1957
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+# @ tgmpa
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+# @ tgmpa
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+# @ tgmpa
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1960
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+# @ tgmpa
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1961
+msgid "All installations have been completed."
+msgstr ""
+
+# @ tgmpa
+#: kleo-framework/lib/class-tgm-plugin-activation.php:1962
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+# @ tgmpa
+#: kleo-framework/lib/class-tgm-plugin-activation.php:2053
+msgid "Return to the Dashboard"
+msgstr ""
+
+# @ kleo_framework
+#: kleo-framework/lib/function-breadcrumb.php:193 lib/theme-functions.php:309
+msgid "Home"
+msgstr ""
+
+# @ kleo_framework
+#: kleo-framework/lib/function-breadcrumb.php:194
+msgid "404 Not Found"
+msgstr ""
+
+# @ buddypress
+#: kleo-framework/lib/function-breadcrumb.php:1288
+msgid "Activate your Account"
+msgstr "Aktywuj swoje konto"
+
+# @ buddypress
+#: kleo-framework/lib/function-breadcrumb.php:1292
+msgid "Create a Group"
+msgstr "Tworzenie grupy"
+
+# @ buddypress
+#: kleo-framework/lib/function-breadcrumb.php:1296
+msgid "Create a Blog"
+msgstr "Załóż bloga"
+
+# @ kleo_framework
+#: kleo-framework/lib/function-breadcrumb.php:1186
+msgid "Split"
+msgstr "rozłam"
+
+# @ kleo_framework
+#: kleo-framework/lib/function-core.php:358
+msgid "Archive for category:"
+msgstr "Wiadomości społeczne:"
+
+# @ kleo_framework
+#: kleo-framework/lib/function-core.php:362
+msgid "Archive for date:"
+msgstr "Archiwum dla daty:"
+
+# @ kleo_framework
+#: kleo-framework/lib/function-core.php:366
+msgid "Archive for month:"
+msgstr "Archiwum dla miesiąca:"
+
+# @ kleo_framework
+#: kleo-framework/lib/function-core.php:370
+msgid "Archive for year:"
+msgstr "Archiwum dla roku:"
+
+# @ kleo_framework
+#: kleo-framework/lib/function-core.php:390
+msgid "search results for:"
+msgstr "Wyniki wyszukiwania dla:"
+
+# @ kleo_framework
+#: kleo-framework/lib/function-core.php:394
+msgid "search result for:"
+msgstr "wynik wyszukiwania dla:"
+
+# @ kleo_framework
+#: kleo-framework/lib/function-core.php:401
+msgid "Search results for:"
+msgstr "Wyniki wyszukiwania dla:"
+
+# @ kleo_framework
+#: kleo-framework/lib/function-core.php:405
+msgid "To search the site please enter a valid term"
+msgstr "Aby przeszukać stronę, wpisz ważny termin"
+
+# @ kleo_framework
+#: kleo-framework/lib/function-core.php:374
+msgid "Author Archive"
+msgstr "Autor: Archiwum"
+
+# @ kleo_framework
+#: kleo-framework/lib/function-core.php:377
+msgid "for:"
+msgstr "dla:"
+
+# @ kleo_framework
+#: kleo-framework/lib/function-core.php:351
+msgid "Tag Archive for:"
+msgstr "Tag Archiwum dla:"
+
+# @ kleo_framework
+#: kleo-framework/lib/function-core.php:421
+msgid "Error 404 - Page not found"
+msgstr "Błąd 404 - Nie znaleziono strony"
+
+# @ kleo_framework
+#: kleo-framework/lib/function-core.php:429
+msgid "Page"
+msgstr "strona"
+
+# @ kleo_framework
+#: kleo-framework/lib/function-facebook-login.php:168
+msgid "Authenication required."
+msgstr "Wymagane uwierzytelnienie."
+
+# @ kleo_framework
+#: kleo-framework/lib/function-facebook-login.php:176
+msgid "Please connect your facebook account."
+msgstr "Proszę połączyć swoje konto na Facebooku."
+
+# @ kleo_framework
+#: kleo-framework/lib/function-facebook-login.php:194
+msgid "Registration is not open at this time. Please come back later."
+msgstr "Rejestracja nie jest otwarty w tym czasie. Proszę przyjść później."
+
+# @ kleo_framework
+#: kleo-framework/lib/function-facebook-login.php:197
+msgid ""
+"Registration using Facebook is not currently allowed. Please use our "
+"Register page"
+msgstr ""
+"Rejestracja za pomocą Facebooka jest obecnie niedozwolone. Proszę skorzystać "
+"z naszej strony Rejestracja"
+
+# @ kleo_framework
+#: kleo-framework/lib/function-facebook-login.php:213
+msgid ""
+"Your facebook account is not verified. You have to verify your account "
+"before proceed login or registering on this site."
+msgstr ""
+"Twoje konto facebook nie został zweryfikowany. Musisz wcześniej zweryfikować "
+"konto postępować logowania lub rejestracji w serwisie."
+
+# @ kleo_framework
+#: kleo-framework/lib/function-facebook-login.php:222
+msgid ""
+"We didn't find your name. Please complete your facebook account before "
+"proceeding."
+msgstr ""
+"Nie znaleźliśmy swoje nazwisko. Proszę wypełnić swoje konto Facebook przed "
+"przystąpieniem."
+
+# @ buddypress
+#: kleo-framework/lib/function-facebook-login.php:354
+#, php-format
+msgid "%s became a registered member"
+msgstr "%s Jesteś zarejestrowanym użytkownikiem "
+
+# @ kleo_framework
+#: kleo-framework/metaboxes/init.php:797
+msgid "Please Try Again"
+msgstr "Proszę spróbuj ponownie"
+
+# @ kleo_framework
+#: kleo-framework/metaboxes/init.php:814
+msgid "Remove Embed"
+msgstr "Usuń Wstaw"
+
+# @ kleo_framework
+#: kleo-framework/metaboxes/init.php:820
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr "Brak elementów %s. Zobacz więcej informacji na "
+
+# @ redux-framework
+#: kleo-framework/options/framework.php:176
+#: kleo-framework/options/framework.php:180
+msgid "Options"
+msgstr "Opcje"
+
+# @ redux-framework
+#: kleo-framework/options/framework.php:172
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr "Panel opcji tworzony przy użyciu %1$s"
+
+# @ redux-framework
+#: kleo-framework/options/framework.php:172
+msgid "Redux Framework"
+msgstr "Redux ramowa"
+
+# @ redux-framework
+#: kleo-framework/options/inc/import_export.php:140
+#: kleo-framework/options/inc/import_export.php:149
+#: kleo-framework/options/inc/import_export.php:150
+msgid "Import / Export"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/debug.php:41
+#: kleo-framework/options/inc/debug.php:69
+#: kleo-framework/options/inc/debug.php:76
+#: kleo-framework/options/inc/debug.php:77
+msgid "Options Object"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/framework.php:1218
+#: kleo-framework/options/framework.php:1219
+#: kleo-framework/options/framework.php:3387
+#: kleo-framework/options/framework.php:3466
+msgid "System Info"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/extensions/customizer/extension_customizer.php:467
+#: kleo-framework/options/framework.php:1765
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/extensions/customizer/extension_customizer.php:468
+#: kleo-framework/options/framework.php:1773
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/framework.php:1781
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/extensions/customizer/extension_customizer.php:469
+#: kleo-framework/options/framework.php:1789
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/framework.php:2082
+msgid "Default"
+msgstr "Domyślnie"
+
+# @ redux-framework
+#: kleo-framework/options/framework.php:3134
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/framework.php:3213
+msgid "Expand"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/framework.php:3219
+#: kleo-framework/options/framework.php:3527
+msgid "Reset Section"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/framework.php:3221
+#: kleo-framework/options/framework.php:3529
+msgid "Reset All"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/framework.php:3226
+#: kleo-framework/options/framework.php:3534
+msgid "Working..."
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/framework.php:3246
+msgid "Settings Imported!"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/framework.php:3289
+msgid "Settings Saved!"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/framework.php:3307
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/framework.php:3315
+msgid "error(s) were found!"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/framework.php:3323
+msgid "warning(s) were found!"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/import_export.php:78
+msgid "Import / Export Options"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/import_export.php:81
+msgid "Import Options"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/import_export.php:82
+msgid "Import from file"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/import_export.php:85
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/import_export.php:90
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/import_export.php:94
+msgid "Import"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/import_export.php:94
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/import_export.php:97
+msgid "Export Options"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/import_export.php:100
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/import_export.php:104
+msgid "Copy"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/debug.php:54
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/background/field_background.php:124
+#: kleo-framework/options/inc/fields/color/field_color.php:72
+#: kleo-framework/options/inc/fields/color_gradient/field_color_gradient.php:79
+#: kleo-framework/options/inc/fields/color_gradient/field_color_gradient.php:91
+#: kleo-framework/options/inc/fields/color_rgba/field_color_rgba.php:77
+msgid "Transparent"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/background/field_background.php:277
+#: kleo-framework/options/inc/fields/media/field_media.php:112
+msgid "No media selected"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/background/field_background.php:314
+#: kleo-framework/options/inc/fields/media/field_media.php:154
+#: kleo-framework/options/inc/fields/slides/field_slides.php:126
+#: kleo-framework/options/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/background/field_background.php:321
+#: kleo-framework/options/inc/fields/media/field_media.php:161
+#: kleo-framework/options/inc/fields/multi_text/field_multi_text.php:68
+#: kleo-framework/options/inc/fields/multi_text/field_multi_text.php:72
+#: kleo-framework/options/inc/fields/multi_text/field_multi_text.php:75
+#: kleo-framework/options/inc/fields/slides/field_slides.php:133
+#: kleo-framework/options/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr "usunąć"
+
+# @ redux-framework
+# @ kleo_framework
+#: kleo-framework/options/inc/fields/border/field_border.php:114
+#: kleo-framework/options/inc/fields/spacing/field_spacing.php:191
+#: lib/portfolio.php:145
+msgid "All"
+msgstr "wszystko"
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/border/field_border.php:127
+#: kleo-framework/options/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr "top"
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/border/field_border.php:134
+#: kleo-framework/options/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr "Dobrze"
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/border/field_border.php:141
+#: kleo-framework/options/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr "dno"
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/border/field_border.php:148
+#: kleo-framework/options/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr "lewo"
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/border/field_border.php:162
+msgid "Border style"
+msgstr "styl obramowania"
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr "Od"
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr "do"
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/dimensions/field_dimensions.php:161
+msgid "Width"
+msgstr "szerokość"
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/dimensions/field_dimensions.php:188
+#: kleo-framework/options/inc/fields/dimensions/field_dimensions.php:189
+#: kleo-framework/options/inc/fields/spacing/field_spacing.php:245
+#: kleo-framework/options/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr "jednostki"
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr "Dodaj / Edytuj Galerię "
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr "Wyczyść Galerię "
+
+# @ kleo_framework
+#: lib/plugin-woocommerce/config.php:521
+msgid "New"
+msgstr "Nowy "
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/link_color/field_link_color.php:87
+msgid "Regular"
+msgstr "regularny"
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/link_color/field_link_color.php:91
+msgid "Hover"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/link_color/field_link_color.php:95
+msgid "Visited"
+msgstr "odwiedził"
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/link_color/field_link_color.php:99
+msgid "Active"
+msgstr "aktywny"
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/multi_text/field_multi_text.php:60
+msgid "Add More"
+msgstr "Dodaj więcej"
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/select/field_select.php:82
+#: kleo-framework/options/inc/fields/select_image/field_select_image.php:62
+msgid "Select an item"
+msgstr "Wybierz przedmiot"
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/select/field_select.php:126
+#: kleo-framework/options/inc/fields/select_image/field_select_image.php:143
+msgid "No items of this type were found."
+msgstr "Brak elementów"
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/slides/field_slides.php:145
+#: kleo-framework/options/inc/fields/slides/field_slides.php:200
+msgid "Title"
+msgstr "tytuł"
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/slides/field_slides.php:149
+#: kleo-framework/options/inc/fields/slides/field_slides.php:204
+msgid "Description"
+msgstr "opis"
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/slides/field_slides.php:153
+#: kleo-framework/options/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/typography/field_typography.php:257
+msgid "Font family"
+msgstr "Rodzina czcionek"
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/typography/field_typography.php:832
+msgid "Standard Fonts"
+msgstr "Czcionki standardowa"
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/typography/field_typography.php:298
+#: kleo-framework/options/inc/fields/typography/field_typography.php:305
+msgid "Font style"
+msgstr "Krój czcionki"
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/typography/field_typography.php:305
+msgid "Style"
+msgstr "styl"
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/typography/field_typography.php:345
+msgid "Font subsets"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/typography/field_typography.php:348
+msgid "Subsets"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/typography/field_typography.php:348
+msgid "Font script"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/typography/field_typography.php:456
+msgid "Size"
+msgstr "rozmiar"
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/dimensions/field_dimensions.php:177
+#: kleo-framework/options/inc/fields/typography/field_typography.php:465
+msgid "Height"
+msgstr "Wysokość"
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/typography/field_typography.php:473
+#: kleo-framework/options/inc/fields/typography/field_typography.php:474
+msgid "Word Spacing"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/typography/field_typography.php:482
+#: kleo-framework/options/inc/fields/typography/field_typography.php:483
+msgid "Letter Spacing"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/typography/field_typography.php:283
+#: kleo-framework/options/inc/fields/typography/field_typography.php:284
+msgid "Backup Font Family"
+msgstr "Kopia zapasowa Rodzina czcionki"
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/typography/field_typography.php:503
+msgid "Font color"
+msgstr "Kolor czcionki"
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/typography/field_typography.php:939
+msgid "Google Webfonts"
+msgstr "Google Web Fonts"
+
+# @ redux-framework
+#: kleo-framework/options/inc/tracking.php:130
+msgid "Help improve Our Panel"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/tracking.php:136
+msgid "Allow tracking"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/tracking.php:141
+msgid "Do not allow tracking"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/validation/color/validation_color.php:15
+#: kleo-framework/options/inc/validation/color_rgba/validation_color_rgba.php:14
+#: kleo-framework/options/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/validation/email/validation_email.php:16
+#: kleo-framework/options/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr "Musisz podać adres email dla tej opcji."
+
+# @ redux-framework
+#: kleo-framework/options/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/validation/numeric/validation_numeric.php:16
+#: kleo-framework/options/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:465
+msgid "Main Layout"
+msgstr "Główny układ"
+
+# @ kleo_framework
+#: lib/options.php:466
+msgid ""
+"Select main content and sidebar alignment. Choose between 1, 2 or 3 column "
+"layout."
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:412
+msgid "Footer Text"
+msgstr "Stopka Tekst"
+
+# @ kleo_framework
+#: lib/featured-content/featured-content.php:408
+msgid "Featured Content"
+msgstr "Ciekawa zawartość"
+
+# @ kleo_framework
+#: lib/featured-content/featured-content.php:409
+#, php-format
+msgid ""
+"Use the <a href=\"%1$s\">\"featured\" tag</a> to feature your posts. You can "
+"change this to a tag of your choice; if no posts match the tag, <a href="
+"\"%2$s\">sticky posts</a> will be displayed instead."
+msgstr ""
+
+# @ kleo_framework
+#: lib/featured-content/featured-content.php:428
+msgid "Tag Name"
+msgstr "Nazwa znacznika"
+
+# @ kleo_framework
+#: lib/featured-content/featured-content.php:433
+msgid "Don&rsquo;t display tag on front end."
+msgstr ""
+
+# @ kleo_framework
+#: lib/item-likes.php:160
+msgid "Displays your most popular posts sorted by most liked"
+msgstr ""
+
+# @ kleo_framework
+#: lib/item-likes.php:217
+msgid "Popular Posts"
+msgstr "Popularne posty "
+
+# @ kleo_framework
+#: lib/item-likes.php:236
+msgid "Description:"
+msgstr "Opis:"
+
+# @ kleo_framework
+#: lib/item-likes.php:240
+msgid "Posts:"
+msgstr "Wiadomości:"
+
+# @ kleo_framework
+#: lib/item-likes.php:245
+msgid "Display like counts"
+msgstr ""
+
+# @ kleo_framework
+#: lib/metaboxes.php:388
+msgid "Testimonial - Author description"
+msgstr "Referencje - Opis Autor"
+
+# @ kleo_framework
+#: lib/options.php:300
+msgid "General settings"
+msgstr "Ustawienia Ogólne"
+
+# @ kleo_framework
+#: lib/options.php:301
+msgid ""
+"<p class=\"description\">Here you will set your site-wide preferences.</p>"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:307
+msgid "Enable maintenance mode."
+msgstr "Włącz tryb konserwacji."
+
+# @ kleo_framework
+#: lib/options.php:308
+msgid "Site visitors will see a banner with the message you set bellow."
+msgstr ""
+"Goście mogą zobaczyć transparent z wiadomości, która poniżej ustawiona "
+
+# @ kleo_framework
+#: lib/options.php:315
+msgid "Message to show in maintenance mode"
+msgstr "Wiadomość pokazać w trybie konserwacji"
+
+# @ kleo_framework
+#: lib/options.php:326
+msgid "Logo"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:327
+msgid "Upload your own logo."
+msgstr "Dodaj własne logo."
+
+# @ kleo_framework
+#: lib/options.php:335
+msgid "Logo Retina"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:336
+msgid ""
+"Upload retina logo. This is optional and should be double in size than "
+"normal logo."
+msgstr ""
+"Dodaj siatkówki logo. Jest to opcjonalne i powinny być dwukrotnie w "
+"rozmiarze niż normalnego logo."
+
+# @ kleo_framework
+#: lib/options.php:343
+msgid "Favicon"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:344
+msgid "image that will be used as favicon (32px32px)."
+msgstr "Obraz, który będzie używany jako (32px32px)."
+
+# @ kleo_framework
+#: lib/options.php:352
+msgid "Apple Iphone Icon"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:353
+msgid "Apple Iphone Icon (57px 57px)."
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:361
+msgid "Apple Iphone Retina Icon"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:362
+msgid "Apple Iphone Retina Icon (114px 114px)."
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:370
+msgid "Apple iPad Icon"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:371
+msgid "Apple Iphone Retina Icon (72px 72px)."
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:379
+msgid "Apple iPad Retina Icon"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:380
+msgid "Apple iPad Retina Icon (144px 144px)."
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:395
+msgid "Quick css"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:396
+msgid "Place you custom css here"
+msgstr "Można umieścić własne pliki CSS tutaj"
+
+# @ kleo_framework
+#: lib/options.php:403
+msgid "Enable socket text"
+msgstr "Włącz tekst gniazda"
+
+# @ kleo_framework
+#: lib/options.php:404
+msgid "Enable text under the footer widgets area"
+msgstr "Włącz tekst pod widgetów obszaru stopki"
+
+# @ kleo_framework
+#: lib/options.php:413
+msgid ""
+"You can use shortcodes in your footer text like: [site-url] [current-year]"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:423
+msgid "Layout settings"
+msgstr "ustawienia układu"
+
+# @ kleo_framework
+#: lib/options.php:424
+msgid "<p class=\"description\">Here you set options for the layout.</p>"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:431
+msgid "Site Layout"
+msgstr "Układ strony"
+
+# @ kleo_framework
+#: lib/options.php:432
+msgid "Select between wide or boxed site layout"
+msgstr "Wybierz między szerokim lub pudełkowej układu strony"
+
+# @ kleo_framework
+#: lib/options.php:454
+msgid "- Background"
+msgstr "- Tło"
+
+# @ kleo_framework
+#: lib/options.php:455
+msgid "Select your boxed background"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:498
+msgid "Enable Go Up button"
+msgstr "Włącz przycisk Idź"
+
+# @ kleo_framework
+#: lib/options.php:499
+msgid ""
+"Enable or disable the button in the right down corner that takes you to the "
+"top of the screen."
+msgstr ""
+"Włącz lub wyłącz przycisk w prawym dolnym rogu, który zabierze cię do góry "
+"ekranu."
+
+# @ kleo_framework
+#: lib/options.php:507 lib/options.php:1459
+msgid "Page Title location"
+msgstr "Strona tytułowa lokalizacja"
+
+# @ kleo_framework
+#: lib/options.php:508 lib/options.php:1460
+msgid ""
+"Choose where to show page title. In the breadcrumb section or in the main "
+"content"
+msgstr ""
+"Wybierz gdzie pokazać tytuł strony. W sekcji nawigacyjnej lub w głównej "
+"zawartości"
+
+# @ kleo_framework
+#: lib/options.php:516
+msgid "Enable Contact form"
+msgstr "Włącz Formularz kontaktowy"
+
+# @ kleo_framework
+#: lib/options.php:517
+msgid "Enable or disable the contact form bottom screen"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:524
+msgid "TO email"
+msgstr "na e-mail"
+
+# @ kleo_framework
+#: lib/options.php:525
+msgid "Enter a valid email address where the emails are sent to"
+msgstr "Wpisz adres e-mail, w których e-maile są wysyłane do"
+
+# @ kleo_framework
+#: lib/options.php:534
+msgid "Contact form title"
+msgstr "Formularz kontaktowy tytuł"
+
+# @ kleo_framework
+#: lib/options.php:543
+msgid "Contact form text"
+msgstr "Formularz kontaktowy tekst"
+
+# @ kleo_framework
+#: lib/options.php:568
+msgid "Header options"
+msgstr "opcje nagłówka"
+
+# @ kleo_framework
+#: lib/options.php:569
+msgid "<p class=\"description\">Customize header appearance</p>"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:609
+msgid "Display top bar"
+msgstr "Wyświetlić pasek górny"
+
+# @ kleo_framework
+#: lib/options.php:610
+msgid ""
+"Enable or disable the top bar.<br> See Social icons tab to enable the social "
+"icons inside it.<br> Set a Top menu from  Appearance - Menus "
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:616
+msgid "Show language switch"
+msgstr "Przełącznik Pokaż język"
+
+# @ kleo_framework
+#: lib/options.php:617
+msgid "Works only when WPML plugin is enabled."
+msgstr "Plugin działa tylko wtedy, gdy włączona jest WPML."
+
+# @ kleo_framework
+#: lib/options.php:623
+msgid "Sticky Top menu"
+msgstr "Przyklejony Top Menu"
+
+# @ kleo_framework
+#: lib/options.php:624
+msgid "Enable or disable the sticky menu."
+msgstr "Włączyć lub wyłączyć lepkie menu."
+
+# @ kleo_framework
+#: lib/options.php:631
+msgid "Resize logo on scroll"
+msgstr "Zmiana rozmiaru logo "
+
+# @ kleo_framework
+#: lib/options.php:632
+msgid "Enable or disable logo resizing when scrolling down the page"
+msgstr ""
+"Włączyć lub wyłączyć logo zmiana rozmiaru podczas przewijania w dół strony"
+
+# @ kleo_framework
+#: lib/options.php:639
+msgid "Transparent Main Menu"
+msgstr "Przejrzyste Menu główne"
+
+# @ kleo_framework
+#: lib/options.php:640
+msgid "Enable or disable main menu background transparency"
+msgstr "Włącz lub wyłącz główny przejrzystości tło menu"
+
+# @ kleo_framework
+#: lib/options.php:646
+msgid "Ajax Search in menu"
+msgstr "Ajax Szukaj w menu"
+
+# @ kleo_framework
+#: lib/options.php:648
+msgid "Enable or disable the button for search."
+msgstr "Włącz lub wyłącz przycisk wyszukiwania."
+
+# @ kleo_framework
+#: lib/options.php:672 lib/options.php:1467
+msgid "Show breadcrumb"
+msgstr "Pokaż nawigację "
+
+# @ kleo_framework
+#: lib/options.php:673 lib/options.php:1468
+msgid "Enable or disable the site path under the page title."
+msgstr "Włącza lub wyłącza ścieżkę strony pod tytułem strony."
+
+# @ kleo_framework
+#: lib/options.php:679 lib/options.php:1481
+msgid "Main menu info"
+msgstr "Główne informacje menu "
+
+# @ kleo_framework
+#: lib/options.php:1483
+msgid "This text displays next to the main menu"
+msgstr "Niniejszy tekst wyświetla się obok głównego menu"
+
+# @ kleo_framework
+#: lib/options.php:807
+msgid "<p class=\"description\">Settings related to blog</p>"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:814
+msgid "Select your blog layout. Choose between 1, 2 or 3 column layout."
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:828
+msgid "Categories/Archives Layout"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:829
+msgid ""
+"Select your blog categories layout. Choose between 1, 2 or 3 column layout."
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:861
+msgid "Display type"
+msgstr "Typ wyświetlacza"
+
+# @ kleo_framework
+#: lib/options.php:862
+msgid "How your blog posts will display"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:895
+msgid "Featured content display type"
+msgstr "Ciekawa treść Rodzaj wyświetlacza"
+
+# @ kleo_framework
+#: lib/options.php:929
+msgid "If enabled it will show post info like author, categories"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:957
+msgid "Enable related posts"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:958
+msgid "Display related posts in single blog entry"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1010
+msgid "Enable Social share"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1036
+msgid "Enable post likes"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1037
+msgid "Allow people to like your post"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1044
+msgid "Exclude IDs"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1045
+msgid "List of Post IDs separated by comma to exclude from showing likes"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1052
+msgid "Enable Likes by Ajax"
+msgstr "Włącz Likes przez Ajax"
+
+# @ kleo_framework
+#: lib/options.php:1060
+msgid "0 likes text"
+msgstr "0 likes tekst"
+
+# @ kleo_framework
+#: lib/options.php:1061
+msgid "Text to show in case the post has no likes"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1069
+msgid "1 like text"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1070
+msgid "Text to show in case the post has 1 like"
+msgstr "Tekst do wyświetlenia w przypadku post ma 1 like"
+
+# @ kleo_framework
+#: lib/options.php:1077 lib/options.php:1085
+msgid "More than 1 like text"
+msgstr "ponad 1 like "
+
+# @ kleo_framework
+#: lib/options.php:1078
+msgid "Text to show in case the post has more than 1 like"
+msgstr "Tekst do wyświetlenia w przypadku post ma więcej niż 1 like"
+
+# @ kleo_framework
+#: lib/options.php:1086
+msgid "Text to show in case user has already liked the post"
+msgstr "Tekst do wyświetlenia w przypadku użytkownik już lubił post"
+
+# @ kleo_framework
+#: lib/options.php:1145
+msgid "Styling options"
+msgstr "Opcje stylizacji"
+
+# @ kleo_framework
+#: lib/options.php:1209
+msgid "Fonts"
+msgstr "Czcionki"
+
+# @ kleo_framework
+#: lib/options.php:1210
+msgid ""
+"<p class=\"description\">Customize font options for body text and headings.</"
+"p>"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1349
+msgid "Buddypress"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1350
+msgid "<p class=\"description\">Buddypress related settings</p>"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1357
+msgid "Default Layout"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1358
+msgid ""
+"Select your Buddypress pages layout. Choose between 1, 2 or 3 column layout."
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1373
+msgid "Members Directory Layout"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1374
+msgid ""
+"Select your Buddypress Members directory layout. Choose between 1, 2 or 3 "
+"column layout."
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1390
+msgid "Member Profile Layout"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1391
+msgid ""
+"Select your Member profile layout. Choose between 1, 2 or 3 column layout."
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1407
+msgid "Groups Layout"
+msgstr "Układ grup"
+
+# @ kleo_framework
+#: lib/options.php:1408
+msgid ""
+"Select your Groups pages layout. Choose between 1, 2 or 3 column layout."
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1424
+msgid "Activity Layout"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1425
+msgid ""
+"Select your Activity pages layout. Choose between 1, 2 or 3 column layout."
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1490
+msgid "Enable online status"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1491
+msgid "If enabled it will show a colored dot next to each member avatar"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1504
+msgid "Members per page"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1505
+msgid "How many members to show per page in the Members Directory"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1511
+msgid "Groups per page"
+msgstr "Grupy na stronie"
+
+# @ kleo_framework
+#: lib/options.php:1512
+msgid "How many groups to show per page in the Groups Directory"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1761
+msgid "Memberships"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1762
+msgid ""
+"<p class=\"description\">Settings related to membership. You need to have "
+"Paid Memberships Pro plugin activated</p>"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1767
+msgid "Membership settings"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1784
+msgid "Miscellaneous"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1790
+msgid "Admin toolbar"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1791
+msgid "Enable or disable wordpress default top toolbar"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1808
+msgid "Facebook integration"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1809
+msgid "Enable or disable Login/Register with Facebook"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1815
+msgid "Facebook APP ID"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1816
+msgid ""
+"In order to integrate with Facebook you need to enter your Facebook APP "
+"ID<br/>If you don't have one, you can create it from: <a target=\"_blank\" "
+"href=\"https://developers.facebook.com/apps\">HERE</a> "
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1823
+msgid "Show Facebook avatar"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1824
+msgid ""
+"If you enable this, users that registered with Facebook will display "
+"Facebook profile image as avatar."
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1831
+msgid "Enable Registration via Facebook"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1832
+msgid ""
+"If you enable this, users will be able to register a new account using "
+"Facebook. This skips the registration page including required profile fields"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1858
+msgid "Social Info"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1859
+msgid ""
+"<p class=\"description\">Here you can set your contact info that will "
+"display in the top bar.</p>"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1865
+msgid "Display social icons"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1866
+msgid "Enable or disable the social icons in top bar."
+msgstr ""
+
+# @ kleo_framework
+# @ yit
+#: lib/options.php:1873 lib/plugin-woocommerce/config.php:653
+msgid "Twitter"
+msgstr ""
+
+# @ kleo_framework
+# @ yit
+#: lib/options.php:1881 lib/plugin-woocommerce/config.php:650
+msgid "Facebook"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1889
+msgid "Dribbble"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1897
+msgid "Vimeo"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1905
+msgid "Tumblr"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1913
+msgid "LinkedIn"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1921
+msgid "Google+"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1929
+msgid "Flickr"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1937
+msgid "YouTube"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1945
+msgid "Pinterest"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1953
+msgid "Foursquare"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1961
+msgid "Instagram"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1969
+msgid "GitHub"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1977
+msgid "Xing"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1988
+msgid "Theme update"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1989
+msgid ""
+"<p class=\"description\">To automatically get theme updates you need to "
+"enter the username and API KEY from your Themeforest account.<br>Please make "
+"a backup of current files each time you do a theme update.</p>"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1994
+msgid "Themeforest Username"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:2001
+msgid "Themeforest API KEY"
+msgstr ""
+
+# @ kleo_framework
+#: lib/plugin-pmpro/config.php:15
+msgid "Members directory restriction"
+msgstr ""
+
+# @ kleo_framework
+#: lib/plugin-pmpro/config.php:16
+msgid "View members directory"
+msgstr ""
+
+# @ kleo_framework
+#: lib/plugin-pmpro/config.php:20
+msgid "Restrict viewing other profiles"
+msgstr ""
+
+# @ kleo_framework
+#: lib/plugin-pmpro/config.php:21
+msgid "View members profile"
+msgstr ""
+
+# @ kleo_framework
+#: lib/plugin-pmpro/config.php:25
+msgid "Groups directory restriction"
+msgstr ""
+
+# @ kleo_framework
+#: lib/plugin-pmpro/config.php:26
+msgid "Access group directory"
+msgstr ""
+
+# @ kleo_framework
+#: lib/plugin-pmpro/config.php:30
+msgid "Group page restriction"
+msgstr ""
+
+# @ kleo_framework
+#: lib/plugin-pmpro/config.php:31
+msgid "Access to groups"
+msgstr "Dostęp do grup"
+
+# @ kleo_framework
+#: lib/plugin-pmpro/config.php:35
+msgid "Site activity restriction"
+msgstr ""
+
+# @ kleo_framework
+#: lib/plugin-pmpro/config.php:36
+msgid "View site activity"
+msgstr ""
+
+# @ kleo_framework
+#: lib/plugin-pmpro/config.php:40
+msgid "Sending private messages restriction"
+msgstr ""
+
+# @ kleo_framework
+#: lib/plugin-pmpro/config.php:41
+msgid "Send Private messages"
+msgstr "Wysyłanie wiadomości prywatnych"
+
+# @ kleo_framework
+#: lib/plugin-pmpro/config.php:45
+msgid "Restrict users from adding media to their profile using rtMedia"
+msgstr ""
+
+# @ kleo_framework
+#: lib/plugin-pmpro/config.php:46
+msgid "Add media to your profile"
+msgstr "Dodaj multimedia do swojego profilu"
+
+# @ kleo_framework
+#: lib/plugin-pmpro/config.php:276
+msgid "Upgrade account"
+msgstr "Ulepsz konto"
+
+# @ pmpro
+#: lib/plugin-pmpro/config.php:380
+msgid "Restrict All Members"
+msgstr "Ogranicz wszystkich członków "
+
+# @ pmpro
+#: lib/plugin-pmpro/config.php:381
+msgid "Restrict Certain Levels"
+msgstr ""
+
+# @ pmpro
+#: lib/plugin-pmpro/config.php:387
+msgid "Choose Levels to Restrict"
+msgstr "Wybierz poziom, aby ograniczyć "
+
+# @ kleo_framework
+#: lib/plugin-pmpro/config.php:391
+msgid "Not logged in"
+msgstr "Nie zalogowany"
+
+# @ kleo_framework
+#: lib/plugin-pmpro/config.php:392
+msgid "Not members"
+msgstr ""
+
+# @ kleo_framework
+#: lib/plugin-pmpro/config.php:413
+msgid "Show field in memberships table"
+msgstr ""
+
+# @ kleo_framework
+#: lib/plugin-pmpro/config.php:450
+msgid "Popular level"
+msgstr "popularny poziom"
+
+# @ pmpro
+#: lib/plugin-pmpro/config.php:454
+msgid "None"
+msgstr "żaden"
+
+# @ kleo_framework
+#: lib/plugin-pmpro/config.php:470
+msgid "Order in Membership table"
+msgstr "Kolejność w tabeli Członkostwo"
+
+# @ kleo_framework
+#: lib/theme-functions.php:300
+msgid "Permanent Link:"
+msgstr "Stały link:"
+
+# @ kleo_framework
+#: lib/theme-functions.php:612
+msgid "Please try searching by different terms."
+msgstr "Proszę spróbować wyszukiwanie według różnych warunków."
+
+# @ kleo_framework
+#: lib/theme-functions.php:725
+msgid "View all results"
+msgstr "Zobacz wszystkie wyniki"
+
+# @ kleo_framework
+#: lib/theme-functions.php:935
+msgid "Your Name"
+msgstr "Twoje Imię"
+
+# @ kleo_framework
+#: lib/theme-functions.php:936
+msgid "Your Email"
+msgstr "Twój Email"
+
+# @ kleo_framework
+#: lib/theme-functions.php:937
+msgid "Type your message..."
+msgstr "Wpisz wiadomość"
+
+# @ kleo_framework
+#: lib/theme-functions.php:939
+msgid "Send"
+msgstr "Wyślij "
+
+# @ kleo_framework
+#: lib/theme-functions.php:940
+msgid "Sending"
+msgstr "Wysyłanie"
+
+# @ kleo_framework
+#: lib/theme-functions.php:965
+msgid "Please enter your name."
+msgstr "Proszę wpisać swoje imię."
+
+# @ kleo_framework
+#: lib/theme-functions.php:976
+msgid "Please enter your email address."
+msgstr "Podaj swój adres e-mail."
+
+# @ kleo_framework
+#: lib/theme-functions.php:981
+msgid "You entered an invalid email address."
+msgstr "Wprowadzono nieprawidłowy adres e-mail."
+
+# @ kleo_framework
+#: lib/theme-functions.php:992
+msgid "Please enter a message."
+msgstr "Wprowadź treść wiadomości."
+
+# @ kleo_framework
+#: lib/theme-functions.php:1010
+msgid "Contact Form Message"
+msgstr "Formularz kontaktowy Wiadomość"
+
+# @ kleo_framework
+#: lib/theme-functions.php:1013
+msgid "You received a new contact form message:"
+msgstr "Otrzymałeś nową wiadomość z formularza kontaktowego:"
+
+# @ kleo_framework
+#: lib/theme-functions.php:1014
+msgid "Name: "
+msgstr "Imię:"
+
+# @ kleo_framework
+#: lib/theme-functions.php:1015
+msgid "Email: "
+msgstr ""
+
+# @ kleo_framework
+#: lib/theme-functions.php:1016
+msgid "Message: "
+msgstr "Wiadomość:"
+
+# @ kleo_framework
+#: lib/theme-functions.php:1024
+msgid "Thank you. Your message has been sent."
+msgstr "Dziękuję. Twoja wiadomość została wysłana."
+
+# @ kleo_framework
+#: lib/theme-functions.php:1030
+msgid "Mail couldn't be sent. Please try again!"
+msgstr "Poczta nie może zostać wysłany. Proszę spróbuj ponownie!"
+
+# @ kleo_framework
+#: lib/theme-functions.php:1036
+msgid "Unknown error ocurred. Please try again!"
+msgstr "Wystąpił nieznany błąd. Proszę spróbuj ponownie!"
+
+# @ kleo_framework
+#: lib/theme-functions.php:1175
+msgid "<span id=\"older-nav\">Go to article</span>"
+msgstr "<span id=\"older-nav\">Przejdź do artykułu</span>"
+
+# @ kleo_framework
+#: lib/theme-functions.php:1271 lib/theme-functions.php:1295
+#: page-parts/general-popups.php:14
+msgid "or"
+msgstr "lub "
+
+# @ kleo_framework
+#: page-parts/general-header-section.php:99
+msgid "Toggle navigation"
+msgstr "Przełącz nawigację "
+
+# @ kleo_framework
+#: page-parts/post-content-masonry.php:197
+#: page-parts/post-content-small.php:198
+msgid "Read more"
+msgstr "Czytaj więcej "
+
+# @ kleo_framework
+#: page-parts/posts-related.php:14
+msgid "Related Articles"
+msgstr "Powiązane artykuły "
+
+# @ pmpro
+#: paid-memberships-pro/pages/billing.php:14
+#, php-format
+msgid "Logged in as <strong>%s</strong>."
+msgstr "Zalogowany jako <strong>%s</strong>."
+
+# @ pmpro
+#: paid-memberships-pro/pages/billing.php:14
+msgid "logout"
+msgstr "Wyloguj"
+
+# @ pmpro
+#: paid-memberships-pro/pages/account.php:12
+#: paid-memberships-pro/pages/billing.php:16
+msgid "Level"
+msgstr "poziom"
+
+# @ pmpro
+#: paid-memberships-pro/pages/account.php:14
+#: paid-memberships-pro/pages/billing.php:18
+msgid "Membership Fee"
+msgstr "Opłata członkowska"
+
+# @ pmpro
+#: paid-memberships-pro/pages/account.php:29
+#: paid-memberships-pro/pages/billing.php:29
+msgid "Duration"
+msgstr "czas trwania"
+
+# @ pmpro
+#: paid-memberships-pro/pages/billing.php:39
+msgid ""
+"Your payment subscription is managed by PayPal. Please <a href=\"http://www."
+"paypal.com\">login to PayPal here</a> to update your billing information."
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/account.php:94
+#: paid-memberships-pro/pages/billing.php:58
+#: paid-memberships-pro/pages/checkout.php:329
+#: paid-memberships-pro/pages/confirmation.php:61
+msgid "Billing Address"
+msgstr "Adres rozliczeniowy"
+
+# @ pmpro
+#: paid-memberships-pro/pages/billing.php:73
+#: paid-memberships-pro/pages/checkout.php:344
+msgid "Address 1"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/billing.php:77
+#: paid-memberships-pro/pages/checkout.php:348
+msgid "Address 2"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/billing.php:78
+msgid "optional"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/billing.php:87
+#: paid-memberships-pro/pages/checkout.php:358
+msgid "City"
+msgstr "Miasto "
+
+# @ pmpro
+#: paid-memberships-pro/pages/billing.php:91
+#: paid-memberships-pro/pages/checkout.php:362
+msgid "State"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/billing.php:95
+#: paid-memberships-pro/pages/checkout.php:366
+msgid "Postal Code"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/billing.php:104
+#: paid-memberships-pro/pages/checkout.php:375
+msgid "City, State Zip"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/billing.php:157
+#: paid-memberships-pro/pages/checkout.php:428
+msgid "Country"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/billing.php:182
+#: paid-memberships-pro/pages/checkout.php:453
+msgid "Phone"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/billing.php:193
+#: paid-memberships-pro/pages/checkout.php:207
+#: paid-memberships-pro/pages/checkout.php:468
+msgid "E-mail Address"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/billing.php:197
+#: paid-memberships-pro/pages/checkout.php:477
+msgid "Confirm E-mail"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/billing.php:217
+#, php-format
+msgid "We accept %s"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/billing.php:217
+msgid "Credit Card Information"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/billing.php:234
+#: paid-memberships-pro/pages/checkout.php:525
+msgid "Card Type"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/billing.php:244
+#: paid-memberships-pro/pages/checkout.php:535
+msgid "Card Number"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/billing.php:249
+#: paid-memberships-pro/pages/checkout.php:540
+msgid "Expiration Date"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/billing.php:281
+#: paid-memberships-pro/pages/checkout.php:572
+msgctxt "Credit card security code, CVV/CCV/CVV2"
+msgid "CVV"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/billing.php:282
+#: paid-memberships-pro/pages/checkout.php:573
+msgctxt "link to CVV help"
+msgid "what's this?"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/billing.php:309
+msgid ""
+"This subscription is not recurring. So you don't need to update your billing "
+"information."
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/checkout.php:26
+msgid ""
+"Almost done. Review the membership information and pricing below then "
+"<strong>click the \"Complete Payment\" button</strong> to finish your order."
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/checkout.php:33
+msgctxt "change membership level link"
+msgid "change"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/checkout.php:33
+#: paid-memberships-pro/pages/confirmation.php:47
+#: paid-memberships-pro/pages/confirmation.php:64
+#: paid-memberships-pro/pages/confirmation.php:105
+msgid "Membership Level"
+msgstr "Poziom członkostwo "
+
+# @ pmpro
+#: paid-memberships-pro/pages/checkout.php:41
+#, php-format
+msgid "You have selected the <strong>%s</strong> membership level."
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/checkout.php:51
+#, php-format
+msgid ""
+"<p class=\"pmpro_level_discount_applied\">The <strong>%s</strong> code has "
+"been applied to your order.</p>"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/checkout.php:62
+msgid "Click here to change your discount code"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/checkout.php:64
+msgid "Do you have a discount code?"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/checkout.php:64
+msgid "Click here to enter your discount code"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/checkout.php:66
+#: paid-memberships-pro/pages/checkout.php:76
+#: paid-memberships-pro/pages/checkout.php:581
+#: paid-memberships-pro/pages/confirmation.php:52
+msgid "Discount Code"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/checkout.php:78
+#: paid-memberships-pro/pages/checkout.php:583
+msgid "Apply"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/checkout.php:163
+msgid "Already have an account?"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/checkout.php:163
+msgid "Log in here"
+msgstr "Zaloguj się tutaj"
+
+# @ pmpro
+#: paid-memberships-pro/pages/checkout.php:163
+msgid "Account Information"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/checkout.php:216
+msgid "Confirm E-mail Address"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/checkout.php:235
+msgid "Full Name"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/checkout.php:236
+msgid "LEAVE THIS BLANK"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/checkout.php:260
+#, php-format
+msgid ""
+"You are logged in as <strong>%s</strong>. If you would like to use a "
+"different account for this membership, <a href=\"%s\">log out now</a>."
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/checkout.php:292
+#, php-format
+msgid "I agree to the %s"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/checkout.php:307
+msgid "Choose your Payment Method"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/checkout.php:315
+msgid "Check Out with a Credit Card Here"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/checkout.php:317
+#: paid-memberships-pro/pages/checkout.php:690
+msgid "Check Out with PayPal"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/checkout.php:508
+#, php-format
+msgid "We Accept %s"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/checkout.php:508
+msgid "Payment Information"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/checkout.php:682
+msgid "Complete Payment"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/checkout.php:696
+msgid "Submit and Pay with 2CheckOut"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/checkout.php:696
+msgid "Submit and Check Out"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/checkout.php:696
+msgid "Submit and Confirm"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/checkout.php:702
+msgid "Processing..."
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/confirmation.php:12
+msgid ""
+"Your payment has been submitted. Your membership will be activated shortly."
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/confirmation.php:14
+#, php-format
+msgid "Thank you for your membership to %s. Your %s membership is now active."
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/confirmation.php:28
+#, php-format
+msgid ""
+"Below are details about your membership account and a receipt for your "
+"initial membership invoice. A welcome email with a copy of your initial "
+"membership invoice has been sent to %s."
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/confirmation.php:41
+#, php-format
+msgctxt "Invoice # header. E.g. Invoice #ABCDEF on 2013-01-01."
+msgid "Invoice #%s on %s"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/confirmation.php:43
+msgid "Print"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/account.php:33
+#: paid-memberships-pro/pages/confirmation.php:49
+msgid "Membership Expires"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/account.php:109
+#: paid-memberships-pro/pages/confirmation.php:63
+msgid "Payment Method"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/confirmation.php:65
+msgid "Total Billed"
+msgstr ""
+
+# @ credit card type {ending in} xxxx
+#: paid-memberships-pro/pages/confirmation.php:82
+msgid "ending in"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/confirmation.php:83
+msgid "Expiration"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/confirmation.php:97
+#, php-format
+msgid ""
+"Below are details about your membership account. A welcome email with has "
+"been sent to %s."
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/confirmation.php:105
+msgctxt "User without membership is in {pending} status."
+msgid "Pending"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/confirmation.php:113
+msgid "View Your Membership Account &rarr;"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/confirmation.php:115
+msgid ""
+"If your account is not activated within a few minutes, please contact the "
+"site owner."
+msgstr ""
+
+# @ woocommerce
+# @ pmpro
+#: lib/plugin-woocommerce/config.php:512
+#: paid-memberships-pro/pages/levels.php:91
+msgid "Free"
+msgstr ""
+
+# @ kleo_framework
+#: paid-memberships-pro/pages/levels.php:99
+#, php-format
+msgctxt ""
+"Recurring payment in cost text generation. E.g. $5 every month for 2 more "
+"payments."
+msgid "%s per %s for %d more %s."
+msgstr ""
+
+# @ kleo_framework
+#: paid-memberships-pro/pages/levels.php:103
+#, php-format
+msgctxt ""
+"Recurring payment in cost text generation. E.g., $5 every 2 months for 2 "
+"more payments."
+msgid "%s every %d %s for %d more %s."
+msgstr ""
+
+# @ kleo_framework
+#: paid-memberships-pro/pages/levels.php:108
+#, php-format
+msgctxt "Recurring payment in cost text generation. E.g. $5 after 2 months."
+msgid "%s after %d %s."
+msgstr ""
+
+# @ kleo_framework
+#: paid-memberships-pro/pages/levels.php:114
+#, php-format
+msgctxt "Recurring payment in cost text generation. E.g. $5 every month."
+msgid "%s per %s."
+msgstr ""
+
+# @ kleo_framework
+#: paid-memberships-pro/pages/levels.php:118
+#, php-format
+msgctxt "Recurring payment in cost text generation. E.g., $5 every 2 months."
+msgid "%s every %d %s."
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/levels.php:130
+msgctxt "Trial payment in cost text generation."
+msgid "After your initial payment, your first payment is Free."
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/levels.php:134
+#, php-format
+msgctxt "Trial payment in cost text generation."
+msgid "After your initial payment, your first %d payments are Free."
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/levels.php:141
+#, php-format
+msgctxt "Trial payment in cost text generation."
+msgid "After your initial payment, your first payment will cost %s."
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/levels.php:145
+#, php-format
+msgctxt ""
+"Trial payment in cost text generation. E.g. ... first 2 payments will cost $5"
+msgid "After your initial payment, your first %d payments will cost %s."
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/levels.php:162
+msgid "0"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/levels.php:188
+msgid "unavailable"
+msgstr "niedostępne"
+
+# @ kleo_framework
+#: paid-memberships-pro/pages/levels.php:198
+#: paid-memberships-pro/pages/levels.php:200
+msgid "Select"
+msgstr "Wybierz"
+
+# @ pmpro
+#: paid-memberships-pro/pages/levels.php:202
+msgid "Your&nbsp;Level"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/levels.php:219
+msgid "&larr; Return to Your Account"
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/levels.php:221
+msgid "&larr; Return to Home"
+msgstr ""
+
+# @ js_composer
+#: _vc_templates/vc_accordion_tab.php:5
+msgid "Section"
+msgstr "rozdział"
+
+# @ js_composer
+#: _vc_templates/vc_accordion_tab.php:72 _vc_templates/vc_tab.php:18
+msgid "Empty section. Edit page to add content here."
+msgstr ""
+
+# @ js_composer
+#: _vc_templates/vc_toggle.php:4
+msgid "Click to toggle"
+msgstr ""
+
+# @ kleo_framework
+#: kleo-framework/lib/function-core.php:307
+msgid "&laquo;"
+msgstr ""
+
+# @ kleo_framework
+#: kleo-framework/lib/function-core.php:308
+msgid "&raquo;"
+msgstr ""
+
+# @ kleo_framework
+#: lib/menu-custom.php:171
+#: lib/plugin-menu-items-visibility-control/config.php:40
+msgid "Enable Mega Menu for child items."
+msgstr "Włącz Mega Menu dla elementów podrzędnych."
+
+# @ kleo_framework
+#: lib/metaboxes.php:371
+msgid "Clients - link"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:935
+msgid "Display media on post page"
+msgstr "Wyświetlanie nośników na stronie postu "
+
+# @ kleo_framework
+#: lib/options.php:936
+msgid ""
+"If you want to show image/gallery/video/audio before the post on single page"
+msgstr ""
+
+# @ kleo_framework
+#: lib/post-types.php:15
+msgid "Client"
+msgstr ""
+
+# @ kleo_framework
+#: lib/post-types.php:15
+msgid "Clients"
+msgstr ""
+
+# @ kleo_framework
+#: lib/post-types.php:16
+msgid "Testimonial"
+msgstr "Referencje"
+
+# @ kleo_framework
+#: lib/post-types.php:16
+msgid "Testimonials"
+msgstr ""
+
+# @ kleo_framework
+#: lib/post-types.php:183
+#, php-format
+msgctxt "post type general name"
+msgid "%s"
+msgstr ""
+
+# @ kleo_framework
+#: lib/post-types.php:184
+#, php-format
+msgctxt "post type singular name"
+msgid "%s"
+msgstr ""
+
+# @ kleo_framework
+#: lib/post-types.php:185
+#, php-format
+msgctxt ""
+msgid "Add New %s"
+msgstr "Dodaj nowy %s"
+
+# @ kleo_framework
+#: lib/post-types.php:186
+#, php-format
+msgid "Add New %s"
+msgstr "Dodaj nowy %s"
+
+# @ kleo_framework
+#: lib/post-types.php:187
+#, php-format
+msgid "Edit %s"
+msgstr "Edycja %s"
+
+# @ redux-framework
+# @ kleo_framework
+#: kleo-framework/options/inc/fields/slides/field_slides.php:73
+#: lib/post-types.php:188
+#, php-format
+msgid "New %s"
+msgstr "Nowa %s"
+
+# @ kleo_framework
+#: lib/post-types.php:189
+#, php-format
+msgid "All %s"
+msgstr "Wszystko %s"
+
+# @ kleo_framework
+#: lib/post-types.php:190
+#, php-format
+msgid "View %s"
+msgstr "Zobacz %s"
+
+# @ kleo_framework
+#: lib/post-types.php:191
+#, php-format
+msgid "Search %s"
+msgstr "Szukaj %s"
+
+# @ kleo_framework
+#: lib/post-types.php:192
+#, php-format
+msgid "No %s found"
+msgstr "Nie %s znaleziono "
+
+# @ kleo_framework
+#: lib/post-types.php:193
+#, php-format
+msgid "No %s found in Trash"
+msgstr "Nie %s znaleziono w koszu"
+
+# @ kleo_framework
+#: lib/post-types.php:195
+#, php-format
+msgid "%s"
+msgstr ""
+
+# @ kleo_framework
+#: lib/widgets/recent_posts.php:14
+msgid "Recent posts with thumbnails widget."
+msgstr "Ostatnie posty z miniaturkami widget."
+
+# @ kleo_framework
+#: lib/widgets/recent_posts.php:16
+msgid "(Kleo) Recent posts"
+msgstr "(Kleo) Ostatnie posty"
+
+# @ kleo_framework
+#: lib/widgets/recent_posts.php:147
+msgid "Limit:"
+msgstr "Limit:"
+
+# @ kleo_framework
+#: lib/widgets/recent_posts.php:155
+msgid "Excerpt length:"
+msgstr "Długość fragmentu:"
+
+# @ kleo_framework
+#: lib/widgets/recent_posts.php:169
+msgid "Show from category: "
+msgstr "Pokaż z kategorii:"
+
+# @ kleo_framework
+#: lib/widgets/recent_posts.php:170
+msgid "All categories"
+msgstr "Wszystkie kategorie"
+
+# @ kleo_framework
+#: lib/widgets/recent_posts.php:173
+msgid "Choose the Post Type: "
+msgstr "Wybierz typ postu:"
+
+# @ buddypress
+#: buddypress/members/single/settings/profile.php:19
+msgid "Visibility"
+msgstr "widoczność"
+
+# @ buddypress
+#: buddypress/members/single/settings/profile.php:46
+msgid "Save Settings"
+msgstr "Zapisać ustawienia"
+
+# @ kleo_framework
+#: functions.php:1233
+msgid "Sending info, please wait..."
+msgstr "Wysyłanie informacji, proszę czekać ..."
+
+# @ kleo_framework
+#: functions.php:1452 kleo-framework/lib/function-facebook-login.php:267
+msgid "Login successful, redirecting..."
+msgstr "Zaloguj się, sukces, przekierowanie ..."
+
+# @ kleo_framework
+#: functions.php:1464
+#, php-format
+msgid ""
+"You are already logged in. Please <a href=\"#\" onclick=\"%s\">refresh</a> "
+"page"
+msgstr ""
+"Jesteś już zalogowany.Proszę <a href=\"#\" onclick=\"%s\">refresh</a> strona"
+
+# @ default
+#: functions.php:1542
+msgid "Password reset is not allowed for this user"
+msgstr "Resetowania hasła nie jest dozwolone dla tego użytkownika"
+
+# @ default
+#: functions.php:1571
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+# @ default
+#: functions.php:1573
+#, php-format
+msgid "Username: %s"
+msgstr "Nazwa użytkownika %s"
+
+# @ default
+#: functions.php:1574
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr "Jeśli to był błąd, zignoruj ten e-mail, a nic się nie stanie."
+
+# @ default
+#: functions.php:1575
+msgid "To reset your password, visit the following address:"
+msgstr "Aby zresetować hasło, odwiedź następujący adres:"
+
+# @ default
+#: functions.php:1587
+#, php-format
+msgid "[%s] Password Reset"
+msgstr "[%s] Restartowanie hasła"
+
+# @ kleo_framework
+#: functions.php:1609
+msgid "Failure!"
+msgstr "Niepowodzenie!"
+
+# @ default
+#: functions.php:1610
+msgid "The e-mail could not be sent."
+msgstr "Wiadomość e-mail nie może zostać wysłany."
+
+# @ kleo_framework
+#: functions.php:1614
+msgid "Email successfully sent!"
+msgstr "E-mail wysłany pomyślnie!"
+
+# @ kleo_framework
+#: kleo-framework/lib/function-facebook-login.php:279
+msgid ""
+"Thank you for registering. Please make sure to complete your profile fields "
+"below."
+msgstr ""
+"Dziękujemy za rejestrację. Pamiętaj, aby wypełnić poniżej pola profilu."
+
+# @ redux-framework
+#: kleo-framework/options/extensions/customizer/extension_customizer.php:502
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/extensions/customizer/extension_customizer.php:503
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/extensions/customizer/extension_customizer.php:504
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+"Bieżące opcje zostaną zastąpione przez wartości tego ustawienia. Chcesz "
+"kontynuować?"
+
+# @ redux-framework
+#: kleo-framework/options/framework.php:1796
+msgid "Please Wait"
+msgstr "Proszę czekać"
+
+# @ redux-framework-demo
+#: kleo-framework/options/framework.php:1942
+msgid "Hints"
+msgstr "podpowiedzi"
+
+# @ redux-framework-demo
+#: kleo-framework/options/framework.php:1943
+msgid "<p></p>"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/framework.php:2050
+#: kleo-framework/options/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/framework.php:2057
+#: kleo-framework/options/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/framework.php:3181
+msgid "Developer Mode Enabled"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/framework.php:3261
+msgid "All Defaults Restored!"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/framework.php:3275
+msgid "Section Defaults Restored!"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/class.redux_filesystem.php:22
+msgid "Unable to create a required directory. Please ensure that"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/class.redux_filesystem.php:24
+msgid ""
+"has the proper read/write permissions or enter your FTP information below."
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/class.redux_functions.php:252
+msgid "Dismiss"
+msgstr "odwołać"
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/slides/field_slides.php:167
+#: kleo-framework/options/inc/fields/slides/field_slides.php:220
+#, php-format
+msgid "Delete %s"
+msgstr "Usuń %s"
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr "Dodaj  %s"
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/typography/field_typography.php:256
+msgid "Font Family"
+msgstr "Rodzina czcionek"
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/typography/field_typography.php:299
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/typography/field_typography.php:347
+msgid "Font Subsets"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/typography/field_typography.php:365
+#: kleo-framework/options/inc/fields/typography/field_typography.php:366
+#: kleo-framework/options/inc/fields/typography/field_typography.php:367
+msgid "Text Align"
+msgstr "Tekst Wyrównaj"
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/typography/field_typography.php:388
+#: kleo-framework/options/inc/fields/typography/field_typography.php:389
+#: kleo-framework/options/inc/fields/typography/field_typography.php:390
+msgid "Text Transform"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/typography/field_typography.php:411
+#: kleo-framework/options/inc/fields/typography/field_typography.php:412
+#: kleo-framework/options/inc/fields/typography/field_typography.php:413
+msgid "Font Variant"
+msgstr "Wariant czcionki"
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/typography/field_typography.php:431
+#: kleo-framework/options/inc/fields/typography/field_typography.php:432
+#: kleo-framework/options/inc/fields/typography/field_typography.php:433
+msgid "Text Decoration"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/typography/field_typography.php:455
+#: kleo-framework/options/inc/fields/typography/field_typography.php:456
+msgid "Font Size"
+msgstr "Rozmiar czcionki"
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/typography/field_typography.php:464
+#: kleo-framework/options/inc/fields/typography/field_typography.php:465
+msgid "Line Height"
+msgstr "Wysokość linii"
+
+# @ redux-framework
+#: kleo-framework/options/inc/fields/typography/field_typography.php:501
+msgid "Font Color"
+msgstr "Kolor czcionki"
+
+# @ redux-framework
+#: kleo-framework/options/inc/import_export.php:82
+msgid "Import from URL"
+msgstr "Import z adresu URL"
+
+# @ redux-framework
+#: kleo-framework/options/inc/import_export.php:104
+msgid "Download"
+msgstr "Pobieranie"
+
+# @ redux-framework
+#: kleo-framework/options/inc/import_export.php:104
+msgid "Copy Link"
+msgstr "Skopiuj link"
+
+# @ redux-framework
+#: kleo-framework/options/inc/tracking.php:131
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatability."
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/tracking.php:152
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/tracking.php:153
+msgid "Getting Started"
+msgstr "Rozpoczęcie pracy"
+
+# @ redux-framework
+#: kleo-framework/options/inc/tracking.php:153
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/tracking.php:153
+msgid "our documentation"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/tracking.php:154
+msgid "Redux Generator"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/tracking.php:154
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/tracking.php:155
+msgid "Redux Extensions"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/tracking.php:155
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/tracking.php:155
+msgid "extensions directory"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/tracking.php:156
+msgid "Like Redux?"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/tracking.php:156
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/tracking.php:156
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/tracking.php:156
+msgid "donation"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/tracking.php:157
+msgid "Newsletter"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/tracking.php:157
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+# @ redux-framework
+#: kleo-framework/options/inc/tracking.php:158
+msgid "Email address"
+msgstr "Adres email"
+
+# @ redux-framework
+#: kleo-framework/options/inc/tracking.php:158
+msgid "Subscribe"
+msgstr "subskrybować"
+
+# @ redux-framework
+#: kleo-framework/options/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr "To pole nie może być puste. Proszę podać wartość."
+
+# @ kleo_framework
+#: lib/menu-custom.php:155
+msgid "Choose icon"
+msgstr "Wybierz ikonę"
+
+# @ kleo_framework
+#: lib/menu-custom.php:160
+msgid "Before title"
+msgstr "przed tytułem"
+
+# @ kleo_framework
+#: lib/menu-custom.php:161
+msgid "After title"
+msgstr "po tytule"
+
+# @ kleo_framework
+#: lib/menu-custom.php:162
+msgid "Just the icon"
+msgstr "Tylko ikona"
+
+# @ kleo_framework
+#: lib/menu-items.php:14
+msgid "KLEO"
+msgstr ""
+
+# @ kleo_framework
+#: lib/menu-items.php:81
+msgid "No items available here for the moment"
+msgstr ""
+
+# @ kleo_framework
+#: lib/menu-items.php:90
+msgid ""
+"Some links are relative to the current user, and are not visible to visitors "
+"who are not logged in."
+msgstr ""
+
+# @ kleo_framework
+#: lib/menu-items.php:102
+msgid "Add to Menu"
+msgstr "Dodaj do menu"
+
+# @ kleo_framework
+#: lib/options.php:387
+msgid "JavaScript code"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:388
+msgid ""
+"Paste your Google Analytics, other tracking code or any script you need.<br/"
+"> This will be loaded in the footer."
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:481
+msgid "Main content width for one sidebar templates"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:489
+msgid "Main content width for two sidebars templates"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:595
+msgid "Main Menu Font size"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:596
+msgid "Font size in pixels. Default: 12"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:942
+msgid "Get Featured image from content"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:943
+msgid ""
+"If you have not set a Featured image allow the system to show the first "
+"image from post content on archive pages"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:951
+msgid "Default Featured Image Placeholder"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:952
+msgid ""
+"If your post does not have a Featured image set then show a default image on "
+"archive pages."
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1441
+msgid "Register page Layout"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1442
+msgid ""
+"Select your Register page layout. Choose between 1, 2 or 3 column layout."
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1497
+msgid "Live Notifications interval"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1526
+msgid "Woocommerce"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1533
+msgid "Woocommerce Pages Layout"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1534
+msgid "Select the layout to use in Woocommerce pages."
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1550
+msgid "Woocommerce Category Layout"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1551
+msgid "Select the layout to use in Woocommerce product listing pages."
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1566
+msgid "Menu cart location"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1567
+msgid "Shopping Cart in header menu location"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1577
+msgid "Mobile menu Cart Icon"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1578
+msgid "This will show on mobile menu a shop icon with the number of cart items"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1585
+msgid "Product image effect"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1586
+msgid "The effect on products listing when hovering an image."
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1644
+msgid "Catalog mode"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1645
+msgid ""
+"If you enable catalog mode will disable Add To Cart buttons, Checkout and "
+"Shopping cart."
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1654
+msgid "Disable prices"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1655
+msgid "Disable prices on category pages and product page"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1665
+msgid "Shop Products Columns"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1666
+msgid "Select the number of columns to use for products display."
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1678
+msgid "Shop Products per page"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1679
+msgid "How many products to show per page"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1685
+msgid "Related Products number"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1686
+msgid "Select the number of related products to show on product page."
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1698
+msgid "Upsell Products number"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1699
+msgid "Select the number of upsell products to show on product page."
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1711
+msgid "Cross-sell Products number"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1712
+msgid "Select the number of Cross-sell products to show on cart page."
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1730
+msgid "bbPress"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1736
+msgid "bbPress Pages Layout"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1737
+msgid "Select the layout to use in bbPress pages."
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1797
+msgid "Login redirect for Popup"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1798
+msgid ""
+"Select the redirect action taken when members login from the popup window."
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1800
+msgid "Default WordPress redirect"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1801
+msgid "Reload the current page"
+msgstr ""
+
+# @ kleo_framework
+#: lib/plugin-buddypress/menu-notifications.php:7
+msgid "Live Notifications"
+msgstr ""
+
+# @ kleo_framework
+#: lib/plugin-buddypress/menu-notifications.php:57
+msgid "View Notifications"
+msgstr ""
+
+# @ kleo_framework
+#: lib/plugin-buddypress/menu-notifications.php:116
+#: lib/plugin-buddypress/menu-notifications.php:149
+#: lib/plugin-buddypress/menu-notifications.php:188
+msgid "No new notifications"
+msgstr "Brak nowych powiadomień "
+
+# @ kleo_framework
+#: lib/plugin-buddypress/menu-notifications.php:125
+msgid "Mark all as read"
+msgstr "Oznacz wszystkie jako przeczytane"
+
+# @ woocommerce
+#: lib/plugin-woocommerce/config.php:218
+msgid "Products"
+msgstr ""
+
+# @ kleo_framework
+#: lib/plugin-woocommerce/config.php:288
+msgid "Shop"
+msgstr ""
+
+# @ woocommerce
+#: lib/plugin-woocommerce/config.php:504
+msgid "Out of stock"
+msgstr ""
+
+# @ kleo_framework
+#: lib/plugin-woocommerce/config.php:646 lib/plugin-woocommerce/config.php:720
+msgid "Social share"
+msgstr ""
+
+# @ kleo_framework
+#: lib/plugin-woocommerce/config.php:687 lib/plugin-woocommerce/config.php:692
+msgid "Quick View"
+msgstr ""
+
+# @ kleo_framework
+#: lib/plugin-woocommerce/config.php:795
+msgid "<span id=\"older-nav\">Go back</span>"
+msgstr ""
+
+# @ woocommerce
+#: lib/plugin-woocommerce/config.php:880 lib/plugin-woocommerce/config.php:932
+#: lib/plugin-woocommerce/config.php:937 lib/plugin-woocommerce/config.php:1006
+msgid "View Cart"
+msgstr ""
+
+# @ kleo_framework
+#: lib/plugin-woocommerce/config.php:897
+msgid "in the shopping cart"
+msgstr ""
+
+# @ woocommerce
+#: lib/plugin-woocommerce/config.php:912 woocommerce/cart/cart.php:33
+msgid "Price"
+msgstr ""
+
+# @ woocommerce
+#: lib/plugin-woocommerce/config.php:913 woocommerce/cart/cart.php:34
+msgid "Quantity"
+msgstr ""
+
+# @ woocommerce
+#: lib/plugin-woocommerce/config.php:916 woocommerce/cart/cart.php:52
+msgid "Remove this item"
+msgstr ""
+
+# @ woocommerce
+#: lib/plugin-woocommerce/config.php:923
+msgid "Cart Subtotal"
+msgstr ""
+
+# @ woocommerce
+#: lib/plugin-woocommerce/config.php:933 lib/plugin-woocommerce/config.php:938
+#: woocommerce/cart/cart.php:139
+msgid "Proceed to Checkout"
+msgstr ""
+
+# @ kleo_framework
+#: lib/plugin-woocommerce/config.php:946
+msgid "Your shopping bag is empty."
+msgstr ""
+
+# @ kleo_framework
+#: lib/plugin-woocommerce/config.php:957
+msgid "Go to the shop"
+msgstr ""
+
+# @ kleo_framework
+#: lib/plugin-woocommerce/config.php:982
+msgid "% items"
+msgstr ""
+
+# @ kleo_framework
+#: lib/plugin-woocommerce/config.php:984
+msgid "0 items"
+msgstr ""
+
+# @ kleo_framework
+#: lib/plugin-woocommerce/config.php:986
+msgid "1 item"
+msgstr ""
+
+# @ kleo_framework
+#: lib/plugin-woocommerce/config.php:1065
+msgid "Shopping Cart"
+msgstr ""
+
+# @ kleo_framework
+#: lib/plugin-woocommerce/config.php:1067
+msgid "Checkout details"
+msgstr ""
+
+# @ kleo_framework
+#: lib/plugin-woocommerce/config.php:1069
+msgid "Order Complete"
+msgstr ""
+
+# @ kleo_framework
+#: lib/post-types.php:19
+msgid "Portfolio item"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1217 lib/post-types.php:19
+msgid "Portfolio"
+msgstr ""
+
+# @ kleo_framework
+#: lib/post-types.php:151
+msgctxt "category label"
+msgid "Portfolio Categories"
+msgstr ""
+
+# @ kleo_framework
+#: lib/post-types.php:152
+msgctxt "category singular label"
+msgid "Portfolio Category"
+msgstr ""
+
+# @ kleo_framework
+#: lib/theme-functions.php:1403
+msgid "Top Content"
+msgstr ""
+
+# @ kleo_framework
+#: lib/theme-functions.php:1408
+msgid ""
+"This will be displayed at top of the category page. Shortcodes are allowed."
+msgstr ""
+
+# @ kleo_framework
+#: page-parts/general-popups.php:14
+msgid "Create an account"
+msgstr "Załóż konto"
+
+# @ kleo_framework
+#: page-parts/general-popups.php:25
+msgid "Sign in"
+msgstr "Zaloguj "
+
+# @ kleo_framework
+#: page-parts/general-popups.php:27
+msgid "Remember me"
+msgstr "Zapamiętaj mnie"
+
+# @ kleo_framework
+#: page-parts/general-popups.php:47
+msgid "Forgot your details?"
+msgstr "Nie pamiętasz hasła ?"
+
+# @ kleo_framework
+#: page-parts/general-popups.php:56
+msgid "Reset Password"
+msgstr "Resetuj Hasło"
+
+# @ kleo_framework
+#: page-parts/general-popups.php:57
+msgid "I remember my details"
+msgstr "Pamiętam moje dane"
+
+# @ pmpro
+#: paid-memberships-pro/pages/account.php:10
+msgid "Your membership is <strong>active</strong>."
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/account.php:18
+#, php-format
+msgid "%s every %d %s."
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/account.php:20
+#, php-format
+msgid "%s per %s."
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/account.php:38
+#, php-format
+msgid "Your first payment will cost %s."
+msgstr ""
+
+# @ pmpro
+#: paid-memberships-pro/pages/account.php:42
+#, php-format
+msgid "Your first %d payments will cost %s."
+msgstr ""
+
+# @ kleo_framework
+# @ pmpro
+#: lib/plugin-buddypress/config.php:19
+#: paid-memberships-pro/pages/account.php:50
+msgid "My Account"
+msgstr "Moje konto"
+
+# @ kleo_framework
+#: bbpress/feedback-no-search.php:12
+msgid "No search results were found here!"
+msgstr "Brak wyników wyszukiwania "
+
+# @ kleo_framework
+#: bbpress/feedback-no-search.php:14
+msgid "Go back"
+msgstr "Wróć "
+
+# @ kleo_framework
+#: lib/options.php:442
+msgid "Site Width"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1093
+msgid "Text on icon hover"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1094
+msgid "Text that shows when hovering the icon"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1258
+msgid "Display style for Portfolio page"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1273
+msgid "Title style"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1293
+msgid "Number of items per row"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1301
+msgid "Show categories filter on portfolio page"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1313
+msgid "Thumbnail image size"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1314
+msgid ""
+"Set your portfolio image size in portfolio list. Defined in pixels. If you "
+"are using video items, use a 16:9 size format"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1327
+msgid "Display media on single portfolio page"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1328
+msgid ""
+"If you want to show image/gallery/video before the content on single "
+"portfolio page"
+msgstr ""
+
+# @ kleo_framework
+#: lib/widgets/recent_posts.php:160
+msgid "Display Thumbnail?"
+msgstr "Widok miniatur?"
+
+# @ kleo_framework
+#: _vc_templates/vc_tabs.php:78
+msgid "Previous section"
+msgstr "Poprzednia sekcja"
+
+# @ kleo_framework
+#: _vc_templates/vc_tabs.php:78
+msgid "Next section"
+msgstr "Następna sekcja"
+
+# @ kleo_framework
+#: kleo-framework/lib/function-facebook-login.php:218
+msgid ""
+"Please click again to login with Facebook and allow the application to use "
+"your email address"
+msgstr "Proszę kliknąć ponownie, aby zalogować się przez Facebook"
+
+# @ kleo_framework
+#: lib/menu-items.php:39
+msgid "Login"
+msgstr "Zaloguj się"
+
+# @ kleo_framework
+#: lib/menu-items.php:44
+msgid "Logout"
+msgstr "Wyloguj"
+
+# @ kleo_framework
+#: lib/options.php:656
+msgid "Search context"
+msgstr "Szukaj "
+
+# @ kleo_framework
+#: lib/options.php:813
+msgid "Blog Page Layout"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:845
+msgid ""
+"Select your Blog post page layout. Choose between 1, 2 or 3 column layout."
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1242
+msgid "Portfolio name"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1250
+msgid "Portfolio link"
+msgstr ""
+
+# @ kleo_framework
+#: lib/theme-functions.php:542
+msgid "Start typing to search..."
+msgstr "wpisz... aby wyszukać "
+
+# @ kleo_framework
+#: lib/theme-functions.php:610
+msgid "Sorry, we haven't found anything based on your criteria."
+msgstr "Przepraszamy, ale nie znaleziono niczego w oparciu o podane kryteria."
+
+# @ kleo_framework
+#: lib/theme-functions.php:643
+msgid "View member results"
+msgstr "Zobacz wyniki członkowskie"
+
+# @ kleo_framework
+#: lib/theme-functions.php:747
+msgid "View forum results"
+msgstr "Zobacz wyniki z forum"
+
+# @ kleo_framework
+#: lib/theme-functions.php:1268 lib/theme-functions.php:1292
+msgid "Log in with Facebook"
+msgstr "Zaloguj się przez Facebook"
+
+# @ kleo_framework
+#: page-parts/general-popups.php:9
+msgid "Log in with your credentials"
+msgstr "Zaloguj się używając swojego loginu i hasła "
+
+# @ kleo_framework
+#: functions.php:68 lib/options.php:737
+msgid "Side Menu"
+msgstr "Menu boczne"
+
+# @ kleo_framework
+#: kleo-framework/lib/function-breadcrumb.php:192
+msgid "Browse:"
+msgstr "Przeglądaj:"
+
+# @ kleo_framework
+#: kleo-framework/lib/function-breadcrumb.php:195
+msgid "Archives"
+msgstr "Archiwa "
+
+# @ kleo_framework
+#. Translators: %s is the search query. The HTML entities are opening and closing curly quotes.
+#: kleo-framework/lib/function-breadcrumb.php:197
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Wyniki wyszukiwania dla &#8220;%s&#8221;"
+
+# @ kleo_framework
+#. Translators: Minute archive title. %s is the minute time format.
+#: kleo-framework/lib/function-breadcrumb.php:201
+#, php-format
+msgid "Minute %s"
+msgstr "Minuty %s"
+
+# @ kleo_framework
+#. Translators: Weekly archive title. %s is the week date format.
+#: kleo-framework/lib/function-breadcrumb.php:203
+#, php-format
+msgid "Week %s"
+msgstr "Tydzień %s"
+
+# @ kleo_framework
+#: kleo-framework/lib/function-breadcrumb.php:737
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+# @ kleo_framework
+#: kleo-framework/lib/function-breadcrumb.php:755
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+# @ kleo_framework
+#: kleo-framework/lib/function-breadcrumb.php:773
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+# @ kleo_framework
+#: kleo-framework/lib/function-breadcrumb.php:790
+#: kleo-framework/lib/function-breadcrumb.php:820
+#: kleo-framework/lib/function-breadcrumb.php:848
+#: kleo-framework/lib/function-breadcrumb.php:876
+#: kleo-framework/lib/function-breadcrumb.php:1067
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+# @ kleo_framework
+#: kleo-framework/lib/function-breadcrumb.php:791
+#: kleo-framework/lib/function-breadcrumb.php:849
+#: kleo-framework/lib/function-breadcrumb.php:1071
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+# @ kleo_framework
+#: kleo-framework/lib/function-breadcrumb.php:792
+#: kleo-framework/lib/function-breadcrumb.php:1075
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+# @ kleo_framework
+#: kleo-framework/lib/function-breadcrumb.php:821
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+# @ kleo_framework
+#: lib/importer/import.php:200
+msgid "Please select data to import."
+msgstr "Proszę wybrać dane do zaimportowania."
+
+# @ kleo_framework
+#: lib/importer/import.php:211
+msgid "Import successful. Have fun!"
+msgstr "Import sukces. Baw się dobrze!"
+
+# @ kleo_framework
+#: lib/options.php:267
+#, php-format
+msgid ""
+"<p>Theme customisations are done here. Make sure to <a target=\"_blank\" "
+"href=\"%s\">Import Demo Content</a> first</p>"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:574
+msgid "Header Layout"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:575
+msgid "Select how you want your header format"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:588
+msgid "Header Banner content"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:602
+msgid "Main Menu Height"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:603
+msgid "Set your header height expressed in pixels. Example: 88"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:665
+msgid "Title/Breadcrumb Section"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:666
+msgid ""
+"Settings for the title/breadcrumb section that comes just after the menu."
+"<br>To <strong>Style this section</strong> go to Styling options - Alternate"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:680
+msgid ""
+"This text displays next to the main menu. To disable it just delete the "
+"whole text."
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:687
+msgid "Title/Breadcrumb layout"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:688
+msgid "Select the appearance for the title and breadcrumb section"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:713
+msgid "Padding"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:714
+msgid "Set a top/bottom padding for the title section"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:715
+msgid "Defined in px. Enter values without px"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:738
+msgid "<p class=\"description\">Here you can enable side menu.</p>"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:744
+msgid "Enable side menu on your site"
+msgstr "Włącz menu bocznym na swojej stronie"
+
+# @ kleo_framework
+#: lib/options.php:745
+msgid "This will load the side menu functionality"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:753
+msgid "Add toggle button on your main menu"
+msgstr "Dodaj przycisk przełączania na głównym menu"
+
+# @ kleo_framework
+#: lib/options.php:754
+msgid "It will appear at the end of your primary menu"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:761
+msgid "Replace the default Mobile Menu with the Side Menu"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:762
+msgid ""
+"When you click the menu icon on mobile, the side menu will open instead of "
+"the normal menu"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:769
+msgid "Side menu position"
+msgstr "Pozycja menu bocznego"
+
+# @ kleo_framework
+#: lib/options.php:770
+msgid "Where the side menu will appear"
+msgstr "W przypadku, gdy pojawi się menu bocznego"
+
+# @ kleo_framework
+#: lib/options.php:778
+msgid "Side menu type"
+msgstr "Typ boczne menu"
+
+# @ kleo_framework
+#: lib/options.php:779
+msgid "Type of side menu appearance"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:787
+msgid "Before Menu text"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:795
+msgid "After Menu text"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:844
+msgid "Single Post page Layout"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:870
+msgid "Posts per row"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:871
+msgid "How many columns to have in the grid"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:878
+msgid "Enable Layout Switcher Icons"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:879
+msgid "Let your visitors switch the layout of the Blog page"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:886
+msgid "Enabled Layouts"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:921
+msgid "Display post meta on archive listing"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:922
+msgid ""
+"If you want to show meta info in Blog posts listing like Author, Date, "
+"Category"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:903
+msgid "Featured articles per row"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:928
+msgid "Display post meta in Single post page"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1218
+msgid ""
+"<p class=\"description\">Portfolio related settings. Please re-save "
+"permalinks when changing slugs or archive page.</p>"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1224
+msgid "Custom page for Portfolio Archive"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1234
+msgid "Portfolio Page"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1285
+msgid "Show/Hide subtitle"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1320
+msgid "Portfolio Single Item Page"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1321
+msgid "Settings for portfolio item page"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1334
+msgid "Show back to Portfolio icon(bottom of single portfolio item page)"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1474
+msgid "Custom main menu info"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1475
+msgid "Add a custom text in the main menu to show only on Buddypress pages."
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1596
+msgid "Enable product listing Appear Animation"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1597
+msgid "On product listing the products will have a appear animation."
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1604
+msgid "Show percentage badge on products list"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1605
+msgid "This will replace the \"Sale\" badge with \"SAVE UP TO xx%\""
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1612
+msgid "Custom Badge color"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1620
+msgid "Custom Badge Background"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1840
+msgid "Let it snow"
+msgstr "Niech pada śnieg"
+
+# @ kleo_framework
+#: lib/options.php:1841
+msgid ""
+"If you enable this, a beautiful snowing effect will cover the whole site"
+msgstr "Jeśli włączysz to piękny efekt śnieg pokryje całą stronę"
+
+# @ kleo_framework
+#: lib/plugin-woocommerce/config.php:493
+msgid "SAVE NOW"
+msgstr "ZAPISZ TERAZ"
+
+# @ kleo_framework
+#: lib/post-types.php:51
+msgctxt "tag label"
+msgid "Client Tags"
+msgstr "klient Tagi"
+
+# @ kleo_framework
+#: lib/post-types.php:52
+msgctxt "tag singular label"
+msgid "Client Tag"
+msgstr ""
+
+# @ kleo_framework
+#: lib/post-types.php:91
+msgctxt "tag label"
+msgid "Testimonial Tags"
+msgstr ""
+
+# @ kleo_framework
+#: lib/post-types.php:92
+msgctxt "tag singular label"
+msgid "Testimonial Tag"
+msgstr ""
+
+# @ kleo_framework
+#: single-portfolio.php:158
+#, php-format
+msgid "Back to %s"
+msgstr "Powrót do %s"
+
+# @ default
+#: _vc_templates/vc_wp_tagcloud.php:4
+msgid "Tags"
+msgstr ""
+
+# @ kleo_framework
+#: _vc_templates/vc_wp_tagcloud.php:30
+msgid "No tags defined"
+msgstr ""
+
+# @ buddypress
+#: buddypress/members/single/activity.php:24
+msgid "&mdash; Everything &mdash;"
+msgstr "&mdash; Wszystko &mdash;"
+
+# @ kleo_framework
+#: functions.php:567
+msgid "View profile"
+msgstr "Zobacz profil"
+
+# @ kleo_framework
+#: functions.php:577
+#, php-format
+msgid "Contact %s"
+msgstr "Kontakt z %s"
+
+# @ kleo_framework
+#: lib/options.php:913
+msgid "Display Meta Fields"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:914
+msgid ""
+"What fields do you want displayed? Link fields will only work if BuddyPress "
+"is active."
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:964
+msgid "Enable custom posts related"
+msgstr "Włącz własne posty związane"
+
+# @ kleo_framework
+#: lib/options.php:965
+msgid "Display related posts in custom post type single entry"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:974
+msgid "Pages"
+msgstr "Strony"
+
+# @ kleo_framework
+#: lib/options.php:975
+msgid "<p class=\"description\">Settings related to Pages</p>"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:980
+msgid "Enable Media on single page"
+msgstr "Włącz materiały na jednej stronie"
+
+# @ kleo_framework
+#: lib/options.php:981
+msgid "Video, Sound or Image Thumbnail will appear before post content"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:987
+msgid "Enable Page comments"
+msgstr "Włącz komentarze na stronie "
+
+# @ kleo_framework
+#: lib/options.php:988
+msgid ""
+"If you enable this make sure you have checked also Settings - Discussion - "
+"Allow people to post comments on new articles "
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1003
+msgid "Social Share"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1005
+msgid ""
+"<p class=\"description\">Settings related to Social sharing that appear "
+"after post/page content<br>NOTE: Woocommerce Wishlist share options are "
+"configured from plugin page: WP admin - Woocommerce - Settings - Wishlist</p>"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1011
+msgid "Display social share icons after single blog entry."
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1019
+msgid "Social share Post types"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1028
+msgid "Exclude social share by Post IDs"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1029
+msgid "List of Post IDs separated by comma to exclude from showing."
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1053
+msgid ""
+"Get the likes count by Ajax if you have cached content. <br> NOTE: Not "
+"recommended. This will increase page load DRAMATICALLY."
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1628
+msgid "Show NEW badge for new products added"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1636
+msgid "Number of days to treat a product as new"
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1637
+msgid ""
+"For how many days to show the NEW badge once a product is added to the shop."
+msgstr ""
+
+# @ kleo_framework
+#: lib/options.php:1847
+msgid "Development mode"
+msgstr "tryb rozwoju"
+
+# @ kleo_framework
+#: lib/options.php:1848
+msgid "If you enable this, CSS and JS resources will not be loaded minified"
+msgstr ""
+
+# @ kleo_framework
+#: lib/theme-functions.php:651
+msgid "Groups"
+msgstr "Grupy"
+
+# @ kleo_framework
+#: lib/theme-functions.php:663
+msgid "View group results"
+msgstr "Zobacz wyniki grupy"
+
+# @ kleo_framework
+#: page-parts/posts-related.php:31
+msgid "Related"
+msgstr "Powiązane"
+
+# @ kleo_framework
+#: page-parts/posts-social-share.php:52
+msgid "Share this"
+msgstr "Udostępnij "

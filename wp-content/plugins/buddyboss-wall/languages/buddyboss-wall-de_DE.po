@@ -1,0 +1,574 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BuddyBoss Wall 1.0.0\n"
+"Report-Msgid-Bugs-To: https://www.buddyboss.com/contact/\n"
+"POT-Creation-Date: 2017-02-10 17:12:43+00:00\n"
+"PO-Revision-Date: 2014-08-13 20:10-0600\n"
+"Last-Translator: BuddyBoss <support@buddyboss.com>\n"
+"Language-Team: BuddyBoss <support@buddyboss.com>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ buddyboss-wall
+#: buddyboss-wall.php:81
+msgid "Couldn't load main class at:<br/>%s"
+msgstr ""
+
+# @ buddyboss-wall
+#: buddyboss-wall.php:87
+msgid "<h1>Fatal error:</h1><hr/><pre>%s</pre>"
+msgstr ""
+
+#: buddyboss-wall.php:100
+msgid "BuddyBoss Wall needs BuddyPress activated!"
+msgstr ""
+
+#: includes/admin.php:187
+msgid "General Settings"
+msgstr ""
+
+#: includes/admin.php:191
+msgid "Enable Wall Component"
+msgstr ""
+
+#: includes/admin.php:192
+msgid "Available to all members"
+msgstr ""
+
+#: includes/admin.php:193
+msgid "Activity post text"
+msgstr ""
+
+#: includes/admin.php:194
+msgid "Activity Like text"
+msgstr ""
+
+#: includes/admin.php:195
+msgid "Wall Privacy"
+msgstr ""
+
+#: includes/admin.php:196
+msgid "Wall Privacy Options"
+msgstr ""
+
+#: includes/admin.php:197
+msgid "Link Preview"
+msgstr ""
+
+#: includes/admin.php:198
+msgid "Default Profile Tab"
+msgstr ""
+
+#: includes/admin.php:202
+msgid "Support"
+msgstr ""
+
+#: includes/admin.php:273
+msgid "BuddyBoss Wall"
+msgstr ""
+
+#: includes/admin.php:279
+msgid "Settings updated."
+msgstr ""
+
+# @ default
+#: includes/admin.php:288
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: includes/admin.php:319
+msgid "Settings"
+msgstr ""
+
+#: includes/admin.php:354
+msgid ""
+"Make sure BuddyPress <strong>Activity Streams</strong> are enabled for the "
+"Wall to function. Go to <em>Settings &rarr; BuddyPress &rarr; Components</em>"
+msgstr ""
+
+# @ buddyboss-wall
+#: includes/admin.php:405
+msgid "Enable Wall Component."
+msgstr ""
+
+#: includes/admin.php:428
+msgid "Allow Wall posting for all members (not just friends)."
+msgstr ""
+
+#: includes/admin.php:451
+msgid "Allow members to set privacy options when they post."
+msgstr ""
+
+#: includes/admin.php:467
+msgid "Allow link previews in activity posts."
+msgstr ""
+
+#: includes/admin.php:483
+msgid "Disable the \"Everyone\" privacy option."
+msgstr ""
+
+#: includes/admin.php:502 includes/admin.php:556 includes/wall-hooks.php:81
+#: includes/wall-hooks.php:516 includes/wall-hooks.php:556
+msgid "You"
+msgstr ""
+
+#: includes/admin.php:503 includes/admin.php:557
+msgid "Username"
+msgstr ""
+
+#: includes/admin.php:510
+msgid "In your wall, show activity posted by 'You' or 'Username'."
+msgstr ""
+
+# @ buddyboss-wall
+#: includes/admin.php:529 includes/wall-class.php:49
+#: includes/wall-class.php:402 includes/wall-class.php:515
+#: includes/wall-class.php:523
+msgid "Wall"
+msgstr "Pinnwand"
+
+#: includes/admin.php:530 includes/wall-class.php:414
+#: includes/wall-class.php:531
+msgid "News Feed"
+msgstr ""
+
+#: includes/admin.php:537
+msgid "Select the default Wall tab on profiles."
+msgstr ""
+
+#: includes/admin.php:564
+msgid "In your wall, show activity liked by 'You' or 'Username'."
+msgstr ""
+
+# @ default
+#: includes/buddyboss-plugin-updater.php:84
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+
+# @ default
+#: includes/buddyboss-plugin-updater.php:88
+msgid "An unknown error occurred"
+msgstr ""
+
+# @ buddyboss-wall
+#: includes/class-buddyboss-wall-like-notification.php:83
+#: includes/wall-class.php:165 includes/wall-template.php:49
+msgid "person"
+msgstr "Mitglied"
+
+# @ buddyboss-wall
+#: includes/class-buddyboss-wall-like-notification.php:84
+#: includes/wall-class.php:166 includes/wall-hooks.php:197
+#: includes/wall-template.php:50
+msgid "people"
+msgstr "Mitgliedern"
+
+# @ buddyboss-wall
+#: includes/class-buddyboss-wall-like-notification.php:87
+#: includes/wall-class.php:168 includes/wall-template.php:53
+msgid "likes"
+msgstr "gefällt"
+
+# @ buddyboss-wall
+#: includes/class-buddyboss-wall-like-notification.php:88
+#: includes/wall-class.php:167 includes/wall-template.php:54
+msgid "like"
+msgstr "gefällt"
+
+# @ buddyboss-wall
+#: includes/class-buddyboss-wall-like-notification.php:110
+#, fuzzy
+msgid "%s %s %s %s."
+msgstr "%s %s %s das."
+
+# @ buddyboss-wall
+#: includes/class-buddyboss-wall-like-notification.php:136
+#, fuzzy
+msgid "You like %s."
+msgstr "Dir gefällt das."
+
+# @ buddyboss-wall
+#: includes/class-buddyboss-wall-like-notification.php:168
+#, fuzzy
+msgid "You and %s %s %s."
+msgstr "Dir und %s %s das."
+
+# @ buddyboss-wall
+#: includes/class-buddyboss-wall-like-notification.php:170
+#, fuzzy
+msgid "%s %s %s."
+msgstr "%s %s das."
+
+# @ buddyboss-wall
+#: includes/class-buddyboss-wall-like-notification.php:179
+#, fuzzy
+msgid "You, %s and %s %s %s."
+msgstr "Dir,  %s und %s %s das."
+
+# @ buddyboss-wall
+#: includes/class-buddyboss-wall-like-notification.php:182
+#, fuzzy
+msgid "%s and %s %s %s."
+msgstr "%s und %s %s das."
+
+# @ buddyboss-wall
+#: includes/class-buddyboss-wall-like-notification.php:193
+#: includes/wall-template.php:224
+msgid "%s other %s"
+msgstr "%s anderen %s"
+
+# @ buddyboss-wall
+#: includes/class-buddyboss-wall-like-notification.php:198
+#, fuzzy
+msgid "You, %s, %s and %s %s %s."
+msgstr "Dir, %s, %s und %s %s das."
+
+# @ buddyboss-wall
+#: includes/class-buddyboss-wall-like-notification.php:201
+#, fuzzy
+msgid "%s, %s and %s %s %s."
+msgstr "%s, %s und %s %s das."
+
+#: includes/help-support.php:5
+msgid "Here is a video tutorial to get you started:"
+msgstr ""
+
+#: includes/help-support.php:13
+msgid "Need more help?"
+msgstr ""
+
+#: includes/help-support.php:16
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: includes/help-support.php:17
+msgid "How to Update"
+msgstr ""
+
+# @ buddyboss-wall
+#: includes/main-class.php:232 includes/main-class.php:239
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: includes/main-class.php:682
+msgid ""
+"To use the <strong>BuddyBoss Wall</strong> plugin, please manually update "
+"your BuddyBoss theme to version 4.0 or above first. <a href=\"https://www."
+"buddyboss.com/upgrading-to-buddyboss-4-0/\">Read how &rarr;</a>"
+msgstr ""
+
+# @ buddyboss-wall
+#: includes/main-class.php:683
+msgid "Disable Notice"
+msgstr ""
+
+#: includes/main-class.php:696
+msgid ""
+"Hey! BuddyBoss Wall requires activity component to be enabled. Please enable "
+"it in your <a href=\"%s\">BuddyPress Settings</a>."
+msgstr ""
+
+# @ buddyboss-wall
+#: includes/wall-class.php:169 includes/wall-filters.php:18
+#: includes/wall-hooks.php:321 includes/wall-hooks.php:345
+msgid "Like"
+msgstr "Gefällt mir!"
+
+# @ buddyboss-wall
+#: includes/wall-class.php:170 includes/wall-class.php:425
+#: includes/wall-class.php:539
+msgid "My Likes"
+msgstr "Das gefällt mir!"
+
+# @ buddyboss-wall
+#: includes/wall-class.php:171 includes/wall-filters.php:22
+#: includes/wall-hooks.php:319 includes/wall-hooks.php:347
+msgid "Unlike"
+msgstr "Gefällt mir nicht mehr!"
+
+# @ buddyboss-wall
+#: includes/wall-class.php:261
+msgid "What's new in %s, %s?"
+msgstr "Was gibt's Neues in  %s, %s?"
+
+# @ buddyboss-wall
+#: includes/wall-class.php:263
+#, fuzzy
+msgid "Write something to %s"
+msgstr "Schreibe etwas an %s?"
+
+# @ buddyboss-wall
+#: includes/wall-class.php:265
+msgid "What's new, %s?"
+msgstr "Was gibt's Neues, %s?"
+
+# @ buddyboss-wall
+#: includes/wall-class.php:313
+msgid "You need to <a href=\"%s\" title=\"Log in\">log in</a>"
+msgstr "Du musst <a href=\"%s\" title=\"Log in\">eingeloggt sein</a>"
+
+# @ buddyboss-wall
+#: includes/wall-class.php:313
+msgid ""
+" or <a class=\"create-account\" href=\"%s\" title=\"Create an account"
+"\">create an account</a>"
+msgstr ""
+" oder <a class=\"create-account\" href=\"%s\" title=\"Create an account"
+"\">erstelle ein Benutzerkonto</a>"
+
+# @ buddyboss-wall
+#: includes/wall-class.php:313
+msgid " to post to this user's Wall."
+msgstr "um an die Pinnwand dieses Mitglieds zu posten"
+
+# @ buddyboss-wall
+#: includes/wall-class.php:319
+msgid "You and %s are not friends. Request friendship to post to their Wall."
+msgstr ""
+"Du und %s seit keine Freunde. Dies ist aber notwendig um an seine Pinnwand "
+"zu schreiben."
+
+# @ buddyboss-wall
+#: includes/wall-class.php:326
+msgid ""
+"You are mentioning %s in a new update, this user will be sent a notification "
+"of your message."
+msgstr ""
+"Du hast %s in einer Aktualisierung erwähnt. Dieses Mitglied erhält eine "
+"Benachrichtigung von deiner Nachricht."
+
+# @ buddyboss-wall
+#: includes/wall-filters.php:26
+#, fuzzy
+msgid "Like this"
+msgstr "Dir gefällt das."
+
+#: includes/wall-filters.php:30
+msgid "The activity I've liked."
+msgstr ""
+
+#: includes/wall-filters.php:34
+msgid "My Likes <span>%s</span>"
+msgstr ""
+
+#: includes/wall-functions.php:395
+msgid "Read more"
+msgstr ""
+
+#: includes/wall-hooks.php:101
+msgid "View Discussion"
+msgstr ""
+
+# @ buddyboss-wall
+#: includes/wall-hooks.php:197
+msgid "mentioned"
+msgstr "erwähnt"
+
+# @ buddyboss-wall
+#: includes/wall-hooks.php:206
+#, fuzzy
+msgid "%s wrote on %s Wall"
+msgstr "%s schrieb an %s Pinnwand"
+
+# @ buddyboss-wall
+#: includes/wall-hooks.php:215
+#, fuzzy
+msgid "%s mentioned %s in a public message"
+msgstr "in einer öffentlichen Nachricht"
+
+#: includes/wall-hooks.php:231
+msgid "%s posted an update"
+msgstr ""
+
+# @ buddyboss-wall
+#: includes/wall-hooks.php:264
+msgid "Please enter some content to post."
+msgstr "Bitte gib einen Inhalt an."
+
+# @ buddyboss-wall
+#: includes/wall-hooks.php:295
+msgid "There was a problem posting your update, please try again."
+msgstr "Es gab ein Problem beim posten, bitte versuch es nochmals."
+
+# @ buddyboss-wall
+#: includes/wall-hooks.php:481
+msgid "@%s Mentions"
+msgstr "@%s Erwähnungen"
+
+# @ buddyboss-wall
+#: includes/wall-hooks.php:484
+msgid "You have %1$d new mentions"
+msgstr "Du hast %1$d neue Erwähnungen"
+
+# @ buddyboss-wall
+#: includes/wall-hooks.php:487
+msgid "%1$s mentioned you"
+msgstr "%1$s erwähnte Dich"
+
+# @ buddyboss-wall
+#: includes/wall-hooks.php:526 includes/wall-hooks.php:586
+msgid "%s'"
+msgstr "%s'"
+
+# @ buddyboss-wall
+#: includes/wall-hooks.php:529 includes/wall-hooks.php:589
+msgid "%s's"
+msgstr "%s's"
+
+# @ buddyboss-wall
+#: includes/wall-hooks.php:532
+msgid "%s Wall"
+msgstr "%s Pinnwand"
+
+#: includes/wall-hooks.php:541 includes/wall-hooks.php:577
+msgid "your"
+msgstr ""
+
+#: includes/wall-hooks.php:569
+msgid "Deleted User"
+msgstr ""
+
+#: includes/wall-hooks.php:595
+msgid "Deleted User's"
+msgstr ""
+
+#: includes/wall-hooks.php:610
+msgid "Mark as Favorite"
+msgstr ""
+
+#: includes/wall-hooks.php:610
+msgid "Favorite"
+msgstr ""
+
+#: includes/wall-hooks.php:612
+msgid "Remove Favorite"
+msgstr ""
+
+#: includes/wall-privacy.php:139
+msgid "Everyone"
+msgstr ""
+
+#: includes/wall-privacy.php:142
+msgid "Logged In Users"
+msgstr ""
+
+#: includes/wall-privacy.php:145
+msgid "Only Me"
+msgstr ""
+
+#: includes/wall-privacy.php:148
+msgid "My Friends"
+msgstr ""
+
+#: includes/wall-privacy.php:151
+msgid "Group Members"
+msgstr ""
+
+# @ buddyboss-wall
+#: includes/wall-privacy.php:375
+#, fuzzy
+msgid "Who can see this"
+msgstr "Dir und %s %s das."
+
+#: includes/wall-privacy.php:386
+msgid "Save"
+msgstr ""
+
+#: includes/wall-privacy.php:388
+msgid "Cancel"
+msgstr ""
+
+#: includes/wall-privacy.php:423 includes/wall-privacy.php:424
+msgid "Privacy"
+msgstr ""
+
+#: includes/wall-privacy.php:482
+msgid "Privacy updated"
+msgstr ""
+
+# @ buddyboss-wall
+#: includes/wall-template.php:126
+msgid "%s %s %s this."
+msgstr "%s %s %s das."
+
+# @ buddyboss-wall
+#: includes/wall-template.php:152
+msgid "You like this."
+msgstr "Dir gefällt das."
+
+#: includes/wall-template.php:156
+msgid "<a href=\"%s\" title=\"%s\">%s</a> likes this"
+msgstr ""
+
+# @ buddyboss-wall
+#: includes/wall-template.php:166
+msgid "Error getting likes."
+msgstr "Fehler bei Gefällt mir!"
+
+# @ buddyboss-wall
+#: includes/wall-template.php:194
+msgid "You and %s %s this."
+msgstr "Dir und %s %s das."
+
+# @ buddyboss-wall
+#: includes/wall-template.php:201
+msgid "%s %s this."
+msgstr "%s %s das."
+
+# @ buddyboss-wall
+#: includes/wall-template.php:210
+msgid "You, %s and %s %s this."
+msgstr "Dir,  %s und %s %s das."
+
+# @ buddyboss-wall
+#: includes/wall-template.php:213
+msgid "%s and %s %s this."
+msgstr "%s und %s %s das."
+
+# @ buddyboss-wall
+#: includes/wall-template.php:229
+msgid "You, %s, %s and %s %s this."
+msgstr "Dir, %s, %s und %s %s das."
+
+# @ buddyboss-wall
+#: includes/wall-template.php:232
+msgid "%s, %s and %s %s this."
+msgstr "%s, %s und %s %s das."
+
+#: includes/widgets.php:19
+msgid "(BuddyBoss Wall) Most Liked Activity"
+msgstr ""
+
+#: includes/widgets.php:21
+msgid "Display a list of most liked activities site-wide."
+msgstr ""
+
+#: includes/widgets.php:33
+msgid "Title"
+msgstr ""
+
+#: includes/widgets.php:40
+msgid "Max activity posts to show"
+msgstr ""
+
+#: includes/widgets.php:47
+msgid "Max words per activity post"
+msgstr ""
+
+# @ buddyboss-wall
+#: includes/widgets.php:128
+#, fuzzy
+msgid "%d Likes"
+msgstr "Das gefällt mir!"

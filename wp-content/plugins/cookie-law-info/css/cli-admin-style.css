@@ -1,0 +1,105 @@
+#cli-plugin-migrate {
+	background: #C5E3BF;
+	border: 1px solid #98A148;
+	color: #000;
+	margin: 0 0 20px 0;
+	padding: 10px;
+	display: none;
+}
+
+.vvv_combobox {
+	width: 100%;
+}
+.vvv_textbox {
+	height: 150px;
+	width: 100%;
+}
+.form-table input[type="text"], .vvv_textfield {
+	width:100%;
+	height: 24px;
+	margin-bottom: 5px;
+}
+.cli-plugin-example {
+	display: block;
+}
+#cookielawinfo-accordion h4 {
+	border-bottom: 1px solid #ccc;
+	line-height: 110%;
+	padding: 5px;
+}
+#cookielawinfo-accordion h4 code {
+	padding-left: 40px;
+	background: transparent;
+}
+.cli-help pre {
+	font-weight: bold;
+}
+.cli-help span {
+	margin: 0 0 30px 15px;
+	display: block;
+}
+.cli-plugin-toolbar {
+	height: 40px;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+.cli-plugin-toolbar .left {
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+.cli-plugin-toolbar .left img {
+	vertical-align: text-bottom;
+	margin-right: 10px;
+}
+.cli-plugin-toolbar .right {
+	float: right;
+	margin: 0;
+	padding: 0;
+}
+.cli-plugin-toolbar.top {
+	margin-bottom: -5px;
+}
+.cli-plugin-toolbar.bottom {
+	margin-top: 12px;
+}
+#header_on_off_field_warning {
+	margin-left: 30px;
+}
+.warning { /* called by jQuery in admin-ui-controller.js */
+	color: #f00;
+	font-weight: bold;
+}
+.cli-plugin-container {
+	overflow: hidden;
+	width: 100%;
+}
+.cli-plugin-left-col {
+	float: left;
+	padding-bottom: 500em;
+	margin-bottom: -500em;
+}
+.cli-plugin-right-col {
+	float: left;
+	margin-right: -1px; /* For IE */
+	padding-bottom: 500em;
+	margin-bottom: -500em;
+}
+
+.cli-plugin-container.width-50 { width: 50%; }
+.cli-plugin-container.width-60 { width: 60%; }
+.cli-plugin-container.width-70 { width: 70%; }
+.cli-plugin-container.width-80 { width: 80%; }
+.cli-plugin-container.width-90 { width: 90%; }
+.cli-plugin-left-col.width-50, .cli-plugin-right-col.width-50 { width: 50%; }
+.cli-plugin-left-col.width-62, .cli-plugin-right-col.width-62 { width: 62%; } /* Golden Ratio */
+.cli-plugin-left-col.width-38, .cli-plugin-right-col.width-38 { width: 38%; } /* Golden Ratio */
+.cli-plugin-left-col.width-f220, .cli-plugin-right-col.width-f220 { width: 220px; }
+.cli-plugin-container div.pad-5, .cli-plugin-left-col div.pad-5, .cli-plugin-right-col div.pad-5 { padding: 5px; }
+.cli-plugin-container div.pad-10, .cli-plugin-left-col div.pad-10, .cli-plugin-right-col div.pad-10 { padding: 10px; }
+.width-60 { width: 60%; }
+.width-100 { width: 100%; }
+
+.hr-top { border-top: 1px solid #ccc; }
+.hr-bottom { border-bottom: 1px solid #ccc; }

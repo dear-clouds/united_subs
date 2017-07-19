@@ -1,0 +1,3652 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Go Pricing - WordPress Responsive Pricing Tables\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Thu Jan 28 2016 14:59:27 GMT+0100 (Közép-európai téli idő "
+")\n"
+"PO-Revision-Date: Tue May 17 2016 11:51:27 GMT+0200 (Közép-európai nyári idő "
+")\n"
+"Last-Translator: admin <granthweb@gmail.com>\n"
+"Language-Team: \n"
+"Language: English\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Loco-Target-Locale: en_US\n"
+"X-Poedit-SearchPath-0: .."
+
+#: ../go_pricing.php:18
+msgid "GW_GoPricing class has already been declared!"
+msgstr "GW_GoPricing class has already been declared!"
+
+#: ../includes/preview.php:97
+msgid "Oops, Forbidden!"
+msgstr "Oops, Forbidden!"
+
+#: ../includes/admin/class_admin.php:115 ../includes/admin/class_admin.php:115 ..
+#: includes/admin/class_admin.php:138 ../includes/admin/class_admin.php:138
+msgid "Buy Now"
+msgstr "Buy Now"
+
+#: ../includes/admin/class_admin.php:116 ../includes/admin/class_admin.php:157
+msgid "Open / Close Clipboard"
+msgstr "Open / Close Clipboard"
+
+#: ../includes/admin/class_admin.php:117 ..
+#: includes/admin/views/popup/image_preview.php:9 ..
+#: includes/admin/views/popup/live_preview.php:12 ..
+#: includes/admin/views/popup/sc_button_icon.php:10 ..
+#: includes/admin/views/popup/sc_font_icon.php:10 ..
+#: includes/admin/views/popup/sc_media.php:10 ..
+#: includes/admin/views/popup/sc_row_icon.php:10
+msgid "Close"
+msgstr "Close"
+
+#: ../includes/admin/class_admin.php:157
+msgid "Clip"
+msgstr "Clip"
+
+#: ../includes/admin/class_admin.php:240 ../includes/admin/class_admin.php:241 ..
+#: includes/admin/class_admin.php:544 ../includes/admin/views/page/db_update.php:
+#: 39
+msgid "Database Update"
+msgstr "Database Update"
+
+#: ../includes/admin/class_admin.php:416
+msgid "PHP Error in AJAX Response!"
+msgstr "PHP Error in AJAX Response!"
+
+#: ../includes/admin/class_admin.php:417
+msgid "File size exceeds the maximum upload size!"
+msgstr "File size exceeds the maximum upload size!"
+
+#: ../includes/admin/class_admin.php:418
+msgid "File is emtpy!"
+msgstr "File is emtpy!"
+
+#: ../includes/admin/class_admin.php:419
+msgid "Invalid file type"
+msgstr "Invalid file type"
+
+#: ../includes/admin/class_admin.php:420
+msgid "You have reached the maximum number of columns!"
+msgstr "You have reached the maximum number of columns!"
+
+#: ../includes/admin/class_admin.php:421
+msgid "Invalid image!"
+msgstr "Invalid image!"
+
+#: ../includes/admin/class_admin.php:454 ../includes/admin/class_admin.php:455 ..
+#: includes/admin/class_admin.php:515 ..
+#: includes/admin/views/editor_popup/header_general.php:89
+msgid "General Settings"
+msgstr "General Settings"
+
+#: ../includes/admin/class_admin.php:463 ../includes/admin/class_admin.php:464 ..
+#: includes/admin/class_admin.php:530
+msgid "Import & Export"
+msgstr "Import & Export"
+
+#: ../includes/admin/class_admin.php:476 ../includes/admin/class_admin.php:477 ..
+#: includes/admin/class_admin.php:559 ../includes/admin/views/page/db_update.php:
+#: 25 ../includes/admin/views/page/db_update.php:62
+msgid "Update"
+msgstr "Update"
+
+#: ../includes/admin/class_admin.php:671
+msgid "No AJAX action has been found!"
+msgstr "No AJAX action has been found!"
+
+#: ../includes/admin/class_admin.php:681
+msgid "Invalid AJAX callback has been detected! Please, refresh the page!"
+msgstr "Invalid AJAX callback has been detected! Please, refresh the page!"
+
+#: ../includes/admin/class_admin.php:693
+msgid ""
+"No AJAX callback has been registered for this action! Please, refresh the "
+"page!"
+msgstr ""
+"No AJAX callback has been registered for this action! Please, refresh the "
+"page!"
+
+#: ../includes/admin/class_admin_page_db_update.php:53 ..
+#: includes/admin/class_admin_page_general_settings.php:107 ..
+#: includes/admin/class_admin_page_general_settings.php:117 ..
+#: includes/admin/class_admin_page_impex.php:251 ..
+#: includes/admin/class_admin_page_impex.php:285 ..
+#: includes/admin/class_admin_page_impex.php:338 ..
+#: includes/admin/class_admin_page_impex.php:426 ..
+#: includes/admin/class_admin_page_main.php:434 ..
+#: includes/admin/class_admin_page_main.php:439 ..
+#: includes/admin/class_admin_page_main.php:491 ..
+#: includes/admin/class_admin_page_main.php:529 ..
+#: includes/admin/class_admin_page_main.php:598 ..
+#: includes/admin/class_admin_page_update.php:144 ..
+#: includes/admin/class_admin_page_update.php:153 ..
+#: includes/admin/class_admin_page_update.php:174
+msgid "Oops, something went wrong!"
+msgstr "Oops, something went wrong!"
+
+#: ../includes/admin/class_admin_page_db_update.php:57
+#, php-format
+msgid "%1$s pricing table(s) has been successfully updated."
+msgstr "%1$s pricing table(s) has been successfully updated."
+
+#: ../includes/admin/class_admin_page_general_settings.php:109 ..
+#: includes/admin/class_admin_page_general_settings.php:113
+msgid "General Settings has been successfully updated!"
+msgstr "General Settings has been successfully updated!"
+
+#: ../includes/admin/class_admin_page_impex.php:182
+msgid "Please select tables to import!"
+msgstr "Please select tables to import!"
+
+#: ../includes/admin/class_admin_page_impex.php:241 ..
+#: includes/admin/class_admin_page_impex.php:275 ..
+#: includes/admin/class_admin_page_main.php:519
+msgid "There is nothing to export!"
+msgstr "There is nothing to export!"
+
+#: ../includes/admin/class_admin_page_impex.php:322
+msgid "There is nothing to import!"
+msgstr "There is nothing to import!"
+
+#: ../includes/admin/class_admin_page_impex.php:329
+msgid "Oops, something went wrong"
+msgstr "Oops, something went wrong"
+
+#: ../includes/admin/class_admin_page_impex.php:347 ..
+#: includes/admin/class_admin_page_impex.php:395 ..
+#: includes/admin/class_admin_page_impex.php:404
+msgid "Invalid import data!"
+msgstr "Invalid import data!"
+
+#: ../includes/admin/class_admin_page_impex.php:355 ..
+#: includes/admin/class_admin_page_impex.php:412
+msgid "Import data is not compatible with the current version!"
+msgstr "Import data is not compatible with the current version!"
+
+#: ../includes/admin/class_admin_page_impex.php:431
+#, php-format
+msgid "%1$s pricing table(s) has been successfully imported."
+msgstr "%1$s pricing table(s) has been successfully imported."
+
+#: ../includes/admin/class_admin_page_main.php:374 ..
+#: includes/admin/class_admin_page_main.php:403 ..
+#: includes/admin/class_admin_page_main.php:468
+msgid "Please select a table!"
+msgstr "Please select a table!"
+
+#: ../includes/admin/class_admin_page_main.php:382
+msgid "Table doesn't exist!"
+msgstr "Table doesn't exist!"
+
+#: ../includes/admin/class_admin_page_main.php:427 ../includes/core/class_data.
+#: php:418
+msgid "copy"
+msgstr "copy"
+
+#: ../includes/admin/class_admin_page_main.php:447
+#, php-format
+msgid "%1$s pricing table(s) has been successfully cloned."
+msgstr "%1$s pricing table(s) has been successfully cloned."
+
+#: ../includes/admin/class_admin_page_main.php:498
+#, php-format
+msgid "%1$s pricing table(s) has been successfully deleted."
+msgstr "%1$s pricing table(s) has been successfully deleted."
+
+#: ../includes/admin/class_admin_page_main.php:551
+msgid "Pricing \"Table Name\" is empty!"
+msgstr "Pricing \"Table Name\" is empty!"
+
+#: ../includes/admin/class_admin_page_main.php:554
+msgid "Pricing \"Table ID\" is empty!"
+msgstr "Pricing \"Table ID\" is empty!"
+
+#: ../includes/admin/class_admin_page_main.php:557
+msgid ""
+"Pricing \"Table ID\" can contain only lowercase letters, numbers, hyphens and "
+"underscores!"
+msgstr ""
+"Pricing \"Table ID\" can contain only lowercase letters, numbers, hyphens and "
+"underscores!"
+
+#: ../includes/admin/class_admin_page_main.php:564
+#, php-format
+msgid "Pricing table with an ID of \"%s\" already exists! It must be uniqe."
+msgstr "Pricing table with an ID of \"%s\" already exists! It must be uniqe."
+
+#: ../includes/admin/class_admin_page_main.php:592
+#, php-format
+msgid ""
+"Pricing table has been successfully created!<br>Shortcode: "
+"</strong>[go_pricing id=\"%s\"]<strong>"
+msgstr ""
+"Pricing table has been successfully created!<br>Shortcode: "
+"</strong>[go_pricing id=\"%s\"]<strong>"
+
+#: ../includes/admin/class_admin_page_main.php:594
+#, php-format
+msgid ""
+"Pricing table has been successfully updated!<br>Shortcode: "
+"</strong>[go_pricing id=\"%s\"]<strong>"
+msgstr ""
+"Pricing table has been successfully updated!<br>Shortcode: "
+"</strong>[go_pricing id=\"%s\"]<strong>"
+
+#: ../includes/admin/class_admin_page_update.php:126
+msgid "Invalid product!"
+msgstr "Invalid product!"
+
+#: ../includes/admin/class_admin_page_update.php:137
+msgid "Please select a file to upload!"
+msgstr "Please select a file to upload!"
+
+#: ../includes/admin/class_admin_page_update.php:160
+msgid "Oops, filesystem error!"
+msgstr "Oops, filesystem error!"
+
+#: ../includes/admin/class_admin_page_update.php:183
+msgid "Invalid plugin file or version!"
+msgstr "Invalid plugin file or version!"
+
+#: ../includes/admin/class_admin_page_update.php:206
+#, php-format
+msgid "\"%s\" plugin update failed!"
+msgstr "\"%s\" plugin update failed!"
+
+#: ../includes/admin/class_admin_page_update.php:210
+#, php-format
+msgid "\"%s\" plugin updated successfully!"
+msgstr "\"%s\" plugin updated successfully!"
+
+#: ../includes/admin/views/view_editor_popup.php:24
+msgid "Content & Style Settings"
+msgstr "Content & Style Settings"
+
+#: ../includes/admin/views/view_editor_popup.php:42 ..
+#: includes/admin/views/view_editor_popup.php:42
+msgid "Apply"
+msgstr "Apply"
+
+#: ../includes/admin/views/view_editor_popup.php:45 ..
+#: includes/admin/views/column/body.php:40 ../includes/admin/views/column/column.
+#: php:20 ../includes/admin/views/column/footer.php:40 ..
+#: includes/admin/views/page/table_manager.php:113 ..
+#: includes/admin/views/page/table_manager.php:163
+msgid "Delete"
+msgstr "Delete"
+
+#: ../includes/admin/views/view_editor_popup.php:45 ..
+#: includes/admin/views/column/body.php:40 ../includes/admin/views/column/column.
+#: php:21 ../includes/admin/views/column/footer.php:40 ..
+#: includes/admin/views/page/table_manager.php:113 ..
+#: includes/admin/views/page/table_manager.php:163
+msgid "Clone"
+msgstr "Clone"
+
+#: ../includes/admin/views/view_editor_popup.php:45 ..
+#: includes/admin/views/view_editor_popup.php:45 ..
+#: includes/admin/views/column/body.php:74 ../includes/admin/views/column/body.
+#: php:74 ../includes/admin/views/column/footer.php:71 ..
+#: includes/admin/views/column/footer.php:71
+msgid "Add Row"
+msgstr "Add Row"
+
+#: ../includes/admin/views/view_editor_popup.php:47
+msgid "Previous"
+msgstr "Previous"
+
+#: ../includes/admin/views/view_editor_popup.php:47 ..
+#: includes/admin/views/page/db_update.php:25 ../includes/admin/views/page/impex.
+#: php:29 ../includes/admin/views/page/impex.php:29 ..
+#: includes/admin/views/page/impex.php:103 ../includes/admin/views/page/import.
+#: php:28 ../includes/admin/views/page/import.php:28 ..
+#: includes/admin/views/page/import.php:83 ../includes/admin/views/page/update.
+#: php:28 ../includes/admin/views/page/update.php:28 ..
+#: includes/admin/views/page/update.php:128
+msgid "Next"
+msgstr "Next"
+
+#: ../includes/admin/views/view_page.php:13
+#, php-format
+msgid ""
+"Oops, AJAX error! Keep getting this message? Please disable AJAX request <a "
+"href=\"%s\" target=\"_blank\">here</a> and try again."
+msgstr ""
+"Oops, AJAX error! Keep getting this message? Please disable AJAX request <a "
+"href=\"%s\" target=\"_blank\">here</a> and try again."
+
+#: ../includes/admin/views/view_page.php:14
+msgid "Hey, just a sec!"
+msgstr "Hey, just a sec!"
+
+#: ../includes/admin/views/column/body.php:29 ..
+#: includes/admin/views/column/footer.php:29 ..
+#: includes/admin/views/column/header.php:96 ..
+#: includes/admin/views/editor_popup/body_row.php:36 ..
+#: includes/admin/views/editor_popup/footer_row.php:37 ..
+#: includes/admin/views/editor_popup/header_general.php:58 ..
+#: includes/admin/views/editor_popup/header_general.php:119 ..
+#: includes/admin/views/editor_popup/header_price.php:39
+msgid "HTML Content"
+msgstr "HTML Content"
+
+#: ../includes/admin/views/column/body.php:33 ..
+#: includes/admin/views/column/footer.php:33 ..
+#: includes/admin/views/editor_popup/body_row.php:37 ..
+#: includes/admin/views/editor_popup/footer_row.php:36
+msgid "Button"
+msgstr "Button"
+
+#: ../includes/admin/views/column/body.php:39 ../includes/admin/views/column/body.
+#: php:44 ../includes/admin/views/column/footer.php:39 ..
+#: includes/admin/views/column/footer.php:44
+msgid "Row"
+msgstr "Row"
+
+#: ../includes/admin/views/column/body.php:40 ..
+#: includes/admin/views/column/footer.php:40 ..
+#: includes/admin/views/column/general.php:103 ..
+#: includes/admin/views/column/general.php:132 ..
+#: includes/admin/views/column/general.php:179 ..
+#: includes/admin/views/column/header.php:25 ..
+#: includes/admin/views/column/header.php:68 ..
+#: includes/admin/views/column/header.php:102 ..
+#: includes/admin/views/column/header.php:149 ..
+#: includes/admin/views/page/table_manager.php:163 ..
+#: includes/admin/views/popup/live_preview.php:30 ..
+#: includes/admin/views/popup/live_preview.php:30
+msgid "Edit"
+msgstr "Edit"
+
+#: ../includes/admin/views/column/body.php:40 ..
+#: includes/admin/views/column/footer.php:40
+msgid "Are you sure you want to delete the selected row?"
+msgstr "Are you sure you want to delete the selected row?"
+
+#: ../includes/admin/views/column/body.php:52 ..
+#: includes/admin/views/column/footer.php:52 ..
+#: includes/admin/views/column/header.php:80 ..
+#: includes/admin/views/editor_popup/body_row.php:53 ..
+#: includes/admin/views/editor_popup/body_row.php:54 ..
+#: includes/admin/views/editor_popup/footer_row.php:58 ..
+#: includes/admin/views/editor_popup/footer_row.php:59 ..
+#: includes/admin/views/editor_popup/header_title.php:36 ..
+#: includes/vendors/vc/class_vc_extend.php:68
+msgid "Content"
+msgstr "Content"
+
+#: ../includes/admin/views/column/body.php:58 ..
+#: includes/admin/views/column/footer.php:58 ..
+#: includes/admin/views/editor_popup/general_decoration.php:138 ..
+#: includes/admin/views/editor_popup/part/button_general.php:25 ..
+#: includes/admin/views/editor_popup/part/button_general.php:26
+msgid "Text"
+msgstr "Text"
+
+#: ../includes/admin/views/column/body.php:59 ..
+#: includes/admin/views/column/footer.php:59 ..
+#: includes/admin/views/editor_popup/part/button_general.php:30 ..
+#: includes/admin/views/editor_popup/part/button_general.php:31
+msgid "Link / Code"
+msgstr "Link / Code"
+
+#: ../includes/admin/views/column/column.php:20
+msgid "Are you sure you want to delete the column?"
+msgstr "Are you sure you want to delete the column?"
+
+#: ../includes/admin/views/column/column.php:21
+msgid "Are you sure you wanto clone the column?"
+msgstr "Are you sure you wanto clone the column?"
+
+#: ../includes/admin/views/column/column.php:22
+msgid "Expand / Collapse"
+msgstr "Expand / Collapse"
+
+#: ../includes/admin/views/column/column.php:32 ..
+#: includes/admin/views/column/header.php:148 ..
+#: includes/admin/views/column/header.php:153 ..
+#: includes/admin/views/editor_popup/body_row.php:23 ..
+#: includes/admin/views/editor_popup/footer_row.php:23 ..
+#: includes/admin/views/editor_popup/header_price.php:23 ..
+#: includes/admin/views/editor_popup/header_title.php:25
+msgid "General"
+msgstr "General"
+
+#: ../includes/admin/views/column/column.php:32
+msgid "Global Column Settings"
+msgstr "Global Column Settings"
+
+#: ../includes/admin/views/column/column.php:48
+msgid "Header"
+msgstr "Header"
+
+#: ../includes/admin/views/column/column.php:48
+msgid "Header Content & Style"
+msgstr "Header Content & Style"
+
+#: ../includes/admin/views/column/column.php:64
+msgid "Body"
+msgstr "Body"
+
+#: ../includes/admin/views/column/column.php:64
+msgid "Body Content & Style"
+msgstr "Body Content & Style"
+
+#: ../includes/admin/views/column/column.php:80
+msgid "Footer"
+msgstr "Footer"
+
+#: ../includes/admin/views/column/column.php:80
+msgid "Footer Content & Style"
+msgstr "Footer Content & Style"
+
+#: ../includes/admin/views/column/general.php:21
+msgid "Column Style"
+msgstr "Column Style"
+
+#: ../includes/admin/views/column/general.php:69
+msgid "Style of the column."
+msgstr "Style of the column."
+
+#: ../includes/admin/views/column/general.php:102 ..
+#: includes/admin/views/column/general.php:107
+msgid "Layout & Style"
+msgstr "Layout & Style"
+
+#: ../includes/admin/views/column/general.php:103
+msgid "Layout & Style Settings"
+msgstr "Layout & Style Settings"
+
+#: ../includes/admin/views/column/general.php:111
+msgid "General Layout and Style Settings"
+msgstr "General Layout and Style Settings"
+
+#: ../includes/admin/views/column/general.php:112
+msgid ""
+"You can set Highlight, Disable hover or Enlarge effect and column styling "
+"properties."
+msgstr ""
+"You can set Highlight, Disable hover or Enlarge effect and column styling "
+"properties."
+
+#: ../includes/admin/views/column/general.php:115 ..
+#: includes/admin/views/editor_popup/general_layout-style.php:23
+msgid "Highlighted"
+msgstr "Highlighted"
+
+#: ../includes/admin/views/column/general.php:116 ..
+#: includes/admin/views/editor_popup/general_layout-style.php:28
+msgid "Disable Hover"
+msgstr "Disable Hover"
+
+#: ../includes/admin/views/column/general.php:117 ..
+#: includes/admin/views/editor_popup/general_layout-style.php:33
+msgid "Disable Enlarge"
+msgstr "Disable Enlarge"
+
+#: ../includes/admin/views/column/general.php:127 ..
+#: includes/admin/views/column/general.php:128 ..
+#: includes/admin/views/column/general.php:174 ..
+#: includes/admin/views/column/general.php:175 ..
+#: includes/admin/views/column/general.php:192 ..
+#: includes/admin/views/page/db_update.php:25 ..
+#: includes/admin/views/page/general_settings.php:20 ..
+#: includes/admin/views/page/impex.php:29 ../includes/admin/views/page/import.
+#: php:28 ../includes/admin/views/page/table_editor.php:35 ..
+#: includes/admin/views/page/update.php:28 ..
+#: includes/admin/views/popup/sc_button_icon.php:64 ..
+#: includes/admin/views/popup/sc_media.php:302 ..
+#: includes/admin/views/popup/sc_row_icon.php:54 ..
+#: includes/admin/views/popup/parts/part_fa.php:50 ..
+#: includes/admin/views/popup/parts/part_icomoon.php:44 ..
+#: includes/admin/views/popup/parts/part_linecon.php:44 ..
+#: includes/admin/views/popup/parts/part_material.php:44 ..
+#: includes/globals/animation.php:18 ../includes/globals/shadows.php:18 ..
+#: includes/globals/signs.php:18
+msgid "None"
+msgstr "None"
+
+#: ../includes/admin/views/column/general.php:131 ..
+#: includes/admin/views/column/general.php:136
+msgid "Decoration"
+msgstr "Decoration"
+
+#: ../includes/admin/views/column/general.php:132
+msgid "Shadow & Sign Settings"
+msgstr "Shadow & Sign Settings"
+
+#: ../includes/admin/views/column/general.php:140
+msgid "Shadow and Sign Settings"
+msgstr "Shadow and Sign Settings"
+
+#: ../includes/admin/views/column/general.php:141
+msgid "You can create text and image Signs and Ribbons."
+msgstr "You can create text and image Signs and Ribbons."
+
+#: ../includes/admin/views/column/general.php:163 ..
+#: includes/admin/views/editor_popup/general_decoration.php:20 ..
+#: includes/admin/views/editor_popup/general_decoration.php:22
+msgid "Shadow Style"
+msgstr "Shadow Style"
+
+#: ../includes/admin/views/column/general.php:164 ..
+#: includes/admin/views/editor_popup/general_decoration.php:48 ..
+#: includes/admin/views/editor_popup/general_decoration.php:50
+msgid "Sign Type"
+msgstr "Sign Type"
+
+#: ../includes/admin/views/column/general.php:178 ..
+#: includes/admin/views/column/general.php:183 ..
+#: includes/admin/views/page/table_editor.php:76
+msgid "Animation"
+msgstr "Animation"
+
+#: ../includes/admin/views/column/general.php:179 ..
+#: includes/admin/views/column/general.php:187
+msgid "Column Animation Settings"
+msgstr "Column Animation Settings"
+
+#: ../includes/admin/views/column/general.php:188
+msgid "You can select the Type, Duration, Delay and Easing of the animation."
+msgstr "You can select the Type, Duration, Delay and Easing of the animation."
+
+#: ../includes/admin/views/column/general.php:205 ..
+#: includes/admin/views/editor_popup/general_animation.php:21 ..
+#: includes/admin/views/editor_popup/general_animation.php:24 ..
+#: includes/admin/views/editor_popup/general_animation.php:26
+msgid "Transition"
+msgstr "Transition"
+
+#: ../includes/admin/views/column/general.php:206 ..
+#: includes/admin/views/editor_popup/general_animation.php:82 ..
+#: includes/admin/views/editor_popup/general_animation.php:89
+msgid "Price Counter"
+msgstr "Price Counter"
+
+#: ../includes/admin/views/column/header.php:24 ..
+#: includes/admin/views/column/header.php:29 ..
+#: includes/admin/views/column/header.php:54 ..
+#: includes/admin/views/editor_popup/body_row.php:24 ..
+#: includes/admin/views/editor_popup/footer_row.php:24 ..
+#: includes/admin/views/editor_popup/header_price.php:24 ..
+#: includes/admin/views/editor_popup/header_style.php:21 ..
+#: includes/admin/views/editor_popup/header_title.php:26 ..
+#: includes/globals/styles.php:1515 ../includes/globals/styles.php:1521 ..
+#: includes/globals/styles.php:1527 ../includes/globals/styles.php:1533 ..
+#: includes/globals/styles.php:1539 ../includes/globals/styles.php:1545 ..
+#: includes/globals/styles.php:1551 ../includes/globals/styles.php:1557 ..
+#: includes/globals/styles.php:1563 ../includes/globals/styles.php:1569 ..
+#: includes/globals/styles.php:1575 ../includes/globals/styles.php:1581 ..
+#: includes/globals/styles.php:1587 ../includes/globals/styles.php:1593
+msgid "Style"
+msgstr "Style"
+
+#: ../includes/admin/views/column/header.php:33
+msgid "Style Settings of Header"
+msgstr "Style Settings of Header"
+
+#: ../includes/admin/views/column/header.php:34
+msgid "You can select header style and background image."
+msgstr "You can select header style and background image."
+
+#: ../includes/admin/views/column/header.php:44 ..
+#: includes/admin/views/editor_popup/header_style.php:23
+msgid "Standard (new)"
+msgstr "Standard (new)"
+
+#: ../includes/admin/views/column/header.php:48 ..
+#: includes/admin/views/editor_popup/header_style.php:22
+msgid "Circle"
+msgstr "Circle"
+
+#: ../includes/admin/views/column/header.php:67 ..
+#: includes/admin/views/column/header.php:72 ..
+#: includes/admin/views/column/header.php:101 ..
+#: includes/admin/views/editor_popup/header_title.php:35 ..
+#: includes/admin/views/page/table_manager.php:99
+msgid "Title"
+msgstr "Title"
+
+#: ../includes/admin/views/column/header.php:76
+msgid "Title and Subtitle Settings"
+msgstr "Title and Subtitle Settings"
+
+#: ../includes/admin/views/column/header.php:77
+msgid "You can use the iconpicker to choose an icon."
+msgstr "You can use the iconpicker to choose an icon."
+
+#: ../includes/admin/views/column/header.php:93 ..
+#: includes/admin/views/column/header.php:106 ..
+#: includes/admin/views/column/header.php:131 ..
+#: includes/admin/views/editor_popup/header_price.php:38 ..
+#: includes/admin/views/editor_popup/header_price.php:55 ..
+#: includes/admin/views/editor_popup/header_price.php:75
+msgid "Price"
+msgstr "Price"
+
+#: ../includes/admin/views/column/header.php:110
+msgid "Price and Payment Settings"
+msgstr "Price and Payment Settings"
+
+#: ../includes/admin/views/column/header.php:111
+msgid "You can modify currency under General Settings &raquo; Currency."
+msgstr "You can modify currency under General Settings &raquo; Currency."
+
+#: ../includes/admin/views/column/header.php:124
+#, php-format
+msgid "Price %s"
+msgstr "Price %s"
+
+#: ../includes/admin/views/column/header.php:125 ..
+#: includes/admin/views/column/header.php:132 ..
+#: includes/admin/views/editor_popup/header_price.php:65 ..
+#: includes/admin/views/editor_popup/header_price.php:80
+msgid "Payment"
+msgstr "Payment"
+
+#: ../includes/admin/views/column/header.php:157
+msgid "Type Specific and General Header Settings"
+msgstr "Type Specific and General Header Settings"
+
+#: ../includes/admin/views/column/header.php:158
+msgid "Replace the default header here."
+msgstr "Replace the default header here."
+
+#: ../includes/admin/views/column/header.php:161 ..
+#: includes/admin/views/editor_popup/header_general.php:111
+msgid "HTML / Custom header"
+msgstr "HTML / Custom header"
+
+#: ../includes/admin/views/editor_popup/body_row.php:33 ..
+#: includes/admin/views/editor_popup/footer_row.php:33
+msgid "Row Type"
+msgstr "Row Type"
+
+#: ../includes/admin/views/editor_popup/body_row.php:40
+msgid "Type of the row."
+msgstr "Type of the row."
+
+#: ../includes/admin/views/editor_popup/body_row.php:54 ..
+#: includes/admin/views/editor_popup/footer_row.php:59 ..
+#: includes/admin/views/popup/sc_button_icon.php:60 ..
+#: includes/admin/views/popup/sc_row_icon.php:50
+msgid "Align Left"
+msgstr "Align Left"
+
+#: ../includes/admin/views/editor_popup/body_row.php:54 ..
+#: includes/admin/views/editor_popup/footer_row.php:59 ..
+#: includes/admin/views/popup/sc_button_icon.php:60 ..
+#: includes/admin/views/popup/sc_row_icon.php:50
+msgid "Align Center"
+msgstr "Align Center"
+
+#: ../includes/admin/views/editor_popup/body_row.php:54 ..
+#: includes/admin/views/editor_popup/footer_row.php:59 ..
+#: includes/admin/views/popup/sc_button_icon.php:60 ..
+#: includes/admin/views/popup/sc_row_icon.php:50
+msgid "Align Right"
+msgstr "Align Right"
+
+#: ../includes/admin/views/editor_popup/body_row.php:54 ..
+#: includes/admin/views/editor_popup/footer_row.php:59 ..
+#: includes/admin/views/editor_popup/general_decoration.php:139 ..
+#: includes/admin/views/editor_popup/header_general.php:59 ..
+#: includes/admin/views/editor_popup/header_general.php:120 ..
+#: includes/admin/views/editor_popup/header_price.php:75 ..
+#: includes/admin/views/editor_popup/header_price.php:80 ..
+#: includes/admin/views/editor_popup/header_title.php:36 ..
+#: includes/admin/views/editor_popup/header_title.php:42 ..
+#: includes/admin/views/editor_popup/part/button_general.php:26
+msgid "Add Shortcode"
+msgstr "Add Shortcode"
+
+#: ../includes/admin/views/editor_popup/body_row.php:55
+msgid "Row content."
+msgstr "Row content."
+
+#: ../includes/admin/views/editor_popup/body_row.php:58
+msgid "Tooltip Content"
+msgstr "Tooltip Content"
+
+#: ../includes/admin/views/editor_popup/body_row.php:60
+msgid "Tooltip content."
+msgstr "Tooltip content."
+
+#: ../includes/admin/views/editor_popup/body_row.php:76
+msgid "Content Style"
+msgstr "Content Style"
+
+#: ../includes/admin/views/editor_popup/body_row.php:79 ..
+#: includes/admin/views/editor_popup/body_row.php:113 ..
+#: includes/admin/views/editor_popup/footer_row.php:77 ..
+#: includes/admin/views/editor_popup/general_decoration.php:143 ..
+#: includes/admin/views/editor_popup/header_price.php:91 ..
+#: includes/admin/views/editor_popup/header_price.php:124 ..
+#: includes/admin/views/editor_popup/header_title.php:54 ..
+#: includes/admin/views/editor_popup/header_title.php:89 ..
+#: includes/admin/views/editor_popup/part/button_style.php:25
+msgid "Font Family"
+msgstr "Font Family"
+
+#: ../includes/admin/views/editor_popup/body_row.php:101 ..
+#: includes/admin/views/editor_popup/footer_row.php:99
+msgid "Font family of the row content."
+msgstr "Font family of the row content."
+
+#: ../includes/admin/views/editor_popup/body_row.php:104 ..
+#: includes/admin/views/editor_popup/body_row.php:138 ..
+#: includes/admin/views/editor_popup/footer_row.php:102 ..
+#: includes/admin/views/editor_popup/header_price.php:116 ..
+#: includes/admin/views/editor_popup/header_price.php:149 ..
+#: includes/admin/views/editor_popup/header_title.php:80 ..
+#: includes/admin/views/editor_popup/header_title.php:114 ..
+#: includes/admin/views/editor_popup/part/button_style.php:50
+msgid "Font Size / Line H."
+msgstr "Font Size / Line H."
+
+#: ../includes/admin/views/editor_popup/body_row.php:105 ..
+#: includes/admin/views/editor_popup/body_row.php:139 ..
+#: includes/admin/views/editor_popup/footer_row.php:103 ..
+#: includes/admin/views/editor_popup/general_decoration.php:170 ..
+#: includes/admin/views/editor_popup/header_price.php:117 ..
+#: includes/admin/views/editor_popup/header_price.php:150 ..
+#: includes/admin/views/editor_popup/header_title.php:81 ..
+#: includes/admin/views/editor_popup/header_title.php:115 ..
+#: includes/admin/views/editor_popup/part/button_style.php:51
+msgid "Bold"
+msgstr "Bold"
+
+#: ../includes/admin/views/editor_popup/body_row.php:105 ..
+#: includes/admin/views/editor_popup/body_row.php:139 ..
+#: includes/admin/views/editor_popup/footer_row.php:103 ..
+#: includes/admin/views/editor_popup/general_decoration.php:170 ..
+#: includes/admin/views/editor_popup/header_price.php:117 ..
+#: includes/admin/views/editor_popup/header_price.php:150 ..
+#: includes/admin/views/editor_popup/header_title.php:81 ..
+#: includes/admin/views/editor_popup/header_title.php:115 ..
+#: includes/admin/views/editor_popup/part/button_style.php:51
+msgid "Italic"
+msgstr "Italic"
+
+#: ../includes/admin/views/editor_popup/body_row.php:105 ..
+#: includes/admin/views/editor_popup/body_row.php:139 ..
+#: includes/admin/views/editor_popup/footer_row.php:103 ..
+#: includes/admin/views/editor_popup/general_decoration.php:170 ..
+#: includes/admin/views/editor_popup/header_price.php:117 ..
+#: includes/admin/views/editor_popup/header_price.php:150 ..
+#: includes/admin/views/editor_popup/header_title.php:81 ..
+#: includes/admin/views/editor_popup/header_title.php:115 ..
+#: includes/admin/views/editor_popup/part/button_style.php:51
+msgid "Strikethrough"
+msgstr "Strikethrough"
+
+#: ../includes/admin/views/editor_popup/body_row.php:106 ..
+#: includes/admin/views/editor_popup/footer_row.php:104
+msgid "Font size and line height of the row content in pixels."
+msgstr "Font size and line height of the row content in pixels."
+
+#: ../includes/admin/views/editor_popup/body_row.php:110
+msgid "Tooltip Style"
+msgstr "Tooltip Style"
+
+#: ../includes/admin/views/editor_popup/body_row.php:135
+msgid "Font family of the tooltip content."
+msgstr "Font family of the tooltip content."
+
+#: ../includes/admin/views/editor_popup/footer_row.php:40
+msgid "Type of the footer row."
+msgstr "Type of the footer row."
+
+#: ../includes/admin/views/editor_popup/footer_row.php:60
+msgid "Content of the row."
+msgstr "Content of the row."
+
+#: ../includes/admin/views/editor_popup/general_animation.php:18
+msgid "Animations should be enabled globally first!"
+msgstr "Animations should be enabled globally first!"
+
+#: ../includes/admin/views/editor_popup/general_animation.php:51
+msgid "Type of column transition."
+msgstr "Type of column transition."
+
+#: ../includes/admin/views/editor_popup/general_animation.php:54 ..
+#: includes/admin/views/editor_popup/general_animation.php:98
+msgid "Duration"
+msgstr "Duration"
+
+#: ../includes/admin/views/editor_popup/general_animation.php:56
+msgid "Duration of the transition in milliseconds."
+msgstr "Duration of the transition in milliseconds."
+
+#: ../includes/admin/views/editor_popup/general_animation.php:59 ..
+#: includes/admin/views/editor_popup/general_animation.php:103
+msgid "Delay"
+msgstr "Delay"
+
+#: ../includes/admin/views/editor_popup/general_animation.php:61
+msgid "Initial delay before the transition starts in milliseconds."
+msgstr "Initial delay before the transition starts in milliseconds."
+
+#: ../includes/admin/views/editor_popup/general_animation.php:64 ..
+#: includes/admin/views/editor_popup/general_animation.php:108
+msgid "Easing"
+msgstr "Easing"
+
+#: ../includes/admin/views/editor_popup/general_animation.php:79
+msgid "Easing type of the transition."
+msgstr "Easing type of the transition."
+
+#: ../includes/admin/views/editor_popup/general_animation.php:85
+msgid "Please note, counter works only if you use \"price\" price type!"
+msgstr "Please note, counter works only if you use \"price\" price type!"
+
+#: ../includes/admin/views/editor_popup/general_animation.php:88
+msgid "Enable Counter"
+msgstr "Enable Counter"
+
+#: ../includes/admin/views/editor_popup/general_animation.php:90
+msgid "Whether to enable price counter."
+msgstr "Whether to enable price counter."
+
+#: ../includes/admin/views/editor_popup/general_animation.php:93
+msgid "Initial value"
+msgstr "Initial value"
+
+#: ../includes/admin/views/editor_popup/general_animation.php:95
+msgid "Initial value of counter the animation."
+msgstr "Initial value of counter the animation."
+
+#: ../includes/admin/views/editor_popup/general_animation.php:100
+msgid "Duration of the animation in milliseconds."
+msgstr "Duration of the animation in milliseconds."
+
+#: ../includes/admin/views/editor_popup/general_animation.php:105
+msgid "Initial delay before the animation starts in milliseconds."
+msgstr "Initial delay before the animation starts in milliseconds."
+
+#: ../includes/admin/views/editor_popup/general_animation.php:123
+msgid "Easing type of the animation."
+msgstr "Easing type of the animation."
+
+#: ../includes/admin/views/editor_popup/general_decoration.php:17
+msgid "Shadow Settings"
+msgstr "Shadow Settings"
+
+#: ../includes/admin/views/editor_popup/general_decoration.php:41
+msgid "Bottom shadow of the column."
+msgstr "Bottom shadow of the column."
+
+#: ../includes/admin/views/editor_popup/general_decoration.php:45
+msgid "Sign Settings"
+msgstr "Sign Settings"
+
+#: ../includes/admin/views/editor_popup/general_decoration.php:77
+msgid "Type of the sign."
+msgstr "Type of the sign."
+
+#: ../includes/admin/views/editor_popup/general_decoration.php:80 ..
+#: includes/admin/views/popup/sc_media.php:22 ..
+#: includes/admin/views/popup/sc_media.php:46
+msgid "Image"
+msgstr "Image"
+
+#: ../includes/admin/views/editor_popup/general_decoration.php:85 ..
+#: includes/admin/views/editor_popup/general_decoration.php:87 ..
+#: includes/admin/views/editor_popup/header_general.php:33 ..
+#: includes/admin/views/editor_popup/header_general.php:36 ..
+#: includes/admin/views/editor_popup/header_style.php:36 ..
+#: includes/admin/views/editor_popup/header_style.php:38 ..
+#: includes/admin/views/page/table_editor.php:109 ..
+#: includes/admin/views/page/table_editor.php:111 ..
+#: includes/admin/views/popup/sc_button_icon.php:78 ..
+#: includes/admin/views/popup/sc_media.php:50 ..
+#: includes/admin/views/popup/sc_media.php:176 ..
+#: includes/admin/views/popup/sc_media.php:342 ..
+#: includes/admin/views/popup/sc_row_icon.php:109
+msgid "Remove"
+msgstr "Remove"
+
+#: ../includes/admin/views/editor_popup/general_decoration.php:85 ..
+#: includes/admin/views/editor_popup/header_general.php:33 ..
+#: includes/admin/views/editor_popup/header_style.php:36 ..
+#: includes/admin/views/page/table_editor.php:37 ..
+#: includes/admin/views/page/table_editor.php:37 ..
+#: includes/admin/views/page/table_editor.php:109 ..
+#: includes/admin/views/page/table_editor.php:311 ..
+#: includes/admin/views/page/table_editor.php:311 ..
+#: includes/admin/views/page/table_editor.php:350 ..
+#: includes/admin/views/page/table_editor.php:350 ..
+#: includes/admin/views/page/table_manager.php:163
+msgid "Preview"
+msgstr "Preview"
+
+#: ../includes/admin/views/editor_popup/general_decoration.php:90 ..
+#: includes/admin/views/editor_popup/header_general.php:43 ..
+#: includes/admin/views/editor_popup/header_style.php:41 ..
+#: includes/admin/views/page/table_editor.php:114 ..
+#: includes/admin/views/page/table_editor.php:322 ..
+#: includes/admin/views/popup/sc_button_icon.php:68 ..
+#: includes/admin/views/popup/sc_button_icon.php:80 ..
+#: includes/admin/views/popup/sc_media.php:56 ..
+#: includes/admin/views/popup/sc_media.php:158 ..
+#: includes/admin/views/popup/sc_media.php:163 ..
+#: includes/admin/views/popup/sc_media.php:168 ..
+#: includes/admin/views/popup/sc_media.php:178 ..
+#: includes/admin/views/popup/sc_media.php:332 ..
+#: includes/admin/views/popup/sc_media.php:344 ..
+#: includes/admin/views/popup/sc_media.php:372 ..
+#: includes/admin/views/popup/sc_media.php:377 ..
+#: includes/admin/views/popup/sc_media.php:382 ..
+#: includes/admin/views/popup/sc_row_icon.php:99 ..
+#: includes/admin/views/popup/sc_row_icon.php:111
+msgid "Add"
+msgstr "Add"
+
+#: ../includes/admin/views/editor_popup/general_decoration.php:93 ..
+#: includes/admin/views/popup/sc_media.php:59
+msgid "Enter an URL or select an image from the Media Library."
+msgstr "Enter an URL or select an image from the Media Library."
+
+#: ../includes/admin/views/editor_popup/general_decoration.php:99
+msgid "Sign"
+msgstr "Sign"
+
+#: ../includes/admin/views/editor_popup/general_decoration.php:133
+msgid "Sign."
+msgstr "Sign."
+
+#: ../includes/admin/views/editor_popup/general_decoration.php:140
+msgid "Content of the sign."
+msgstr "Content of the sign."
+
+#: ../includes/admin/views/editor_popup/general_decoration.php:166
+msgid "Font family of the sign."
+msgstr "Font family of the sign."
+
+#: ../includes/admin/views/editor_popup/general_decoration.php:169
+msgid "Font Size"
+msgstr "Font Size"
+
+#: ../includes/admin/views/editor_popup/general_decoration.php:171
+msgid "Font size of the sign text in pixels."
+msgstr "Font size of the sign text in pixels."
+
+#: ../includes/admin/views/editor_popup/general_decoration.php:174
+msgid "Enable Shadow"
+msgstr "Enable Shadow"
+
+#: ../includes/admin/views/editor_popup/general_decoration.php:176
+msgid "Whether to enable the shadow of the sign."
+msgstr "Whether to enable the shadow of the sign."
+
+#: ../includes/admin/views/editor_popup/general_decoration.php:179
+msgid "Text Color"
+msgstr "Text Color"
+
+#: ../includes/admin/views/editor_popup/general_decoration.php:180 ..
+#: includes/admin/views/editor_popup/general_decoration.php:185 ..
+#: includes/admin/views/editor_popup/general_decoration.php:195 ..
+#: includes/admin/views/editor_popup/general_layout-style.php:43 ..
+#: includes/admin/views/page/table_editor.php:190 ..
+#: includes/admin/views/page/table_editor.php:195 ..
+#: includes/admin/views/popup/live_preview.php:29 ..
+#: includes/admin/views/popup/sc_media.php:92 ..
+#: includes/admin/views/popup/parts/part_fa.php:4 ..
+#: includes/admin/views/popup/parts/part_icomoon.php:7 ..
+#: includes/admin/views/popup/parts/part_linecon.php:7 ..
+#: includes/admin/views/popup/parts/part_material.php:7
+msgid "Add To Favourites"
+msgstr "Add To Favourites"
+
+#: ../includes/admin/views/editor_popup/general_decoration.php:181
+msgid "Text color of the sign."
+msgstr "Text color of the sign."
+
+#: ../includes/admin/views/editor_popup/general_decoration.php:184 ..
+#: includes/admin/views/editor_popup/general_decoration.php:194
+msgid "Background Color"
+msgstr "Background Color"
+
+#: ../includes/admin/views/editor_popup/general_decoration.php:186
+msgid "Background color of the sign."
+msgstr "Background color of the sign."
+
+#: ../includes/admin/views/editor_popup/general_decoration.php:189
+msgid "Background Gradient?"
+msgstr "Background Gradient?"
+
+#: ../includes/admin/views/editor_popup/general_decoration.php:191
+msgid "Whether to enable background gradients."
+msgstr "Whether to enable background gradients."
+
+#: ../includes/admin/views/editor_popup/general_decoration.php:196
+msgid "Secondary background color of gradient."
+msgstr "Secondary background color of gradient."
+
+#: ../includes/admin/views/editor_popup/general_decoration.php:199
+msgid "Bg Gradient Angle"
+msgstr "Bg Gradient Angle"
+
+#: ../includes/admin/views/editor_popup/general_decoration.php:201
+msgid "Angle of background gradient in degrees."
+msgstr "Angle of background gradient in degrees."
+
+#: ../includes/admin/views/editor_popup/general_decoration.php:208
+msgid "Alignment"
+msgstr "Alignment"
+
+#: ../includes/admin/views/editor_popup/general_decoration.php:211 ..
+#: includes/admin/views/popup/parts/part_fa.php:21 ..
+#: includes/admin/views/popup/parts/part_icomoon.php:24 ..
+#: includes/admin/views/popup/parts/part_linecon.php:24 ..
+#: includes/admin/views/popup/parts/part_material.php:24
+msgid "Left"
+msgstr "Left"
+
+#: ../includes/admin/views/editor_popup/general_decoration.php:212 ..
+#: includes/admin/views/popup/parts/part_fa.php:23 ..
+#: includes/admin/views/popup/parts/part_icomoon.php:26 ..
+#: includes/admin/views/popup/parts/part_linecon.php:26 ..
+#: includes/admin/views/popup/parts/part_material.php:26
+msgid "Right"
+msgstr "Right"
+
+#: ../includes/admin/views/editor_popup/general_decoration.php:215
+msgid "Horizontal alignment of the sign."
+msgstr "Horizontal alignment of the sign."
+
+#: ../includes/admin/views/editor_popup/general_decoration.php:218
+msgid "Left/Right & Top Pos."
+msgstr "Left/Right & Top Pos."
+
+#: ../includes/admin/views/editor_popup/general_decoration.php:220
+msgid ""
+"Left or Right - depending on the alignment - and the Top position of the "
+"sign."
+msgstr ""
+"Left or Right - depending on the alignment - and the Top position of the "
+"sign."
+
+#: ../includes/admin/views/editor_popup/general_decoration.php:223
+msgid "Link"
+msgstr "Link"
+
+#: ../includes/admin/views/editor_popup/general_decoration.php:225
+msgid "URL of the sign link. Leave blank if you don't want the sign to be linkable."
+msgstr "URL of the sign link. Leave blank if you don't want the sign to be linkable."
+
+#: ../includes/admin/views/editor_popup/general_decoration.php:228 ..
+#: includes/admin/views/editor_popup/part/button_general.php:35
+msgid "Open In New Window?"
+msgstr "Open In New Window?"
+
+#: ../includes/admin/views/editor_popup/general_decoration.php:230
+msgid "Whether to open the link in a new page."
+msgstr "Whether to open the link in a new page."
+
+#: ../includes/admin/views/editor_popup/general_decoration.php:233 ..
+#: includes/admin/views/editor_popup/part/button_general.php:40
+msgid "Nofollow Link?"
+msgstr "Nofollow Link?"
+
+#: ../includes/admin/views/editor_popup/general_decoration.php:235 ..
+#: includes/admin/views/editor_popup/part/button_general.php:42
+msgid "Whether to tell the search engines \"Don't follow the link\"."
+msgstr "Whether to tell the search engines \"Don't follow the link\"."
+
+#: ../includes/admin/views/editor_popup/general_layout-style.php:18
+msgid "Layout Settings"
+msgstr "Layout Settings"
+
+#: ../includes/admin/views/editor_popup/general_layout-style.php:22
+msgid "Highlight Column?"
+msgstr "Highlight Column?"
+
+#: ../includes/admin/views/editor_popup/general_layout-style.php:24
+msgid "Whether to enable hover / active state of the column."
+msgstr "Whether to enable hover / active state of the column."
+
+#: ../includes/admin/views/editor_popup/general_layout-style.php:27
+msgid "Disable Hover?"
+msgstr "Disable Hover?"
+
+#: ../includes/admin/views/editor_popup/general_layout-style.php:29
+msgid "Whether to disable hover / active state of the column."
+msgstr "Whether to disable hover / active state of the column."
+
+#: ../includes/admin/views/editor_popup/general_layout-style.php:32
+msgid "Disable Enlarge?"
+msgstr "Disable Enlarge?"
+
+#: ../includes/admin/views/editor_popup/general_layout-style.php:34
+msgid "Whether to disable enlarge effect on column hover / highlight."
+msgstr "Whether to disable enlarge effect on column hover / highlight."
+
+#: ../includes/admin/views/editor_popup/general_layout-style.php:39
+msgid "Style Settings"
+msgstr "Style Settings"
+
+#: ../includes/admin/views/editor_popup/general_layout-style.php:42
+msgid "Main Color"
+msgstr "Main Color"
+
+#: ../includes/admin/views/editor_popup/general_layout-style.php:44
+msgid "Main color of the pricing table."
+msgstr "Main color of the pricing table."
+
+#: ../includes/admin/views/editor_popup/header_general.php:28
+msgid "Background Image"
+msgstr "Background Image"
+
+#: ../includes/admin/views/editor_popup/header_general.php:34 ..
+#: includes/admin/views/editor_popup/header_general.php:37 ..
+#: includes/admin/views/popup/sc_media.php:51
+msgid "Responsive image?"
+msgstr "Responsive image?"
+
+#: ../includes/admin/views/editor_popup/header_general.php:46 ..
+#: includes/admin/views/editor_popup/header_style.php:44
+msgid "Background image of the header."
+msgstr "Background image of the header."
+
+#: ../includes/admin/views/editor_popup/header_general.php:60 ..
+#: includes/admin/views/editor_popup/header_general.php:121
+msgid "HTML content of the header."
+msgstr "HTML content of the header."
+
+#: ../includes/admin/views/editor_popup/header_general.php:75 ..
+#: includes/admin/views/editor_popup/header_general.php:124
+msgid "CSS Code"
+msgstr "CSS Code"
+
+#: ../includes/admin/views/editor_popup/header_general.php:77 ..
+#: includes/admin/views/editor_popup/header_general.php:126
+msgid "CSS code of the header."
+msgstr "CSS code of the header."
+
+#: ../includes/admin/views/editor_popup/header_general.php:84
+msgid "Type Specific Settings"
+msgstr "Type Specific Settings"
+
+#: ../includes/admin/views/editor_popup/header_general.php:110
+msgid "Replace Header?"
+msgstr "Replace Header?"
+
+#: ../includes/admin/views/editor_popup/header_general.php:112
+msgid "Whether to replace to origianal header with custom HTML & CSS code."
+msgstr "Whether to replace to origianal header with custom HTML & CSS code."
+
+#: ../includes/admin/views/editor_popup/header_price.php:35
+msgid "Price Type"
+msgstr "Price Type"
+
+#: ../includes/admin/views/editor_popup/header_price.php:42
+msgid "Type of the price."
+msgstr "Type of the price."
+
+#: ../includes/admin/views/editor_popup/header_price.php:57
+msgid "Amount of the price."
+msgstr "Amount of the price."
+
+#: ../includes/admin/views/editor_popup/header_price.php:64
+msgid "Payment Name"
+msgstr "Payment Name"
+
+#: ../includes/admin/views/editor_popup/header_price.php:66
+msgid "Name of the payment e.g. \"per month\", \"annual\"."
+msgstr "Name of the payment e.g. \"per month\", \"annual\"."
+
+#: ../includes/admin/views/editor_popup/header_price.php:74
+msgid "Price Content"
+msgstr "Price Content"
+
+#: ../includes/admin/views/editor_popup/header_price.php:76
+msgid "Price content."
+msgstr "Price content."
+
+#: ../includes/admin/views/editor_popup/header_price.php:79
+msgid "Payment Content"
+msgstr "Payment Content"
+
+#: ../includes/admin/views/editor_popup/header_price.php:81
+msgid "Payment content."
+msgstr "Payment content."
+
+#: ../includes/admin/views/editor_popup/header_price.php:88
+msgid "Price Style"
+msgstr "Price Style"
+
+#: ../includes/admin/views/editor_popup/header_price.php:113
+msgid "Font family of the price."
+msgstr "Font family of the price."
+
+#: ../includes/admin/views/editor_popup/header_price.php:118
+msgid "Font size and line height of the price in pixels."
+msgstr "Font size and line height of the price in pixels."
+
+#: ../includes/admin/views/editor_popup/header_price.php:121
+msgid "Payment Style"
+msgstr "Payment Style"
+
+#: ../includes/admin/views/editor_popup/header_price.php:146
+msgid "Font family of the payment."
+msgstr "Font family of the payment."
+
+#: ../includes/admin/views/editor_popup/header_price.php:151
+msgid "Font size and line height of the payment in pixels."
+msgstr "Font size and line height of the payment in pixels."
+
+#: ../includes/admin/views/editor_popup/header_style.php:19
+msgid "Header Style"
+msgstr "Header Style"
+
+#: ../includes/admin/views/editor_popup/header_style.php:25
+msgid "Style of the header."
+msgstr "Style of the header."
+
+#: ../includes/admin/views/editor_popup/header_style.php:28
+msgid ""
+"Set background image only if want to replace the style default colors with "
+"an image."
+msgstr ""
+"Set background image only if want to replace the style default colors with "
+"an image."
+
+#: ../includes/admin/views/editor_popup/header_style.php:31
+msgid "Header background"
+msgstr "Header background"
+
+#: ../includes/admin/views/editor_popup/header_style.php:47
+msgid "Bg position"
+msgstr "Bg position"
+
+#: ../includes/admin/views/editor_popup/header_style.php:49
+msgid "Background position of the header image."
+msgstr "Background position of the header image."
+
+#: ../includes/admin/views/editor_popup/header_title.php:37
+msgid "Title of the pricing table."
+msgstr "Title of the pricing table."
+
+#: ../includes/admin/views/editor_popup/header_title.php:41
+msgid "Subtitle"
+msgstr "Subtitle"
+
+#: ../includes/admin/views/editor_popup/header_title.php:43
+msgid "Subtitle of the pricing table."
+msgstr "Subtitle of the pricing table."
+
+#: ../includes/admin/views/editor_popup/header_title.php:50
+msgid "Title Style"
+msgstr "Title Style"
+
+#: ../includes/admin/views/editor_popup/header_title.php:77
+msgid "Font family of the title."
+msgstr "Font family of the title."
+
+#: ../includes/admin/views/editor_popup/header_title.php:82
+msgid "Font size and line height of the title in pixels."
+msgstr "Font size and line height of the title in pixels."
+
+#: ../includes/admin/views/editor_popup/header_title.php:86
+msgid "Subtitle Style"
+msgstr "Subtitle Style"
+
+#: ../includes/admin/views/editor_popup/header_title.php:111
+msgid "Font family of the subtitle."
+msgstr "Font family of the subtitle."
+
+#: ../includes/admin/views/editor_popup/header_title.php:116
+msgid "Font size and line height of the subtitle in pixels."
+msgstr "Font size and line height of the subtitle in pixels."
+
+#: ../includes/admin/views/editor_popup/part/button_general.php:14
+msgid "Type"
+msgstr "Type"
+
+#: ../includes/admin/views/editor_popup/part/button_general.php:17
+msgid "Regular Button"
+msgstr "Regular Button"
+
+#: ../includes/admin/views/editor_popup/part/button_general.php:18
+msgid "Form Submit Button (e.g. Paypal)"
+msgstr "Form Submit Button (e.g. Paypal)"
+
+#: ../includes/admin/views/editor_popup/part/button_general.php:19
+msgid "Custom Button"
+msgstr "Custom Button"
+
+#: ../includes/admin/views/editor_popup/part/button_general.php:22
+msgid "Type of the button."
+msgstr "Type of the button."
+
+#: ../includes/admin/views/editor_popup/part/button_general.php:27
+msgid "Text of the \"Regular\" and \"Paypal\" buttons. Leave blank for \"Custom\" buttons."
+msgstr "Text of the \"Regular\" and \"Paypal\" buttons. Leave blank for \"Custom\" buttons."
+
+#: ../includes/admin/views/editor_popup/part/button_general.php:32
+msgid "URL of the \"Regular\" button or code of the \"Paypal\" and \"Custom\" buttons."
+msgstr "URL of the \"Regular\" button or code of the \"Paypal\" and \"Custom\" buttons."
+
+#: ../includes/admin/views/editor_popup/part/button_general.php:37
+msgid "Whether to open the link in a new window."
+msgstr "Whether to open the link in a new window."
+
+#: ../includes/admin/views/editor_popup/part/button_style.php:14 ..
+#: includes/admin/views/popup/parts/part_fa.php:8 ..
+#: includes/admin/views/popup/parts/part_icomoon.php:11 ..
+#: includes/admin/views/popup/parts/part_linecon.php:11 ..
+#: includes/admin/views/popup/parts/part_material.php:11
+msgid "Size"
+msgstr "Size"
+
+#: ../includes/admin/views/editor_popup/part/button_style.php:17
+msgid "Small"
+msgstr "Small"
+
+#: ../includes/admin/views/editor_popup/part/button_style.php:18
+msgid "Medium"
+msgstr "Medium"
+
+#: ../includes/admin/views/editor_popup/part/button_style.php:19 ..
+#: includes/admin/views/popup/sc_button_icon.php:44
+msgid "Large"
+msgstr "Large"
+
+#: ../includes/admin/views/editor_popup/part/button_style.php:22
+msgid "Size of the button."
+msgstr "Size of the button."
+
+#: ../includes/admin/views/editor_popup/part/button_style.php:47
+msgid "Font family of the button."
+msgstr "Font family of the button."
+
+#: ../includes/admin/views/editor_popup/part/button_style.php:52
+msgid "Font size and line height of the button in pixels."
+msgstr "Font size and line height of the button in pixels."
+
+#: ../includes/admin/views/page/db_update.php:25 ..
+#: includes/admin/views/page/general_settings.php:20 ..
+#: includes/admin/views/page/impex.php:29 ../includes/admin/views/page/import.
+#: php:28 ../includes/admin/views/page/table_editor.php:35 ..
+#: includes/admin/views/page/table_editor.php:38 ..
+#: includes/admin/views/page/table_editor.php:38 ..
+#: includes/admin/views/page/table_manager.php:69 ..
+#: includes/admin/views/page/table_manager.php:69 ..
+#: includes/admin/views/page/update.php:28
+msgid "Help"
+msgstr "Help"
+
+#: ../includes/admin/views/page/db_update.php:25 ..
+#: includes/admin/views/page/general_settings.php:20 ..
+#: includes/admin/views/page/impex.php:29 ../includes/admin/views/page/import.
+#: php:28 ../includes/admin/views/page/table_editor.php:35 ..
+#: includes/admin/views/page/update.php:28
+msgid "Tooltip"
+msgstr "Tooltip"
+
+#: ../includes/admin/views/page/db_update.php:25 ..
+#: includes/admin/views/page/general_settings.php:20 ..
+#: includes/admin/views/page/impex.php:29 ../includes/admin/views/page/import.
+#: php:28 ../includes/admin/views/page/table_editor.php:35 ..
+#: includes/admin/views/page/update.php:28
+msgid "Show"
+msgstr "Show"
+
+#: ../includes/admin/views/page/db_update.php:47
+msgid ""
+"<strong>Your plugin database update is required.</strong> Create a backup of "
+"your existing table data first, then click to the \"Update\" button."
+msgstr ""
+"<strong>Your plugin database update is required.</strong> Create a backup of "
+"your existing table data first, then click to the \"Update\" button."
+
+#: ../includes/admin/views/page/db_update.php:51
+msgid "Export Data"
+msgstr "Export Data"
+
+#: ../includes/admin/views/page/db_update.php:53
+msgid "Copy the content of the textarea and save into a file on your hard drive."
+msgstr "Copy the content of the textarea and save into a file on your hard drive."
+
+#: ../includes/admin/views/page/general_settings.php:20 ..
+#: includes/admin/views/page/general_settings.php:20 ..
+#: includes/admin/views/page/general_settings.php:159 ..
+#: includes/admin/views/page/general_settings.php:231 ..
+#: includes/admin/views/page/table_editor.php:36 ..
+#: includes/admin/views/page/table_editor.php:36 ..
+#: includes/admin/views/page/table_editor.php:311 ..
+#: includes/admin/views/page/table_editor.php:311 ..
+#: includes/admin/views/page/table_editor.php:350 ..
+#: includes/admin/views/page/table_editor.php:350
+msgid "Save"
+msgstr "Save"
+
+#: ../includes/admin/views/page/general_settings.php:26
+msgid "Are you sure you want to leave without saving?"
+msgstr "Are you sure you want to leave without saving?"
+
+#: ../includes/admin/views/page/general_settings.php:36
+msgid "Admin"
+msgstr "Admin"
+
+#: ../includes/admin/views/page/general_settings.php:40
+msgid "Assets"
+msgstr "Assets"
+
+#: ../includes/admin/views/page/general_settings.php:44 ..
+#: includes/admin/views/page/table_editor.php:80
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: ../includes/admin/views/page/general_settings.php:52
+msgid "Enable AJAX"
+msgstr "Enable AJAX"
+
+#: ../includes/admin/views/page/general_settings.php:54
+msgid "Whether to enable AJAX request mode in admin area."
+msgstr "Whether to enable AJAX request mode in admin area."
+
+#: ../includes/admin/views/page/general_settings.php:57
+msgid "Live Preview Safe Mode"
+msgstr "Live Preview Safe Mode"
+
+#: ../includes/admin/views/page/general_settings.php:59
+msgid ""
+"Whether to enable Safe Mode for Live Previews. Required if the direct access "
+"of PHP files in \"wp-content\" folder is restricted. e.g. The \"Restrict wp-"
+"content access\" option of Sucuri Security plugin is enabled."
+msgstr ""
+"Whether to enable Safe Mode for Live Previews. Required if the direct access "
+"of PHP files in \"wp-content\" folder is restricted. e.g. The \"Restrict wp-"
+"content access\" option of Sucuri Security plugin is enabled."
+
+#: ../includes/admin/views/page/general_settings.php:63
+msgid "Select User Role"
+msgstr "Select User Role"
+
+#: ../includes/admin/views/page/general_settings.php:66
+msgid "Administrator"
+msgstr "Administrator"
+
+#: ../includes/admin/views/page/general_settings.php:67
+msgid "Editor"
+msgstr "Editor"
+
+#: ../includes/admin/views/page/general_settings.php:68
+msgid "Author"
+msgstr "Author"
+
+#: ../includes/admin/views/page/general_settings.php:69
+msgid "Contributor"
+msgstr "Contributor"
+
+#: ../includes/admin/views/page/general_settings.php:72
+msgid "Set user access to the plugin."
+msgstr "Set user access to the plugin."
+
+#: ../includes/admin/views/page/general_settings.php:77
+msgid "Editor Popup Settings"
+msgstr "Editor Popup Settings"
+
+#: ../includes/admin/views/page/general_settings.php:80
+msgid "Apply On Close"
+msgstr "Apply On Close"
+
+#: ../includes/admin/views/page/general_settings.php:82
+msgid "Whether to apply changes automatically when editor popup is closed."
+msgstr "Whether to apply changes automatically when editor popup is closed."
+
+#: ../includes/admin/views/page/general_settings.php:85
+msgid "Apply On Action"
+msgstr "Apply On Action"
+
+#: ../includes/admin/views/page/general_settings.php:87
+msgid ""
+"Whether to apply changes automatically when the editor popup is changed to "
+"next or previous row."
+msgstr ""
+"Whether to apply changes automatically when the editor popup is changed to "
+"next or previous row."
+
+#: ../includes/admin/views/page/general_settings.php:90
+msgid "Open New Row"
+msgstr "Open New Row"
+
+#: ../includes/admin/views/page/general_settings.php:92
+msgid "Whether to open row content automatically for editing in popup."
+msgstr "Whether to open row content automatically for editing in popup."
+
+#: ../includes/admin/views/page/general_settings.php:99
+msgid "Plugin Page(s) Restriction"
+msgstr "Plugin Page(s) Restriction"
+
+#: ../includes/admin/views/page/general_settings.php:102
+msgid "Include"
+msgstr "Include"
+
+#: ../includes/admin/views/page/general_settings.php:103
+msgid "Exclude"
+msgstr "Exclude"
+
+#: ../includes/admin/views/page/general_settings.php:106
+msgid ""
+"Specify the rule of the restriction. Include: pages/posts where to load "
+"plugin assets (JavaScript & CSS files). Exlude: pages/posts where NOT to "
+"load plugin assets."
+msgstr ""
+"Specify the rule of the restriction. Include: pages/posts where to load "
+"plugin assets (JavaScript & CSS files). Exlude: pages/posts where NOT to "
+"load plugin assets."
+
+#: ../includes/admin/views/page/general_settings.php:109
+msgid "Plugin Page(s)"
+msgstr "Plugin Page(s)"
+
+#: ../includes/admin/views/page/general_settings.php:111
+msgid ""
+"Comma separated list of page/post IDs (e.g. 13, 54, 126). Use to restrict "
+"the plugin to load or NOT to load JavaScript & CSS files (depending of the "
+"restriction rule) for the selected pages/posts only improving site "
+"performance. Leave blank if you don't want any restriction."
+msgstr ""
+"Comma separated list of page/post IDs (e.g. 13, 54, 126). Use to restrict "
+"the plugin to load or NOT to load JavaScript & CSS files (depending of the "
+"restriction rule) for the selected pages/posts only improving site "
+"performance. Leave blank if you don't want any restriction."
+
+#: ../includes/admin/views/page/general_settings.php:114
+msgid "Load JavaScript In Header"
+msgstr "Load JavaScript In Header"
+
+#: ../includes/admin/views/page/general_settings.php:116
+msgid ""
+"Whether to load plugin JavaScript in header section of the website. Disable "
+"it to load it in the page footer (recommended)."
+msgstr ""
+"Whether to load plugin JavaScript in header section of the website. Disable "
+"it to load it in the page footer (recommended)."
+
+#: ../includes/admin/views/page/general_settings.php:120
+msgid "Prevent Font Icon CSS Files From Loading"
+msgstr "Prevent Font Icon CSS Files From Loading"
+
+#: ../includes/admin/views/page/general_settings.php:121
+msgid ""
+"CSS files of font icons are loaded automatically by the plugin, only when "
+"necessary. Disabling loading a fontset allows you prevent the required files "
+"are loaded multiple times."
+msgstr ""
+"CSS files of font icons are loaded automatically by the plugin, only when "
+"necessary. Disabling loading a fontset allows you prevent the required files "
+"are loaded multiple times."
+
+#: ../includes/admin/views/page/general_settings.php:123
+msgid "Font Awesome"
+msgstr "Font Awesome"
+
+#: ../includes/admin/views/page/general_settings.php:125 ..
+#: includes/admin/views/page/general_settings.php:130 ..
+#: includes/admin/views/page/general_settings.php:135 ..
+#: includes/admin/views/page/general_settings.php:140
+#, php-format
+msgid "Whether to prevent loading the required files for %s iconset."
+msgstr "Whether to prevent loading the required files for %s iconset."
+
+#: ../includes/admin/views/page/general_settings.php:128
+msgid "Linecon"
+msgstr "Linecon"
+
+#: ../includes/admin/views/page/general_settings.php:133
+msgid "Icomoon"
+msgstr "Icomoon"
+
+#: ../includes/admin/views/page/general_settings.php:138
+msgid "Material Icons"
+msgstr "Material Icons"
+
+#: ../includes/admin/views/page/general_settings.php:147 ..
+#: includes/admin/views/page/table_editor.php:298
+msgid "Code"
+msgstr "Code"
+
+#: ../includes/admin/views/page/general_settings.php:148
+msgid ""
+"Please add general CSS codes here, for table specific codes use the \"Custom "
+"CSS\" tab when you edit a table."
+msgstr ""
+"Please add general CSS codes here, for table specific codes use the \"Custom "
+"CSS\" tab when you edit a table."
+
+#: ../includes/admin/views/page/general_settings.php:150
+msgid "The code will be added to the plugin frontend style."
+msgstr "The code will be added to the plugin frontend style."
+
+#: ../includes/admin/views/page/general_settings.php:167 ..
+#: includes/admin/views/page/general_settings.php:183
+msgid "Currency"
+msgstr "Currency"
+
+#: ../includes/admin/views/page/general_settings.php:194
+msgid "Currency of the price."
+msgstr "Currency of the price."
+
+#: ../includes/admin/views/page/general_settings.php:197
+msgid "Currency Position"
+msgstr "Currency Position"
+
+#: ../includes/admin/views/page/general_settings.php:200
+msgid "Left (e.g. $100)"
+msgstr "Left (e.g. $100)"
+
+#: ../includes/admin/views/page/general_settings.php:201
+msgid "Right (e.g. 100$)"
+msgstr "Right (e.g. 100$)"
+
+#: ../includes/admin/views/page/general_settings.php:203
+msgid "Currency position of the price."
+msgstr "Currency position of the price."
+
+#: ../includes/admin/views/page/general_settings.php:206
+msgid "Thousand Separator"
+msgstr "Thousand Separator"
+
+#: ../includes/admin/views/page/general_settings.php:208
+msgid "Thuousand separator of the price."
+msgstr "Thuousand separator of the price."
+
+#: ../includes/admin/views/page/general_settings.php:211
+msgid "Decimal Separator"
+msgstr "Decimal Separator"
+
+#: ../includes/admin/views/page/general_settings.php:213
+msgid "Decimal separator of the price."
+msgstr "Decimal separator of the price."
+
+#: ../includes/admin/views/page/general_settings.php:216
+msgid "Number of Decimals"
+msgstr "Number of Decimals"
+
+#: ../includes/admin/views/page/general_settings.php:218
+msgid "Maximum number of decimals to show in price."
+msgstr "Maximum number of decimals to show in price."
+
+#: ../includes/admin/views/page/impex.php:21 ../includes/admin/views/page/update.
+#: php:21
+msgid "Unknown"
+msgstr "Unknown"
+
+#: ../includes/admin/views/page/impex.php:46 ../includes/admin/views/page/import.
+#: php:45 ../includes/admin/views/page/table_manager.php:67 ..
+#: includes/admin/views/page/table_manager.php:67 ..
+#: includes/admin/views/page/table_manager.php:188 ..
+#: includes/admin/views/page/table_manager.php:188
+msgid "Import"
+msgstr "Import"
+
+#: ../includes/admin/views/page/impex.php:50 ..
+#: includes/admin/views/page/table_manager.php:68 ..
+#: includes/admin/views/page/table_manager.php:68 ..
+#: includes/admin/views/page/table_manager.php:113 ..
+#: includes/admin/views/page/table_manager.php:188 ..
+#: includes/admin/views/page/table_manager.php:188 ..
+#: includes/admin/views/popup/live_preview.php:30 ..
+#: includes/admin/views/popup/live_preview.php:30
+msgid "Export"
+msgstr "Export"
+
+#: ../includes/admin/views/page/impex.php:58
+msgid "Import Data File"
+msgstr "Import Data File"
+
+#: ../includes/admin/views/page/impex.php:64 ../includes/admin/views/page/update.
+#: php:109
+msgid "Drop file here or"
+msgstr "Drop file here or"
+
+#: ../includes/admin/views/page/impex.php:65 ../includes/admin/views/page/impex.
+#: php:65 ../includes/admin/views/page/update.php:110 ..
+#: includes/admin/views/page/update.php:110
+msgid "Select File"
+msgstr "Select File"
+
+#: ../includes/admin/views/page/impex.php:69 ../includes/admin/views/page/update.
+#: php:116
+msgid ""
+"For older browsers or with disabled AJAX, please use the \"Select File\" "
+"button to upload files."
+msgstr ""
+"For older browsers or with disabled AJAX, please use the \"Select File\" "
+"button to upload files."
+
+#: ../includes/admin/views/page/impex.php:69 ../includes/admin/views/page/update.
+#: php:116
+#, php-format
+msgid "Maximum file size: %s."
+msgstr "Maximum file size: %s."
+
+#: ../includes/admin/views/page/impex.php:76 ../includes/admin/views/page/import.
+#: php:53
+#, php-format
+msgid "Select Tables%s"
+msgstr "Select Tables%s"
+
+#: ../includes/admin/views/page/impex.php:80 ../includes/admin/views/page/import.
+#: php:57
+msgid "All tables"
+msgstr "All tables"
+
+#: ../includes/admin/views/page/impex.php:80
+msgid "Show / Hide"
+msgstr "Show / Hide"
+
+#: ../includes/admin/views/page/impex.php:91 ../includes/admin/views/page/import.
+#: php:66
+msgid "No tables found."
+msgstr "No tables found."
+
+#: ../includes/admin/views/page/impex.php:94
+msgid "Select the pricing tables you would like to export."
+msgstr "Select the pricing tables you would like to export."
+
+#: ../includes/admin/views/page/import.php:69
+msgid "Select the pricing tables you would like to import."
+msgstr "Select the pricing tables you would like to import."
+
+#: ../includes/admin/views/page/import.php:72
+msgid "Replace existing items?"
+msgstr "Replace existing items?"
+
+#: ../includes/admin/views/page/import.php:73
+msgid "Yes"
+msgstr "Yes"
+
+#: ../includes/admin/views/page/import.php:74
+msgid "Whether to replace existing items with same ids or create new copy of them."
+msgstr "Whether to replace existing items with same ids or create new copy of them."
+
+#: ../includes/admin/views/page/table_editor.php:37 ..
+#: includes/admin/views/page/table_editor.php:311 ..
+#: includes/admin/views/page/table_editor.php:350
+msgid "Please save the table first!"
+msgstr "Please save the table first!"
+
+#: ../includes/admin/views/page/table_editor.php:39 ..
+#: includes/admin/views/page/table_editor.php:39 ..
+#: includes/admin/views/page/table_manager.php:70 ..
+#: includes/admin/views/page/table_manager.php:70
+msgid "Settings"
+msgstr "Settings"
+
+#: ../includes/admin/views/page/table_editor.php:46
+msgid "Settings has been changed. Don't forget to save!"
+msgstr "Settings has been changed. Don't forget to save!"
+
+#: ../includes/admin/views/page/table_editor.php:60
+msgid "Name & ID"
+msgstr "Name & ID"
+
+#: ../includes/admin/views/page/table_editor.php:64
+msgid "Skin & Style"
+msgstr "Skin & Style"
+
+#: ../includes/admin/views/page/table_editor.php:68
+msgid "Layout"
+msgstr "Layout"
+
+#: ../includes/admin/views/page/table_editor.php:72
+msgid "Responsivity"
+msgstr "Responsivity"
+
+#: ../includes/admin/views/page/table_editor.php:88 ..
+#: includes/vendors/vc/class_vc_extend.php:75
+msgid "Table Name"
+msgstr "Table Name"
+
+#: ../includes/admin/views/page/table_editor.php:90
+msgid "Pricing table name, used only in admin area."
+msgstr "Pricing table name, used only in admin area."
+
+#: ../includes/admin/views/page/table_editor.php:93
+msgid "Table ID"
+msgstr "Table ID"
+
+#: ../includes/admin/views/page/table_editor.php:95
+msgid ""
+"Unique ID, used in shortcodes. (e.g. If your table ID is \"my_table\", your "
+"shortcode will be: [go_pricing id=\"my_table\"]).<br>Only lowercase letters, "
+"numbers, hyphens and underscores are allowed."
+msgstr ""
+"Unique ID, used in shortcodes. (e.g. If your table ID is \"my_table\", your "
+"shortcode will be: [go_pricing id=\"my_table\"]).<br>Only lowercase letters, "
+"numbers, hyphens and underscores are allowed."
+
+#: ../includes/admin/views/page/table_editor.php:98 ..
+#: includes/admin/views/page/table_manager.php:72 ..
+#: includes/admin/views/popup/sc_media.php:19
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: ../includes/admin/views/page/table_editor.php:100
+msgid "Your shortcode. Paste it into any post or page."
+msgstr "Your shortcode. Paste it into any post or page."
+
+#: ../includes/admin/views/page/table_editor.php:104
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#: ../includes/admin/views/page/table_editor.php:104
+msgid "optional"
+msgstr "optional"
+
+#: ../includes/admin/views/page/table_editor.php:117
+msgid ""
+"Unique thumbnail image. It helps you identify you table in admin area. Enter "
+"an URL or select an image from the Media Library.<br><strong>Recommended "
+"size 400x196px.</strong>"
+msgstr ""
+"Unique thumbnail image. It helps you identify you table in admin area. Enter "
+"an URL or select an image from the Media Library.<br><strong>Recommended "
+"size 400x196px.</strong>"
+
+#: ../includes/admin/views/page/table_editor.php:125
+msgid "Unsaved column data will be lost on skin change!"
+msgstr "Unsaved column data will be lost on skin change!"
+
+#: ../includes/admin/views/page/table_editor.php:128 ..
+#: includes/admin/views/page/table_manager.php:82
+msgid "Skin"
+msgstr "Skin"
+
+#: ../includes/admin/views/page/table_editor.php:144
+msgid "Skin of the pricing table."
+msgstr "Skin of the pricing table."
+
+#: ../includes/admin/views/page/table_editor.php:155
+msgid "Default Font Family"
+msgstr "Default Font Family"
+
+#: ../includes/admin/views/page/table_editor.php:178
+msgid ""
+"Default font family for the pricing table. Select \"Default / Inherit\" to use "
+"your theme default font family. "
+msgstr ""
+"Default font family for the pricing table. Select \"Default / Inherit\" to use "
+"your theme default font family. "
+
+#: ../includes/admin/views/page/table_editor.php:184
+msgid "Tooltip Width"
+msgstr "Tooltip Width"
+
+#: ../includes/admin/views/page/table_editor.php:186
+msgid "Width of the tooltip in pixels."
+msgstr "Width of the tooltip in pixels."
+
+#: ../includes/admin/views/page/table_editor.php:189
+msgid "Tooltip Bg Color"
+msgstr "Tooltip Bg Color"
+
+#: ../includes/admin/views/page/table_editor.php:191
+msgid "Background color of the tooltip."
+msgstr "Background color of the tooltip."
+
+#: ../includes/admin/views/page/table_editor.php:194
+msgid "Tooltip Text Color"
+msgstr "Tooltip Text Color"
+
+#: ../includes/admin/views/page/table_editor.php:196
+msgid "Text color of the tooltip."
+msgstr "Text color of the tooltip."
+
+#: ../includes/admin/views/page/table_editor.php:204
+msgid "Column Space"
+msgstr "Column Space"
+
+#: ../includes/admin/views/page/table_editor.php:206
+msgid "Horizontal space between columns in pixels."
+msgstr "Horizontal space between columns in pixels."
+
+#: ../includes/admin/views/page/table_editor.php:209
+msgid "Column Min/Max Width"
+msgstr "Column Min/Max Width"
+
+#: ../includes/admin/views/page/table_editor.php:211
+msgid "Minimum width of the colums in pixels."
+msgstr "Minimum width of the colums in pixels."
+
+#: ../includes/admin/views/page/table_editor.php:217
+msgid "Hide Footer?"
+msgstr "Hide Footer?"
+
+#: ../includes/admin/views/page/table_editor.php:219
+msgid "Whether to hide the table footer."
+msgstr "Whether to hide the table footer."
+
+#: ../includes/admin/views/page/table_editor.php:222
+msgid "Enlarge Current Column?"
+msgstr "Enlarge Current Column?"
+
+#: ../includes/admin/views/page/table_editor.php:224
+msgid "Whether to increase the size of the columns on hover/highlighted state."
+msgstr "Whether to increase the size of the columns on hover/highlighted state."
+
+#: ../includes/admin/views/page/table_editor.php:230
+msgid "Equalize Columns?"
+msgstr "Equalize Columns?"
+
+#: ../includes/admin/views/page/table_editor.php:232
+msgid "Whether to equalize the height of the columns (recommended)."
+msgstr "Whether to equalize the height of the columns (recommended)."
+
+#: ../includes/admin/views/page/table_editor.php:235
+msgid "Equalize Rows in Body?"
+msgstr "Equalize Rows in Body?"
+
+#: ../includes/admin/views/page/table_editor.php:237
+msgid "Whether to equalize the height of the rows in body (recommended)."
+msgstr "Whether to equalize the height of the rows in body (recommended)."
+
+#: ../includes/admin/views/page/table_editor.php:240
+msgid "Equalize Rows in Footer?"
+msgstr "Equalize Rows in Footer?"
+
+#: ../includes/admin/views/page/table_editor.php:242
+msgid "Whether to equalize the height of the rows in footer (recommended)."
+msgstr "Whether to equalize the height of the rows in footer (recommended)."
+
+#: ../includes/admin/views/page/table_editor.php:250
+msgid "Enable Responsivity"
+msgstr "Enable Responsivity"
+
+#: ../includes/admin/views/page/table_editor.php:252
+msgid "Whether to enable or disable responsiveness."
+msgstr "Whether to enable or disable responsiveness."
+
+#: ../includes/admin/views/page/table_editor.php:256
+msgid "Tablet Portrait View"
+msgstr "Tablet Portrait View"
+
+#: ../includes/admin/views/page/table_editor.php:257 ..
+#: includes/admin/views/page/table_editor.php:262 ..
+#: includes/admin/views/page/table_editor.php:267
+msgid "Min."
+msgstr "Min."
+
+#: ../includes/admin/views/page/table_editor.php:257 ..
+#: includes/admin/views/page/table_editor.php:262 ..
+#: includes/admin/views/page/table_editor.php:267
+msgid "Max."
+msgstr "Max."
+
+#: ../includes/admin/views/page/table_editor.php:257 ..
+#: includes/admin/views/page/table_editor.php:262 ..
+#: includes/admin/views/page/table_editor.php:267
+msgid "Columns"
+msgstr "Columns"
+
+#: ../includes/admin/views/page/table_editor.php:257 ..
+#: includes/admin/views/page/table_editor.php:262 ..
+#: includes/admin/views/page/table_editor.php:267 ..
+#: includes/admin/views/page/table_manager.php:84
+msgid "All"
+msgstr "All"
+
+#: ../includes/admin/views/page/table_editor.php:258
+msgid ""
+"Minimum and maximum screen width breakpoints in pixels and the number of "
+"columns to show in a row for Tablet Portrait View."
+msgstr ""
+"Minimum and maximum screen width breakpoints in pixels and the number of "
+"columns to show in a row for Tablet Portrait View."
+
+#: ../includes/admin/views/page/table_editor.php:261
+msgid "Mobile Landscape View"
+msgstr "Mobile Landscape View"
+
+#: ../includes/admin/views/page/table_editor.php:263 ..
+#: includes/admin/views/page/table_editor.php:268
+msgid ""
+"Minimum and maximum screen width breakpoints in pixels and the number of "
+"columns to show in a row for Mobile Landscape View."
+msgstr ""
+"Minimum and maximum screen width breakpoints in pixels and the number of "
+"columns to show in a row for Mobile Landscape View."
+
+#: ../includes/admin/views/page/table_editor.php:266
+msgid "Mobile Portrait View"
+msgstr "Mobile Portrait View"
+
+#: ../includes/admin/views/page/table_editor.php:277
+msgid "Enable Animation"
+msgstr "Enable Animation"
+
+#: ../includes/admin/views/page/table_editor.php:279
+msgid "Column animation is played when table gets in the viewport of screen."
+msgstr "Column animation is played when table gets in the viewport of screen."
+
+#: ../includes/admin/views/page/table_editor.php:282
+msgid "Play Once"
+msgstr "Play Once"
+
+#: ../includes/admin/views/page/table_editor.php:284
+msgid ""
+"Whether to play animation only once or every time if the table gets in the "
+"viewport of screen."
+msgstr ""
+"Whether to play animation only once or every time if the table gets in the "
+"viewport of screen."
+
+#: ../includes/admin/views/page/table_editor.php:287
+msgid "Scroll Offset"
+msgstr "Scroll Offset"
+
+#: ../includes/admin/views/page/table_editor.php:289
+msgid "Distance from the top of the screen where the animation starts playing.  "
+msgstr "Distance from the top of the screen where the animation starts playing.  "
+
+#: ../includes/admin/views/page/table_editor.php:299
+msgid ""
+"CSS code will be automatically prefixed with a table id selector (e.g. #go-"
+"pricing-1234 .my-custom-rule { ... }) and will be applied to this table only,"
+" so please don't use id selectors! For general - not table specific - CSS "
+"codes use the \"Custom CSS\" tab under General Settings page."
+msgstr ""
+"CSS code will be automatically prefixed with a table id selector (e.g. #go-"
+"pricing-1234 .my-custom-rule { ... }) and will be applied to this table only,"
+" so please don't use id selectors! For general - not table specific - CSS "
+"codes use the \"Custom CSS\" tab under General Settings page."
+
+#: ../includes/admin/views/page/table_editor.php:301
+msgid "This code will be applied to the current table style."
+msgstr "This code will be applied to the current table style."
+
+#: ../includes/admin/views/page/table_editor.php:311 ..
+#: includes/admin/views/page/table_editor.php:311 ..
+#: includes/admin/views/page/table_editor.php:350 ..
+#: includes/admin/views/page/table_editor.php:350
+msgid "Go to Dashboard"
+msgstr "Go to Dashboard"
+
+#: ../includes/admin/views/page/table_editor.php:320
+msgid "Column Editor"
+msgstr "Column Editor"
+
+#: ../includes/admin/views/page/table_editor.php:322 ..
+#: includes/admin/views/page/table_editor.php:337
+msgid "Add New Column"
+msgstr "Add New Column"
+
+#: ../includes/admin/views/page/table_manager.php:31
+msgid "Rows"
+msgstr "Rows"
+
+#: ../includes/admin/views/page/table_manager.php:64
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: ../includes/admin/views/page/table_manager.php:66 ..
+#: includes/admin/views/page/table_manager.php:66 ..
+#: includes/admin/views/page/table_manager.php:188 ..
+#: includes/admin/views/page/table_manager.php:188
+msgid "Create"
+msgstr "Create"
+
+#: ../includes/admin/views/page/table_manager.php:79
+msgid "e.g. 'Name' or 'Post ID'"
+msgstr "e.g. 'Name' or 'Post ID'"
+
+#: ../includes/admin/views/page/table_manager.php:79 ..
+#: includes/admin/views/popup/parts/part_fa.php:37 ..
+#: includes/admin/views/popup/parts/part_icomoon.php:40 ..
+#: includes/admin/views/popup/parts/part_linecon.php:40 ..
+#: includes/admin/views/popup/parts/part_material.php:40
+msgid "Search"
+msgstr "Search"
+
+#: ../includes/admin/views/page/table_manager.php:91 ..
+#: includes/admin/views/page/table_manager.php:91
+msgid "Reset"
+msgstr "Reset"
+
+#: ../includes/admin/views/page/table_manager.php:95
+msgid "Sort"
+msgstr "Sort"
+
+#: ../includes/admin/views/page/table_manager.php:97
+msgid "Post ID"
+msgstr "Post ID"
+
+#: ../includes/admin/views/page/table_manager.php:98
+msgid "Date"
+msgstr "Date"
+
+#: ../includes/admin/views/page/table_manager.php:100
+msgid "Last Modified Date"
+msgstr "Last Modified Date"
+
+#: ../includes/admin/views/page/table_manager.php:105
+msgid "ASC"
+msgstr "ASC"
+
+#: ../includes/admin/views/page/table_manager.php:106
+msgid "DESC"
+msgstr "DESC"
+
+#: ../includes/admin/views/page/table_manager.php:113
+msgid "Select / Deselect All"
+msgstr "Select / Deselect All"
+
+#: ../includes/admin/views/page/table_manager.php:113 ..
+#: includes/admin/views/page/table_manager.php:163
+msgid "Are you sure you wanto clone the selected table(s)?"
+msgstr "Are you sure you wanto clone the selected table(s)?"
+
+#: ../includes/admin/views/page/table_manager.php:113 ..
+#: includes/admin/views/page/table_manager.php:163
+msgid "Are you sure you want to delete the selected table(s)?"
+msgstr "Are you sure you want to delete the selected table(s)?"
+
+#: ../includes/admin/views/page/table_manager.php:173
+msgid "Let's get started!"
+msgstr "Let's get started!"
+
+#: ../includes/admin/views/page/table_manager.php:174
+msgid "Create a new table from scratch or import existing ones from our demo tables."
+msgstr "Create a new table from scratch or import existing ones from our demo tables."
+
+#: ../includes/admin/views/page/table_manager.php:180
+msgid "Oops, couldn't find it. "
+msgstr "Oops, couldn't find it. "
+
+#: ../includes/admin/views/page/update.php:55
+msgid "Update Plugin & Add-ons"
+msgstr "Update Plugin & Add-ons"
+
+#: ../includes/admin/views/page/update.php:64
+msgid ""
+"Please ensure that your copy is from safe source. Most of downloaded plugins "
+"from warez sites include harmful codes, which can endanger your whole site."
+msgstr ""
+"Please ensure that your copy is from safe source. Most of downloaded plugins "
+"from warez sites include harmful codes, which can endanger your whole site."
+
+#: ../includes/admin/views/page/update.php:73
+msgid ""
+"Oops, it seems WordPress has no direct access to the file system, please "
+"update the plugin using FTP."
+msgstr ""
+"Oops, it seems WordPress has no direct access to the file system, please "
+"update the plugin using FTP."
+
+#: ../includes/admin/views/page/update.php:87
+msgid "Select Product"
+msgstr "Select Product"
+
+#: ../includes/admin/views/page/update.php:97
+msgid "Select the product which you want to update."
+msgstr "Select the product which you want to update."
+
+#: ../includes/admin/views/page/update.php:103
+msgid "Plugin Zip File"
+msgstr "Plugin Zip File"
+
+#: ../includes/admin/views/page/update.php:115
+msgid "Downgrading (uploading older versions) is not supported."
+msgstr "Downgrading (uploading older versions) is not supported."
+
+#: ../includes/admin/views/popup/image_preview.php:8
+msgid "Image Preview"
+msgstr "Image Preview"
+
+#: ../includes/admin/views/popup/live_preview.php:11
+msgid "Live Preview"
+msgstr "Live Preview"
+
+#: ../includes/admin/views/popup/live_preview.php:21
+msgid "Play / Pause Animation"
+msgstr "Play / Pause Animation"
+
+#: ../includes/admin/views/popup/live_preview.php:26
+msgid "Desktop View"
+msgstr "Desktop View"
+
+#: ../includes/admin/views/popup/live_preview.php:26
+msgid "Tablet View"
+msgstr "Tablet View"
+
+#: ../includes/admin/views/popup/live_preview.php:26
+msgid "Mobile View"
+msgstr "Mobile View"
+
+#: ../includes/admin/views/popup/sc_button_icon.php:9 ..
+#: includes/admin/views/popup/sc_font_icon.php:9 ..
+#: includes/admin/views/popup/sc_media.php:9 ..
+#: includes/admin/views/popup/sc_row_icon.php:9
+msgid "Shortcode Editor"
+msgstr "Shortcode Editor"
+
+#: ../includes/admin/views/popup/sc_button_icon.php:9 ..
+#: includes/admin/views/popup/sc_font_icon.php:9 ..
+#: includes/admin/views/popup/sc_media.php:9 ..
+#: includes/admin/views/popup/sc_row_icon.php:9
+msgid "Insert Custom Shortcode"
+msgstr "Insert Custom Shortcode"
+
+#: ../includes/admin/views/popup/sc_button_icon.php:19 ..
+#: includes/admin/views/popup/sc_font_icon.php:19 ..
+#: includes/admin/views/popup/sc_row_icon.php:19
+msgid "Iconset"
+msgstr "Iconset"
+
+#: ../includes/admin/views/popup/sc_button_icon.php:22 ..
+#: includes/admin/views/popup/sc_font_icon.php:22 ..
+#: includes/admin/views/popup/sc_row_icon.php:22
+msgid "Font Awesome 4.5 (694)"
+msgstr "Font Awesome 4.5 (694)"
+
+#: ../includes/admin/views/popup/sc_button_icon.php:23 ..
+#: includes/admin/views/popup/sc_font_icon.php:23 ..
+#: includes/admin/views/popup/sc_row_icon.php:23
+msgid "Linecon (48)"
+msgstr "Linecon (48)"
+
+#: ../includes/admin/views/popup/sc_button_icon.php:24 ..
+#: includes/admin/views/popup/sc_font_icon.php:24 ..
+#: includes/admin/views/popup/sc_row_icon.php:24
+msgid "Icomoon (491)"
+msgstr "Icomoon (491)"
+
+#: ../includes/admin/views/popup/sc_button_icon.php:25 ..
+#: includes/admin/views/popup/sc_font_icon.php:25 ..
+#: includes/admin/views/popup/sc_row_icon.php:25
+msgid "Material Icons (795)"
+msgstr "Material Icons (795)"
+
+#: ../includes/admin/views/popup/sc_button_icon.php:26 ..
+#: includes/admin/views/popup/sc_row_icon.php:26
+msgid "Image icons"
+msgstr "Image icons"
+
+#: ../includes/admin/views/popup/sc_button_icon.php:29 ..
+#: includes/admin/views/popup/sc_font_icon.php:28 ..
+#: includes/admin/views/popup/sc_row_icon.php:29
+msgid "Set of the icons."
+msgstr "Set of the icons."
+
+#: ../includes/admin/views/popup/sc_button_icon.php:39
+msgid "Icon Size"
+msgstr "Icon Size"
+
+#: ../includes/admin/views/popup/sc_button_icon.php:43
+msgid "Medium (default)"
+msgstr "Medium (default)"
+
+#: ../includes/admin/views/popup/sc_button_icon.php:47
+msgid "Size of image. Medium size is 20x20 pixels, large is 24x24. (optional)."
+msgstr "Size of image. Medium size is 20x20 pixels, large is 24x24. (optional)."
+
+#: ../includes/admin/views/popup/sc_button_icon.php:50 ..
+#: includes/admin/views/popup/sc_row_icon.php:39 ..
+#: includes/admin/views/popup/parts/part_fa.php:28 ..
+#: includes/admin/views/popup/parts/part_icomoon.php:31 ..
+#: includes/admin/views/popup/parts/part_linecon.php:31 ..
+#: includes/admin/views/popup/parts/part_material.php:31
+msgid "Icon"
+msgstr "Icon"
+
+#: ../includes/admin/views/popup/sc_button_icon.php:59 ..
+#: includes/admin/views/popup/sc_row_icon.php:49
+msgid "Icon Alignment"
+msgstr "Icon Alignment"
+
+#: ../includes/admin/views/popup/sc_button_icon.php:74 ..
+#: includes/admin/views/popup/sc_media.php:338 ..
+#: includes/admin/views/popup/sc_row_icon.php:105
+msgid "Custom Icon"
+msgstr "Custom Icon"
+
+#: ../includes/admin/views/popup/sc_button_icon.php:83 ..
+#: includes/admin/views/popup/sc_row_icon.php:114
+msgid "Custom icon."
+msgstr "Custom icon."
+
+#: ../includes/admin/views/popup/sc_button_icon.php:94 ..
+#: includes/admin/views/popup/sc_button_icon.php:94 ..
+#: includes/admin/views/popup/sc_font_icon.php:43 ..
+#: includes/admin/views/popup/sc_font_icon.php:43 ..
+#: includes/admin/views/popup/sc_media.php:420 ..
+#: includes/admin/views/popup/sc_media.php:420 ..
+#: includes/admin/views/popup/sc_row_icon.php:125 ..
+#: includes/admin/views/popup/sc_row_icon.php:125
+msgid "Insert Shortcode"
+msgstr "Insert Shortcode"
+
+#: ../includes/admin/views/popup/sc_media.php:23
+msgid "Video"
+msgstr "Video"
+
+#: ../includes/admin/views/popup/sc_media.php:24
+msgid "Youtube Video"
+msgstr "Youtube Video"
+
+#: ../includes/admin/views/popup/sc_media.php:25
+msgid "Vimeo Video"
+msgstr "Vimeo Video"
+
+#: ../includes/admin/views/popup/sc_media.php:26
+msgid "Screenr Video"
+msgstr "Screenr Video"
+
+#: ../includes/admin/views/popup/sc_media.php:27
+msgid "Dailymotion Video"
+msgstr "Dailymotion Video"
+
+#: ../includes/admin/views/popup/sc_media.php:28
+msgid "Metacafe Video"
+msgstr "Metacafe Video"
+
+#: ../includes/admin/views/popup/sc_media.php:29
+msgid "HTML5 Video"
+msgstr "HTML5 Video"
+
+#: ../includes/admin/views/popup/sc_media.php:30
+msgid "Audio"
+msgstr "Audio"
+
+#: ../includes/admin/views/popup/sc_media.php:31
+msgid "Soundcloud Audio"
+msgstr "Soundcloud Audio"
+
+#: ../includes/admin/views/popup/sc_media.php:32
+msgid "Mixcloud Audio"
+msgstr "Mixcloud Audio"
+
+#: ../includes/admin/views/popup/sc_media.php:33
+msgid "Beatport Audio"
+msgstr "Beatport Audio"
+
+#: ../includes/admin/views/popup/sc_media.php:34
+msgid "HTML5 Audio"
+msgstr "HTML5 Audio"
+
+#: ../includes/admin/views/popup/sc_media.php:35
+msgid "Other"
+msgstr "Other"
+
+#: ../includes/admin/views/popup/sc_media.php:36
+msgid "Google Map"
+msgstr "Google Map"
+
+#: ../includes/admin/views/popup/sc_media.php:37
+msgid "Custom Iframe"
+msgstr "Custom Iframe"
+
+#: ../includes/admin/views/popup/sc_media.php:40
+msgid "Type of the shortcode to edit."
+msgstr "Type of the shortcode to edit."
+
+#: ../includes/admin/views/popup/sc_media.php:64 ..
+#: includes/admin/views/popup/sc_media.php:81 ..
+#: includes/admin/views/popup/sc_media.php:103 ..
+#: includes/admin/views/popup/sc_media.php:117 ..
+#: includes/admin/views/popup/sc_media.php:137
+msgid "Video ID"
+msgstr "Video ID"
+
+#: ../includes/admin/views/popup/sc_media.php:66 ..
+#: includes/admin/views/popup/sc_media.php:83 ..
+#: includes/admin/views/popup/sc_media.php:105 ..
+#: includes/admin/views/popup/sc_media.php:119 ..
+#: includes/admin/views/popup/sc_media.php:139
+msgid "ID of the video."
+msgstr "ID of the video."
+
+#: ../includes/admin/views/popup/sc_media.php:69 ..
+#: includes/admin/views/popup/sc_media.php:86 ..
+#: includes/admin/views/popup/sc_media.php:108 ..
+#: includes/admin/views/popup/sc_media.php:122 ..
+#: includes/admin/views/popup/sc_media.php:142 ..
+#: includes/admin/views/popup/sc_media.php:204 ..
+#: includes/admin/views/popup/sc_media.php:224 ..
+#: includes/admin/views/popup/sc_media.php:239 ..
+#: includes/admin/views/popup/sc_media.php:259 ..
+#: includes/admin/views/popup/sc_media.php:406
+msgid "Height"
+msgstr "Height"
+
+#: ../includes/admin/views/popup/sc_media.php:71 ..
+#: includes/admin/views/popup/sc_media.php:88 ..
+#: includes/admin/views/popup/sc_media.php:110 ..
+#: includes/admin/views/popup/sc_media.php:124 ..
+#: includes/admin/views/popup/sc_media.php:144
+msgid "Height of the video in pixels (optional)."
+msgstr "Height of the video in pixels (optional)."
+
+#: ../includes/admin/views/popup/sc_media.php:74 ..
+#: includes/admin/views/popup/sc_media.php:96 ..
+#: includes/admin/views/popup/sc_media.php:127 ..
+#: includes/admin/views/popup/sc_media.php:147 ..
+#: includes/admin/views/popup/sc_media.php:184 ..
+#: includes/admin/views/popup/sc_media.php:209 ..
+#: includes/admin/views/popup/sc_media.php:244 ..
+#: includes/admin/views/popup/sc_media.php:386
+msgid "Autoplay?"
+msgstr "Autoplay?"
+
+#: ../includes/admin/views/popup/sc_media.php:76 ..
+#: includes/admin/views/popup/sc_media.php:98 ..
+#: includes/admin/views/popup/sc_media.php:129 ..
+#: includes/admin/views/popup/sc_media.php:149 ..
+#: includes/admin/views/popup/sc_media.php:186
+msgid "Whether to play the video automatically (optional)."
+msgstr "Whether to play the video automatically (optional)."
+
+#: ../includes/admin/views/popup/sc_media.php:91
+msgid "Player Color"
+msgstr "Player Color"
+
+#: ../includes/admin/views/popup/sc_media.php:93
+msgid "Color of the player (optional)."
+msgstr "Color of the player (optional)."
+
+#: ../includes/admin/views/popup/sc_media.php:157
+msgid "MP4 Source"
+msgstr "MP4 Source"
+
+#: ../includes/admin/views/popup/sc_media.php:159
+msgid "MP4 source for Safari, IE9+, iPhone, iPad, Android, and WP7."
+msgstr "MP4 source for Safari, IE9+, iPhone, iPad, Android, and WP7."
+
+#: ../includes/admin/views/popup/sc_media.php:162
+msgid "WebM Source"
+msgstr "WebM Source"
+
+#: ../includes/admin/views/popup/sc_media.php:164
+msgid "WebM/VP8 file for Firefox4, Opera, and Chrome (optional)."
+msgstr "WebM/VP8 file for Firefox4, Opera, and Chrome (optional)."
+
+#: ../includes/admin/views/popup/sc_media.php:167 ..
+#: includes/admin/views/popup/sc_media.php:376
+msgid "OGG Source"
+msgstr "OGG Source"
+
+#: ../includes/admin/views/popup/sc_media.php:169
+msgid "Ogg/Vorbis for older Firefox and Opera versions (optional)."
+msgstr "Ogg/Vorbis for older Firefox and Opera versions (optional)."
+
+#: ../includes/admin/views/popup/sc_media.php:172
+msgid "Poster Image URL"
+msgstr "Poster Image URL"
+
+#: ../includes/admin/views/popup/sc_media.php:181
+msgid "URL of the poster image (optional)."
+msgstr "URL of the poster image (optional)."
+
+#: ../includes/admin/views/popup/sc_media.php:189 ..
+#: includes/admin/views/popup/sc_media.php:391
+msgid "Loop?"
+msgstr "Loop?"
+
+#: ../includes/admin/views/popup/sc_media.php:191
+msgid "Whether to play the video infinitely (optional)."
+msgstr "Whether to play the video infinitely (optional)."
+
+#: ../includes/admin/views/popup/sc_media.php:199 ..
+#: includes/admin/views/popup/sc_media.php:234
+msgid "Track ID"
+msgstr "Track ID"
+
+#: ../includes/admin/views/popup/sc_media.php:201 ..
+#: includes/admin/views/popup/sc_media.php:221 ..
+#: includes/admin/views/popup/sc_media.php:236
+msgid "ID of the audio track."
+msgstr "ID of the audio track."
+
+#: ../includes/admin/views/popup/sc_media.php:206 ..
+#: includes/admin/views/popup/sc_media.php:226 ..
+#: includes/admin/views/popup/sc_media.php:241
+msgid "Height of the audio in pixels (optional)."
+msgstr "Height of the audio in pixels (optional)."
+
+#: ../includes/admin/views/popup/sc_media.php:211 ..
+#: includes/admin/views/popup/sc_media.php:246 ..
+#: includes/admin/views/popup/sc_media.php:388
+msgid "Whether to play the audio track automatically (optional)."
+msgstr "Whether to play the audio track automatically (optional)."
+
+#: ../includes/admin/views/popup/sc_media.php:219
+msgid "Track URL"
+msgstr "Track URL"
+
+#: ../includes/admin/views/popup/sc_media.php:254
+msgid "Address"
+msgstr "Address"
+
+#: ../includes/admin/views/popup/sc_media.php:256
+msgid "Address to be shown on map e.g. \"New York, USA\"."
+msgstr "Address to be shown on map e.g. \"New York, USA\"."
+
+#: ../includes/admin/views/popup/sc_media.php:261 ..
+#: includes/admin/views/popup/sc_media.php:408
+msgid "Height of the iframe in pixels."
+msgstr "Height of the iframe in pixels."
+
+#: ../includes/admin/views/popup/sc_media.php:264
+msgid "Zoom Level"
+msgstr "Zoom Level"
+
+#: ../includes/admin/views/popup/sc_media.php:288
+msgid "Zoom level of the map (optional)."
+msgstr "Zoom level of the map (optional)."
+
+#: ../includes/admin/views/popup/sc_media.php:292
+msgid "Marker Icon"
+msgstr "Marker Icon"
+
+#: ../includes/admin/views/popup/sc_media.php:347
+msgid "Address marker icon."
+msgstr "Address marker icon."
+
+#: ../includes/admin/views/popup/sc_media.php:351
+msgid "Marker Title"
+msgstr "Marker Title"
+
+#: ../includes/admin/views/popup/sc_media.php:353
+msgid "Title attribute for marker on map (optional)."
+msgstr "Title attribute for marker on map (optional)."
+
+#: ../includes/admin/views/popup/sc_media.php:356
+msgid "Info Window Content"
+msgstr "Info Window Content"
+
+#: ../includes/admin/views/popup/sc_media.php:358
+msgid "Content of the info window/popup (optional)."
+msgstr "Content of the info window/popup (optional)."
+
+#: ../includes/admin/views/popup/sc_media.php:361
+msgid "Info Window by Default?"
+msgstr "Info Window by Default?"
+
+#: ../includes/admin/views/popup/sc_media.php:363
+msgid "Whether to show info then info window on page load (optional)."
+msgstr "Whether to show info then info window on page load (optional)."
+
+#: ../includes/admin/views/popup/sc_media.php:371
+msgid "MP3 Source"
+msgstr "MP3 Source"
+
+#: ../includes/admin/views/popup/sc_media.php:373
+msgid "MP3 source."
+msgstr "MP3 source."
+
+#: ../includes/admin/views/popup/sc_media.php:378
+msgid "Ogg source (optional)."
+msgstr "Ogg source (optional)."
+
+#: ../includes/admin/views/popup/sc_media.php:381
+msgid "WAV Source"
+msgstr "WAV Source"
+
+#: ../includes/admin/views/popup/sc_media.php:383
+msgid "Wav source (optional)."
+msgstr "Wav source (optional)."
+
+#: ../includes/admin/views/popup/sc_media.php:393
+msgid "Whether to play the audio track infinitely (optional)."
+msgstr "Whether to play the audio track infinitely (optional)."
+
+#: ../includes/admin/views/popup/sc_media.php:401
+msgid "URL"
+msgstr "URL"
+
+#: ../includes/admin/views/popup/sc_media.php:403
+msgid "URL of the iframe."
+msgstr "URL of the iframe."
+
+#: ../includes/admin/views/popup/parts/part_fa.php:3 ..
+#: includes/admin/views/popup/parts/part_icomoon.php:6 ..
+#: includes/admin/views/popup/parts/part_linecon.php:6 ..
+#: includes/admin/views/popup/parts/part_material.php:6
+msgid "Color"
+msgstr "Color"
+
+#: ../includes/admin/views/popup/parts/part_fa.php:5 ..
+#: includes/admin/views/popup/parts/part_icomoon.php:8 ..
+#: includes/admin/views/popup/parts/part_linecon.php:8 ..
+#: includes/admin/views/popup/parts/part_material.php:8
+msgid "Color of icon (optional)."
+msgstr "Color of icon (optional)."
+
+#: ../includes/admin/views/popup/parts/part_fa.php:10
+msgid "Font size of the icon (optional)."
+msgstr "Font size of the icon (optional)."
+
+#: ../includes/admin/views/popup/parts/part_fa.php:13 ..
+#: includes/admin/views/popup/parts/part_icomoon.php:16 ..
+#: includes/admin/views/popup/parts/part_linecon.php:16 ..
+#: includes/admin/views/popup/parts/part_material.php:16
+msgid "Width"
+msgstr "Width"
+
+#: ../includes/admin/views/popup/parts/part_fa.php:15 ..
+#: includes/admin/views/popup/parts/part_icomoon.php:18 ..
+#: includes/admin/views/popup/parts/part_linecon.php:18 ..
+#: includes/admin/views/popup/parts/part_material.php:18
+msgid "Width of the icon. Leave blank if want to specify auto width (optional)."
+msgstr "Width of the icon. Leave blank if want to specify auto width (optional)."
+
+#: ../includes/admin/views/popup/parts/part_fa.php:18 ..
+#: includes/admin/views/popup/parts/part_icomoon.php:21 ..
+#: includes/admin/views/popup/parts/part_linecon.php:21 ..
+#: includes/admin/views/popup/parts/part_material.php:21
+msgid "Aligment"
+msgstr "Aligment"
+
+#: ../includes/admin/views/popup/parts/part_fa.php:22 ..
+#: includes/admin/views/popup/parts/part_icomoon.php:25 ..
+#: includes/admin/views/popup/parts/part_linecon.php:25 ..
+#: includes/admin/views/popup/parts/part_material.php:25
+msgid "Center"
+msgstr "Center"
+
+#: ../includes/admin/views/popup/parts/part_fa.php:25 ..
+#: includes/admin/views/popup/parts/part_icomoon.php:28 ..
+#: includes/admin/views/popup/parts/part_linecon.php:28 ..
+#: includes/admin/views/popup/parts/part_material.php:28
+msgid "Alignment of the icon. You can set it when fixed with is used (optional)."
+msgstr "Alignment of the icon. You can set it when fixed with is used (optional)."
+
+#: ../includes/admin/views/popup/parts/part_fa.php:37 ..
+#: includes/admin/views/popup/parts/part_icomoon.php:40 ..
+#: includes/admin/views/popup/parts/part_linecon.php:40 ..
+#: includes/admin/views/popup/parts/part_material.php:40
+msgid "e.g. 'Icon Name'"
+msgstr "e.g. 'Icon Name'"
+
+#: ../includes/admin/views/popup/parts/part_fa.php:39
+msgid "All versions"
+msgstr "All versions"
+
+#: ../includes/admin/views/popup/parts/part_icomoon.php:13 ..
+#: includes/admin/views/popup/parts/part_linecon.php:13 ..
+#: includes/admin/views/popup/parts/part_material.php:13
+msgid "Font size of the icon. (optional)."
+msgstr "Font size of the icon. (optional)."
+
+#: ../includes/core/class_update.php:179
+msgid "More info"
+msgstr "More info"
+
+#: ../includes/core/class_update.php:180
+msgid "Release Date"
+msgstr "Release Date"
+
+#: ../includes/globals/animation.php:25
+msgid "Fade"
+msgstr "Fade"
+
+#: ../includes/globals/animation.php:28
+msgid "Fade In"
+msgstr "Fade In"
+
+#: ../includes/globals/animation.php:33
+msgid "Fade Zoom In"
+msgstr "Fade Zoom In"
+
+#: ../includes/globals/animation.php:38
+msgid "Fade Zoom Out"
+msgstr "Fade Zoom Out"
+
+#: ../includes/globals/animation.php:49
+msgid "Slide In"
+msgstr "Slide In"
+
+#: ../includes/globals/animation.php:52
+msgid "Slide in Left"
+msgstr "Slide in Left"
+
+#: ../includes/globals/animation.php:57
+msgid "Slide In Right"
+msgstr "Slide In Right"
+
+#: ../includes/globals/animation.php:62
+msgid "Slide In Up"
+msgstr "Slide In Up"
+
+#: ../includes/globals/animation.php:67
+msgid "Slide In Down"
+msgstr "Slide In Down"
+
+#: ../includes/globals/animation.php:77
+msgid "Slide Skew In"
+msgstr "Slide Skew In"
+
+#: ../includes/globals/animation.php:80
+msgid "Slide Skew In Left"
+msgstr "Slide Skew In Left"
+
+#: ../includes/globals/animation.php:85
+msgid "Slide Skew In Right"
+msgstr "Slide Skew In Right"
+
+#: ../includes/globals/animation.php:90
+msgid "Slide Skew In Down"
+msgstr "Slide Skew In Down"
+
+#: ../includes/globals/animation.php:96
+msgid "Slide Skew In Up"
+msgstr "Slide Skew In Up"
+
+#: ../includes/globals/animation.php:106
+msgid "Flip In"
+msgstr "Flip In"
+
+#: ../includes/globals/animation.php:109
+msgid "Flip In Left"
+msgstr "Flip In Left"
+
+#: ../includes/globals/animation.php:114
+msgid "Flip In Right"
+msgstr "Flip In Right"
+
+#: ../includes/globals/animation.php:119
+msgid "Flip In Left Up"
+msgstr "Flip In Left Up"
+
+#: ../includes/globals/animation.php:124
+msgid "Flip In Right Up"
+msgstr "Flip In Right Up"
+
+#: ../includes/globals/animation.php:129
+msgid "Flip In Left Down"
+msgstr "Flip In Left Down"
+
+#: ../includes/globals/animation.php:134
+msgid "Flip In Right Down"
+msgstr "Flip In Right Down"
+
+#: ../includes/globals/animation.php:145
+msgid "Rotate In"
+msgstr "Rotate In"
+
+#: ../includes/globals/animation.php:148
+msgid "Rotate In Left Top"
+msgstr "Rotate In Left Top"
+
+#: ../includes/globals/animation.php:153
+msgid "Rotate In Right Top"
+msgstr "Rotate In Right Top"
+
+#: ../includes/globals/animation.php:158
+msgid "Rotate In Left Bottom"
+msgstr "Rotate In Left Bottom"
+
+#: ../includes/globals/animation.php:163
+msgid "Rotate In Right Bottom"
+msgstr "Rotate In Right Bottom"
+
+#: ../includes/globals/animation.php:168
+msgid "Rotate In Left Top Big"
+msgstr "Rotate In Left Top Big"
+
+#: ../includes/globals/animation.php:173
+msgid "Rotate In Right Top Big"
+msgstr "Rotate In Right Top Big"
+
+#: ../includes/globals/animation.php:178
+msgid "Rotate In Left Bottom Big"
+msgstr "Rotate In Left Bottom Big"
+
+#: ../includes/globals/animation.php:183
+msgid "Rotate In Right Bottom Big"
+msgstr "Rotate In Right Bottom Big"
+
+#: ../includes/globals/animation.php:193
+msgid "Tilt In"
+msgstr "Tilt In"
+
+#: ../includes/globals/animation.php:196
+msgid "Tilt In Up"
+msgstr "Tilt In Up"
+
+#: ../includes/globals/animation.php:201
+msgid "Tilt In Down"
+msgstr "Tilt In Down"
+
+#: ../includes/globals/animation.php:206
+msgid "Tilt In Right"
+msgstr "Tilt In Right"
+
+#: ../includes/globals/animation.php:211
+msgid "Tilt In Left"
+msgstr "Tilt In Left"
+
+#: ../includes/globals/animation.php:221
+msgid "Turn In"
+msgstr "Turn In"
+
+#: ../includes/globals/animation.php:224
+msgid "Turn in Bottom"
+msgstr "Turn in Bottom"
+
+#: ../includes/globals/animation.php:230
+msgid "Turn in Top"
+msgstr "Turn in Top"
+
+#: ../includes/globals/animation.php:236
+msgid "Turn in Left"
+msgstr "Turn in Left"
+
+#: ../includes/globals/animation.php:242
+msgid "Turn in Left Out"
+msgstr "Turn in Left Out"
+
+#: ../includes/globals/animation.php:248
+msgid "Turn in Right"
+msgstr "Turn in Right"
+
+#: ../includes/globals/animation.php:254
+msgid "Turn in Right Out"
+msgstr "Turn in Right Out"
+
+#: ../includes/globals/animation.php:265
+msgid "Billboard In"
+msgstr "Billboard In"
+
+#: ../includes/globals/animation.php:268
+msgid "Billboard In Left"
+msgstr "Billboard In Left"
+
+#: ../includes/globals/animation.php:273
+msgid "Billboard In Right"
+msgstr "Billboard In Right"
+
+#: ../includes/globals/animation.php:283
+msgid "Spin"
+msgstr "Spin"
+
+#: ../includes/globals/animation.php:286
+msgid "Spin Left"
+msgstr "Spin Left"
+
+#: ../includes/globals/animation.php:291
+msgid "Spin Right"
+msgstr "Spin Right"
+
+#: ../includes/globals/animation.php:313
+msgid "Power0 linear"
+msgstr "Power0 linear"
+
+#: ../includes/globals/animation.php:317
+msgid "Power1 easeIn"
+msgstr "Power1 easeIn"
+
+#: ../includes/globals/animation.php:321
+msgid "Power1 easeOut"
+msgstr "Power1 easeOut"
+
+#: ../includes/globals/animation.php:325
+msgid "Power1 easeInOut"
+msgstr "Power1 easeInOut"
+
+#: ../includes/globals/animation.php:329
+msgid "Power2 easeIn"
+msgstr "Power2 easeIn"
+
+#: ../includes/globals/animation.php:333
+msgid "Power2 easeOut"
+msgstr "Power2 easeOut"
+
+#: ../includes/globals/animation.php:337
+msgid "Power2 easeInOut"
+msgstr "Power2 easeInOut"
+
+#: ../includes/globals/animation.php:341
+msgid "Power3 easeIn"
+msgstr "Power3 easeIn"
+
+#: ../includes/globals/animation.php:345
+msgid "Power3 easeOut"
+msgstr "Power3 easeOut"
+
+#: ../includes/globals/animation.php:349
+msgid "Power3 easeInOut"
+msgstr "Power3 easeInOut"
+
+#: ../includes/globals/animation.php:353
+msgid "Power4 easeIn"
+msgstr "Power4 easeIn"
+
+#: ../includes/globals/animation.php:357
+msgid "Power4 easeOut"
+msgstr "Power4 easeOut"
+
+#: ../includes/globals/animation.php:361
+msgid "Power4 easeInOut"
+msgstr "Power4 easeInOut"
+
+#: ../includes/globals/animation.php:365
+msgid "Sine easeIn"
+msgstr "Sine easeIn"
+
+#: ../includes/globals/animation.php:369
+msgid "Sine easeOut"
+msgstr "Sine easeOut"
+
+#: ../includes/globals/animation.php:373
+msgid "Sine easeInOut"
+msgstr "Sine easeInOut"
+
+#: ../includes/globals/animation.php:377
+msgid "Expo easeIn"
+msgstr "Expo easeIn"
+
+#: ../includes/globals/animation.php:381
+msgid "Expo easeOut"
+msgstr "Expo easeOut"
+
+#: ../includes/globals/animation.php:385
+msgid "Expo easeInOut"
+msgstr "Expo easeInOut"
+
+#: ../includes/globals/animation.php:389
+msgid "Circ easeIn"
+msgstr "Circ easeIn"
+
+#: ../includes/globals/animation.php:393
+msgid "Circ easeOut"
+msgstr "Circ easeOut"
+
+#: ../includes/globals/animation.php:397
+msgid "Circ easeInOut"
+msgstr "Circ easeInOut"
+
+#: ../includes/globals/animation.php:401
+msgid "Elastic easeIn"
+msgstr "Elastic easeIn"
+
+#: ../includes/globals/animation.php:405
+msgid "Elastic easeOut"
+msgstr "Elastic easeOut"
+
+#: ../includes/globals/animation.php:409
+msgid "Elastic easeInOut"
+msgstr "Elastic easeInOut"
+
+#: ../includes/globals/animation.php:413
+msgid "Back easeIn"
+msgstr "Back easeIn"
+
+#: ../includes/globals/animation.php:417
+msgid "Back easeOut"
+msgstr "Back easeOut"
+
+#: ../includes/globals/animation.php:421
+msgid "Back easeInOut"
+msgstr "Back easeInOut"
+
+#: ../includes/globals/animation.php:425
+msgid "Bounce easeIn"
+msgstr "Bounce easeIn"
+
+#: ../includes/globals/animation.php:429
+msgid "Bounce easeOut"
+msgstr "Bounce easeOut"
+
+#: ../includes/globals/animation.php:433
+msgid "Bounce easeInOut"
+msgstr "Bounce easeInOut"
+
+#: ../includes/globals/clean_style.php:14
+msgid "Enable Column Borders?"
+msgstr "Enable Column Borders?"
+
+#: ../includes/globals/clean_style.php:16
+msgid "Whether to enable or disable borders of the columns."
+msgstr "Whether to enable or disable borders of the columns."
+
+#: ../includes/globals/clean_style.php:19
+msgid "Column Border Radius"
+msgstr "Column Border Radius"
+
+#: ../includes/globals/clean_style.php:21
+msgid "Top, Right, Bottom and Left border radius of the columns in pixels."
+msgstr "Top, Right, Bottom and Left border radius of the columns in pixels."
+
+#: ../includes/globals/clean_style.php:24
+msgid "Enable Row Borders?"
+msgstr "Enable Row Borders?"
+
+#: ../includes/globals/clean_style.php:26
+msgid "Whether to enable or disable row separator borders."
+msgstr "Whether to enable or disable row separator borders."
+
+#: ../includes/globals/clean_style.php:29
+msgid "Enable Box Shadow?"
+msgstr "Enable Box Shadow?"
+
+#: ../includes/globals/clean_style.php:31
+msgid ""
+"Whether to enable or disable shadow of the columns on hover/highlighted "
+"state."
+msgstr ""
+"Whether to enable or disable shadow of the columns on hover/highlighted "
+"state."
+
+#: ../includes/globals/fonts.php:20
+msgid "Default / Inherit"
+msgstr "Default / Inherit"
+
+#: ../includes/globals/fonts.php:24
+msgid "Standard Fonts"
+msgstr "Standard Fonts"
+
+#: ../includes/globals/fonts.php:110
+msgid "Google Fonts"
+msgstr "Google Fonts"
+
+#: ../includes/globals/shadows.php:22 ../includes/globals/shadows.php:27 ..
+#: includes/globals/shadows.php:32 ../includes/globals/shadows.php:37 ..
+#: includes/globals/shadows.php:42
+#, php-format
+msgid "Shadow Style %s"
+msgstr "Shadow Style %s"
+
+#: ../includes/globals/signs.php:22
+msgid "Text Sign"
+msgstr "Text Sign"
+
+#: ../includes/globals/signs.php:26
+msgid "Image Signs"
+msgstr "Image Signs"
+
+#: ../includes/globals/signs.php:29
+msgid "Custom (upload)"
+msgstr "Custom (upload)"
+
+#: ../includes/globals/signs.php:33
+msgid "Clean Ribbon"
+msgstr "Clean Ribbon"
+
+#: ../includes/globals/signs.php:37
+msgid "Clean Wavy Ribbon"
+msgstr "Clean Wavy Ribbon"
+
+#: ../includes/globals/signs.php:41
+msgid "Classic Ribbon"
+msgstr "Classic Ribbon"
+
+#: ../includes/globals/signs.php:45
+msgid "Clean Badge"
+msgstr "Clean Badge"
+
+#: ../includes/globals/signs.php:49
+msgid "Clean Wavy Badge"
+msgstr "Clean Wavy Badge"
+
+#: ../includes/globals/signs.php:53
+msgid "Clean Tag"
+msgstr "Clean Tag"
+
+#: ../includes/globals/signs.php:57
+msgid "Paperclip"
+msgstr "Paperclip"
+
+#: ../includes/globals/signs.php:61
+msgid "Tape"
+msgstr "Tape"
+
+#: ../includes/globals/signs.php:87 ../includes/globals/signs.php:365 ..
+#: includes/globals/signs.php:643 ../includes/globals/signs.php:831 ..
+#: includes/globals/signs.php:959 ../includes/globals/signs.php:1125 ..
+#: includes/globals/styles.php:38 ../includes/globals/styles.php:41 ..
+#: includes/globals/styles.php:51 ../includes/globals/styles.php:61 ..
+#: includes/globals/styles.php:71 ../includes/globals/styles.php:81 ..
+#: includes/globals/styles.php:91 ../includes/globals/styles.php:101 ..
+#: includes/globals/styles.php:111 ../includes/globals/styles.php:122 ..
+#: includes/globals/styles.php:132 ../includes/globals/styles.php:142 ..
+#: includes/globals/styles.php:152 ../includes/globals/styles.php:162 ..
+#: includes/globals/styles.php:172 ../includes/globals/styles.php:182 ..
+#: includes/globals/styles.php:192 ../includes/globals/styles.php:202 ..
+#: includes/globals/styles.php:212 ../includes/globals/styles.php:222 ..
+#: includes/globals/styles.php:232 ../includes/globals/styles.php:242 ..
+#: includes/globals/styles.php:252 ../includes/globals/styles.php:262 ..
+#: includes/globals/styles.php:272
+msgid "Blue"
+msgstr "Blue"
+
+#: ../includes/globals/signs.php:90 ../includes/globals/signs.php:95 ..
+#: includes/globals/signs.php:100 ../includes/globals/signs.php:105 ..
+#: includes/globals/signs.php:110 ../includes/globals/signs.php:115 ..
+#: includes/globals/signs.php:120 ../includes/globals/signs.php:125 ..
+#: includes/globals/signs.php:135 ../includes/globals/signs.php:140 ..
+#: includes/globals/signs.php:145 ../includes/globals/signs.php:150 ..
+#: includes/globals/signs.php:155 ../includes/globals/signs.php:160 ..
+#: includes/globals/signs.php:165 ../includes/globals/signs.php:170 ..
+#: includes/globals/signs.php:180 ../includes/globals/signs.php:185 ..
+#: includes/globals/signs.php:190 ../includes/globals/signs.php:195 ..
+#: includes/globals/signs.php:200 ../includes/globals/signs.php:205 ..
+#: includes/globals/signs.php:210 ../includes/globals/signs.php:215 ..
+#: includes/globals/signs.php:225 ../includes/globals/signs.php:230 ..
+#: includes/globals/signs.php:235 ../includes/globals/signs.php:240 ..
+#: includes/globals/signs.php:245 ../includes/globals/signs.php:250 ..
+#: includes/globals/signs.php:255 ../includes/globals/signs.php:260 ..
+#: includes/globals/signs.php:270 ../includes/globals/signs.php:275 ..
+#: includes/globals/signs.php:280 ../includes/globals/signs.php:285 ..
+#: includes/globals/signs.php:290 ../includes/globals/signs.php:295 ..
+#: includes/globals/signs.php:300 ../includes/globals/signs.php:305 ..
+#: includes/globals/signs.php:315 ../includes/globals/signs.php:320 ..
+#: includes/globals/signs.php:325 ../includes/globals/signs.php:330 ..
+#: includes/globals/signs.php:335 ../includes/globals/signs.php:340 ..
+#: includes/globals/signs.php:345 ../includes/globals/signs.php:350 ..
+#: includes/globals/signs.php:368 ../includes/globals/signs.php:373 ..
+#: includes/globals/signs.php:378 ../includes/globals/signs.php:383 ..
+#: includes/globals/signs.php:388 ../includes/globals/signs.php:393 ..
+#: includes/globals/signs.php:398 ../includes/globals/signs.php:403 ..
+#: includes/globals/signs.php:413 ../includes/globals/signs.php:418 ..
+#: includes/globals/signs.php:423 ../includes/globals/signs.php:428 ..
+#: includes/globals/signs.php:433 ../includes/globals/signs.php:438 ..
+#: includes/globals/signs.php:443 ../includes/globals/signs.php:448 ..
+#: includes/globals/signs.php:458 ../includes/globals/signs.php:463 ..
+#: includes/globals/signs.php:468 ../includes/globals/signs.php:473 ..
+#: includes/globals/signs.php:478 ../includes/globals/signs.php:483 ..
+#: includes/globals/signs.php:488 ../includes/globals/signs.php:493 ..
+#: includes/globals/signs.php:503 ../includes/globals/signs.php:508 ..
+#: includes/globals/signs.php:513 ../includes/globals/signs.php:518 ..
+#: includes/globals/signs.php:523 ../includes/globals/signs.php:528 ..
+#: includes/globals/signs.php:533 ../includes/globals/signs.php:538 ..
+#: includes/globals/signs.php:548 ../includes/globals/signs.php:553 ..
+#: includes/globals/signs.php:558 ../includes/globals/signs.php:563 ..
+#: includes/globals/signs.php:568 ../includes/globals/signs.php:573 ..
+#: includes/globals/signs.php:578 ../includes/globals/signs.php:583 ..
+#: includes/globals/signs.php:593 ../includes/globals/signs.php:598 ..
+#: includes/globals/signs.php:603 ../includes/globals/signs.php:608 ..
+#: includes/globals/signs.php:613 ../includes/globals/signs.php:618 ..
+#: includes/globals/signs.php:623 ../includes/globals/signs.php:628 ..
+#: includes/globals/signs.php:646 ../includes/globals/signs.php:651 ..
+#: includes/globals/signs.php:656 ../includes/globals/signs.php:661 ..
+#: includes/globals/signs.php:666 ../includes/globals/signs.php:671 ..
+#: includes/globals/signs.php:676 ../includes/globals/signs.php:681 ..
+#: includes/globals/signs.php:691 ../includes/globals/signs.php:696 ..
+#: includes/globals/signs.php:701 ../includes/globals/signs.php:706 ..
+#: includes/globals/signs.php:711 ../includes/globals/signs.php:716 ..
+#: includes/globals/signs.php:721 ../includes/globals/signs.php:726 ..
+#: includes/globals/signs.php:736 ../includes/globals/signs.php:741 ..
+#: includes/globals/signs.php:746 ../includes/globals/signs.php:751 ..
+#: includes/globals/signs.php:756 ../includes/globals/signs.php:761 ..
+#: includes/globals/signs.php:766 ../includes/globals/signs.php:771 ..
+#: includes/globals/signs.php:781 ../includes/globals/signs.php:786 ..
+#: includes/globals/signs.php:791 ../includes/globals/signs.php:796 ..
+#: includes/globals/signs.php:801 ../includes/globals/signs.php:806 ..
+#: includes/globals/signs.php:811 ../includes/globals/signs.php:816
+#, php-format
+msgid "%s side"
+msgstr "%s side"
+
+#: ../includes/globals/signs.php:132 ../includes/globals/signs.php:410 ..
+#: includes/globals/signs.php:688 ../includes/globals/signs.php:851 ..
+#: includes/globals/signs.php:979 ../includes/globals/signs.php:1145 ..
+#: includes/globals/styles.php:284 ../includes/globals/styles.php:287 ..
+#: includes/globals/styles.php:297 ../includes/globals/styles.php:307 ..
+#: includes/globals/styles.php:317 ../includes/globals/styles.php:327 ..
+#: includes/globals/styles.php:337 ../includes/globals/styles.php:347 ..
+#: includes/globals/styles.php:357 ../includes/globals/styles.php:367 ..
+#: includes/globals/styles.php:377 ../includes/globals/styles.php:387 ..
+#: includes/globals/styles.php:397 ../includes/globals/styles.php:407 ..
+#: includes/globals/styles.php:417 ../includes/globals/styles.php:427 ..
+#: includes/globals/styles.php:437 ../includes/globals/styles.php:447 ..
+#: includes/globals/styles.php:457 ../includes/globals/styles.php:467 ..
+#: includes/globals/styles.php:477 ../includes/globals/styles.php:487 ..
+#: includes/globals/styles.php:497 ../includes/globals/styles.php:507 ..
+#: includes/globals/styles.php:517
+msgid "Green"
+msgstr "Green"
+
+#: ../includes/globals/signs.php:177 ../includes/globals/signs.php:455 ..
+#: includes/globals/signs.php:871 ../includes/globals/signs.php:999 ..
+#: includes/globals/signs.php:1165
+msgid "Grey"
+msgstr "Grey"
+
+#: ../includes/globals/signs.php:222 ../includes/globals/signs.php:500 ..
+#: includes/globals/signs.php:891 ../includes/globals/signs.php:1019 ..
+#: includes/globals/signs.php:1185 ../includes/globals/styles.php:775 ..
+#: includes/globals/styles.php:778 ../includes/globals/styles.php:788 ..
+#: includes/globals/styles.php:798 ../includes/globals/styles.php:808 ..
+#: includes/globals/styles.php:818 ../includes/globals/styles.php:828 ..
+#: includes/globals/styles.php:838 ../includes/globals/styles.php:848 ..
+#: includes/globals/styles.php:858 ../includes/globals/styles.php:868 ..
+#: includes/globals/styles.php:878 ../includes/globals/styles.php:888 ..
+#: includes/globals/styles.php:898 ../includes/globals/styles.php:908 ..
+#: includes/globals/styles.php:918 ../includes/globals/styles.php:928 ..
+#: includes/globals/styles.php:938 ../includes/globals/styles.php:948 ..
+#: includes/globals/styles.php:958 ../includes/globals/styles.php:968 ..
+#: includes/globals/styles.php:978 ../includes/globals/styles.php:988 ..
+#: includes/globals/styles.php:998 ../includes/globals/styles.php:1008
+msgid "Purple"
+msgstr "Purple"
+
+#: ../includes/globals/signs.php:267 ../includes/globals/signs.php:545 ..
+#: includes/globals/signs.php:733 ../includes/globals/signs.php:911 ..
+#: includes/globals/signs.php:1039 ../includes/globals/signs.php:1205 ..
+#: includes/globals/styles.php:529 ../includes/globals/styles.php:532 ..
+#: includes/globals/styles.php:542 ../includes/globals/styles.php:552 ..
+#: includes/globals/styles.php:562 ../includes/globals/styles.php:572 ..
+#: includes/globals/styles.php:582 ../includes/globals/styles.php:593 ..
+#: includes/globals/styles.php:603 ../includes/globals/styles.php:613 ..
+#: includes/globals/styles.php:623 ../includes/globals/styles.php:633 ..
+#: includes/globals/styles.php:643 ../includes/globals/styles.php:653 ..
+#: includes/globals/styles.php:663 ../includes/globals/styles.php:673 ..
+#: includes/globals/styles.php:683 ../includes/globals/styles.php:693 ..
+#: includes/globals/styles.php:703 ../includes/globals/styles.php:713 ..
+#: includes/globals/styles.php:723 ../includes/globals/styles.php:733 ..
+#: includes/globals/styles.php:743 ../includes/globals/styles.php:753 ..
+#: includes/globals/styles.php:763
+msgid "Red"
+msgstr "Red"
+
+#: ../includes/globals/signs.php:312 ../includes/globals/signs.php:590 ..
+#: includes/globals/signs.php:778 ../includes/globals/signs.php:931 ..
+#: includes/globals/signs.php:1059 ../includes/globals/signs.php:1225 ..
+#: includes/globals/styles.php:1020 ../includes/globals/styles.php:1023 ..
+#: includes/globals/styles.php:1033 ../includes/globals/styles.php:1043 ..
+#: includes/globals/styles.php:1053 ../includes/globals/styles.php:1063 ..
+#: includes/globals/styles.php:1073 ../includes/globals/styles.php:1083 ..
+#: includes/globals/styles.php:1093 ../includes/globals/styles.php:1103 ..
+#: includes/globals/styles.php:1113 ../includes/globals/styles.php:1123 ..
+#: includes/globals/styles.php:1133 ../includes/globals/styles.php:1143 ..
+#: includes/globals/styles.php:1154 ../includes/globals/styles.php:1164 ..
+#: includes/globals/styles.php:1174 ../includes/globals/styles.php:1184 ..
+#: includes/globals/styles.php:1194 ../includes/globals/styles.php:1204 ..
+#: includes/globals/styles.php:1214 ../includes/globals/styles.php:1224 ..
+#: includes/globals/styles.php:1234 ../includes/globals/styles.php:1244 ..
+#: includes/globals/styles.php:1254
+msgid "Yellow"
+msgstr "Yellow"
+
+#: ../includes/globals/signs.php:839 ../includes/globals/signs.php:844 ..
+#: includes/globals/signs.php:859 ../includes/globals/signs.php:864 ..
+#: includes/globals/signs.php:879 ../includes/globals/signs.php:884 ..
+#: includes/globals/signs.php:899 ../includes/globals/signs.php:904 ..
+#: includes/globals/signs.php:919 ../includes/globals/signs.php:924 ..
+#: includes/globals/signs.php:939 ../includes/globals/signs.php:944 ..
+#: includes/globals/signs.php:967 ../includes/globals/signs.php:972 ..
+#: includes/globals/signs.php:987 ../includes/globals/signs.php:992 ..
+#: includes/globals/signs.php:1007 ../includes/globals/signs.php:1012 ..
+#: includes/globals/signs.php:1027 ../includes/globals/signs.php:1032 ..
+#: includes/globals/signs.php:1047 ../includes/globals/signs.php:1052 ..
+#: includes/globals/signs.php:1067 ../includes/globals/signs.php:1072
+#, php-format
+msgid "15%% %s"
+msgstr "15%% %s"
+
+#: ../includes/globals/signs.php:1128 ../includes/globals/signs.php:1148 ..
+#: includes/globals/signs.php:1168 ../includes/globals/signs.php:1188 ..
+#: includes/globals/signs.php:1208 ../includes/globals/signs.php:1228
+msgid "Straight"
+msgstr "Straight"
+
+#: ../includes/globals/signs.php:1133 ../includes/globals/signs.php:1138 ..
+#: includes/globals/signs.php:1153 ../includes/globals/signs.php:1158 ..
+#: includes/globals/signs.php:1173 ../includes/globals/signs.php:1178 ..
+#: includes/globals/signs.php:1193 ../includes/globals/signs.php:1198 ..
+#: includes/globals/signs.php:1213 ../includes/globals/signs.php:1218 ..
+#: includes/globals/signs.php:1233 ../includes/globals/signs.php:1238
+#, php-format
+msgid "%s rotated"
+msgstr "%s rotated"
+
+#: ../includes/globals/styles.php:18
+msgid "Clean (new)"
+msgstr "Clean (new)"
+
+#: ../includes/globals/styles.php:22
+msgid "Classic"
+msgstr "Classic"
+
+#: ../includes/globals/styles.php:41 ../includes/globals/styles.php:287 ..
+#: includes/globals/styles.php:532 ../includes/globals/styles.php:778 ..
+#: includes/globals/styles.php:1023 ../includes/globals/styles.php:1269 ..
+#: includes/globals/styles.php:1515
+#, php-format
+msgid "%1$s 1 (%2$s)"
+msgstr "%1$s 1 (%2$s)"
+
+#: ../includes/globals/styles.php:41 ../includes/globals/styles.php:51 ..
+#: includes/globals/styles.php:61 ../includes/globals/styles.php:71 ..
+#: includes/globals/styles.php:81 ../includes/globals/styles.php:91 ..
+#: includes/globals/styles.php:101 ../includes/globals/styles.php:111 ..
+#: includes/globals/styles.php:122 ../includes/globals/styles.php:132 ..
+#: includes/globals/styles.php:142 ../includes/globals/styles.php:152 ..
+#: includes/globals/styles.php:202 ../includes/globals/styles.php:212 ..
+#: includes/globals/styles.php:222 ../includes/globals/styles.php:232 ..
+#: includes/globals/styles.php:262 ../includes/globals/styles.php:287 ..
+#: includes/globals/styles.php:297 ../includes/globals/styles.php:307 ..
+#: includes/globals/styles.php:317 ../includes/globals/styles.php:327 ..
+#: includes/globals/styles.php:337 ../includes/globals/styles.php:347 ..
+#: includes/globals/styles.php:357 ../includes/globals/styles.php:367 ..
+#: includes/globals/styles.php:377 ../includes/globals/styles.php:387 ..
+#: includes/globals/styles.php:397 ../includes/globals/styles.php:447 ..
+#: includes/globals/styles.php:457 ../includes/globals/styles.php:467 ..
+#: includes/globals/styles.php:477 ../includes/globals/styles.php:507 ..
+#: includes/globals/styles.php:532 ../includes/globals/styles.php:542 ..
+#: includes/globals/styles.php:552 ../includes/globals/styles.php:562 ..
+#: includes/globals/styles.php:572 ../includes/globals/styles.php:582 ..
+#: includes/globals/styles.php:593 ../includes/globals/styles.php:603 ..
+#: includes/globals/styles.php:613 ../includes/globals/styles.php:623 ..
+#: includes/globals/styles.php:633 ../includes/globals/styles.php:643 ..
+#: includes/globals/styles.php:693 ../includes/globals/styles.php:703 ..
+#: includes/globals/styles.php:713 ../includes/globals/styles.php:723 ..
+#: includes/globals/styles.php:753 ../includes/globals/styles.php:778 ..
+#: includes/globals/styles.php:788 ../includes/globals/styles.php:798 ..
+#: includes/globals/styles.php:808 ../includes/globals/styles.php:818 ..
+#: includes/globals/styles.php:828 ../includes/globals/styles.php:838 ..
+#: includes/globals/styles.php:848 ../includes/globals/styles.php:858 ..
+#: includes/globals/styles.php:868 ../includes/globals/styles.php:878 ..
+#: includes/globals/styles.php:888 ../includes/globals/styles.php:938 ..
+#: includes/globals/styles.php:948 ../includes/globals/styles.php:958 ..
+#: includes/globals/styles.php:968 ../includes/globals/styles.php:998 ..
+#: includes/globals/styles.php:1023 ../includes/globals/styles.php:1033 ..
+#: includes/globals/styles.php:1043 ../includes/globals/styles.php:1053 ..
+#: includes/globals/styles.php:1063 ../includes/globals/styles.php:1073 ..
+#: includes/globals/styles.php:1083 ../includes/globals/styles.php:1093 ..
+#: includes/globals/styles.php:1103 ../includes/globals/styles.php:1113 ..
+#: includes/globals/styles.php:1123 ../includes/globals/styles.php:1133 ..
+#: includes/globals/styles.php:1184 ../includes/globals/styles.php:1194 ..
+#: includes/globals/styles.php:1204 ../includes/globals/styles.php:1214 ..
+#: includes/globals/styles.php:1244 ../includes/globals/styles.php:1269 ..
+#: includes/globals/styles.php:1279 ../includes/globals/styles.php:1289 ..
+#: includes/globals/styles.php:1299 ../includes/globals/styles.php:1309 ..
+#: includes/globals/styles.php:1319 ../includes/globals/styles.php:1329 ..
+#: includes/globals/styles.php:1339 ../includes/globals/styles.php:1349 ..
+#: includes/globals/styles.php:1359 ../includes/globals/styles.php:1369 ..
+#: includes/globals/styles.php:1379 ../includes/globals/styles.php:1429 ..
+#: includes/globals/styles.php:1439 ../includes/globals/styles.php:1449 ..
+#: includes/globals/styles.php:1459 ../includes/globals/styles.php:1489 ..
+#: includes/globals/styles.php:1515 ../includes/globals/styles.php:1521 ..
+#: includes/globals/styles.php:1527 ../includes/globals/styles.php:1533 ..
+#: includes/globals/styles.php:1539 ../includes/globals/styles.php:1545 ..
+#: includes/globals/styles.php:1587
+msgid "pricing header"
+msgstr "pricing header"
+
+#: ../includes/globals/styles.php:51 ../includes/globals/styles.php:297 ..
+#: includes/globals/styles.php:542 ../includes/globals/styles.php:788 ..
+#: includes/globals/styles.php:1033 ../includes/globals/styles.php:1279 ..
+#: includes/globals/styles.php:1521
+#, php-format
+msgid "%1$s 2 (%2$s)"
+msgstr "%1$s 2 (%2$s)"
+
+#: ../includes/globals/styles.php:61 ../includes/globals/styles.php:307 ..
+#: includes/globals/styles.php:552 ../includes/globals/styles.php:798 ..
+#: includes/globals/styles.php:1043 ../includes/globals/styles.php:1289
+#, php-format
+msgid "%1$s 3a (%2$s)"
+msgstr "%1$s 3a (%2$s)"
+
+#: ../includes/globals/styles.php:71 ../includes/globals/styles.php:317 ..
+#: includes/globals/styles.php:562 ../includes/globals/styles.php:808 ..
+#: includes/globals/styles.php:1053 ../includes/globals/styles.php:1299
+#, php-format
+msgid "%1$s 3b (%2$s)"
+msgstr "%1$s 3b (%2$s)"
+
+#: ../includes/globals/styles.php:81 ../includes/globals/styles.php:327 ..
+#: includes/globals/styles.php:572 ../includes/globals/styles.php:818 ..
+#: includes/globals/styles.php:1063 ../includes/globals/styles.php:1309
+#, php-format
+msgid "%1$s 3c (%2$s)"
+msgstr "%1$s 3c (%2$s)"
+
+#: ../includes/globals/styles.php:91 ../includes/globals/styles.php:337 ..
+#: includes/globals/styles.php:582 ../includes/globals/styles.php:828 ..
+#: includes/globals/styles.php:1073 ../includes/globals/styles.php:1319
+#, php-format
+msgid "%1$s 3d (%2$s)"
+msgstr "%1$s 3d (%2$s)"
+
+#: ../includes/globals/styles.php:101 ../includes/globals/styles.php:347 ..
+#: includes/globals/styles.php:593 ../includes/globals/styles.php:838 ..
+#: includes/globals/styles.php:1083 ../includes/globals/styles.php:1329
+#, php-format
+msgid "%1$s 4a (%2$s)"
+msgstr "%1$s 4a (%2$s)"
+
+#: ../includes/globals/styles.php:111 ../includes/globals/styles.php:357 ..
+#: includes/globals/styles.php:603 ../includes/globals/styles.php:848 ..
+#: includes/globals/styles.php:1093 ../includes/globals/styles.php:1339
+#, php-format
+msgid "%1$s 4b (%2$s)"
+msgstr "%1$s 4b (%2$s)"
+
+#: ../includes/globals/styles.php:122 ../includes/globals/styles.php:367 ..
+#: includes/globals/styles.php:613 ../includes/globals/styles.php:858 ..
+#: includes/globals/styles.php:1103 ../includes/globals/styles.php:1349
+#, php-format
+msgid "%1$s 4c (%2$s)"
+msgstr "%1$s 4c (%2$s)"
+
+#: ../includes/globals/styles.php:132 ../includes/globals/styles.php:377 ..
+#: includes/globals/styles.php:623 ../includes/globals/styles.php:868 ..
+#: includes/globals/styles.php:1113 ../includes/globals/styles.php:1359
+#, php-format
+msgid "%1$s 4d (%2$s)"
+msgstr "%1$s 4d (%2$s)"
+
+#: ../includes/globals/styles.php:142 ../includes/globals/styles.php:387 ..
+#: includes/globals/styles.php:633 ../includes/globals/styles.php:878 ..
+#: includes/globals/styles.php:1123 ../includes/globals/styles.php:1369 ..
+#: includes/globals/styles.php:1539
+#, php-format
+msgid "%1$s 5 (%2$s)"
+msgstr "%1$s 5 (%2$s)"
+
+#: ../includes/globals/styles.php:152 ../includes/globals/styles.php:397 ..
+#: includes/globals/styles.php:643 ../includes/globals/styles.php:888 ..
+#: includes/globals/styles.php:1133 ../includes/globals/styles.php:1379 ..
+#: includes/globals/styles.php:1545
+#, php-format
+msgid "%1$s 6 (%2$s)"
+msgstr "%1$s 6 (%2$s)"
+
+#: ../includes/globals/styles.php:162 ../includes/globals/styles.php:407 ..
+#: includes/globals/styles.php:653 ../includes/globals/styles.php:898 ..
+#: includes/globals/styles.php:1143 ../includes/globals/styles.php:1389 ..
+#: includes/globals/styles.php:1551
+#, php-format
+msgid "%1$s 7 (%2$s)"
+msgstr "%1$s 7 (%2$s)"
+
+#: ../includes/globals/styles.php:162 ../includes/globals/styles.php:172 ..
+#: includes/globals/styles.php:272 ../includes/globals/styles.php:407 ..
+#: includes/globals/styles.php:417 ../includes/globals/styles.php:517 ..
+#: includes/globals/styles.php:653 ../includes/globals/styles.php:663 ..
+#: includes/globals/styles.php:763 ../includes/globals/styles.php:898 ..
+#: includes/globals/styles.php:908 ../includes/globals/styles.php:1008 ..
+#: includes/globals/styles.php:1143 ../includes/globals/styles.php:1154 ..
+#: includes/globals/styles.php:1254 ../includes/globals/styles.php:1389 ..
+#: includes/globals/styles.php:1399 ../includes/globals/styles.php:1499 ..
+#: includes/globals/styles.php:1551 ../includes/globals/styles.php:1557 ..
+#: includes/globals/styles.php:1593
+msgid "HTML header"
+msgstr "HTML header"
+
+#: ../includes/globals/styles.php:172 ../includes/globals/styles.php:417 ..
+#: includes/globals/styles.php:663 ../includes/globals/styles.php:908 ..
+#: includes/globals/styles.php:1154 ../includes/globals/styles.php:1399 ..
+#: includes/globals/styles.php:1557
+#, php-format
+msgid "%1$s 8 (%2$s)"
+msgstr "%1$s 8 (%2$s)"
+
+#: ../includes/globals/styles.php:182 ../includes/globals/styles.php:427 ..
+#: includes/globals/styles.php:673 ../includes/globals/styles.php:918 ..
+#: includes/globals/styles.php:1164 ../includes/globals/styles.php:1409 ..
+#: includes/globals/styles.php:1563
+#, php-format
+msgid "%1$s 9 (%2$s)"
+msgstr "%1$s 9 (%2$s)"
+
+#: ../includes/globals/styles.php:182 ../includes/globals/styles.php:427 ..
+#: includes/globals/styles.php:673 ../includes/globals/styles.php:918 ..
+#: includes/globals/styles.php:1164 ../includes/globals/styles.php:1409 ..
+#: includes/globals/styles.php:1563
+msgid "pricing & HTML header"
+msgstr "pricing & HTML header"
+
+#: ../includes/globals/styles.php:192 ../includes/globals/styles.php:437 ..
+#: includes/globals/styles.php:683 ../includes/globals/styles.php:928 ..
+#: includes/globals/styles.php:1174 ../includes/globals/styles.php:1419 ..
+#: includes/globals/styles.php:1569
+#, php-format
+msgid "%1$s 10 (%2$s)"
+msgstr "%1$s 10 (%2$s)"
+
+#: ../includes/globals/styles.php:192 ../includes/globals/styles.php:437 ..
+#: includes/globals/styles.php:683 ../includes/globals/styles.php:928 ..
+#: includes/globals/styles.php:1174 ../includes/globals/styles.php:1419 ..
+#: includes/globals/styles.php:1569
+msgid "pricing & image header"
+msgstr "pricing & image header"
+
+#: ../includes/globals/styles.php:202 ../includes/globals/styles.php:447 ..
+#: includes/globals/styles.php:693 ../includes/globals/styles.php:938 ..
+#: includes/globals/styles.php:1184 ../includes/globals/styles.php:1429
+#, php-format
+msgid "%1$s 11a (%2$s)"
+msgstr "%1$s 11a (%2$s)"
+
+#: ../includes/globals/styles.php:212 ../includes/globals/styles.php:457 ..
+#: includes/globals/styles.php:703 ../includes/globals/styles.php:948 ..
+#: includes/globals/styles.php:1194 ../includes/globals/styles.php:1439
+#, php-format
+msgid "%1$s 11b (%2$s)"
+msgstr "%1$s 11b (%2$s)"
+
+#: ../includes/globals/styles.php:222 ../includes/globals/styles.php:467 ..
+#: includes/globals/styles.php:713 ../includes/globals/styles.php:958 ..
+#: includes/globals/styles.php:1204 ../includes/globals/styles.php:1449
+#, php-format
+msgid "%1$s 11c (%2$s)"
+msgstr "%1$s 11c (%2$s)"
+
+#: ../includes/globals/styles.php:232 ../includes/globals/styles.php:477 ..
+#: includes/globals/styles.php:723 ../includes/globals/styles.php:968 ..
+#: includes/globals/styles.php:1214 ../includes/globals/styles.php:1459
+#, php-format
+msgid "%1$s 11d (%2$s)"
+msgstr "%1$s 11d (%2$s)"
+
+#: ../includes/globals/styles.php:242 ../includes/globals/styles.php:487 ..
+#: includes/globals/styles.php:733 ../includes/globals/styles.php:978 ..
+#: includes/globals/styles.php:1224 ../includes/globals/styles.php:1469 ..
+#: includes/globals/styles.php:1575
+#, php-format
+msgid "%1$s 12 (%2$s)"
+msgstr "%1$s 12 (%2$s)"
+
+#: ../includes/globals/styles.php:242 ../includes/globals/styles.php:487 ..
+#: includes/globals/styles.php:733 ../includes/globals/styles.php:978 ..
+#: includes/globals/styles.php:1224 ../includes/globals/styles.php:1469 ..
+#: includes/globals/styles.php:1575
+msgid "team header"
+msgstr "team header"
+
+#: ../includes/globals/styles.php:252 ../includes/globals/styles.php:497 ..
+#: includes/globals/styles.php:743 ../includes/globals/styles.php:988 ..
+#: includes/globals/styles.php:1234 ../includes/globals/styles.php:1479 ..
+#: includes/globals/styles.php:1581
+#, php-format
+msgid "%1$s 13 (%2$s)"
+msgstr "%1$s 13 (%2$s)"
+
+#: ../includes/globals/styles.php:252 ../includes/globals/styles.php:497 ..
+#: includes/globals/styles.php:743 ../includes/globals/styles.php:988 ..
+#: includes/globals/styles.php:1234 ../includes/globals/styles.php:1479 ..
+#: includes/globals/styles.php:1581
+msgid "product header"
+msgstr "product header"
+
+#: ../includes/globals/styles.php:262 ../includes/globals/styles.php:507 ..
+#: includes/globals/styles.php:753 ../includes/globals/styles.php:998 ..
+#: includes/globals/styles.php:1244 ../includes/globals/styles.php:1489 ..
+#: includes/globals/styles.php:1587
+#, php-format
+msgid "%1$s 14 (%2$s)"
+msgstr "%1$s 14 (%2$s)"
+
+#: ../includes/globals/styles.php:272 ../includes/globals/styles.php:517 ..
+#: includes/globals/styles.php:763 ../includes/globals/styles.php:1008 ..
+#: includes/globals/styles.php:1254 ../includes/globals/styles.php:1499 ..
+#: includes/globals/styles.php:1593
+#, php-format
+msgid "%1$s 15 (%2$s)"
+msgstr "%1$s 15 (%2$s)"
+
+#: ../includes/globals/styles.php:1266 ../includes/globals/styles.php:1269 ..
+#: includes/globals/styles.php:1279 ../includes/globals/styles.php:1289 ..
+#: includes/globals/styles.php:1299 ../includes/globals/styles.php:1309 ..
+#: includes/globals/styles.php:1319 ../includes/globals/styles.php:1329 ..
+#: includes/globals/styles.php:1339 ../includes/globals/styles.php:1349 ..
+#: includes/globals/styles.php:1359 ../includes/globals/styles.php:1369 ..
+#: includes/globals/styles.php:1379 ../includes/globals/styles.php:1389 ..
+#: includes/globals/styles.php:1399 ../includes/globals/styles.php:1409 ..
+#: includes/globals/styles.php:1419 ../includes/globals/styles.php:1429 ..
+#: includes/globals/styles.php:1439 ../includes/globals/styles.php:1449 ..
+#: includes/globals/styles.php:1459 ../includes/globals/styles.php:1469 ..
+#: includes/globals/styles.php:1479 ../includes/globals/styles.php:1489 ..
+#: includes/globals/styles.php:1499
+msgid "Earth"
+msgstr "Earth"
+
+#: ../includes/globals/styles.php:1527
+#, php-format
+msgid "%1$s 3 (%2$s)"
+msgstr "%1$s 3 (%2$s)"
+
+#: ../includes/globals/styles.php:1533
+#, php-format
+msgid "%1$s 4 (%2$s)"
+msgstr "%1$s 4 (%2$s)"
+
+#: ../includes/shortcodes/class_shortcodes.php:107
+msgid "You must set a Table ID or Post ID."
+msgstr "You must set a Table ID or Post ID."
+
+#: ../includes/shortcodes/class_shortcodes.php:127
+#, php-format
+msgid "Pricing table with an %1$s of \"%2$s\" is not defined."
+msgstr "Pricing table with an %1$s of \"%2$s\" is not defined."
+
+#: ../includes/shortcodes/class_shortcodes.php:129
+msgid "There is nothing to see here, yet. Please, first create columns!"
+msgstr "There is nothing to see here, yet. Please, first create columns!"
+
+#: ../includes/vendors/vc/class_vc_extend.php:59
+msgid "No tables found!"
+msgstr "No tables found!"
+
+#: ../includes/vendors/vc/class_vc_extend.php:65
+msgid "Go Pricing"
+msgstr "Go Pricing"
+
+#: ../includes/vendors/vc/class_vc_extend.php:66
+msgid "Amazing responsive pricing tables"
+msgstr "Amazing responsive pricing tables"
+
+#: ../includes/vendors/vc/class_vc_extend.php:78
+msgid "Select Pricing Table"
+msgstr "Select Pricing Table"

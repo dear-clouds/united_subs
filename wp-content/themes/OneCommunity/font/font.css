@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'QuicksandBook';
+    src: url('Quicksand_Book.eot');
+    src: url('Quicksand_Book.eot?#iefix') format('embedded-opentype'),
+         url('Quicksand_Book.woff') format('woff'),
+         url('Quicksand_Book.ttf') format('truetype'),
+         url('Quicksand_Book.svg#QuicksandBook') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'QuicksandBold';
+    src: url('Quicksand_Bold.eot');
+    src: url('Quicksand_Bold.eot?#iefix') format('embedded-opentype'),
+         url('Quicksand_Bold.woff') format('woff'),
+         url('Quicksand_Bold.ttf') format('truetype'),
+         url('Quicksand_Bold.svg#QuicksandBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

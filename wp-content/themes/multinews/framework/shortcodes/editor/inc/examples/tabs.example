@@ -1,0 +1,78 @@
+<h2>Default tabs</h2>
+
+[%mom_su_tabs]
+	[%mom_su_tab title="Tab 1"] Tab 1 content [/%mom_su_tab]
+	[%mom_su_tab title="Tab 2"] Tab 2 content [/%mom_su_tab]
+	[%mom_su_tab title="Tab 3"] Tab 3 content [/%mom_su_tab]
+[/%mom_su_tabs]
+
+-----
+
+<h2>Custom active tab</h2>
+
+[%mom_su_tabs active="2"]
+	[%mom_su_tab title="Tab 1"] Tab 1 content [/%mom_su_tab]
+	[%mom_su_tab title="Tab 2"] Tab 2 content [/%mom_su_tab]
+	[%mom_su_tab title="Tab 3"] Tab 3 content [/%mom_su_tab]
+[/%mom_su_tabs]
+
+-----
+
+<h2>Vertical tabs</h2>
+
+[%mom_su_tabs vertical="yes"]
+	[%mom_su_tab title="Tab 1"] Tab 1 content [/%mom_su_tab]
+	[%mom_su_tab title="Tab 2"] Tab 2 content [/%mom_su_tab]
+	[%mom_su_tab title="Tab 3"] Tab 3 content [/%mom_su_tab]
+[/%mom_su_tabs]
+
+-----
+
+<h2>Disabled tabs</h2>
+
+[%mom_su_tabs]
+	[%mom_su_tab title="Tab 1"] Tab 1 content [/%mom_su_tab]
+	[%mom_su_tab title="Tab 2"] Tab 2 content [/%mom_su_tab]
+	[%mom_su_tab title="Tab 3"] Tab 3 content [/%mom_su_tab]
+	[%mom_su_tab title="Tab 4 (disabled)" disabled="yes"] Tab 4 content [/%mom_su_tab]
+	[%mom_su_tab title="Tab 5 (disabled)" disabled="yes"] Tab 5 content [/%mom_su_tab]
+[/%mom_su_tabs]
+
+-----
+
+<h2>Tabs anchors</h2>
+
+[%mom_su_tabs]
+	[%mom_su_tab title="Tab 1" anchor="First"] Tab 1 content [/%mom_su_tab]
+	[%mom_su_tab title="Tab 2" anchor="Second"] Tab 2 content [/%mom_su_tab]
+	[%mom_su_tab title="Tab 3" anchor="Third"] Tab 3 content [/%mom_su_tab]
+[/%mom_su_tabs]
+
+Use next links to switch this tabs
+
+<a href="#First">Open tab 1</a> | <a href="#Second">Open tab 2</a> | <a href="#Third">Open tab 3</a>
+
+-----
+
+<h2>Custom styles</h2>
+
+[%mom_su_tabs class="my-custom-tabs"]
+	[%mom_su_tab title="Tab 1"] Tab 1 content [/%mom_su_tab]
+	[%mom_su_tab title="Tab 2"] Tab 2 content [/%mom_su_tab]
+	[%mom_su_tab title="Tab 3"] Tab 3 content [/%mom_su_tab]
+[/%mom_su_tabs]
+
+<!--
+	IMPORTANT
+	You need to add this CSS code to the custom CSS editor at plugin settings page
+-->
+<style>
+	.mom-su-tabs.my-custom-tabs { background-color: #84ADEA }
+	.mom-su-tabs.my-custom-tabs .mom-su-tabs-nav span { font-size: 1.3em }
+	.mom-su-tabs.my-custom-tabs .mom-su-tabs-nav span.mom-su-tabs-current { background-color: #EDFAFF }
+	.mom-su-tabs.my-custom-tabs .mom-su-tabs-pane {
+		padding: 1em;
+		font-size: 1.3em;
+		background-color: #EDFAFF;
+	}
+</style>

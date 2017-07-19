@@ -1,0 +1,352 @@
+/* single_event.css */
+
+.single-event.event-page {
+	width: 95%;
+	margin: 0 auto;
+}
+
+.singe-events.singular div.events .entry-header, 
+.singe-events.singular div.events .entry-content {
+	width:100%;
+	padding:2%;
+}
+
+.events.type-events h1.entry-title {
+}
+
+.rhc_top_image {
+	padding: 4px;
+	border-radius: 0px;
+	border: 1px solid #EBEBEB;
+	box-shadow: 0 0 0 transparent;
+	margin: 0 auto 10px;
+	text-align: center;
+	width: 99%;
+	height:auto;
+}
+
+
+
+.single-event-gmap-holder .sws-gmap3-frame {
+	width: 100%;
+	margin: 0 0 10px;
+	padding: 4px;
+	border: 1px solid #DDD;
+	position: relative;
+	/*top: -142px;*/
+}
+
+.gm-style div img {
+	box-shadow:none;
+	-moz-box-shadow:none;
+	-webkit-box-shadow:none;
+}
+
+.rhc.fe-extrainfo-container {
+	margin-bottom: 35px;
+}
+
+.rhc.fe-extrainfo-container.venue-box {
+	margin-bottom:40px;
+}
+
+div.rhc.fe-extrainfo-container + br {
+	display:none;
+}
+
+.fe-extrainfo-holder {
+	padding: 8px 15px;
+	font-family:'Lato', sans-serif;
+}
+/*bug fix, do not apply the previous in the admin*/
+.wp-admin .fe-extrainfo-holder {
+	font-family:inherit;
+}
+
+.rhc-info-cell.fe-cell-label .fe-extrainfo-label {
+	font-weight: normal;
+}
+
+.fe-extrainfo-holder .fe-extrainfo-tiltle,
+.fe-extrainfo-holder .fe-cell-label {
+	font-weight: normal;
+	font-size: 21px;
+	margin-bottom: 10px;
+}
+
+.rhc-info-cell.fe-cell-label .fe-extrainfo-label {
+	font-size:21px;
+}
+
+.rhc-info-row .fe-cell-label {
+	font-size: 18px;
+	vertical-align: top;
+	margin-bottom: 11px;
+}
+
+.rhc-info-row {
+	width: 100%;
+	display: block;
+}
+
+.rhc-info-row .rhc-info-cell {
+	vertical-align: top;
+}
+
+.fe-extrainfo-col1 .rhc-info-row .rhc-info-cell {
+	display: inline-block;
+	width: 100%;
+}
+
+.fe-extrainfo-col2 .rhc-info-row .rhc-info-cell {
+	display: inline-block;
+	width: 50%;
+}
+
+.fe-extrainfo-col3 .rhc-info-row .rhc-info-cell {
+	display: inline-block;
+	width: 33%;
+}
+
+/* With image */
+.fe-have-image-1 .fe-extrainfo-holder {
+	width: 46%;
+	display: inline-block;
+}
+
+.rhc .fe-have-image-1 .fe-image-holder {
+	display: inline-block;
+	width: 50%;
+	vertical-align: top;
+	text-align: right;
+	margin-left: 0%;
+	margin-top: 1.2%;
+	margin-bottom: 0.5%;
+	margin-right:1.8%;
+	float:right;
+}
+
+.fe-extrainfo-container .fe-image-holder img {
+	padding: 5px;
+	background-color: #fff;
+	border: 1px solid #ebebeb;
+	border-radius: 0px;
+	-webkit-border-radius: 0px;
+	-moz-border-radius: 0px;
+	box-shadow: none;
+	width:100%;
+	height:auto;
+}
+
+/*  Without image  */
+.fe-have-image-0 .fe-extrainfo-holder {
+	width: 100%;
+	display: block;
+}
+
+
+.rhc-info-row .rhc-info-cell {
+	margin-bottom: 3px;
+}
+
+.fe-extrainfo-label,
+.rhc-info-row div.rhc-info-cell .fe-extrainfo-label {
+	font-weight: bold;
+	margin-right: 3px;
+	margin-bottom: -6px;
+	width: 100%;
+	display: block;
+	text-transform: none;
+    letter-spacing: normal;
+	font-size: inherit;
+    font-family: inherit;
+    color: inherit;
+}
+
+.event img {
+	border: 1px solid #ccc;
+	padding: 4px;
+}
+
+/* Venue Box */
+.rhc .row-fluid .fe-map-holder[class*="span"]  {
+	margin-left: 0%;
+	margin-top: 1.2%;
+	margin-bottom: 0.5%;
+	margin-right:1.8%;
+	float:right;
+}
+
+.fe-have-image-1 .fe-map-holder {
+	margin-bottom: 1.3%;
+}
+
+.rhc .sws-gmap3-frame {
+	padding: 5px;
+	border: 1px solid #ebebeb;
+	background-color: #fff;
+	width: 98.9%;
+}
+
+.venue-page-description {
+	margin: 20px 0 30px;
+}
+
+/*  iCal Dialog box  */
+.rhcalendar .ui-dialog.rhc-icalendar-holder {
+	width: 50%;
+	left: 0;
+	/*margin: auto;*/
+	line-height: 130%;
+	z-index:99999;
+}
+
+.rhcalendar .rhc-icalendar-holder .rhc-icalendar-url {
+	width: 91%;
+}
+.rhcalendar .rhc-icalendar-holder a {
+	float: right;
+	border-color: transparent;
+	color: #ffffff;
+	text-decoration: none;
+	font-size: 12px;
+	line-height: 13px;
+	padding: 10px 15px;
+	cursor: pointer;
+	border-width: 0px;
+	border-style: solid;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	-moz-box-sizing: content-box;
+	-webkit-box-sizing: content-box;
+	box-sizing: content-box;
+	text-shadow: rgba(0, 0, 0, 0.3) 0 -1px 0;
+	background-color: #3498db;
+	margin: 10px;
+}
+
+.rhcalendar .rhc-icalendar-holder a:hover {
+	background-color: #21759B;
+	background: -moz-linear-gradient(top,#21759B, #298CBA);
+	background: -webkit-gradient(linear, left top, left bottom, from(#21759B), to(#298CBA));
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#21759B', EndColorStr='#298CBA');
+}
+
+
+.rhc-icalendar-holder .rhc-icalendar-description {
+	padding: 10px;
+}
+
+.rhc-icalendar-holder .ui-dialog-titlebar button.ui-button.ui-widget {
+    background-image: none;
+    border:none;
+    background-color:#ecf0f1;
+}
+
+.rhc-icalendar-holder .ui-dialog-titlebar button.ui-button.ui-widget:hover {
+	background-color:#bdc3c7;
+}
+
+.rhc-icalendar-holder .ui-dialog-titlebar button.ui-button.ui-widget .ui-button-icon-primary {
+    background-image: none;
+    text-indent: 0;
+    margin: -12px 0px 0 -8px;
+    height: 18px;
+}
+
+.rhc-icalendar-holder .ui-dialog-titlebar button.ui-button.ui-widget .ui-button-icon-primary:before {
+    font-family: 'Flat-UI-Icons';
+    content: "\e00b";
+    font-size: 13px;
+    color:#bdc3c7;
+}
+
+.rhc-icalendar-holder .ui-dialog-titlebar button.ui-button.ui-widget:hover .ui-button-icon-primary:before {
+	color:#7f8c8d;
+}
+
+
+@media only screen and (max-width: 767px) {
+	.fe-image-holder,
+	.fe-map-holder {
+		width:98%;
+	}
+}
+
+@media only screen and (max-width: 540px) {
+
+.single-event-gmap-holder {
+	width: 97%;
+}
+
+.single-event.event-page p {
+	width:98%;
+	margin:0 auto 1.625em;
+}
+
+}
+
+@media only screen and (max-width: 481px) {
+	.fe-extrainfo-col1 .rhc-info-row .rhc-info-cell,
+	.fe-extrainfo-col2 .rhc-info-row .rhc-info-cell,
+	.fe-extrainfo-col3 .rhc-info-row .rhc-info-cell {
+		display: block;
+		width: 100%;
+	}
+	
+	.fe-have-image-1 .fe-image-holder {
+		margin: 10px 0px 5px 0px;
+		text-align: center;
+	}
+	
+	.fe-have-image-0 .fe-map-holder {
+		margin: 10px 0px 11px 0px;
+	}
+	
+	.fe-have-image-1 .fe-extrainfo-holder,
+	.fe-have-image-0 .fe-extrainfo-holder {
+		width: 100%;
+		display: block;
+	}
+	
+	.fe-extrainfo-container .fe-image-holder img,
+	.fe-extrainfo-container .fe-map-holder .sws-gmap3-frame {
+		width: 90%;
+		margin:0 auto;
+	}
+	
+	.fe-have-image-1 .fe-map-holder {
+		margin-bottom: 4%;
+		margin-right: auto;
+		margin-left: auto;
+	}
+}
+
+@media screen and (-webkit-min-device-pixel-ratio: 2) {
+	
+
+}
+
+/*draft: paola apply proper fluid styles*/
+.fe-extrainfo-container {
+	width: 100%;
+	background-color: #fff;
+	border: 1px solid #ebebeb;
+	position: relative;
+	padding: 1px;
+	margin:0 auto 10px;
+}
+
+.fe-extrainfo-container2 {
+	width: 100%;
+	height: 100%;
+	background-color: #f9f9f9;
+}
+
+elist-dbox,
+.se-dbox, 
+.se-vbox {
+line-height: 1.625;
+}
+/* end single_event.css */
+

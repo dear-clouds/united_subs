@@ -1,0 +1,61 @@
+/* slider root element */
+.mom_range_slider { 
+	background:url(../../img/slider/bg.png) repeat-x 0 0;
+	height:9px;
+	border:1px solid #e0e0e0;
+	position:relative;
+	cursor:pointer;
+	width:200px;
+	float:left; 
+	clear:right;
+	margin-top:10px;
+	border-radius:3px; 
+	-webkit-border-radius:3px; 
+}
+
+/* progress bar (enabled with progress: true) */
+.mom_range_wrap .ui-slider-range {
+	height:9px; 
+	background-color:#C5FF00; 
+	display:none;
+	opacity:0.6;
+}
+
+/* drag handle */
+.mom_range_wrap .ui-slider-handle { 
+	background:url(../../img/slider/handle.png) no-repeat 0 bottom; 
+	height:29px;
+	width:29px;
+	top:-11px;
+	margin-left: -15px;
+	position:absolute; 
+	display:block; 
+	margin-top:1px;
+	cursor:move;
+
+}
+.mom_range_wrap .ui-slider-handle:hover {
+	background:url(../../img/slider/handle.png) no-repeat 0 bottom; 
+}
+
+/* the input field */
+.mom_range {
+	float:left;
+	font-size:16px;
+	line-height: 30px;
+	height: 30px;
+	margin:0 0 0 15px;
+	padding:3px 0;
+	text-align:center;
+	width:40px;
+	-moz-border-radius:5px; 
+	-webkit-border-radius:5px;
+}
+
+span.suffix {
+padding-left:10px;
+font-size: 14px;
+line-height:30px;
+float:left;
+text-transform:capitalize;
+}

@@ -1,0 +1,888 @@
+/* calendarize.css */
+
+.fc-dialog-holder {
+	display:none;
+	z-index:-9999;
+	position:absolute;
+}
+
+.fc-dialog {
+	display:block;
+	min-height:300px;
+	width:330px;
+	z-index:999999;
+	position:absolute;
+	top:0;
+	left:0;
+	padding:0;
+}
+
+.rhcalendar  {
+	margin-top: 20px;
+	position:relative;
+}
+
+.rhcalendar.not-widget.rhc_holder { /* Venue Page */
+	margin-top: 60px;
+}
+
+.tax-venue .rhcalendar {
+	margin-top: 40px;
+}
+
+.fc-header-center .fc-header-title {
+	display: block;
+	position: absolute;
+	top: 0px;
+	margin:0 auto;
+	left:0;
+	width:100%;
+}
+
+/* month-year on admin */
+.wp-admin .fc-header-center .fc-header-title {
+	top: 0px;
+}
+.wp-admin .fc-header-center .fc-header-title h2,
+.wp-admin #poststuff .fc-header-center .fc-header-title h2 {
+    font-size: 20px;
+}
+
+.wp-admin .postbox .fc_start_fullcalendar h2 {
+    font-size: 16px;
+}
+/* admin post extra info */
+
+
+.post_extrainfo {
+	width:100%;
+	margin:0;
+	padding:0;
+	display:block;
+	position:relative;
+}
+.post_extrainfo .rhc-extra-info-cell {
+	display:block;
+	float:left;
+	position:relative;
+	width:45%;
+	margin-right:3%;
+	min-height:30px;
+	background-color:#e6e6e6;
+}
+
+.post_extrainfo.post_extrainfo_cols-1 .rhc-extra-info-cell{
+	width:100%;
+	margin-right:0;
+}
+
+.post_extrainfo.post_extrainfo_cols-2 .rhc-extra-info-cell{
+	width:45%;
+	margin-right:3%;
+}
+
+.post_extrainfo.post_extrainfo_cols-3 .rhc-extra-info-cell{
+	width:29%;
+	margin-right:3%;
+}
+
+.post_extrainfo .widget .widget-top {
+	height:auto;
+	min-height:30px;
+}
+
+.post_extrainfo .widget .widget-title h4,
+.post_extrainfo .widget-title .in-widget-title
+ {
+	white-space:normal;
+}
+
+.post_extrainfo .widget-title .in-widget-title {
+}
+.post_extrainfo .rhc-extra-info-label{
+
+}
+.post_extrainfo .rhc-extra-info-value{
+	
+}
+
+.wp-admin .ui-tabs.ui-widget-content ul li a:focus {
+    color:#0074a2;
+}
+/**/
+.fe-is-empty-1 {
+display:none;
+}
+.fe-cell-label.fe-is-empty-1{
+display:block;
+}
+ /* admin extra info rhc_post_info_metabox.php */
+ .post_extrainfo_control {
+	display:block;
+	position:relative;
+}
+.post_extrainfo_cell {
+	display:block;
+	float:left;
+	height:25px;
+	padding:5px 5px 5px 15px;
+}
+
+.post_extrainfo_cell label {
+	
+}
+
+.pt-option .rhc-extra-info-value {
+	vertical-align:middle;
+}
+
+.post_extrainfo-column-control {
+width:100%;
+display:block;
+clear:both;
+}
+.post_extrainfo_separator {
+clear:both;
+}
+
+#extrainfo-loading {
+	margin:4px 0 0 10px;
+	visibility:visible;
+	float:left;
+	width:20px;
+}
+
+.rhc a.pinfo-layout-helper {
+	width:100%;
+	height:100%;
+	padding:5px;
+	display:block;
+	position:relative;	
+	outline:none;
+}
+
+.rhc a.pinfo-layout-helper img {
+	display:block;
+	position:relative;
+	width:90%;
+	max-width:235px;
+	border: 3px solid #dfdfdf ;
+	border-color: rgba(223, 223, 223, 0);
+}
+
+.pinfo-layout-row {
+	margin-bottom:10px;
+}
+
+
+.rhc a.current-selection img,
+.rhc a.pinfo-hovered img{	
+	border: 3px solid #777777;
+}
+
+.wp-admin .post_extrainfo_control,
+.wp-admin .fe-extrainfo-container {
+	margin-top:0px;
+
+}
+.wp-admin .post_extrainfo_control {
+	margin:0;
+	border: 1px solid #ebebeb;
+	border-bottom:0;
+	border-top:0;
+	background-color: #f9f9f9;
+}
+
+.wp-admin .rhc-extra-info-cell {
+	margin-top:5px;
+	margin-bottom:5px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.pinfo_quick_icon {
+	
+}
+
+/* ADMIN download area for calendarize-it */
+.wp-admin .rhpop .dlc-controls .btn {
+	padding: 4px 11px;
+}
+
+/* frontend extra info */
+.fe-extrainfo-holder {
+margin:0;
+padding:0;
+position: relative;
+}
+
+.fe-extrainfo-holder table td {
+	font-size: 14px;
+}
+
+.fe-extrainfo-holder tr td.fe-extrainfo-value {
+	padding-right:20px;
+}
+
+.fe-extrainfo-holder td.fe-extrainfo-label {
+	font-weight:bold;
+}
+/* end frontend extra info */
+
+
+/* post_extrainfo options-panel */
+.pt-option #extrainfo-loading {
+	
+}
+
+.pt-option .post_extrainfo_cell {
+	float:none;
+	width:90%;
+}
+
+.pt-option #post_extrainfo_add {
+	float:left;
+}
+
+/* archive-events-calendar */
+.archive-calendar-container {
+padding:2%;
+}
+
+@media only screen and (max-width: 540px) {
+table.fc-header,
+table.fc-header tr,
+table.fc-header td,
+table.fc-header thead,
+table.fc-header tbody,
+table.fc-header th,
+table.fc-header td.fc-header-left,
+table.fc-header td.fc-header-center,
+table.fc-header td.fc-header-right {
+	display:block;
+}
+
+table.fc-header td.fc-header-left {
+	width: 216px;
+	margin: 10px auto 0 2%;
+	position:relative;
+	top:45px;
+}
+
+table.fc-header td.fc-header-center {
+	position:relative;
+	margin: 0px auto 20px;
+	top:-21px;
+
+}
+
+table.fc-header td.fc-header-right {
+	position:relative;
+	margin: 4px auto 10px 17%;
+	width: 180px;
+}
+
+
+.singular .single-event .fe-extrainfo-holder table td {
+display: block;
+float: left;
+width: 45%;
+}
+
+.singular .entry-title {
+	line-height: 32px;
+}
+}
+
+@media only screen and (max-width: 481px) {
+	table.fc-header {
+	margin-top: -20px !important;
+	}
+
+	table.fc-header td.fc-header-left {
+		width: 80%;
+		margin: 0px auto 0;
+		position: relative;
+		top:40px;
+		display: block;
+	}
+
+	table.fc-header td.fc-header-center {
+		position:relative;
+		margin: 0px auto 20px;
+		top:-40px;
+		display:block;
+		width:100%;
+	
+	}
+
+	table.fc-header td.fc-header-right {
+		position: relative;
+		margin: -45px auto 40px;
+		width: 50%;
+		display: block;
+	}
+
+	.tax-venue .rhcalendar {
+		margin-top: 65px;
+	}
+}/* end of @media only screen and (max-width: 481px)*/
+
+/* venues.php venue shortcode css */
+.sws-gmap3-marker {
+display:none;
+}
+.sws-gmap3-cont img{
+max-width:none !important;
+max-height:none !important;
+}
+/* end venues.php */
+
+/* Single Event page */
+.singular .single-event .entry-header, 
+.singular .single-event .entry-content {
+	width:94%;
+}
+
+.singular .single-event .fe-extrainfo-holder table {
+	border-bottom:0px solid #ddd;
+}
+
+.singular .single-event .fe-extrainfo-holder table td {
+	border-top:0px;
+	padding: 2px 0;
+}
+
+/* icalendar dialog */
+#rhc-icalendar-modal {
+	font-size:.8em;
+}
+
+#rhc-icalendar-modal textarea {
+	height:75px;
+}
+
+.rhcalendar table.fc-border-separate {
+	margin-bottom:0px;
+	margin-right:0px;
+}
+
+a.fc-event {
+	/* bug fix, reset css3 transition */
+    -moz-transition: none;
+    -webkit-transition: none;
+    -o-transition: color 0 ease-in;
+    transition: none;
+	/* bug fix, event is very thin */
+	max-width:none;
+}
+/* end bug fix */
+
+/* viewport loading overlay */
+.fc-view-loading {
+display:block;
+/*background-color: rgba(87, 82, 82, 0.45);*/
+position: absolute;
+width: 100%;
+height: 100%;
+z-index: 10;
+overflow:hidden;
+}
+
+.fc-view-loading .fc-view-loading-1 {
+	margin:0 auto;
+}
+
+.fc-view-loading .fc-view-loading-1.loading-events {
+	margin-top:36px;
+	width:100%;
+	text-align:center;
+}
+
+.fc-view-loading.loading-events .fc-view-loading-2 {
+	margin:0 auto;
+	width:16px;
+	height:11px;
+	background-image:url(images/ajax-loader.gif);
+}
+
+/* */
+.fc-header td,
+.entry-content .fc-header td {
+border:none;
+}
+
+/**/
+.wp-admin .fe-empty {
+min-height:100px;
+}
+.wp-admin .rhc .row-fluid .fe-maincol {
+min-height:100px;
+border: 2px dashed #ddd;
+}
+/*
+.wp-admin .fe-sortable {
+border-left: 2px dashed #ddd;
+border-right: 2px dashed #ddd;
+}
+.wp-admin .fe-maincol .fe-sortable:first-child {
+border-top:2px dashed #ddd;
+}
+.wp-admin .fe-maincol .fe-sortable:last-child {
+border-bottom:2px dashed #ddd;
+}
+*/
+
+/* wp-admin quick icons nav bar */
+.wp-admin .post_extrainfo_quick_icons {
+	display:block;
+	position:relative;
+	width:100%;
+	border:none;
+}
+
+.wp-admin .ui-widget-header.quick_icons_tabs_nav {
+	display:block;
+	width:100%;
+	text-decoration:none;
+	margin:0;
+	background-image: none;
+	background-color: transparent;
+	border: none;
+}
+
+.wp-admin .ui-tabs .quick_icons_tabs_nav a {
+	outline:none;
+	text-decoration:none;
+	float: none;
+	padding: 0;
+	font-weight: 400;
+	color: #0073aa;
+  	font-size: 13px;
+}
+
+.wp-admin .quick_icons_tabs_nav .quick_icons_tabs {
+	display:inline-block;
+	float: none;
+	position:relative;
+	margin: 5px 5px 0 0;
+	padding: 7px 15px 6px;
+	cursor: pointer;
+	top:2px;
+	float: none;
+	background-image: none;
+	background-color: transparent;
+	border: none;
+}
+
+.wp-admin .quick_icons_tabs_nav .quick_icons_tabs.ui-tabs-active {
+	background-color: #f1f1f1;
+	border-color: #dfdfdf #dfdfdf #ccc;	
+	border-width: 1px;
+	border-style: solid;
+	-webkit-border-top-right-radius: 3px;
+	-webkit-border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+	border-top-left-radius: 3px;	
+	border-bottom:none;	
+	padding-bottom: 6px;
+}	
+
+#rhc-post-info .ui-tabs .quick_icon_tab_panel,
+.ui-tabs .quick_icon_tab_panel {
+	min-height:28px;
+	padding:1px 105px 1px 6px;
+	border: 1px solid #d1d1d1;
+	border-radius:0;
+	background: #eee;
+	background-image: -webkit-gradient(linear,left bottom,left top,from(#e5e5e5),to(#f4f4f4));
+	background-image: -webkit-linear-gradient(bottom,#e5e5e5,#f4f4f4);
+	background-image: -moz-linear-gradient(bottom,#e5e5e5,#f4f4f4);
+	background-image: -o-linear-gradient(bottom,#e5e5e5,#f4f4f4);
+	background-image: linear-gradient(to top,#e5e5e5,#f4f4f4);	
+}
+.wp-admin .fe-extrainfo-container,
+.wp-admin .fe-extrainfo-container2 {
+	background:none;
+	border:none;
+}
+.wp-admin .post_extrainfo_holder {
+background-color: #f9f9f9;
+border: 1px solid #ebebeb;
+
+}
+
+.wp-admin .pinfo_quick_icon {
+	cursor:move;
+	margin: 5px 0 2px 0;
+	padding:5px 7px 5px 7px;
+	display:inline-block;
+	position:relative;
+	background: #f5f5f5;
+	background-image: -webkit-gradient(linear,left bottom,left top,from(#f5f5f5),to(#f9f9f9));
+	background-image: -webkit-linear-gradient(bottom,#f5f5f5,#f9f9f9);
+	background-image: -moz-linear-gradient(bottom,#f5f5f5,#f9f9f9);
+	background-image: -o-linear-gradient(bottom,#f5f5f5,#f9f9f9);
+	background-image: linear-gradient(to top,#f5f5f5,#f9f9f9);
+	border: 1px solid #dfdfdf;
+	-webkit-box-shadow: inset 0 1px 0 #fff;
+			box-shadow: inset 0 1px 0 #fff;
+	-webkit-border-radius: 3px;
+		    border-radius: 3px;
+}
+
+.wp-admin .pinfo_quick_icon:hover {
+	border-color: #cccccc;
+}
+
+.receiving-icon {
+	background-color:#efefef;
+	background-color:rgb(223,223,223,0.4);
+}
+/* end wp-admin quick icons nav bar */
+
+/* wp-admin icons on the dragable custom fields */
+.wp-admin .rhc-extra-info-cell .widget-title-action {
+	text-align:right;
+	padding-top: 9px;
+	padding-right: 5px;	
+}
+.wp-admin .rhc-extra-info-cell .widget-title-action a {
+	display:inline-block;
+	position:relative;
+}
+
+.wp-admin .rhc-extra-info-cell .widget-title {
+	padding: 8px 14px;
+}
+/* wp-admin custom fields widget content form*/
+.wp-admin .rhc .row-fluid .post_extrainfo_span {
+	width:auto;
+	float:none;
+	display:inline-block;
+}
+
+.wp-admin .postinfo_box_select {
+	position:absolute;
+	right:0;
+	margin:7px 5px 0 0;
+	width:100px;
+	z-index:1;
+}
+
+.wp-admin .rhc-extra-info-label {
+	font-size: 14px;
+	padding: 0;
+	margin: 0;
+	line-height: 1.4;
+}
+
+.wp-admin .wcell label {
+	display:inline-block;
+	min-width:100px;
+	font-size:13px;
+}
+
+.wp-admin .rhc-extra-info-cell .widget-control-actions {
+	text-align:right;
+}
+
+.wp-admin .rhc-extra-info-cell.rhcalendar .widget-content {
+	padding: 10px;
+}
+
+.wp-admin .wcell .pinfo_input {
+	font-size: 13px;
+}
+
+.wp-admin .rhc-extra-info-cell.rhcalendar .pinfo-save.button-primary {
+	margin: 0 10px 10px 0;
+}
+
+.rhc-extra-info-value.fe-is-empty-0 {
+	font-size: 13px;
+}
+
+.rhc .row-fluid .wcell .pinfo_input {
+	margin-left:0;
+	width:100%;
+}
+
+.post_extrainfo_holder a {
+	outline:none;
+}
+
+.pinfo-set-default-holder {
+	text-align: right;
+	margin: 10px 0 0 0;
+}
+
+/*some default values for the editor to work.*/
+.rhcalendar.not-widget .fc-agenda .fc-widget-header.fc-agenda-axis {
+background-image:none;
+}
+
+.rhc-info-cell .rhcalendar {
+margin:10px 0;
+}
+
+.rhc-info-cell span.rhcalendar {
+	display:block;
+}
+
+.wp-admin .post_extrainfo_holder .fc-button-custom,
+body .fc-button-custom {
+text-decoration:none;
+}
+
+.wp-admin .post_extrainfo_holder .widget-title .rhcalendar {
+	margin:0 40px 1px 0;
+	display:inline-flex;
+}
+
+.fc-head-control {
+	display:none;
+	position:relative;
+	height:auto;
+	width:100%;
+	background-color:rgb(225, 228, 231);
+}
+
+.gmap-fullscreen-active .rhc_holder.gmap-fullscreen .fc-head-control {
+	display:block;
+}
+
+.gmap-fullscreen-active .fc-header {
+	display:none;/*not showing header bar on map view fullscreen */
+}
+
+.tax_filter_item_holder {
+	display:inline-block;
+	padding-left:3px;	
+	margin-right: 10px;
+}
+
+.fc-head-control {
+	padding:3px;
+}
+
+body a.btn.tax_filter_previous {
+	display:none;
+}
+
+.tax_filter_nav {
+	display:inline-block;
+	position:absolute;
+	width:45px;
+	height:34px;
+	background-color:#F3F3F3;
+	z-index:100;
+	margin-left: -5px;
+	padding-left: 5px;	
+}
+
+body a.btn.tax_filter_previous:visited,
+body a.btn.tax_filter_previous {
+	float:left;
+	color:#dfdfdf;
+}
+
+body .has-filters a.btn.tax_filter_previous {
+	display:inline-block;
+	min-width:initial;
+}
+
+.tax_filter_holder_viewport {
+	width:99999px;
+	overflow:visible;
+	position:absolute;
+	margin-left:50px;
+	z-index:50;
+}
+
+body .has-filters a.btn.tax_filter_previous {
+    min-width: initial;
+}
+
+.rhcalendar .tax_filter_holder_viewport *:last-child {
+    margin-bottom: 0;
+}
+
+.rhcalendar .rh-flat-ui .select .btn .filter-option {
+    line-height: 1.3;
+    font-size: inherit;
+    display: initial;
+}
+
+/* event list loading extended details */
+.ext-list-loading {
+display:block;
+/*background-color: rgba(87, 82, 82, 0.45);*/
+position: absolute;
+width: 100%;
+height: 100%;
+z-index: 10;
+overflow:hidden;
+}
+
+.ext-list-loading .ext-list-loading-1 {
+	margin:0 auto;
+}
+
+.ext-list-loading .ext-list-loading-1.loading-events {
+	margin-top:36px;
+	width:100%;
+	text-align:center;
+}
+
+.ext-list-loading.loading-events .ext-list-loading-2 {
+	margin:0 auto;
+	width:16px;
+	height:11px;
+	background-image:url(images/ajax-loader.gif);
+}
+
+/* Admin on|off buttons for download options */
+.dc-content .dlc-addon-control {
+  position: relative;
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+  font-size: 0;
+  vertical-align: middle;
+  white-space: nowrap;
+  *margin-left: .3em;
+}
+.dc-content .dlc-addon-control .btn {
+	display: inline-block;
+  *display: inline;
+  *zoom: 1;
+	padding: 6px 12px;
+	margin: 0;
+	font-size: 14px;
+	line-height: 20px;
+	text-align: center;
+	vertical-align: middle;
+	cursor: pointer;
+	color: #ffffff;
+	text-shadow: none;
+	background-color: #bdc3c7;
+	background-image:none;
+	border:none;
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	border-radius: 0;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+	-webkit-font-smoothing: subpixel-antialiased;
+   -webkit-transition: border .25s linear, color .25s linear, background-color .25s linear;
+   transition: border .25s linear, color .25s linear, background-color .25s linear;
+}
+.dc-content .dlc-addon-control .btn.enable-addon {
+  margin-left: 0;
+  -webkit-border-top-left-radius: 4px;
+  -moz-border-radius-topleft: 4px;
+  border-top-left-radius: 4px;
+  -webkit-border-bottom-left-radius: 4px;
+  -moz-border-radius-bottomleft: 4px;
+  border-bottom-left-radius: 4px;
+}
+.dc-content .dlc-addon-control .btn.disable-addon {
+  -webkit-border-top-right-radius: 4px;
+  -moz-border-radius-topright: 4px;
+  border-top-right-radius: 4px;
+  -webkit-border-bottom-right-radius: 4px;
+  -moz-border-radius-bottomright: 4px;
+  border-bottom-right-radius: 4px;
+ }
+ 
+.dc-content .dlc-addon-control .btn.enable-addon.active {
+  color:#ffffff;
+  background-image: none;
+  background-color: #51a351;
+  -webkit-box-shadow:none;
+  -moz-box-shadow:none;
+  box-shadow:none;
+}
+
+.dc-content .dlc-addon-control .btn.disable-addon.active {
+  color:#ffffff;
+  background-image: none;
+  background-color: #bd362f;	
+  -webkit-box-shadow:none;
+  -moz-box-shadow:none;
+  box-shadow:none;
+}
+
+.dc-content .rhpop .btn {
+	background-image: none;
+	border: none;
+	text-shadow: none;
+	color: #fff;
+	-webkit-font-smoothing: subpixel-antialiased;
+	-webkit-transition: border .25s linear, color .25s linear, background-color .25s linear;
+	transition: border .25s linear, color .25s linear, background-color .25s linear;
+}
+
+.dc-content .btn.btn-visit-site {
+	background-color: #bdc3c7;
+}
+
+.dc-content .rhpop .btn:hover {
+	color:#fff;
+	opacity:.7;
+}
+
+.dc-content .rhpop .btn.btn-download.disabled {
+    color: #ffffff;
+	background-color:#bdc3c7;
+	opacity:.5;
+}
+
+/* End on|off buttons for download options */
+
+/* footer button */
+.rhcalendar .fc-footer .fc-button {
+margin-left:3px;
+}
+
+/* title in next line */
+.rhc_timetable .fc-event-time,
+.rhc_timetable .fc-event-title {
+display: block;
+text-align:center;
+}
+
+/* next upcoming times*/
+.rhc-next-date-time {
+display:block;
+}
+
+/* RHC Timetable events */
+.rhc_timetable .fc-event-container .fc-event {
+    padding: 20px 10px;
+}
+
+/* taxonomies per line */
+.dbox-term-item {
+	display:block;
+}
+
+.dbox-term-item:not(:last-child):after{
+	/*content: ', '*/ /* uncomment for a comma between terms */	
+}
+
+/* venue and organizer specific */
+.dbox-term-item.dbox-taxonomy-venue,
+.dbox-term-item.dbox-taxonomy-organizer {
+	
+}
+
+.fc-display-none {
+	display:none;
+}
+
+.rhc_month_hide_time .fc-view-month .fc-event .fc-event-time {
+	display:none;
+}

@@ -1,0 +1,85 @@
+<div id="buddypress">
+
+	<?php do_action( 'bp_before_member_home_content' ); ?>
+	
+	<!-- ADDED FOR WOFFICE -->
+	<?php 
+	$user_ID = bp_displayed_user_id();
+	$the_cover = woffice_get_cover_image($user_ID);
+	if (!empty($the_cover)):
+		echo'<div id="item-header" role="complementary" style="background-image: url('.esc_url($the_cover).')">';
+	else :
+		echo'<div id="item-header" role="complementary">';
+	endif;
+	?>
+
+		<?php bp_get_template_part( 'members/single/member-header' ) ?>
+		
+		<div class="user-cover-layer"></div>
+		
+		<?php echo (function_exists('woffice_upload_cover_btn')) ? woffice_upload_cover_btn() : ''; ?>
+		 
+	</div><!-- #item-header -->
+
+	<!-- ADDED .intern-box -->
+	<div id="item-nav" class="intern-box">
+		<div class="item-list-tabs no-ajax" id="object-nav" role="navigation">
+			<ul>
+
+				<?php bp_get_displayed_user_nav(); ?>
+
+				<?php do_action( 'bp_member_options_nav' ); ?>
+
+			</ul>
+		</div>
+	</div><!-- #item-nav -->
+
+	<div id="item-body" role="main">
+		<!-- ADDED FOR WOFFICE -->
+		<div class="intern-padding">
+
+			<?php do_action( 'bp_before_member_body' );
+	
+			if ( bp_is_user_activity() || !bp_current_component() ) :
+				bp_get_template_part( 'members/single/activity' );
+	
+			elseif ( bp_is_user_blogs() ) :
+				bp_get_template_part( 'members/single/blogs'    );
+	
+			elseif ( bp_is_user_friends() ) :
+				bp_get_template_part( 'members/single/friends'  );
+	
+			elseif ( bp_is_user_groups() ) :
+				bp_get_template_part( 'members/single/groups'   );
+	
+			elseif ( bp_is_user_messages() ) :
+				bp_get_template_part( 'members/single/messages' );
+	
+			elseif ( bp_is_user_profile() ) :
+				bp_get_template_part( 'members/single/profile'  );
+	
+			elseif ( bp_is_user_forums() ) :
+				bp_get_template_part( 'members/single/forums'   );
+	
+			elseif ( bp_is_user_notifications() ) :
+				bp_get_template_part( 'members/single/notifications' );
+	
+			elseif ( bp_is_user_settings() ) :
+				bp_get_template_part( 'members/single/settings' );
+	
+			// If nothing sticks, load a generic template
+			else :
+				bp_get_template_part( 'members/single/plugins'  );
+	
+			endif;
+	
+			do_action( 'bp_after_member_body' ); ?>
+			
+		<!-- ADDED FOR WOFFICE -->
+		</div>
+
+	</div><!-- #item-body -->
+
+	<?php do_action( 'bp_after_member_home_content' ); ?>
+
+</div><!-- #buddypress -->

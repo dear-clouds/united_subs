@@ -1,0 +1,61 @@
+.hide {
+    display: none;
+}
+
+/*  Radio image */
+.rwmb-radioimg-wrapper label {
+    margin-right: 4px;
+    position: relative;
+}
+.rwmb-radioimg-wrapper:not(.select_device) img {
+    border: 1px solid #e2e2e2;
+}
+.rwmb-radioimg-wrapper:not(.select_device) img:hover {
+    border-color: orange;
+}
+input.radio_img {
+    display: none;
+}
+.rwmb-radioimg-wrapper:not(.select_device) .radio_img:checked+img {
+    border: 1px solid orange;
+}
+
+.select_device .radio_img:checked+img+i:before {
+	content: "\e0a0";
+	position: absolute;
+	font-size: 16px;
+        width: 20px;
+        height: 20px;
+        line-height: 20px;
+        text-align: center;
+	color: #000;
+	font-family: momizat;
+	font-style: normal;
+        left: 50%;
+        top: 50%;
+        margin-left: -10px;
+        margin-top: -13px;
+}
+
+.select_device label {
+    margin-right: 15px;
+    display: inline-block;
+    position: relative;
+}
+/* Description */
+p.description {
+    padding:5px;
+    clear: both;
+}
+
+.min_plupload div.rwmb-drag-drop {
+    border: 2px dashed #DDDDDD ;
+    height: 90px;
+    width: 300px;    
+}
+
+.min_plupload .drag-drop .drag-drop-inside {
+    margin: 12px auto 0;
+    width: 250px;
+}
+

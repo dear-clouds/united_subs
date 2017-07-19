@@ -1,0 +1,1270 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: White Label Branding for WordPress v1.5.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-23 16:28-0500\n"
+"PO-Revision-Date: 2011-11-23 16:28-0500\n"
+"Last-Translator: Alberto Lau <alau@albertolau.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class.al_importer.php:52
+msgid "Bundle is empty."
+msgstr ""
+
+#: class.PluginOptionsPanelModule.php:35
+#: class.PluginOptionsPanelModule.php:36
+msgid "Plugin Options Panel"
+msgstr ""
+
+# @ wlb
+#: class.PluginOptionsPanelModule.php:41
+#, fuzzy, php-format
+msgid "Plugin update %s is available!"
+msgstr "Itens da barra admin não disponíveis"
+
+#: class.PluginOptionsPanelModule.php:41
+msgid "Please update now"
+msgstr ""
+
+#: class.PluginOptionsPanelModule.php:365
+msgid "Plugin is latest version."
+msgstr ""
+
+#: class.PluginOptionsPanelModule.php:368
+msgid "Invalid response format."
+msgstr ""
+
+# @ wlb
+#: class.PluginOptionsPanelModule.php:372
+#, fuzzy
+msgid "Notification service is not available."
+msgstr "Itens da barra admin não disponíveis"
+
+# @ wlb
+#: class.PluginOptionsPanelModule.php:406
+msgid "Options updated."
+msgstr "Opções Atualizadas."
+
+# @ wlb
+#: class.PluginOptionsPanelModule.php:489
+msgid "Open all"
+msgstr "Abrir Tudo"
+
+# @ wlb
+#: class.PluginOptionsPanelModule.php:490
+msgid "Save all"
+msgstr "Salvar Todas"
+
+#: class.PluginOptionsPanelModule.php:503
+#, php-format
+msgid "Options panel version %s"
+msgstr ""
+
+#: class.plugin_registration.php:45
+msgid "License"
+msgstr ""
+
+#: class.plugin_registration.php:46
+msgid "Item Purchase Key"
+msgstr ""
+
+#: class.plugin_registration.php:47
+msgid "Product License"
+msgstr ""
+
+#: class.plugin_registration.php:55
+msgid "Your purchase code can be found in your license Certificate file."
+msgstr ""
+
+#: class.plugin_registration.php:56
+msgid "Go to Codecanyon and click My Account at the top, then click Downloads, and then click the <strong>License Certificate link</strong>."
+msgstr ""
+
+#: class.plugin_registration.php:57
+msgid "You will find the code in there and it will look something like this:"
+msgstr ""
+
+#: class.plugin_registration.php:58
+msgid "Item Purchase Code:"
+msgstr ""
+
+#: class.plugin_registration.php:59
+#, php-format
+msgid "This allows us to verify your purchase and provide support to those who have paid. We will also automatically notify you when updates are available. Updates are free to download if you have purchased this once. If you have questions about this, please contact us at %s."
+msgstr ""
+
+#: class.plugin_registration.php:64
+msgid "License key"
+msgstr ""
+
+# @ wlb
+#: class.plugin_registration.php:118
+#: class.plugin_registration.php:155
+#: class.plugin_registration.php:158
+#, fuzzy
+msgid "Service not available."
+msgstr "Itens da barra admin não disponíveis"
+
+#: class.plugin_registration.php:122
+#: class.pop_import_export.php:583
+#: class.pop_import_export.php:605
+msgid "Missing parameter"
+msgstr ""
+
+#: class.plugin_registration.php:131
+msgid "License already added."
+msgstr ""
+
+#: class.plugin_registration.php:146
+msgid "Please add a main license key before adding an addon license key."
+msgstr ""
+
+#: class.plugin_registration.php:171
+#: class.plugin_registration.php:175
+msgid "Item name not specified"
+msgstr ""
+
+#: class.plugin_registration.php:171
+#: class.plugin_registration.php:175
+msgid "License not specified"
+msgstr ""
+
+#: class.plugin_registration.php:197
+msgid "Add license"
+msgstr ""
+
+#: class.pop_bundles.php:44
+#: class.pop_bundles.php:46
+#: class.pop_bundles.php:57
+msgid "Bundles"
+msgstr ""
+
+# @ wlb
+#: class.pop_bundles.php:45
+#, fuzzy
+msgid "Plugin bundled content"
+msgstr "Conteúdo do Painel"
+
+#: class.pop_bundles.php:53
+msgid "Bundles can be added by plugin add-ons or updates.  If you restore a bundle, depending on the bundle content, it can overwrite part of the current settings or all of them.  Make a backup of your settings before proceding."
+msgstr ""
+
+# @ wlb
+#: class.pop_bundles.php:84
+#, fuzzy
+msgid "Operation completed"
+msgstr "Opções Atualizadas."
+
+#: class.pop_bundles.php:88
+msgid "Unknown error while processing. Please reload and try again."
+msgstr ""
+
+#: class.pop_bundles.php:101
+msgid "Restore bundle:"
+msgstr ""
+
+#: class.pop_bundles.php:105
+msgid "Click to restore bundle"
+msgstr ""
+
+#: class.pop_downloadable_content.php:74
+#, php-format
+msgid "There is no downloadable content at this time.  You must register %s before you can actually see available downloadable content. For more information on how to register %s, please go the Options menu and the License tab."
+msgstr ""
+
+#: class.pop_downloadable_content.php:87
+#: class.pop_downloadable_content.php:108
+msgid "Service is unavailable, please try again later."
+msgstr ""
+
+#: class.pop_downloadable_content.php:96
+msgid "Please register the product before downloading content."
+msgstr ""
+
+#: class.pop_downloadable_content.php:128
+#: class.pop_downloadable_content.php:142
+msgid "Content downloaded and installed."
+msgstr ""
+
+#: class.pop_downloadable_content.php:147
+msgid "Unhandled content type, update plugin or theme to latest version."
+msgstr ""
+
+#: class.pop_downloadable_content.php:213
+msgid "Downloads"
+msgstr ""
+
+#: class.pop_downloadable_content.php:214
+msgid "New"
+msgstr ""
+
+#: class.pop_downloadable_content.php:215
+msgid "Downloaded"
+msgstr ""
+
+#: class.pop_downloadable_content.php:222
+#: class.pop_downloadable_content.php:233
+#: class.pop_input.php:248
+msgid "Name"
+msgstr ""
+
+#: class.pop_downloadable_content.php:223
+#: class.pop_downloadable_content.php:234
+#: class.pop_input.php:248
+msgid "Version"
+msgstr ""
+
+#: class.pop_downloadable_content.php:224
+#: class.pop_downloadable_content.php:235
+msgid "Size"
+msgstr ""
+
+#: class.pop_downloadable_content.php:225
+#: class.pop_downloadable_content.php:236
+msgid "Description"
+msgstr ""
+
+#: class.pop_importer.php:55
+#: class.pop_importer.php:92
+#: class.pop_import_export.php:525
+#: class.pop_import_export.php:545
+msgid "Could not read the imported code, please verify and try again."
+msgstr ""
+
+#: class.pop_importer.php:59
+#: class.pop_importer.php:96
+#, php-format
+msgid "The imported code does not belong to this plugin/theme.  Import code id: %s,%s"
+msgstr ""
+
+#: class.pop_importer.php:78
+#: class.pop_importer.php:107
+msgid "There was an error importing the content."
+msgstr ""
+
+#: class.pop_importer.php:87
+msgid "Unable to read bundle file"
+msgstr ""
+
+#: class.pop_import_export.php:52
+#: class.pop_import_export.php:560
+msgid "Automatic settings backup"
+msgstr ""
+
+#: class.pop_import_export.php:112
+#: class.pop_import_export.php:113
+#: class.pop_import_export.php:114
+msgid "Settings import and export"
+msgstr ""
+
+#: class.pop_import_export.php:121
+msgid "Export settings:"
+msgstr ""
+
+#: class.pop_import_export.php:122
+msgid "Write a short label that identifies this export code and click on \"Export settings\" to get the site settings.  You can later use this code to restore settings by uploading the file in the Import settings section of this tab."
+msgstr ""
+
+#: class.pop_import_export.php:123
+msgid "Please observe that this will NOT export images or any other attachments, only the configuration values like image url or attachment paths."
+msgstr ""
+
+# @ wlb
+#: class.pop_import_export.php:128
+#: class.pop_import_export.php:315
+#, fuzzy
+msgid "Export settings"
+msgstr "Configuração da barra de Administração"
+
+# @ wlb
+#: class.pop_import_export.php:138
+#, fuzzy
+msgid "Import settings:"
+msgstr "Configuração da barra de Administração"
+
+#: class.pop_import_export.php:139
+msgid "Choose a file exported with the Export settings option on this tab"
+msgstr ""
+
+#: class.pop_import_export.php:140
+msgid "Check the \"Backup\" options if you want to save your current settings locally."
+msgstr ""
+
+# @ wlb
+#: class.pop_import_export.php:141
+#, fuzzy
+msgid "Click on \"Import settings\""
+msgstr "Configuração da barra de Administração"
+
+# @ wlb
+#: class.pop_import_export.php:146
+#: class.pop_import_export.php:328
+#, fuzzy
+msgid "Import settings"
+msgstr "Configuração da barra de Administração"
+
+#: class.pop_import_export.php:157
+#: class.pop_import_export.php:158
+#: class.pop_import_export.php:159
+msgid "Saved settings and downloaded content"
+msgstr ""
+
+#: class.pop_import_export.php:166
+msgid "Settings backup"
+msgstr ""
+
+#: class.pop_import_export.php:168
+msgid "Settings backup:"
+msgstr ""
+
+#: class.pop_import_export.php:169
+msgid "Type a small description so you can identify this settings and press <i>Save settings</i>.  It will be listed on the Saved settings list."
+msgstr ""
+
+#: class.pop_import_export.php:170
+msgid "<i>Technical:</i> This is stored in the local site options."
+msgstr ""
+
+#: class.pop_import_export.php:176
+#: class.pop_import_export.php:314
+msgid "Brief description"
+msgstr ""
+
+# @ wlb
+#: class.pop_import_export.php:179
+#, fuzzy
+msgid "Save settings"
+msgstr "Configuração da barra de Administração"
+
+# @ wlb
+#: class.pop_import_export.php:186
+#, fuzzy
+msgid "Saved settings"
+msgstr "Configuração da barra de Administração"
+
+#: class.pop_import_export.php:326
+msgid "Backup my current settings locally."
+msgstr ""
+
+#: class.pop_import_export.php:376
+#: class.pop_import_export.php:419
+#: class.pop_import_export.php:494
+#: class.pop_import_export.php:520
+#: class.pop_import_export.php:540
+#: class.pop_import_export.php:580
+#: class.pop_import_export.php:602
+msgid "No access"
+msgstr ""
+
+#: class.pop_import_export.php:380
+msgid "Please specify a label for this settings."
+msgstr ""
+
+#: class.pop_import_export.php:414
+msgid "Error saving options."
+msgstr ""
+
+#: class.pop_import_export.php:446
+#: class.pop_import_export.php:475
+#: class.pop_import_export.php:478
+msgid "There are no saved settings."
+msgstr ""
+
+#: class.pop_import_export.php:486
+msgid "This will permanently remove this settings."
+msgstr ""
+
+#: class.pop_import_export.php:487
+msgid "Restore the current options to this settings."
+msgstr ""
+
+#: class.pop_import_export.php:497
+msgid "Please write a brief description for this export code."
+msgstr ""
+
+#: class.pop_import_export.php:528
+#: class.pop_import_export.php:548
+#, php-format
+msgid "The imported code does not belong to this group of settings.  Import code id: %s"
+msgstr ""
+
+#: class.pop_import_export.php:553
+msgid "The settings on this code are the same as the current settings."
+msgstr ""
+
+#: class.pop_import_export.php:566
+msgid "There was an error saving a backup of the current settings, please try again."
+msgstr ""
+
+#: class.pop_import_export.php:573
+msgid "There was an error saving the settings, please try again."
+msgstr ""
+
+#: class.pop_import_export.php:597
+msgid "Nothing to remove."
+msgstr ""
+
+#: class.pop_import_export.php:614
+#, php-format
+msgid "Restored %s:%s"
+msgstr ""
+
+#: class.pop_import_export.php:616
+msgid "Saved setting not found"
+msgstr ""
+
+#: class.pop_input.php:92
+msgid "Choose color"
+msgstr ""
+
+#: class.pop_input.php:93
+msgid "Close"
+msgstr ""
+
+# @ wlb
+#: class.pop_input.php:204
+msgid "Yes"
+msgstr "Sim"
+
+# @ wlb
+#: class.pop_input.php:205
+msgid "No"
+msgstr "Não"
+
+# @ wlb
+#: class.pop_input.php:248
+#, fuzzy
+msgid "Date"
+msgstr "Excluir"
+
+#: class.pop_input.php:278
+msgid "Save settings backup"
+msgstr ""
+
+#: class.pop_uploader.php:35
+msgid "Getting content length is not supported."
+msgstr ""
+
+#: class.pop_uploader.php:90
+#, php-format
+msgid "increase post_max_size and upload_max_filesize to %s"
+msgstr ""
+
+#: class.pop_uploader.php:114
+msgid "Server error. Upload directory isn't writable."
+msgstr ""
+
+#: class.pop_uploader.php:118
+msgid "No files were uploaded."
+msgstr ""
+
+#: class.pop_uploader.php:124
+msgid "File is empty"
+msgstr ""
+
+#: class.pop_uploader.php:128
+msgid "File is too large"
+msgstr ""
+
+#: class.pop_uploader.php:138
+#, php-format
+msgid "File has an invalid extension, it should be one of %s"
+msgstr ""
+
+#: class.pop_uploader.php:155
+msgid "Could not save uploaded file."
+msgstr ""
+
+#: class.pop_uploader.php:155
+msgid "The upload was cancelled, or server error encountered"
+msgstr ""
+
+# @ wlb
+#, fuzzy
+#~ msgid "Login starter"
+#~ msgstr "Gabarito de Login CSS"
+
+# @ wlb
+# @ default
+#, fuzzy
+#~ msgid "Save Changes"
+#~ msgstr "Salvar alterações"
+
+# @ wlb
+#, fuzzy
+#~ msgid "Dashboard Tool"
+#~ msgstr "Painel de Controle"
+
+# @ wlb
+#~ msgid "White Label Branding"
+#~ msgstr "White Label Branding"
+# @ wlb
+#, fuzzy
+#~ msgid "White Label Branding Options"
+#~ msgstr "White Label Branding"
+
+# @ wlb
+#~ msgid "Branding"
+#~ msgstr "Logo Marca"
+# @ wlb
+#, fuzzy
+#~ msgid "Options"
+#~ msgstr "Opções Atualizadas."
+
+# @ wlb
+#, fuzzy
+#~ msgid "Role Manager"
+#~ msgstr "Gerente de papel"
+
+# @ wlb
+#, fuzzy
+#~ msgid "Admin Bar"
+#~ msgstr "Barra do Admin"
+
+# @ wlb
+#~ msgid "Admin bar settings"
+#~ msgstr "Configuração da barra de Administração"
+# @ wlb
+#~ msgid "Hide Admin Bar"
+#~ msgstr "Esconder a Barra de Admin"
+# @ wlb
+#, fuzzy
+#~ msgid "Select yes to completely remove the top Admin Bar (wp 3.1)"
+#~ msgstr ""
+#~ "Selecione sim para remover completamente a barra superior de "
+#~ "administração (wp 3.1)"
+
+# @ wlb
+#~ msgid "Hide Admin Bar settings on profile"
+#~ msgstr "Ocultar a Barra de configurações do  Admin  no perfil"
+# @ wlb
+#~ msgid "Select yes to hide the admin bar settings on user profile."
+#~ msgstr ""
+#~ "Seleccione sim para ocultar as barras de configurações do admin em perfil "
+#~ "de usuário."
+# @ wlb
+#~ msgid "Hide admin bar items"
+#~ msgstr "Ocultar itens do admin da barra"
+# @ wlb
+#, fuzzy
+#~ msgid "URL to an image to use as Favicon "
+#~ msgstr "URL da Image que você quer usar como fundo de tela para o login"
+
+# @ wlb
+#, fuzzy
+#~ msgid "Header Logo URL"
+#~ msgstr "URL do Logotipo do Cabeçalho"
+
+# @ wlb
+#~ msgid "URL to an image that will replace the header logo"
+#~ msgstr "URL da imagem para trocar o logotipo do cabeçalho"
+# @ wlb
+#, fuzzy
+#~ msgid "Header Bar Height"
+#~ msgstr "Altura da barra do Cabeçalho"
+
+# @ wlb
+#~ msgid ""
+#~ "Specify a height in px if the header logo is taller than 32px, this will "
+#~ "adjust the header height."
+#~ msgstr ""
+#~ "Especifique uma altura em px se o logotipo do cabeçalho é maior do que "
+#~ "32px, isso irá ajustar a altura do cabeçalho."
+# @ wlb
+#~ msgid "Footer"
+#~ msgstr "Rodapé"
+# @ wlb
+#, fuzzy
+#~ msgid "Developer Logo URL"
+#~ msgstr "URL do Logotipo do Desenvolvedor"
+
+# @ wlb
+#~ msgid "URL to an image that will be displayed in the footer."
+#~ msgstr "URL da Imagem que será Inserida no rodapé"
+# @ wlb
+#, fuzzy
+#~ msgid "Developer Name"
+#~ msgstr "Nome do Desenvolvedor"
+
+# @ wlb
+#~ msgid ""
+#~ "Developer name, displayed on links to the developer website in the footer."
+#~ msgstr ""
+#~ "Nome do Desenvolvedor , exibido nos links para o site do desenvolvedor no "
+#~ "rodapé."
+# @ wlb
+#~ msgid "Developer URL"
+#~ msgstr "URL do Desenvolvedor"
+# @ wlb
+#~ msgid "URL to the developer website."
+#~ msgstr "URL para o site do desenvolvedor."
+# @ wlb
+#~ msgid "WordPress Messages"
+#~ msgstr "Mensagens do Wordpress"
+# @ wlb
+#~ msgid "Remove \"&#8212; WordPress\" from title"
+#~ msgstr "Remover  \"&#8212; WordPress\" do título"
+# @ wlb
+#~ msgid ""
+#~ "Choose %s to remove the word \"&#8212; WordPress\" from the header title "
+#~ "on the admin area.<br />Note:Prior to WP3.1 there was no filter for the "
+#~ "title, so it is removed with javascript on wordpress versions prior to "
+#~ "3.1."
+#~ msgstr ""
+#~ "Selecione%s para remover a palavra \"&#8212; WordPress\"  do título do "
+#~ "cabeçalho na área administrativa.<br />Nota: Antes de WP3.1 houve nenhum "
+#~ "filtro para o título, então é removida com o javascript versões wordpress "
+#~ "antes da 3.1."
+# @ wlb
+#~ msgid "Hide WordPress Update Messages."
+#~ msgstr "Ocultar as mensagens de atualização do wordpress."
+# @ wlb
+#, fuzzy
+#~ msgid "Hide Update Nag"
+#~ msgstr "Ocultar atualização"
+
+# @ wlb
+#~ msgid "Hide WordPress Update Message at the top."
+#~ msgstr "Ocultaras  mensagem de atualização do wordpress na parte superior."
+# @ wlb
+#, fuzzy
+#~ msgid "Hide Update Download Link"
+#~ msgstr "Ocultar link para download de atualização"
+
+# @ wlb
+#~ msgid "Hide WordPress download link message at the bottom."
+#~ msgstr ""
+#~ "Ocultaras  mensagem de link para download do wordpress na parte inferior."
+# @ wlb
+#~ msgid "Hide Contextual Help"
+#~ msgstr "Ocultar o Contexto de Ajuda"
+# @ wlb
+#~ msgid "Hide WordPress Contextual Help."
+#~ msgstr "Ocultar à ajuda contextual do wordpress ."
+# @ wlb
+#~ msgid "Hide Screen Options"
+#~ msgstr "Ocultar a tela de opções"
+# @ wlb
+#~ msgid "Hide Screen Options."
+#~ msgstr "Ocultar a tela de opções."
+# @ wlb
+#~ msgid "Hide Favorite Actions"
+#~ msgstr "Ocultar as ações favoritas"
+# @ wlb
+#~ msgid ""
+#~ "Hide WordPress Favorite Actions (Dropdown located on the top right corner "
+#~ "of wp-admin)."
+#~ msgstr ""
+#~ "Ocultar as ações favorito do wordpress (localizado no canto superior "
+#~ "direito do wp-admin)."
+# @ wlb
+# @ default
+#~ msgid "Save changes"
+#~ msgstr "Salvar alterações"
+# @ wlb
+#, fuzzy
+#~ msgid "Email Branding"
+#~ msgstr "Logo Marca"
+
+# @ wlb
+#~ msgid "Customized User capabilities"
+#~ msgstr "Capacidades personalizadas de utilização"
+# @ default
+#~ msgid "WLB Role Manager"
+#~ msgstr "Gerente de Papeis WLB"
+# @ wlb
+#, fuzzy
+#~ msgid "Enable Customized User Capabilities."
+#~ msgstr "Ativar recursos de usuário personalizada."
+
+# @ wlb
+#, fuzzy
+#~ msgid ""
+#~ "Check this option to modify the Customized User Capabilities.  If you "
+#~ "uncheck this option and save, all Customized Capabilities will be removed "
+#~ "from the user, and only those on the selected user role will apply."
+#~ msgstr ""
+#~ "Marque esta opção para modificar as capacidades de personalização do "
+#~ "usuário. Se você desmarcar essa opção e salvar todos os recursos "
+#~ "personalizados serão removidos do usuário, e apenas as relativas ao papel "
+#~ "do usuário selecionado será aplicado."
+
+# @ wlb
+#, fuzzy
+#~ msgid "Manage %s Capabilities"
+#~ msgstr "Funções e Capacidades"
+
+# @ wlb
+#, fuzzy
+#~ msgid "%s Capabilities"
+#~ msgstr "Funções e Capacidades"
+
+# @ wlb
+#~ msgid "Roles and Capabilities"
+#~ msgstr "Funções e Capacidades"
+# @ wlb
+#, fuzzy
+#~ msgid "Add new Roles and Capabilities"
+#~ msgstr "Funções e Capacidades"
+
+# @ wlb
+#~ msgid "New roles and capabilities"
+#~ msgstr "Novas funções e capacidades"
+# @ wlb
+#, fuzzy
+#~ msgid ""
+#~ "Type a name for the new role and press add, you can select Capabilities "
+#~ "for it after saving."
+#~ msgstr ""
+#~ "Digite um nome para o novo papel e pressione adicionar, você pode "
+#~ "selecionar recursos para ele depois de salvar."
+
+# @ wlb
+#, fuzzy
+#~ msgid "New role name:"
+#~ msgstr "Novas funções e capacidades"
+
+# @ wlb
+#~ msgid "Add"
+#~ msgstr "Adicionar"
+# @ wlb
+#, fuzzy
+#~ msgid ""
+#~ "Select the role that you want to add this Capability to (will activate it "
+#~ "immediately for that role). Capability names can contain letters and "
+#~ "numbers.  The capability will be saved lowercase and spaces replaced with "
+#~ "underscore."
+#~ msgstr ""
+#~ "Selecione a função que você deseja adicionar para esse recurso (vai ativá-"
+#~ "lo imediatamente para o papel). Os nomes da capacidade podem conter "
+#~ "letras e números. A capacidade será salvo com letra minúsculas e espaços "
+#~ "substituídos por sublinhado."
+
+# @ wlb
+#, fuzzy
+#~ msgid "New capability %s<br /> for role %s"
+#~ msgstr "Nova capacidade %s é para papel %s"
+
+# @ wlb
+#~ msgid ""
+#~ "This action cannot be undone and can have severe consequences, proceed "
+#~ "only if you know what you are doing."
+#~ msgstr ""
+#~ "Essa ação não pode ser desfeita e pode ter consequências graves, siga "
+#~ "somente se você sabe o que está fazendo."
+# @ wlb
+#~ msgid "Delete role"
+#~ msgstr "Excluir papel"
+# @ wlb
+#~ msgid ""
+#~ "WARNING! Deleting a role can have severe consequences, proceed only if "
+#~ "you know what you are doing."
+#~ msgstr ""
+#~ "ATENÇÃO! Excluindo um papel pode ter consequências graves, somente se "
+#~ "você sabe o que está fazendo."
+# @ wlb
+#~ msgid "Delete"
+#~ msgstr "Excluir"
+# @ wlb
+#~ msgid "--choose--"
+#~ msgstr "- escolha -"
+# @ wlb
+#, fuzzy
+#~ msgid "Menu color customization"
+#~ msgstr "Personalizar a Tela do Login"
+
+# @ wlb
+#, fuzzy
+#~ msgid "Submenu Background"
+#~ msgstr "URL do Fundo de Tela do Login"
+
+# @ wlb
+#, fuzzy
+#~ msgid "Background Color"
+#~ msgstr "fundo de tela - cor"
+
+# @ wlb
+#, fuzzy
+#~ msgid "Messages"
+#~ msgstr "Mensagens do Wordpress"
+
+# @ wlb
+#, fuzzy
+#~ msgid "Error Background"
+#~ msgstr "URL do Fundo de Tela do Login"
+
+# @ wlb
+#, fuzzy
+#~ msgid "Font"
+#~ msgstr "Rodapé"
+
+# @ wlb
+#, fuzzy
+#~ msgid "Disabled Background"
+#~ msgstr "URL do Fundo de Tela do Login"
+
+# @ wlb
+#, fuzzy
+#~ msgid "Title Input Background"
+#~ msgstr "URL do Fundo de Tela do Login"
+
+# @ wlb
+#, fuzzy
+#~ msgid "Custom Fields Header Border"
+#~ msgstr "Personalizar Logotipo do Cabeçalho e Rodapé"
+
+# @ wlb
+#, fuzzy
+#~ msgid "Footer Color"
+#~ msgstr "Rodapé"
+
+# @ wlb
+#, fuzzy
+#~ msgid "Customize Color Schemes"
+#~ msgstr "Personalizar o Sub Menus"
+
+# @ wlb
+#, fuzzy
+#~ msgid "Customize Color Scheme"
+#~ msgstr "Personalizar o Sub Menus"
+
+# @ wlb
+#, fuzzy
+#~ msgid "Backup color scheme"
+#~ msgstr "fundo de tela - cód. de cor"
+
+# @ wlb
+#~ msgid "Dashboard"
+#~ msgstr "Painel de Controle"
+# @ wlb
+#~ msgid "Customize Dashboard Panels"
+#~ msgstr "Personalizar os paineis do Painel de Controle"
+# @ wlb
+#, fuzzy
+#~ msgid "Enable Public Dashboard Panel"
+#~ msgstr "Painel de Controle Personalizado"
+
+# @ wlb
+#, fuzzy
+#~ msgid "This will appear on the dashboard to any user roll."
+#~ msgstr "Isso vai aparecer no painel de controle."
+
+# @ wlb
+#~ msgid "Title"
+#~ msgstr "Título"
+# @ wlb
+#, fuzzy
+#~ msgid "Add a title for your Custom Panel."
+#~ msgstr "Dê um título para o seu painel personalizado."
+
+# @ wlb
+#, fuzzy
+#~ msgid "Panel Content"
+#~ msgstr "Conteúdo do Painel"
+
+# @ wlb
+#~ msgid "This is shown to any logged user."
+#~ msgstr "Isso é mostrado para qualquer usuário registrado."
+# @ wlb
+#, fuzzy
+#~ msgid "Enable Editor Dashboard Panel"
+#~ msgstr "Painel de Controle Personalizado"
+
+# @ wlb
+#, fuzzy
+#~ msgid "This will appear on the dashboard to the Editor user roll."
+#~ msgstr "Isso vai aparecer no painel de controle."
+
+# @ wlb
+#~ msgid "Panel content"
+#~ msgstr "Conteúdo do Painel"
+# @ wlb
+#, fuzzy
+#~ msgid ""
+#~ "This is shown to the Editor. Add your own unique message to your client. "
+#~ "We recommend that you add contact details or a link to how your client "
+#~ "can get help. You can use HTML tags in this field."
+#~ msgstr ""
+#~ "Isso é mostrado para o editor. Dê sua própria mensagem única de seu "
+#~ "cliente. Recomendamos que você adicionar detalhes de contato ou um link "
+#~ "de como o cliente pode obter ajuda. Você pode usar tags HTML neste campo."
+
+# @ wlb
+#, fuzzy
+#~ msgid "Enable Admin Dashboard Panel"
+#~ msgstr "Painel de Controle Personalizado"
+
+# @ wlb
+#, fuzzy
+#~ msgid "Enable the Administrators Dashboard Panel"
+#~ msgstr "Abilitat o painel WLB Personalizado"
+
+# @ wlb
+#, fuzzy
+#~ msgid ""
+#~ "This is shown to blog Administrators. Add your own unique message to your "
+#~ "client. We recommend that you add contact details or a link to how your "
+#~ "client can get help. You can use HTML tags in this field."
+#~ msgstr ""
+#~ "Isso é mostrado para o editor. Dê sua própria mensagem única de seu "
+#~ "cliente. Recomendamos que você adicionar detalhes de contato ou um link "
+#~ "de como o cliente pode obter ajuda. Você pode usar tags HTML neste campo."
+
+# @ wlb
+#, fuzzy
+#~ msgid "Remove Dashboard Widgets"
+#~ msgstr "Remover o Painel de Controle"
+
+# @ wlb
+#~ msgid "Remove recent drafts"
+#~ msgstr "Remover rascunhos recentes"
+# @ wlb
+#, fuzzy
+#~ msgid "Add Metabox"
+#~ msgstr "adicionar metabox"
+
+# @ wlb
+#, fuzzy
+#~ msgid "Edit Dashboard Metabox"
+#~ msgstr "Editar o painel metabox"
+
+# @ wlb
+#, fuzzy
+#~ msgid "New Dashboard Metabox"
+#~ msgstr "Novo painel metabox"
+
+# @ wlb
+#, fuzzy
+#~ msgid "View Dashboard Metabox"
+#~ msgstr "Visualizao o painel metabox"
+
+# @ wlb
+#, fuzzy
+#~ msgid "Search Dashboard Metaboxes"
+#~ msgstr "Pesquisar o panel do metabox"
+
+# @ wlb
+#, fuzzy
+#~ msgid "No Metaboxes found"
+#~ msgstr "Nenhum metabox foi encontrado"
+
+# @ wlb
+#, fuzzy
+#~ msgid "No Metaboxes found in trash"
+#~ msgstr "Não há metabox na lixeira"
+
+# @ wlb
+#~ msgid "WLB Dash"
+#~ msgstr "Painel WLB"
+# @ wlb
+#, fuzzy
+#~ msgid "Login Screen Customization"
+#~ msgstr "Personalizar a Tela do Login"
+
+# @ wlb
+#, fuzzy
+#~ msgid "Customize Login Logo, Background and html template"
+#~ msgstr "Personalizar o logotipo do login, o fundo e gabarito html"
+
+# @ wlb
+#, fuzzy
+#~ msgid "Default Login Screen Customization"
+#~ msgstr "Personalização da Tela Padrão do Login"
+
+# @ wlb
+#, fuzzy
+#~ msgid "Enable login screen customization"
+#~ msgstr "Personalização da Tela Padrão do Login"
+
+# @ wlb
+#, fuzzy
+#~ msgid "Choose %s to customize the login screen"
+#~ msgstr "Selecione %s para ativar o modelo de login personalizado HTML e CSS"
+
+# @ wlb
+#~ msgid "Login Logo URL"
+#~ msgstr "URL do Logotipo do Login"
+# @ wlb
+#~ msgid ""
+#~ "URL to the login logo. The standard size logo is 300 px wide and 80 px "
+#~ "tall, but you can use any size you want. "
+#~ msgstr ""
+#~ "URL do logotipo do login. O logotipo do tamanho padrão é de 300 px de "
+#~ "largura e 80 px de altura, mas você pode usar qualquer tamanho que você "
+#~ "quiser. "
+# @ wlb
+#~ msgid "Login Background URL"
+#~ msgstr "URL do Fundo de Tela do Login"
+# @ wlb
+#~ msgid "URL to an image you want to use as login background"
+#~ msgstr "URL da Image que você quer usar como fundo de tela para o login"
+# @ wlb
+#~ msgid "background-attachments"
+#~ msgstr "fundo de tela - anexos"
+# @ wlb
+#~ msgid "background-color"
+#~ msgstr "fundo de tela - cor"
+# @ wlb
+#~ msgid "background-color code"
+#~ msgstr "fundo de tela - cód. de cor"
+# @ wlb
+#~ msgid "background-position"
+#~ msgstr "fundo de tela - posição"
+# @ wlb
+#~ msgid "background-x(xpos)"
+#~ msgstr "fundo de tela - x (xpos)"
+# @ wlb
+#~ msgid "background-y(ypos)"
+#~ msgstr "fundo de tela - y (ypos)"
+# @ wlb
+#~ msgid "background-repeat"
+#~ msgstr "fundo de tela - repetir"
+# @ wlb
+#, fuzzy
+#~ msgid "Login Form Customization"
+#~ msgstr "Personalizar a Tela do Login"
+
+# @ wlb
+#, fuzzy
+#~ msgid "Customize the login form css"
+#~ msgstr "Personalizar Logotipo do Cabeçalho e Rodapé"
+
+# @ wlb
+#, fuzzy
+#~ msgid "Customize Login Form"
+#~ msgstr "Menus Personalizados"
+
+# @ wlb
+#, fuzzy
+#~ msgid "Login Form Background"
+#~ msgstr "URL do Fundo de Tela do Login"
+
+# @ wlb
+#, fuzzy
+#~ msgid "URL to an image you want to use as login form background"
+#~ msgstr "URL da Image que você quer usar como fundo de tela para o login"
+
+# @ wlb
+#, fuzzy
+#~ msgid "Style"
+#~ msgstr "Título"
+
+# @ wlb
+#, fuzzy
+#~ msgid "Set an Alternative Login Template"
+#~ msgstr "Gabarito do Login Alternativo"
+
+# @ wlb
+#, fuzzy
+#~ msgid "Alternative Login Template"
+#~ msgstr "Gabarito do Login Alternativo"
+
+# @ wlb
+#, fuzzy
+#~ msgid "Use Login Template"
+#~ msgstr "Usar o gabarito do login"
+
+# @ wlb
+#, fuzzy
+#~ msgid "Choose %s to activate the Custom Login HTML Template and CSS"
+#~ msgstr "Selecione %s para ativar o modelo de login personalizado HTML e CSS"
+
+# @ wlb
+#, fuzzy
+#~ msgid "Default Login HTML Template"
+#~ msgstr "Gabarito de Login HTML"
+
+# @ wlb
+#~ msgid ""
+#~ "Optionally provide an html template to display instead of the default "
+#~ "login html.  It is required that you include the following tags in the "
+#~ "template: {loginform}: where you want the login form to occur, and "
+#~ "{backlink}: where you want the back link to be displayed. {customlogo}:"
+#~ "Shows the custom logo."
+#~ msgstr ""
+#~ "Opcionalmente, fornecer um gabarito de HTML para exibir o código html em "
+#~ "vez de login padrão. É necessário que você inclua as seguintes tags no "
+#~ "template: {loginform}: onde você quer que o formulário de login para "
+#~ "ocorrer, e {backlink}: onde você quiser que o link para retornar a ser "
+#~ "exibido. e o {customlogo}: Mostra o logotipo personalizado."
+# @ wlb
+#, fuzzy
+#~ msgid "Smaller Windows, Alternative Login Template"
+#~ msgstr "Gabarito do Login Alternativo"
+
+# @ wlb
+#, fuzzy
+#~ msgid "Small Login HTML Template"
+#~ msgstr "Gabarito de Login HTML"
+
+# @ wlb
+#, fuzzy
+#~ msgid ""
+#~ "Optionally provide an html template for smaller size windows, to display "
+#~ "instead of the default login html.  It is required that you include the "
+#~ "following tags in the template: {loginform}: where you want the login "
+#~ "form to occur, and {backlink}: where you want the back link to be "
+#~ "displayed. {customlogo}:Shows the custom logo."
+#~ msgstr ""
+#~ "Opcionalmente, fornecer um gabarito de HTML para exibir o código html em "
+#~ "vez de login padrão. É necessário que você inclua as seguintes tags no "
+#~ "template: {loginform}: onde você quer que o formulário de login para "
+#~ "ocorrer, e {backlink}: onde você quiser que o link para retornar a ser "
+#~ "exibido. e o {customlogo}: Mostra o logotipo personalizado."
+
+# @ wlb
+#~ msgid "Login CSS template"
+#~ msgstr "Gabarito de Login CSS"
+# @ wlb
+#~ msgid ""
+#~ "This is an optional free space so you can write css or javascript to be "
+#~ "output on the login header, either for your html template or to modify "
+#~ "the styles of the default login screen."
+#~ msgstr ""
+#~ "Este é um espaço livre de modo opcional, você pode escrever css ou "
+#~ "javascript a ser enviado no cabeçalho login, tanto para o modelo de html "
+#~ "ou modificar as cores da tela de login padrão."
+# @ wlb
+#~ msgid "Menus"
+#~ msgstr "Menus"
+# @ wlb
+#~ msgid "Customize Menus"
+#~ msgstr "Menus Personalizados"
+# @ wlb
+#~ msgid "Main Menu Configuration"
+#~ msgstr "Configuração do Menu Principal"
+# @ wlb
+#, fuzzy
+#~ msgid ""
+#~ "Changes made here will only effect people that does not have the "
+#~ "Administrator role.  If you are Administrator you cannot see this changes "
+#~ "until you login as a diferent user."
+#~ msgstr ""
+#~ "As alterações feitas aqui só efeito de pessoas com o papel de usuário do "
+#~ "<b>Editor</b> ou inferior. Você está conectado no momento é que o "
+#~ "administrador, então você não verá nenhuma alteração nos menus até que "
+#~ "você faça o login como <b>Editor</b> ou inferior."
+
+# @ wlb
+#~ msgid "Hide"
+#~ msgstr "Esconder"
+# @ wlb
+#~ msgid "Your Profile"
+#~ msgstr "Seu Perfil"
+# @ wlb
+#~ msgid "Sub menus"
+#~ msgstr "Sub menus"
+# @ wlb
+#, fuzzy
+#~ msgid "Customize Sub Menus"
+#~ msgstr "Personalizar o Sub Menus"
+
+# @ wlb
+#~ msgid "Sub Menu Configuration"
+#~ msgstr "Configurações do Sub Menu"
+# @ wlb
+#, fuzzy
+#~ msgid ""
+#~ "Changes made here will only effect people that does not have the "
+#~ "Administrator role.  If you are an Administrator you cannot see this "
+#~ "changes until you login as a diferent user."
+#~ msgstr ""
+#~ "As alterações feitas aqui só efeito de pessoas com o papel de usuário do "
+#~ "<b>Editor</b> ou inferior. Você está conectado no momento é que o "
+#~ "administrador, então você não verá nenhuma alteração nos menus até que "
+#~ "você faça o login como <b>Editor</b> ou inferior."
+
+# @ wlb
+#, fuzzy
+#~ msgid "Blog Branding Type"
+#~ msgstr "Logo Marca"
+
+# @ wlb
+#, fuzzy
+#~ msgid "Bradning"
+#~ msgstr "Logo Marca"
+
+# @ wlb
+#, fuzzy
+#~ msgid "Customize Header and Footer Logo"
+#~ msgstr "Personalizar Logotipo do Cabeçalho e Rodapé"
+
+# @ wlb
+#, fuzzy
+#~ msgid "Header"
+#~ msgstr "Esconder"
+
+# @ wlb
+#, fuzzy
+#~ msgid "Save"
+#~ msgstr "Salvar Todas"
+
+# @ wlb
+#, fuzzy
+#~ msgid "Advanced Settings"
+#~ msgstr "Configuração Adicionais"
+
+# @ wlb
+#~ msgid "&nbsp;"
+#~ msgstr "&nbsp;"
+# @ wlb
+#~ msgid "Role and Capability Manager"
+#~ msgstr "Papel e Gerente de Capacitação"
+# @ wlb
+#~ msgid "Enable Role and Capability Manager"
+#~ msgstr "Habilitar gerente de papeis e capacidade"
+# @ wlb
+#~ msgid ""
+#~ "Select yes and save.  A new panel with Role Management options will "
+#~ "display in this options screen."
+#~ msgstr ""
+#~ "Selecione Sim e salve. Um novo painel com opções de gerenciamento de "
+#~ "papéis será exibido nesta tela de opções."
+# @ wlb
+#, fuzzy
+#~ msgid "Hide the Administrator role from users list."
+#~ msgstr "Esconder o papel de administrador de lista de usuários."
+
+# @ wlb
+#, fuzzy
+#~ msgid ""
+#~ "This option allows you to hide the Administrator role from the user list."
+#~ msgstr ""
+#~ "Esta opção permite que você esconda a função de administrador da lista do "
+#~ "usuário."
+
+# @ wlb
+#~ msgid "Custom Dashboard"
+#~ msgstr "Painel Personalizado"
+# @ wlb
+#, fuzzy
+#~ msgid "Enable WLB Custom Dashboard Tool"
+#~ msgstr "Abilitat o painel WLB Personalizado"
+
+# @ wlb
+#~ msgid ""
+#~ "Select yes and save.  On the admin left menu a new menu option will "
+#~ "appear."
+#~ msgstr ""
+#~ "Selecione Sim e salve. No menu admin à esquerda aparecerá uma nova opção "
+#~ "de menu ."
+# @ wlb
+#, fuzzy
+#~ msgid "YesNo"
+#~ msgstr "Sim"
+
+# @ wlb
+#, fuzzy
+#~ msgid "No saved settings"
+#~ msgstr "Configuração da barra de Administração"

@@ -1,0 +1,61 @@
+.top-bar,
+.navigation,
+.breaking-news,
+.entry-post-meta,
+.entry-crumbs,
+.footer,
+.footer-bottom .alignright,
+.footer-logo,
+.post-nav-links,
+.mom-share-post,
+.entry-tag-links,
+.entry-content-data,
+#comments,
+.post-section-box,
+.mom_retina_logo,
+.toup,
+.header-banner,
+.sidebar{
+	display: none !important;
+}
+a {
+    color: white;
+}
+.page-wrap{
+	background: transparent;
+	border: none;
+	box-shadow: inherit;
+}
+.footer-bottom{
+	text-align: center;
+}
+.footer-bottom .alignleft{
+	float: none;
+}		
+.one-side-wide:not(.both-sides-true) .main-content:not(.both-sides-layout), .one-side-wide .vc_sidebar.sidebar+.main-content.both-sides-layout, .one-side-wide .main-content.one_side:not(.both-sides-layout){
+	width: 100% !important;
+}
+.pl2-tab-wrap{
+	height: 50px;
+}
+.pl2-shadow,
+.post-layout1, .post-layout2, .post-layout3,
+.header-wrap > .inner{
+	height: auto !important;
+}
+.header-wrap > .inner{
+	line-height: normal !important;
+}
+.post-layout2 .inner h1{
+	display: block;
+}
+.logo a {
+	display: none !important;
+}
+.print-logo{
+	display: block !important;
+}
+
+   a[href]:after {
+        content: '';
+    }

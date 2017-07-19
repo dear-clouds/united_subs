@@ -1,0 +1,185 @@
+/* ==========================================================================
+ *                Icons
+   ========================================================================== */
+@font-face {
+	font-family: 'ovcui';
+	src:url('icons/ovcui.eot?-9k5jai');
+	src:url('icons/ovcui.eot?#iefix-9k5jai') format('embedded-opentype'),
+		url('icons/ovcui.woff?-9k5jai') format('woff'),
+		url('icons/ovcui.ttf?-9k5jai') format('truetype'),
+		url('icons/ovcui.svg?-9k5jai#ovcui') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/* ==========================================================================
+ *                Tabs
+   ========================================================================== */
+.wpb_content_element .wpb_accordion_wrapper .wpb_accordion_header, .wpb_content_element.wpb_tabs .wpb_tour_tabs_wrapper .wpb_tab {
+    background: #fff;
+    border: 1px solid #e3e3e3;
+}
+
+.wpb_content_element .wpb_tour_tabs_wrapper .wpb_tab, .wpb_content_element .wpb_accordion_wrapper .wpb_accordion_content {
+    padding: 20px 25px;
+}
+
+.wpb_tabs .wpb_tabs_nav li {
+    margin: 0;
+}
+
+.wpb_content_element .wpb_tabs_nav li {
+    border: 1px solid #e3e3e3;
+    border-bottom: 0;
+    border-left: 0;
+    background: #fff;
+}
+.wpb_content_element .wpb_tabs_nav li:first-child {
+        border-left: 1px solid #e3e3e3;
+
+}
+.wpb_content_element .wpb_tabs_nav li.ui-tabs-active, .wpb_content_element .wpb_tabs_nav li:hover {
+    background: #f7f7f7;
+    color: #222;
+}
+
+.wpb_content_element .wpb_tour_tabs_wrapper .wpb_tabs_nav a, .wpb_content_element .wpb_accordion_header a {
+    line-height: 49px;
+    padding: 0 18px;
+    color: #666;
+}
+
+/* ==========================================================================
+ *                Accordion
+   ========================================================================== */
+
+.wpb_accordion .wpb_accordion_wrapper .wpb_accordion_header {
+    margin: 0;
+    border-bottom: 0;
+}
+.wpb_accordion .wpb_accordion_wrapper .wpb_accordion_section:last-child .wpb_accordion_header, .wpb_content_element .wpb_accordion_wrapper .wpb_accordion_header.ui-accordion-header-active {
+    border-bottom: 1px solid #e3e3e3;
+}
+.wpb_content_element .wpb_accordion_wrapper .wpb_accordion_header.ui-accordion-header-active,.wpb_content_element .wpb_accordion_wrapper .wpb_accordion_header:hover {
+    background: #f7f7f7;
+}
+.wpb_content_element .wpb_accordion_header a {
+    line-height: 43px;
+}
+
+.wpb_content_element .wpb_accordion_wrapper .wpb_accordion_content {
+    border: 1px solid #e3e3e3;
+    border-top: 0;
+    border-bottom-width: 0;
+}
+.wpb_content_element .wpb_accordion_wrapper .wpb_accordion_section:last-child .wpb_accordion_content {
+    border-bottom-width: 1px;
+}
+
+.wpb_accordion .wpb_accordion_wrapper .ui-state-default .ui-icon, .wpb_accordion .wpb_accordion_wrapper .ui-state-active .ui-icon {
+    background: none;
+}
+
+.wpb_accordion .wpb_accordion_wrapper .ui-state-default .ui-icon:before, .wpb_accordion .wpb_accordion_wrapper .ui-state-active .ui-icon:before {
+    	content: '\e702';
+    font-family: 'ovcui';
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 11px;
+    color: #888;
+    margin-right: 5px;
+}
+.wpb_accordion .wpb_accordion_wrapper .ui-state-active .ui-icon:before {
+    position: absolute;
+    content: '';
+    height: 3px;
+    bottom:4px;
+    margin-top: -1px;
+    width: 11px;
+    background: #888;
+}
+
+/* ==========================================================================
+ *                Toggle
+   ========================================================================== */
+.wpb_toggle, #content h4.wpb_toggle {
+    background: none;
+    padding-left: 0;
+    font-size: 15px;
+    color: #898989;
+    margin-bottom: 12px;
+}
+.wpb_toggle:before, #content h4.wpb_toggle:before {
+    	content: '\e702';
+    font-family: 'ovcui';
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 10px;
+    color: #888;
+    margin-right: 10px;
+}
+h4.wpb_toggle.wpb_toggle_title_active:before  {
+    display: inline-block;
+    position: relative;
+    top: -3px;
+    content: '';
+    height: 3px;
+    width: 11px;
+    background: #888; 
+}
+
+/* ==========================================================================
+ *                Tour
+   ========================================================================== */
+.wpb_tour {
+    border: 1px solid #e3e3e3;
+    position: relative;
+}
+.wpb_tour:before {
+    position: absolute;
+    left: 40%;
+    top: 0;
+    height: 100%;
+    border-right: 1px solid #e3e3e3;
+    content: '';
+}
+.wpb_tour_next_prev_nav {
+    display: none;
+}
+.wpb_tour .wpb_tabs_nav li {
+    margin: 0;
+}
+.wpb_tour.wpb_content_element .wpb_tabs_nav li {
+    border: none;
+    border-bottom: 1px solid #e3e3e3;
+}
+
+.wpb_tour .wpb_tabs_nav {
+    width: 40%;
+    margin-bottom: 20px;
+}
+
+.wpb_tour .wpb_tour_tabs_wrapper .wpb_tab {
+    width: 60%;
+}
+
+/* ==========================================================================
+ *                Button
+   ========================================================================== */
+.wpb_button {
+    padding: 0 20px;
+    line-height: 37px;
+    font-size: 14px;
+}

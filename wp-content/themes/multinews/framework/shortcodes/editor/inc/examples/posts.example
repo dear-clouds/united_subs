@@ -1,0 +1,15 @@
+<h2>List of 5 most popular posts (by comments number)</h2>
+
+[%mom_su_posts template="templates/list-loop.php" posts_per_page="5" orderby="comment_count"]
+
+-----
+
+<h2>Most recent posts as a teasers</h2>
+
+[%mom_su_posts template="templates/teaser-loop.php" orderby="modified"]
+
+-----
+
+<h2>Recent uploaded media file</h2>
+
+[%mom_su_posts template="templates/single-post.php" post_type="attachment" post_status="any"]

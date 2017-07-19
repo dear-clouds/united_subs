@@ -1,0 +1,4609 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Calendarize-it 1.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-04-29 11:11-0500\n"
+"PO-Revision-Date: 2015-04-29 11:11-0500\n"
+"Last-Translator: AL <alberto@righthere.com>\n"
+"Language-Team: Righthere <support@righthere.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: ../\n"
+"Language: it_IT\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/bundle_default_custom_fields.php:10
+#, fuzzy
+msgid "Event Details"
+msgstr "Dettagli per contatto"
+
+#: includes/bundle_default_custom_fields.php:11
+msgid "Start time"
+msgstr "Orario di inizio"
+
+#: includes/bundle_default_custom_fields.php:12
+msgid "Start date"
+msgstr "Data di inizio"
+
+#: includes/bundle_default_custom_fields.php:13
+msgid "End date"
+msgstr "Data fine"
+
+#: includes/bundle_default_custom_fields.php:14
+msgid "End time"
+msgstr "Orario fine"
+
+#: includes/bundle_default_custom_fields.php:15
+msgid "Calendar"
+msgstr "Calendari"
+
+#: includes/bundle_default_custom_fields.php:16
+msgid "Organizer"
+msgstr "Organizzatore"
+
+#: includes/bundle_default_custom_fields.php:17
+#, fuzzy
+msgid "Name:"
+msgstr "Nome"
+
+#: includes/bundle_default_custom_fields.php:18
+msgid "Name"
+msgstr "Nome"
+
+#: includes/bundle_default_custom_fields.php:19
+msgid "Email"
+msgstr "Email"
+
+#: includes/bundle_default_custom_fields.php:20
+msgid "Phone"
+msgstr "Telefono"
+
+#: includes/bundle_default_custom_fields.php:21
+msgid "Website"
+msgstr "Sito internet"
+
+#: includes/bundle_default_custom_fields.php:22
+#, fuzzy
+msgid "Venue Details"
+msgstr "Dettagli per contatto"
+
+#: includes/bundle_default_custom_fields.php:23
+msgid "Address"
+msgstr "Indirizzo"
+
+#: includes/bundle_default_custom_fields.php:24
+msgid "City"
+msgstr "Città"
+
+#: includes/bundle_default_custom_fields.php:25
+msgid "Zip Code"
+msgstr ""
+
+#: includes/bundle_default_custom_fields.php:26
+#, fuzzy
+msgid "State"
+msgstr "Inizio"
+
+#: includes/bundle_default_custom_fields.php:27
+msgid "Country"
+msgstr "Nazione"
+
+#: includes/bundle_default_custom_fields.php:28
+msgid "Information"
+msgstr ""
+
+#: includes/bundle_default_custom_fields.php:29
+msgid "Get directions"
+msgstr ""
+
+#: includes/class.CalendarizeItTaxonomies.php:30
+msgid "Course"
+msgstr "Corso"
+
+#: includes/class.CalendarizeItTaxonomies.php:31
+msgid "Courses"
+msgstr "Corsi"
+
+#: includes/class.CalendarizeItTaxonomies.php:40
+#, php-format
+msgid "Search %s"
+msgstr "Cerca %s"
+
+#: includes/class.CalendarizeItTaxonomies.php:41
+#, php-format
+msgid "Popular %s"
+msgstr "%s popolari"
+
+#: includes/class.CalendarizeItTaxonomies.php:42
+#, php-format
+msgid "All %s"
+msgstr "Tutto %s"
+
+#: includes/class.CalendarizeItTaxonomies.php:45
+#, php-format
+msgid "Edit %s"
+msgstr "Modifica %s"
+
+#: includes/class.CalendarizeItTaxonomies.php:46
+#, php-format
+msgid "Update %s"
+msgstr "Aggiorna %s"
+
+#: includes/class.CalendarizeItTaxonomies.php:47
+#, php-format
+msgid "Add %s"
+msgstr "Aggiungi %s"
+
+#: includes/class.CalendarizeItTaxonomies.php:48
+#, php-format
+msgid "New %s"
+msgstr "Nuovo %s"
+
+#: includes/class.calendar_ajax.php:26
+msgid "Never(Not a recurring event)"
+msgstr "Mai (non è un evento ricorrente)"
+
+#: includes/class.calendar_ajax.php:27
+msgid "Every day"
+msgstr "Ogni giorno"
+
+#: includes/class.calendar_ajax.php:28
+msgid "Every week"
+msgstr "Ogni settimana"
+
+#: includes/class.calendar_ajax.php:29
+msgid "Every 2 weeks"
+msgstr "Ogni 2 settimane"
+
+#: includes/class.calendar_ajax.php:30
+msgid "Every month"
+msgstr "Ogni mese"
+
+#: includes/class.calendar_ajax.php:31
+msgid "Every year"
+msgstr "Ogni anno"
+
+#: includes/class.calendar_ajax.php:291
+msgid "Invalid item id"
+msgstr "ID non valido"
+
+#: includes/class.debug_calendarize.php:17
+msgid "Debug"
+msgstr "Debug"
+
+#: includes/class.EventsCalendar_Widget.php:14
+msgid "Calendarize (Events calendar)"
+msgstr "Calendarize (Calendario eventi)"
+
+#: includes/class.EventsCalendar_Widget.php:15
+msgid "Events calendar"
+msgstr "Calendario eventi"
+
+#: includes/class.EventsCalendar_Widget.php:109
+msgid "Title"
+msgstr "Titolo"
+
+#: includes/class.EventsCalendar_Widget.php:112
+msgid "Specific taxonomy:"
+msgstr "Tassonomia specifica:"
+
+#: includes/class.EventsCalendar_Widget.php:113
+msgid "Venue"
+msgstr "Luogo"
+
+#: includes/class.EventsCalendar_Widget.php:121
+msgid "Calendar url(optional)"
+msgstr "URL calendario (opzionale)"
+
+#: includes/class.EventsCalendar_Widget.php:125
+msgid "Link view"
+msgstr "Vista link"
+
+#: includes/class.EventsCalendar_Widget.php:127
+msgid "Agenda day"
+msgstr "Agenda giornaliera"
+
+#: includes/class.EventsCalendar_Widget.php:127
+msgid "Event list"
+msgstr "Lista eventi"
+
+#: includes/class.EventsCalendar_Widget.php:127
+msgid "Agenda week"
+msgstr "Agenda settimanale"
+
+#: includes/class.EventsCalendar_Widget.php:127
+msgid "Month"
+msgstr "Mese"
+
+#: includes/class.EventsCalendar_Widget.php:133
+msgid "Theme"
+msgstr "Tema"
+
+#: includes/class.EventsCalendar_Widget.php:141
+msgid "Show weekend"
+msgstr "Mostra il fine settimana"
+
+#: includes/class.EventsCalendar_Widget.php:143
+#: includes/class.EventsCalendar_Widget.php:150
+#: includes/class.rhc_custom_field_filters.php:70
+msgid "Yes"
+msgstr "Sì"
+
+#: includes/class.EventsCalendar_Widget.php:144
+#: includes/class.EventsCalendar_Widget.php:151
+#: includes/class.rhc_archive_layout_settings.php:31
+#: includes/class.rhc_custom_field_filters.php:70
+msgid "No"
+msgstr "No"
+
+#: includes/class.EventsCalendar_Widget.php:148
+msgid "Show iCal button"
+msgstr "Mostra tasto iCal"
+
+#: includes/class.EventsCalendar_Widget.php:163
+msgid "--any--"
+msgstr "--qualsiasi--"
+
+#: includes/class.EventsCalendar_Widget.php:168
+msgid "--no options--"
+msgstr "--no opzioni--"
+
+#: includes/class.plugin_righthere_calendar.php:168
+#, fuzzy
+msgid "Events template"
+msgstr "Disabilita template evento"
+
+#: includes/class.plugin_righthere_calendar.php:182
+#, fuzzy
+msgid "Venues template"
+msgstr "Struttura luogo"
+
+#: includes/class.plugin_righthere_calendar.php:197
+#, fuzzy
+msgid "Events Calendar"
+msgstr "Calendario eventi"
+
+#: includes/class.plugin_righthere_calendar.php:214
+#, fuzzy
+msgid "Calendarize it! Automatic Setup"
+msgstr "Tassonomie Calendarize"
+
+#: includes/class.plugin_righthere_calendar.php:215
+msgid "Click confirm to continue with the automatic setup process:"
+msgstr ""
+
+#: includes/class.plugin_righthere_calendar.php:218
+#, fuzzy
+msgid "Create Event and Venue templates."
+msgstr "Disabilita template evento"
+
+#: includes/class.plugin_righthere_calendar.php:221
+#, fuzzy
+msgid "Create a Calendar page with the Calendarize it! shortcode."
+msgstr "Calendario pubblicato (pagine contenenti shortcode di calendarizeit)"
+
+#: includes/class.plugin_righthere_calendar.php:225
+msgid "Confirm"
+msgstr ""
+
+#: includes/class.plugin_righthere_calendar.php:226
+msgid "No, I will manually setup the plugin"
+msgstr ""
+
+#: includes/class.plugin_righthere_calendar.php:238
+msgid "You have not installed the English Help for Calendarize it! Please go to "
+msgstr ""
+
+#: includes/class.plugin_righthere_calendar.php:240
+#, fuzzy
+msgid "downloads."
+msgstr "Download"
+
+#: includes/class.plugin_righthere_calendar.php:242
+msgid "Do not show this message again"
+msgstr ""
+
+#: includes/class.plugin_righthere_calendar.php:254
+#, fuzzy
+msgid "Settings"
+msgstr "Salva impostazioni"
+
+#: includes/class.plugin_righthere_calendar.php:428
+#: includes/class.plugin_righthere_calendar.php:439
+#, fuzzy
+msgid "Never (Not a recurring event)"
+msgstr "Mai (non è un evento ricorrente)"
+
+#: includes/class.plugin_righthere_calendar.plugins_loaded.admin.php:33
+msgid "Downloads"
+msgstr "Download"
+
+#: includes/class.plugin_righthere_calendar.plugins_loaded.admin.php:34
+msgid "Downloadable content - Calendarize it! for WordPress"
+msgstr ""
+
+#: includes/class.plugin_righthere_calendar.plugins_loaded.admin.php:38
+#, fuzzy
+msgid "Calendarize-it"
+msgstr "Calendarize"
+
+#: includes/class.plugin_righthere_calendar.plugins_loaded.admin.php:51
+#, fuzzy
+msgid "Add-ons"
+msgstr "Aggiungi %s"
+
+#: includes/class.plugin_righthere_calendar.plugins_loaded.admin.php:52
+#, fuzzy
+msgid "Calendarize it! add-ons"
+msgstr "Tassonomie Calendarize"
+
+#: includes/class.plugin_righthere_calendar.plugins_loaded.admin.php:64
+#: includes/class.plugin_righthere_calendar.plugins_loaded.admin.php:65
+#: includes/class.plugin_righthere_calendar.plugins_loaded.admin.php:94
+msgid "Options"
+msgstr "Opzioni"
+
+#: includes/class.plugin_righthere_calendar.plugins_loaded.admin.php:71
+#, php-format
+msgid "Calendar plugin update %s is available! <a href=\"%s\">Please update now</a>"
+msgstr "È disponibile l'aggiornamento %s del plugin! <a href=\"%s\">Aggiorna ora</a>"
+
+#: includes/class.post_meta_data_table.php:15
+#: includes/class.rhc_calendar.php:18
+msgid "Search Calendar"
+msgstr "Cerca calendario"
+
+#: includes/class.post_meta_data_table.php:16
+#: includes/class.rhc_calendar.php:19
+msgid "Popular Calendar"
+msgstr "Calendari più utilizzati"
+
+#: includes/class.post_meta_data_table.php:17
+#: includes/class.rhc_calendar.php:20
+msgid "All calendars"
+msgstr "Tutti i calendari"
+
+#: includes/class.post_meta_data_table.php:20
+#: includes/class.rhc_calendar.php:23
+msgid "Edit calendar"
+msgstr "Modifica calendario"
+
+#: includes/class.post_meta_data_table.php:21
+#: includes/class.rhc_calendar.php:24
+msgid "Update calendar"
+msgstr "Aggiorna calendario"
+
+#: includes/class.post_meta_data_table.php:22
+#: includes/class.rhc_calendar.php:25
+msgid "Add calendar"
+msgstr "Aggiungi calendario"
+
+#: includes/class.post_meta_data_table.php:23
+#: includes/class.rhc_calendar.php:26
+msgid "New calendar"
+msgstr "Nuovo calendario"
+
+#: includes/class.rhc_archive_layout_settings.php:20
+#: includes/class.rhc_archive_layout_settings.php:22
+msgid "Archive/Blog layout settings"
+msgstr "Impostazioni struttura Archivio/Blog"
+
+#: includes/class.rhc_archive_layout_settings.php:21
+msgid "Modify the layout of events in the archive"
+msgstr "Modifica la struttura degli eventi nell'archivio"
+
+#: includes/class.rhc_archive_layout_settings.php:28
+msgid "Use built-in archive content filter"
+msgstr "Utilizza il filtro del contenuto dell'archivio incorporato"
+
+#: includes/class.rhc_archive_layout_settings.php:31
+#, php-format
+msgid "Choose %s if you would prefer the theme to render the content of events in an archive."
+msgstr "Scegliere %s se si vuole che sia il tema a visualizzare il contenuto degli eventi in un archivio."
+
+#: includes/class.rhc_archive_layout_settings.php:47
+msgid "Archive content template"
+msgstr "Template contenuto dell'archivio"
+
+#: includes/class.rhc_calendar.php:16
+#, fuzzy
+msgid "Calendars"
+msgstr "Calendari"
+
+#: includes/class.rhc_calendar_meta.php:41
+#: includes/class.rhc_calendar_metabox.php:242
+#: includes/class.rhc_calendar_metabox_rrule.php:512
+msgid "Repeat"
+msgstr "Ricorrenza"
+
+#: includes/class.rhc_calendar_meta.php:52
+msgid "Custom interval"
+msgstr "Intervallo personalizzato"
+
+#: includes/class.rhc_calendar_meta.php:60
+msgid "Custom"
+msgstr "Personalizzato"
+
+#: includes/class.rhc_calendar_metabox.php:44
+#: includes/class.rhc_calendar_metabox.php:47
+#: includes/class.rhc_calendar_metabox_rrule.php:209
+#: includes/class.rhc_calendar_metabox_rrule.php:212
+#: includes/class.rhc_calendar_metabox_rrule.php:289
+#: includes/class.rhc_calendar_metabox_rrule.php:292
+msgid "No access"
+msgstr "Nessun accesso"
+
+#: includes/class.rhc_calendar_metabox.php:52
+#: includes/class.rhc_calendar_metabox_rrule.php:217
+#: includes/class.rhc_calendar_metabox_rrule.php:297
+msgid "Missing parameter."
+msgstr "Parametro mancante."
+
+#: includes/class.rhc_calendar_metabox.php:154
+#: includes/class.rhc_calendar_metabox.php:155
+#: includes/class.rhc_calendar_metabox.php:156
+#: includes/class.rhc_calendar_metabox_rrule.php:325
+#: includes/class.rhc_calendar_metabox_rrule.php:326
+#: includes/class.rhc_calendar_metabox_rrule.php:327
+msgid "Calendarize"
+msgstr "Calendarize"
+
+#: includes/class.rhc_calendar_metabox.php:203
+#: includes/class.rhc_calendar_metabox_rrule.php:470
+#, php-format
+msgid "Calendarize %s"
+msgstr "%s Calendarize"
+
+#: includes/class.rhc_calendar_metabox.php:215
+#: includes/class.rhc_calendar_metabox_rrule.php:485
+msgid "All-day"
+msgstr "Tutto il giorno"
+
+#: includes/class.rhc_calendar_metabox.php:223
+#: includes/class.rhc_calendar_metabox_rrule.php:493
+msgid "Start"
+msgstr "Inizio"
+
+#: includes/class.rhc_calendar_metabox.php:225
+#: includes/class.rhc_calendar_metabox.php:236
+#: includes/class.rhc_calendar_metabox_rrule.php:495
+#: includes/class.rhc_calendar_metabox_rrule.php:506
+#: includes/class.rhc_calendar_metabox_rrule.php:655
+msgid "at"
+msgstr "alle"
+
+#: includes/class.rhc_calendar_metabox.php:226
+#: includes/class.rhc_calendar_metabox.php:237
+#: includes/class.rhc_calendar_metabox_rrule.php:496
+#: includes/class.rhc_calendar_metabox_rrule.php:507
+#: includes/class.rhc_calendar_metabox_rrule.php:656
+msgid "any time"
+msgstr "qualsiasi orario"
+
+#: includes/class.rhc_calendar_metabox.php:234
+#: includes/class.rhc_calendar_metabox_rrule.php:504
+msgid "End"
+msgstr "Fine"
+
+#: includes/class.rhc_calendar_metabox.php:251
+msgid "Except"
+msgstr "Eccetto"
+
+#: includes/class.rhc_calendar_metabox.php:253
+msgid "Sun"
+msgstr "Dom"
+
+#: includes/class.rhc_calendar_metabox.php:253
+msgid "Mon"
+msgstr "Lun"
+
+#: includes/class.rhc_calendar_metabox.php:253
+msgid "Tue"
+msgstr "Mar"
+
+#: includes/class.rhc_calendar_metabox.php:253
+msgid "Wed"
+msgstr "Mer"
+
+#: includes/class.rhc_calendar_metabox.php:253
+msgid "Thu"
+msgstr "Gio"
+
+#: includes/class.rhc_calendar_metabox.php:253
+msgid "Fri"
+msgstr "Ven"
+
+#: includes/class.rhc_calendar_metabox.php:253
+msgid "Sat"
+msgstr "Sab"
+
+#: includes/class.rhc_calendar_metabox.php:265
+#: includes/class.rhc_calendar_metabox_rrule.php:529
+msgid "End repeat"
+msgstr "Fine ripetizione"
+
+#: includes/class.rhc_calendar_metabox.php:275
+#: includes/class.rhc_calendar_metabox_rrule.php:564
+msgid "Color"
+msgstr "Colore"
+
+#: includes/class.rhc_calendar_metabox.php:278
+#: includes/class.rhc_calendar_metabox.php:289
+#: includes/class.rhc_calendar_metabox_rrule.php:567
+#: includes/class.rhc_calendar_metabox_rrule.php:578
+msgid "Choose color"
+msgstr "Scelta colore"
+
+#: includes/class.rhc_calendar_metabox.php:278
+#: includes/class.rhc_calendar_metabox.php:289
+#: includes/class.rhc_calendar_metabox_rrule.php:567
+#: includes/class.rhc_calendar_metabox_rrule.php:578
+msgid "Close"
+msgstr "Chiudi"
+
+#: includes/class.rhc_calendar_metabox.php:278
+#: includes/class.rhc_calendar_metabox.php:289
+#: includes/class.rhc_calendar_metabox_rrule.php:567
+#: includes/class.rhc_calendar_metabox_rrule.php:578
+msgid "Show"
+msgstr "Mostra"
+
+#: includes/class.rhc_calendar_metabox.php:286
+#: includes/class.rhc_calendar_metabox_rrule.php:575
+msgid "Text color"
+msgstr "Colore testo"
+
+#: includes/class.rhc_calendar_metabox.php:301
+#: includes/class.rhc_calendar_metabox_rrule.php:590
+msgid "Click links to"
+msgstr "Il clic rimanda a"
+
+#: includes/class.rhc_calendar_metabox.php:304
+msgid "Calendar view"
+msgstr "Vista calendario"
+
+#: includes/class.rhc_calendar_metabox.php:305
+#: includes/class.rhc_calendar_metabox_rrule.php:594
+msgid "Page"
+msgstr "Pagina"
+
+#: includes/class.rhc_calendar_metabox.php:311
+#: includes/class.rhc_calendar_metabox_rrule.php:601
+msgid "Target"
+msgstr "Target"
+
+#: includes/class.rhc_calendar_metabox.php:314
+#: includes/class.rhc_calendar_metabox_rrule.php:604
+msgid "_blank new window or tab"
+msgstr "_blank nuova finestra o linguetta"
+
+#: includes/class.rhc_calendar_metabox.php:315
+#: includes/class.rhc_calendar_metabox_rrule.php:605
+msgid "_self same window or tab"
+msgstr "_self stessa finestra o linguetta"
+
+#: includes/class.rhc_calendar_metabox.php:325
+#: includes/class.rhc_calendar_metabox_rrule.php:637
+#: includes/class.rhc_calendar_metabox_rrule.php:663
+msgid "Accept"
+msgstr "Accetta"
+
+#: includes/class.rhc_calendar_metabox.php:326
+#: includes/class.rhc_calendar_metabox_rrule.php:639
+#: includes/class.rhc_calendar_metabox_rrule.php:665
+msgid "Cancel"
+msgstr "Annulla"
+
+#: includes/class.rhc_calendar_metabox.php:327
+#: includes/class.rhc_calendar_metabox_rrule.php:664
+msgid "Remove"
+msgstr "Rimuovi"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:349
+#: includes/class.rhc_calendar_metabox_rrule.php:350
+#: includes/class.rhc_calendar_metabox_rrule.php:351
+#, fuzzy
+msgid "Layout Options"
+msgstr "Opzioni"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:361
+#, fuzzy
+msgid "Event Page Top Image"
+msgstr "ID della pagina del template Evento"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:369
+#, fuzzy
+msgid "Event Details Box"
+msgstr "Dettagli per contatto"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:377
+#, fuzzy
+msgid "Event Details Box Image"
+msgstr "Formato orario evento"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:385
+msgid "Venue Details Box"
+msgstr ""
+
+#: includes/class.rhc_calendar_metabox_rrule.php:393
+msgid "Venue Details Box Map"
+msgstr ""
+
+#: includes/class.rhc_calendar_metabox_rrule.php:461
+msgid "This will remove all calendarize date and recurring date settings."
+msgstr "Tutte le impostazioni di data e data ricorrente saranno rimosse."
+
+#: includes/class.rhc_calendar_metabox_rrule.php:462
+msgid "This will overwrite all calendarize date and recurring date settings."
+msgstr "Tutte le impostazioni di data e data ricorrente saranno sovrascritte."
+
+#: includes/class.rhc_calendar_metabox_rrule.php:463
+msgid "This is an all day event."
+msgstr "Questo è un evento che dura tutto il giorno."
+
+#: includes/class.rhc_calendar_metabox_rrule.php:517
+msgid "More options"
+msgstr "Più opzioni"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:531
+msgid "by date"
+msgstr "per data"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:532
+msgid "by count"
+msgstr "per conteggio"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:533
+msgid "never"
+msgstr "mai"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:553
+msgid "End count"
+msgstr "Fine conteggio"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:593
+msgid "Tooltip"
+msgstr "Tooltip"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:595
+msgid "No link"
+msgstr "Nessun link"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:614
+msgid "In addition to recurring rules you can set arbitrary repeat dates."
+msgstr "Oltre a regole di ricorrenza è possibile impostare date di ripetizione arbitrarie."
+
+#: includes/class.rhc_calendar_metabox_rrule.php:615
+msgid "After adding the initial event simply click on any date in order to add the arbitrary repeat date."
+msgstr "Dopo aver aggiunto l'evento iniziale, fare clic su altre date per aggiungere la ripetizione arbitraria."
+
+#: includes/class.rhc_calendar_metabox_rrule.php:618
+msgid "Repeat dates"
+msgstr "Date ricorrenza"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:619
+msgid "No repeat dates set."
+msgstr "Date di ricorrenza impostate."
+
+#: includes/class.rhc_calendar_metabox_rrule.php:626
+msgid "Excluded dates are only applicable when using recurring events."
+msgstr "Le date di esclusione possono essere gestite solamente quando si usano eventi ricorrenti."
+
+#: includes/class.rhc_calendar_metabox_rrule.php:628
+msgid "Excluded dates"
+msgstr "Date di esclusione"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:629
+msgid "No excluded dates selected.  After setting up recurring events, click on a calendar event, then on the dialog press the exclude button to add the clicked date to the excluded dates list."
+msgstr "Nessuna data di esclusione selezionata. Dopo aver impostato eventi ricorrenti, cliccare su un evento del calendario, poi premere il bottone escludi della finestra per aggiungere la data cliccata alla lista di esclusione date."
+
+#: includes/class.rhc_calendar_metabox_rrule.php:638
+msgid "Exclude this date.  Only applicable with recurring events"
+msgstr "Esclude questa data. Funziona solo con eventi ricorrenti"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:638
+msgid "Exclude"
+msgstr "Escludi"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:640
+msgid "Reset settings"
+msgstr "Reimposta"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:648
+msgid "In addition to recurring rules you can set arbitrary repeat dates.  Click accept to save an arbitrary repeat date."
+msgstr "Oltre alle regole di ricorrenza si possono impostare date di ricorrenza arbitrarie. Cliccare accetta per salvare una data di ricorrenza arbitraria."
+
+#: includes/class.rhc_calendar_metabox_rrule.php:649
+msgid "The current calendarize settings require that you specify the repeat date time."
+msgstr "Le impostazioni correnti di Calendarize richiedono che vengano specificati data e ora della ricorrenza."
+
+#: includes/class.rhc_calendar_metabox_rrule.php:652
+msgid "Repeat time"
+msgstr "Orario ricorrenza"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:666
+msgid "Main settings"
+msgstr "Impostazioni principali"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:682
+msgid "months"
+msgstr "mesi"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:686
+msgid "jan"
+msgstr "gen"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:687
+msgid "feb"
+msgstr "feb"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:688
+msgid "mar"
+msgstr "mar"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:689
+msgid "apr"
+msgstr "apr"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:690
+msgid "may"
+msgstr "mag"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:691
+msgid "jun"
+msgstr "giu"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:694
+msgid "jul"
+msgstr "lug"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:695
+msgid "aug"
+msgstr "ago"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:696
+msgid "sep"
+msgstr "set"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:697
+msgid "oct"
+msgstr "ott"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:698
+msgid "nov"
+msgstr "nov"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:699
+msgid "dec"
+msgstr "dic"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:706
+msgid "week of year"
+msgstr "settimana dell'anno"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:722
+msgid "days of the month"
+msgstr "giorni del mese"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:735
+msgid "days of the week"
+msgstr "giorni della settimana"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:742
+msgid "1st"
+msgstr "1°"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:743
+msgid "2nd"
+msgstr "2°"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:744
+msgid "3rd"
+msgstr "3°"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:745
+msgid "4th"
+msgstr "4°"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:746
+msgid "5th"
+msgstr "5°"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:747
+msgid "last"
+msgstr "ultimo"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:758
+msgid "sun"
+msgstr "dom"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:759
+msgid "mon"
+msgstr "lun"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:760
+msgid "tue"
+msgstr "mar"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:761
+msgid "wed"
+msgstr "mer"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:762
+msgid "thu"
+msgstr "gio"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:763
+msgid "fri"
+msgstr "ven"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:764
+msgid "sat"
+msgstr "sab"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:774
+msgid "Several times"
+msgstr "Diverse volte"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:781
+msgid "hours"
+msgstr "ore"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:793
+msgid "minutes"
+msgstr "minuti"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:808
+msgid "year(s)"
+msgstr "anno(i)"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:809
+msgid "month(s)"
+msgstr "mese(i)"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:810
+msgid "week(s)"
+msgstr "settimana(e)"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:811
+msgid "day(s)"
+msgstr "giorno(i)"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:812
+msgid "hour(s)"
+msgstr "ora(e)"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:813
+msgid "minute(s)"
+msgstr "minuto(i)"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:860
+msgid "today"
+msgstr "oggi"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:861
+msgid "month"
+msgstr "mese"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:862
+msgid "day"
+msgstr "giorno"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:863
+msgid "week"
+msgstr "settimana"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:865
+msgid "event"
+msgstr "evento"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:873
+msgid "January,February,March,April,May,June,July,August,September,October,November,December"
+msgstr "Gennaio,Febbraio,Marzo,Aprile,Maggio,Giugno,Luglio,Agosto,Settembre,Ottobre,Novembre,Dicembre"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:874
+msgid "Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec"
+msgstr "Gen,Feb,Mar,Apr,Mag,Giu,Lug,Ago,Set,Ott,Nov,Dic"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:875
+msgid "Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday"
+msgstr "Domenica,Lunedì,Martedì,Mercoledì,Giovedì,Venerdì,Sabato"
+
+#: includes/class.rhc_calendar_metabox_rrule.php:876
+msgid "Sun,Mon,Tue,Wed,Thu,Fri,Sat"
+msgstr "Dom,Lun,Mar,Mer,Gio,Ven,Sab"
+
+#: includes/class.rhc_event_image_metaboxes.php:39
+#, fuzzy
+msgid "Event Featured Image"
+msgstr "ID della pagina del template Evento"
+
+#: includes/class.rhc_event_image_metaboxes.php:49
+#: includes/class.rhc_event_image_metaboxes.php:51
+#: includes/class.rhc_event_image_metaboxes.php:52
+#, fuzzy
+msgid "Set Event Featured Image"
+msgstr "Mostra Immagine in evidenza"
+
+#: includes/class.rhc_event_image_metaboxes.php:50
+#, fuzzy
+msgid "Remove Featured Event Image"
+msgstr "Rimuovi evento per"
+
+#: includes/class.rhc_event_image_metaboxes.php:74
+#: includes/class.rhc_event_image_metaboxes.php:76
+#: includes/class.rhc_event_image_metaboxes.php:77
+msgid "Set Event Page Top Image"
+msgstr ""
+
+#: includes/class.rhc_event_image_metaboxes.php:75
+msgid "Remove Event Page Top Image"
+msgstr ""
+
+#: includes/class.rhc_event_image_metaboxes.php:89
+#, fuzzy
+msgid "Event Detail Box Image"
+msgstr "Formato orario evento"
+
+#: includes/class.rhc_event_image_metaboxes.php:99
+#: includes/class.rhc_event_image_metaboxes.php:101
+#: includes/class.rhc_event_image_metaboxes.php:102
+msgid "Set Event Detail Box Image"
+msgstr ""
+
+#: includes/class.rhc_event_image_metaboxes.php:100
+msgid "Remove Event Detail Box Image"
+msgstr ""
+
+#: includes/class.rhc_event_image_metaboxes.php:116
+#: includes/class.rhc_layout_settings.php:934
+#, fuzzy
+msgid "Month view image"
+msgstr "Titolo della vista mensile"
+
+#: includes/class.rhc_event_image_metaboxes.php:126
+#: includes/class.rhc_event_image_metaboxes.php:128
+#: includes/class.rhc_event_image_metaboxes.php:129
+#, fuzzy
+msgid "Set Month View Image"
+msgstr "Mostra Immagine in evidenza"
+
+#: includes/class.rhc_event_image_metaboxes.php:127
+#, fuzzy
+msgid "Remove Month View Image"
+msgstr "Rimuovi evento per"
+
+#: includes/class.rhc_event_template_metabox.php:36
+#: includes/class.rhc_event_template_metabox.php:37
+#: includes/class.rhc_event_template_metabox.php:38
+#: includes/class.rhc_event_template_metabox.php:62
+msgid "Template"
+msgstr "Template"
+
+#: includes/class.rhc_event_template_metabox.php:63
+msgid "Page Template"
+msgstr "Template pagina"
+
+#: includes/class.rhc_event_template_metabox.php:64
+msgid "Default Template"
+msgstr "Template predefinito"
+
+#: includes/class.rhc_layout_settings.php:56
+#: includes/class.rhc_layout_settings.php:58
+#, fuzzy
+msgid "Template Settings"
+msgstr "Impostazioni del template"
+
+#: includes/class.rhc_layout_settings.php:57
+#, fuzzy
+msgid "Adjust Template Settings"
+msgstr "Modifica le impostazioni del template"
+
+#: includes/class.rhc_layout_settings.php:64
+msgid "Current pages using the shortcode"
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:72
+#: includes/class.rhc_layout_settings.php:77
+#, fuzzy
+msgid "Template Integration"
+msgstr "Integrazione del template"
+
+#: includes/class.rhc_layout_settings.php:73
+msgid "Use the latest available version.  Version 1 is the original template integration; provided for back compatibility on sites that have already customized their calendar templates but want to update the plugin. "
+msgstr "Utilizza l'ultima versione disponibile. La Versione 1 è l'integrazione originaria del template; fornita per compatibilità su siti che hanno già personalizzato il loro template del calendario ma vogliono aggiornare il plugin."
+
+#: includes/class.rhc_layout_settings.php:100
+#, fuzzy
+msgid "Detailed Event Page Template"
+msgstr "Disabilita template evento"
+
+#: includes/class.rhc_layout_settings.php:102
+#, fuzzy
+msgid "Select the page you want to use as a template for the Detailed Event Page and Detailed Venue Page."
+msgstr "Specifica l'ID della pagina che si vuole usare come template per pagine di eventi e luoghi."
+
+#: includes/class.rhc_layout_settings.php:113
+#, fuzzy
+msgid "Venue and Organizer Page Template"
+msgstr "ID della pagina del template luogo e organizzatore"
+
+#: includes/class.rhc_layout_settings.php:125
+#, fuzzy
+msgid "Custom taxonomies template "
+msgstr "Tassonomie Calendarize"
+
+#: includes/class.rhc_layout_settings.php:133
+#, fuzzy, php-format
+msgid "%s page Template"
+msgstr "Template pagina"
+
+#: includes/class.rhc_layout_settings.php:146
+#, fuzzy
+msgid "Calendar Widget links to Page"
+msgstr "ID della pagina a cui rimanda il widget Calendario"
+
+#: includes/class.rhc_layout_settings.php:149
+#, fuzzy
+msgid "Calendar widget: Selet a page, to which the calendar widget will take the user when clicked.  Usually a page containing the calendarizeit shortcode."
+msgstr "Widget calendario: Specifica l'ID di una pagina, al quale il widget del calendario rimanderà gli utenti. Normalmente si tratta di una pagina che contiene lo shortcode di Calendarize It."
+
+#: includes/class.rhc_layout_settings.php:156
+#, fuzzy
+msgid "Calendarize Templates"
+msgstr "Template di Calendarize"
+
+#: includes/class.rhc_layout_settings.php:157
+msgid "Disable calendarize templates if you want to use the theme templates.  Observe that meta data like maps, venue and extra info will need to be added manually throught shortcodes."
+msgstr "Disabilita il template di Calendarize It se si vuole usare il template del tema. Si tenga conto che dati come mappe, luoghi e informazioni aggiuntive dovranno essere aggiunte manualmente utilizzando gli shortcode."
+
+#: includes/class.rhc_layout_settings.php:161
+#, fuzzy
+msgid "Disable Archive Template"
+msgstr "Disabilita template archivio"
+
+#: includes/class.rhc_layout_settings.php:171
+#, fuzzy
+msgid "Disable Event Template"
+msgstr "Disabilita template evento"
+
+#: includes/class.rhc_layout_settings.php:180
+#, fuzzy
+msgid "Disable Taxonomy Template"
+msgstr "Disabilita template tassonomia"
+
+#: includes/class.rhc_layout_settings.php:189
+msgid "Ajax based templates and sliders"
+msgstr "Template e slider basati su AJAX"
+
+#: includes/class.rhc_layout_settings.php:190
+msgid "Some themes that load content with ajax, tabs, and sliders break the initial rendering of the calendar.  Choose yes to prevent this.  If not needed the recommended setting is to choose no."
+msgstr "Alcuni temi che caricano contenuti con AJAX, schede e slider bloccano l'esecuzione iniziale del calendario. Scegliere sì per prevenire questo problema. Se non necessario, l'impostazione raccomandata è di selezionare no."
+
+#: includes/class.rhc_layout_settings.php:194
+msgid "Check calendar visibility"
+msgstr "Verifica visibilità calendario"
+
+#: includes/class.rhc_layout_settings.php:204
+#, fuzzy
+msgid "Google map"
+msgstr "Indirizzo Google"
+
+#: includes/class.rhc_layout_settings.php:208
+msgid "Enable mouse wheel google map zoom "
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:209
+msgid "If disabled, the user can still zoom in or out using the zoom control buttons."
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:219
+msgid "HTML wrapper"
+msgstr "Contenitore HTML"
+
+#: includes/class.rhc_layout_settings.php:224
+msgid "HTML Between header and content"
+msgstr "HTML tra intestazione e contenuto"
+
+#: includes/class.rhc_layout_settings.php:226
+msgid "On some themes you may need to add additional html so the content is styled correctly by the theme."
+msgstr "In alcuni temi può esserci la necessità  di aggiungere codice HTML in modo che il contenuto sia visualizzato correttamente dal tema."
+
+#: includes/class.rhc_layout_settings.php:227
+msgid "This is only used on template version 1."
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:236
+msgid "HTML Between content and footer"
+msgstr "HTML tra contenuto e piè di pagina"
+
+#: includes/class.rhc_layout_settings.php:248
+#: includes/class.rhc_layout_settings.php:311
+#: includes/class.rhc_layout_settings.php:480
+#: includes/class.rhc_layout_settings.php:1393
+#: includes/class.rhc_layout_settings.php:1833
+#: includes/class.rhc_layout_settings.php:1893
+#: includes/class.rhc_post_info_metabox.php:339
+#: includes/class.rhc_post_info_settings.php:182
+#: includes/class.rhc_post_info_settings.prerhc15.php:110
+#: includes/class.rhc_post_info_shortcode.php:380
+#: includes/class.rhc_settings.php:194
+#: includes/class.rhc_settings.php:311
+#: includes/class.rhc_settings.php:446
+#: includes/class.rhc_settings.php:938
+msgid "Save"
+msgstr "Salva"
+
+#: includes/class.rhc_layout_settings.php:256
+#: includes/class.rhc_layout_settings.php:258
+msgid "Media settings"
+msgstr "Impostazioni media"
+
+#: includes/class.rhc_layout_settings.php:257
+msgid "Adjust media settings"
+msgstr "Modifica le impostazioni delle immagini"
+
+#: includes/class.rhc_layout_settings.php:264
+msgid "Event list/tooltip image size"
+msgstr "Lista eventi/dimensione immagine tooltip"
+
+#: includes/class.rhc_layout_settings.php:268
+#: includes/class.rhc_layout_settings.php:284
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: includes/class.rhc_layout_settings.php:269
+#: includes/class.rhc_layout_settings.php:285
+msgid "Medium"
+msgstr "Media"
+
+#: includes/class.rhc_layout_settings.php:270
+#: includes/class.rhc_layout_settings.php:286
+msgid "Large"
+msgstr "Grande"
+
+#: includes/class.rhc_layout_settings.php:271
+#: includes/class.rhc_layout_settings.php:287
+#: includes/class.rhc_post_info_metabox.php:256
+msgid "Full"
+msgstr "Originale"
+
+#: includes/class.rhc_layout_settings.php:273
+msgid "Please observe that this does NOT modifies the size of the image on screen wich is controlled by the stylesheet.  This is used to determine what image size to use as source."
+msgstr "Per favore si noti che questo NON modifica la dimensione dell'immagine sullo schermo, che è controllata dal foglio di stile. Questa opzione serve a determinare quale immagine utilizzare."
+
+#: includes/class.rhc_layout_settings.php:280
+#, fuzzy
+msgid "Detail box image"
+msgstr "Formato orario evento"
+
+#: includes/class.rhc_layout_settings.php:298
+#: includes/class.rhc_layout_settings.php:300
+#: includes/class.rhc_layout_settings.php:301
+#, fuzzy
+msgid "Set Default Featured Event Image"
+msgstr "Rimuovi evento per"
+
+#: includes/class.rhc_layout_settings.php:299
+#, fuzzy
+msgid "Remove Default Featured Event Image"
+msgstr "Rimuovi evento per"
+
+#: includes/class.rhc_layout_settings.php:319
+#: includes/class.rhc_layout_settings.php:320
+#: includes/class.rhc_layout_settings.php:321
+msgid "General settings"
+msgstr "Impostazioni generali"
+
+#: includes/class.rhc_layout_settings.php:328
+msgid "Disable event link"
+msgstr "Disabilita link evento"
+
+#: includes/class.rhc_layout_settings.php:331
+msgid "Check this option if you do not want the calendar events to link to a single event page."
+msgstr "Selezionare questa opzione se non si vuole che gli eventi del calendario rimandino alle pagine degli eventi singoli."
+
+#: includes/class.rhc_layout_settings.php:338
+#: includes/class.rhc_post_info_settings.prerhc15.php:95
+msgid "Taxonomies are links"
+msgstr "Le tassonomie sono link"
+
+#: includes/class.rhc_layout_settings.php:339
+#: includes/class.rhc_post_info_settings.prerhc15.php:96
+msgid "Choose yes if you want to make taxonomies hyperlinks.  Example venue will be a link to the venue page."
+msgstr "Scegliere sì se si vogliono creare link di tassonomie. Per esempio il luogo sarà un link alla pagina del luogo."
+
+#: includes/class.rhc_layout_settings.php:348
+msgid "Disable event search"
+msgstr "Disabilita la ricerca degli eventi"
+
+#: includes/class.rhc_layout_settings.php:351
+msgid "Check this option if you do not want events to show in search results."
+msgstr "Selezionare questa opzione se non si vuole che gli eventi compaiano nei risultati di ricerca."
+
+#: includes/class.rhc_layout_settings.php:358
+#, fuzzy
+msgid "Disable print css"
+msgstr "Disabilita la ricerca degli eventi"
+
+#: includes/class.rhc_layout_settings.php:361
+msgid "When printing a page with a calendar, by default only the calendar will be printed.  Check this option to disable print css."
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:368
+msgid "Scripts and styles on demand"
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:372
+msgid "Choose yes if you only want Calendarize it! scripts to load when required."
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:373
+msgid "Please observe that this requires that the theme correctly implementes the wp_footer action hook."
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:374
+msgid "Please observe that this may not work with ajax based themes."
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:375
+msgid "Please observe that if you use the Map Addon, Events Grid Addon, or Community Events Addon, you also need the latest version of the addons for this feature to work."
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:391
+#, fuzzy
+msgid "Default layout options"
+msgstr "Opzioni"
+
+#: includes/class.rhc_layout_settings.php:392
+msgid "Default layout options values to use when adding events."
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:446
+msgid "Mobile"
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:447
+msgid "When the calendar object is smaller than the value set, mobile layout will be displayed instead of the regular calendar layout.  This does not apply to calendar widgets."
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:453
+msgid "Mobile width trigger size"
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:465
+msgid "Postable arguments"
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:467
+msgid "Write comma separated shortcode arguments that you would like to make available for overwritting through the URL query."
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:487
+#: includes/class.rhc_layout_settings.php:653
+msgid "Sunday"
+msgstr "Domenica"
+
+#: includes/class.rhc_layout_settings.php:488
+#: includes/class.rhc_layout_settings.php:654
+msgid "Monday"
+msgstr "Lunedì"
+
+#: includes/class.rhc_layout_settings.php:489
+#: includes/class.rhc_layout_settings.php:655
+msgid "Tuesday"
+msgstr "Martedì"
+
+#: includes/class.rhc_layout_settings.php:490
+#: includes/class.rhc_layout_settings.php:656
+msgid "Wednesday"
+msgstr "Mercoledì"
+
+#: includes/class.rhc_layout_settings.php:491
+#: includes/class.rhc_layout_settings.php:657
+msgid "Thursday"
+msgstr "Giovedì"
+
+#: includes/class.rhc_layout_settings.php:492
+#: includes/class.rhc_layout_settings.php:658
+msgid "Friday"
+msgstr "Venerdì"
+
+#: includes/class.rhc_layout_settings.php:493
+#: includes/class.rhc_layout_settings.php:659
+msgid "Saturday"
+msgstr "Sabato"
+
+#: includes/class.rhc_layout_settings.php:499
+#: includes/class.rhc_layout_settings.php:501
+msgid "Calendarize shortcode"
+msgstr "Shortcode di Calendarize"
+
+#: includes/class.rhc_layout_settings.php:500
+msgid "Default calendar settings"
+msgstr "Impostazioni predefinite del calendario"
+
+#: includes/class.rhc_layout_settings.php:522
+msgid "Default view"
+msgstr "Vista predefinita"
+
+#: includes/class.rhc_layout_settings.php:524
+#: includes/class.rhc_layout_settings.php:2231
+msgid "--choose--"
+msgstr "--scegliere--"
+
+#: includes/class.rhc_layout_settings.php:527
+msgid "Week"
+msgstr "Settimana"
+
+#: includes/class.rhc_layout_settings.php:528
+msgid "Day"
+msgstr "Giorno"
+
+#: includes/class.rhc_layout_settings.php:529
+msgid "Agenda Week"
+msgstr "Agenda settimanale"
+
+#: includes/class.rhc_layout_settings.php:530
+msgid "Agenda Day"
+msgstr "Agenda giornaliera"
+
+#: includes/class.rhc_layout_settings.php:531
+msgid "Events list"
+msgstr "Lista eventi"
+
+#: includes/class.rhc_layout_settings.php:539
+msgid "Aspect ratio"
+msgstr "Aspect ratio"
+
+#: includes/class.rhc_layout_settings.php:547
+msgid "Left header"
+msgstr "Intestazione di sinistra"
+
+#: includes/class.rhc_layout_settings.php:556
+msgid "Center header"
+msgstr "Intestazione centrale"
+
+#: includes/class.rhc_layout_settings.php:565
+msgid "Right header"
+msgstr "Intestazione di destra"
+
+#: includes/class.rhc_layout_settings.php:567
+msgid "Defaults to: <b>month,agendaWeek,agendaDay,rhc_event</b>. Also available: basicWeek"
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:576
+#, fuzzy
+msgid "Upcoming only (all views)"
+msgstr "Solo eventi futuri"
+
+#: includes/class.rhc_layout_settings.php:579
+#, fuzzy
+msgid "Choose yes if only want to display upcoming events."
+msgstr "<b>Solo imminenti:</b>  scegliere sì per visualizzare solamente gli eventi futuri."
+
+#: includes/class.rhc_layout_settings.php:588
+#, fuzzy
+msgid "Allday group"
+msgstr "Tutto il giorno"
+
+#: includes/class.rhc_layout_settings.php:589
+msgid "By default allday events are rendered ordered by title.  Choose color to group by color, or by order to use the menu order from the edit event screen."
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:591
+msgid "By title(default)"
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:592
+#, fuzzy
+msgid "By event color"
+msgstr "Vista lista di eventi calendario"
+
+#: includes/class.rhc_layout_settings.php:593
+msgid "By menu order"
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:602
+#, fuzzy
+msgid "Month View, trim past weeks"
+msgstr "Titolo della vista mensile"
+
+#: includes/class.rhc_layout_settings.php:605
+msgid "Choose yes if you want to remove past weeks from the Month view.  Only applicable when Upcoming only is also enabled."
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:613
+#, fuzzy
+msgid "Disable months"
+msgstr "Disabilita la ricerca degli eventi"
+
+#: includes/class.rhc_layout_settings.php:618
+msgid "January"
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:619
+msgid "February"
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:620
+msgid "March"
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:621
+#, fuzzy
+msgid "April"
+msgstr "URL API"
+
+#: includes/class.rhc_layout_settings.php:622
+#, fuzzy
+msgid "May"
+msgstr "mag"
+
+#: includes/class.rhc_layout_settings.php:623
+msgid "June"
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:624
+msgid "July"
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:625
+#, fuzzy
+msgid "August"
+msgstr "Personalizzato"
+
+#: includes/class.rhc_layout_settings.php:626
+#, fuzzy
+msgid "September"
+msgstr "numero giorno"
+
+#: includes/class.rhc_layout_settings.php:627
+msgid "October"
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:628
+msgid "November"
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:629
+msgid "December"
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:645
+msgid "Check months that you do NOT want to show. Pressing prev or next button in calendar will skip to the next available month."
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:664
+msgid "Hide days from view"
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:681
+msgid "Check days that you do NOT want to show."
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:682
+#, fuzzy
+msgid "Shortcode argument:"
+msgstr "Template shortcode"
+
+#: includes/class.rhc_layout_settings.php:683
+#, fuzzy
+msgid "Shortcode values:"
+msgstr "Template shortcode"
+
+#: includes/class.rhc_layout_settings.php:684
+msgid "Comma separated numeric values.  0 for sunday, 1 for monday, 2 for tuesday, 3 for wednsday, 4 for thursday, 5 for friday, 6 for saturday"
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:685
+msgid "Example(hiding sunday and monday):"
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:696
+msgid "Show weekends"
+msgstr "Mostra i fine settimana"
+
+#: includes/class.rhc_layout_settings.php:709
+msgid "Calendar First Day"
+msgstr "Primo giorno del calendario"
+
+#: includes/class.rhc_layout_settings.php:728
+msgid "Show loading overlay"
+msgstr "Mostrare caricamento"
+
+#: includes/class.rhc_layout_settings.php:730
+msgid "Show a loading overlay on the calendar viewport when fetching events"
+msgstr "Mostra il caricamento in corso nell'area del calendario durante il recupero iniziale degli eventi"
+
+#: includes/class.rhc_layout_settings.php:737
+#, fuzzy
+msgid "Enable week numbers"
+msgstr "numero giorno"
+
+#: includes/class.rhc_layout_settings.php:740
+msgid "Enables displaying week numbers on the calendar views."
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:741
+msgid "<b>Week number label</b>: By default it is \"W\", this is the label shown on the week column in month view.  In agenda views it is shown in the top left corner."
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:749
+msgid "Week number label"
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:756
+msgid "Calendar labels"
+msgstr "Etichette calendario"
+
+#: includes/class.rhc_layout_settings.php:758
+msgid "Only use this options if you want to use diferent labels from the localized ones, or if the plugin is not providing localization at all."
+msgstr "Usare questa opzione solamente se si vogliono usare etichette diverse da quelle della traduzione, oppure se il plugin non fornisce alcuna traduzione."
+
+#: includes/class.rhc_layout_settings.php:759
+msgid "Write <b>comma separated</b> and <b>no space</b> labels on each setting in this section"
+msgstr "Scrivere etichette <b>separate da virgole</b> e <b>non da spazi</b> per ogni impostazione di questa sezione."
+
+#: includes/class.rhc_layout_settings.php:760
+msgid "Default month names:"
+msgstr "Nomi predefiniti dei mesi:"
+
+#: includes/class.rhc_layout_settings.php:761
+msgid "January, February, March, April, May, June, July, August, September, October, November, December"
+msgstr "Gennaio, Febbraio, Marzo, Aprile, Maggio, Giugno, Luglio, Agosto, Settembre, Ottobre, Novembre, Dicembre"
+
+#: includes/class.rhc_layout_settings.php:762
+msgid "Default short month names:"
+msgstr "Abbreviazioni predefinite dei mesi:"
+
+#: includes/class.rhc_layout_settings.php:763
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr "Gen, Feb, Mar, Apr, Mag, Giu, Lug, Ago, Set, Ott, Nov, Dic"
+
+#: includes/class.rhc_layout_settings.php:764
+msgid "Default day names:"
+msgstr "Nomi predefiniti dei giorni della settimana:"
+
+#: includes/class.rhc_layout_settings.php:765
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr "Domenica, Lunedì, Martedì, Mercoledì, Giovedì, Venerdì, Sabato"
+
+#: includes/class.rhc_layout_settings.php:766
+msgid "Default short day names:"
+msgstr "Abbreviazioni predefinite dei giorni della settimana:"
+
+#: includes/class.rhc_layout_settings.php:767
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr "Dom, Lun, Mar, Mer, Gio, Ven, Sab"
+
+#: includes/class.rhc_layout_settings.php:773
+msgid "Month names"
+msgstr "Nomi dei mesi"
+
+#: includes/class.rhc_layout_settings.php:781
+msgid "Short month names"
+msgstr "Abbreviazioni dei mesi"
+
+#: includes/class.rhc_layout_settings.php:789
+msgid "Day names"
+msgstr "Nomi dei giorni"
+
+#: includes/class.rhc_layout_settings.php:797
+msgid "Short day names"
+msgstr "Abbreviazioni dei giorni"
+
+#: includes/class.rhc_layout_settings.php:804
+msgid "Button labels"
+msgstr "Etichette dei pulsanti"
+
+#: includes/class.rhc_layout_settings.php:806
+msgid "Change the labels of the buttons in the calendar top controls.  Please observe that this will overwrite localization, so if you are using multiple languages, leave this fields empty."
+msgstr "Cambia le etichette dei pulsanti nei controlli in alto al calendario. Si noti che questo sovrascriverà la traduzione, quindi se sono in uso più lingue si lasci questo spazio vuoto."
+
+#: includes/class.rhc_layout_settings.php:813
+msgid "Button today"
+msgstr "Pulsante oggi"
+
+#: includes/class.rhc_layout_settings.php:821
+msgid "Button month"
+msgstr "Pulsante mese"
+
+#: includes/class.rhc_layout_settings.php:829
+msgid "Button day"
+msgstr "Pulsante giorno"
+
+#: includes/class.rhc_layout_settings.php:837
+msgid "Button week"
+msgstr "Pulsante settimana"
+
+#: includes/class.rhc_layout_settings.php:845
+msgid "Button Calendar"
+msgstr "Pulsante calendario"
+
+#: includes/class.rhc_layout_settings.php:853
+msgid "Button event"
+msgstr "Pulsante evento"
+
+#: includes/class.rhc_layout_settings.php:903
+msgid "Month view"
+msgstr "Vista mese"
+
+#: includes/class.rhc_layout_settings.php:907
+msgid "Week mode"
+msgstr "Modalità settimana"
+
+#: includes/class.rhc_layout_settings.php:911
+msgid "Fixed"
+msgstr "Fissa"
+
+#: includes/class.rhc_layout_settings.php:912
+msgid "Liquid"
+msgstr "Liquida"
+
+#: includes/class.rhc_layout_settings.php:913
+msgid "Variable"
+msgstr "Variabile"
+
+#: includes/class.rhc_layout_settings.php:915
+msgid "Determines the number of weeks displayed in the calendar."
+msgstr "Imposta il numero di settimane visualizzate nel calendario."
+
+#: includes/class.rhc_layout_settings.php:923
+msgid "Background matches event color"
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:926
+msgid "Choose yes if you want the day cell match the background color of the event."
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:937
+msgid "Choose yes to enable inserting the \"Month view image\" in events that has this image set.  Then \"Month view image\" is set in a metabox when editing an event.  The metabox has to be enabled separately on the next option."
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:945
+#, fuzzy
+msgid "Month view image metabox"
+msgstr "Titolo della vista mensile"
+
+#: includes/class.rhc_layout_settings.php:948
+msgid "Choose yes to enable the \"Month view image\" metabox."
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:956
+msgid "Next day threshold"
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:960
+msgid "Not used"
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:976
+msgid "Determines how much time an event can get past midnight without displaying it on that day."
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:977
+msgid "Shortcode argument: next_day_threshold"
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:978
+msgid "Possible values: 0,1,2... 12"
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:987
+#, fuzzy
+msgid "Show other month events"
+msgstr "Abbreviazioni dei mesi"
+
+#: includes/class.rhc_layout_settings.php:990
+msgid "In month view, some dates from other months are rendered to complete the week.  Choose yes to display events on it, or no to leave them blank."
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:1001
+msgid "Agenda view (week and day view)"
+msgstr "Vista agenda (vista settimanale e giornaliera)"
+
+#: includes/class.rhc_layout_settings.php:1005
+msgid "Show all-day slot"
+msgstr "Mostra lo spazio 'tutto il giorno'"
+
+#: includes/class.rhc_layout_settings.php:1015
+msgid "all-day label"
+msgstr "etichetta 'tutto il giorno'"
+
+#: includes/class.rhc_layout_settings.php:1023
+msgid "First hour"
+msgstr "Ora iniziale"
+
+#: includes/class.rhc_layout_settings.php:1034
+msgid "Slot minutes"
+msgstr "Blocco minuti"
+
+#: includes/class.rhc_layout_settings.php:1045
+msgid "Minimun displayed time"
+msgstr "Orario minimo visualizzato"
+
+#: includes/class.rhc_layout_settings.php:1056
+msgid "Maximun displayed time"
+msgstr "Orario massimo visualizzato"
+
+#: includes/class.rhc_layout_settings.php:1069
+msgid "Event list view"
+msgstr "Vista lista eventi"
+
+#: includes/class.rhc_layout_settings.php:1071
+msgid "<b>Show same date header:</b>  choose yes to show a label with the date before events on the same date."
+msgstr "<b>Mostra la stessa intestazione per la data</b>  scegliere sì per mostrare un'etichetta con la data prima di ogni evento dello stesso giorno."
+
+#: includes/class.rhc_layout_settings.php:1072
+msgid "<b>Upcoming only:</b>  choose yes if you only want to display upcoming events."
+msgstr "<b>Solo imminenti:</b>  scegliere sì per visualizzare solamente gli eventi futuri."
+
+#: includes/class.rhc_layout_settings.php:1073
+msgid "<b>Reverse order:</b>  choose yes to invert the order of events"
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:1074
+msgid "<b>Stack behaviour:</b>When clicking Next, the view will not be cleared, instead new events will stack."
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:1075
+msgid "<b>Stack autoload:</b>Automatically fetch and stack the next group of events"
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:1076
+msgid "<b>Custom Days per page:</b>  By default when clicking next or previous, the view will go to the next month, behaving in a similar way to the month view.  You can specify the number of days to advance with this option."
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:1077
+msgid "<b>Months ahead:</b>  By default the events view show up to one month of upcoming events.  Use this option to show more events."
+msgstr "<b>Mesi a venire:</b>  La lista degli eventi mostra un mese di eventi futuri. Utilizzare questa opzione per mostrare più eventi."
+
+#: includes/class.rhc_layout_settings.php:1078
+msgid "<b>Days ahead:</b>  Similar to months ahead, but allows specifying days intead of months.  This option overwrites the months option."
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:1079
+msgid "<b>Max displayed events:</b>  Optionally limit the number of events displayed."
+msgstr "<b>Limite massimo di eventi:</b>  Opzione per limitare il numero massimo di eventi visualizzati."
+
+#: includes/class.rhc_layout_settings.php:1080
+msgid "<b>Show multi month events:</b> By default long spanning events that started on a diferent month will not be displayed in the event list.  Check yes to show them."
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:1081
+msgid "<b>Remove ended:</b> Remove event if it has ended.  Event end date is compared against the time in the client side."
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:1082
+msgid "<b>Load Dynamic Event Details Box:</b> Choose yes to load the \"custom event fields\", which is configured on the Event Details metabox."
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:1088
+msgid "Show same date header"
+msgstr "Mostra l'intestazione per ogni evento della stessa data"
+
+#: includes/class.rhc_layout_settings.php:1096
+msgid "No events text"
+msgstr "Testo per nessun evento disponibile"
+
+#: includes/class.rhc_layout_settings.php:1097
+msgid "No upcoming events in this date range"
+msgstr "Non ci sono eventi in programma in questo intervallo di date"
+
+#: includes/class.rhc_layout_settings.php:1105
+msgid "Upcoming only"
+msgstr "Solo eventi futuri"
+
+#: includes/class.rhc_layout_settings.php:1113
+msgid "Reverse order"
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:1121
+#, fuzzy
+msgid "Show multi month events"
+msgstr "Abbreviazioni dei mesi"
+
+#: includes/class.rhc_layout_settings.php:1129
+#, fuzzy
+msgid "Remove ended"
+msgstr "Rimuovi"
+
+#: includes/class.rhc_layout_settings.php:1137
+#, fuzzy
+msgid "Stack behaviour"
+msgstr "Comportamento del tooltip"
+
+#: includes/class.rhc_layout_settings.php:1145
+msgid "Stack autoload"
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:1154
+msgid "Custom Days per page(optional)"
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:1163
+msgid "Months ahead to show(optional)"
+msgstr "Mesi a venire da mostrare (opzionale)"
+
+#: includes/class.rhc_layout_settings.php:1172
+#, fuzzy
+msgid "Days ahead to show(optional)"
+msgstr "Mesi a venire da mostrare (opzionale)"
+
+#: includes/class.rhc_layout_settings.php:1181
+msgid "Max displayed events(optional)"
+msgstr "Limite massimo di eventi (opzionale)"
+
+#: includes/class.rhc_layout_settings.php:1189
+#, fuzzy
+msgid "Load Dynamic Event Details Box"
+msgstr "Dettagli per contatto"
+
+#: includes/class.rhc_layout_settings.php:1199
+msgid "Tooltip behaviour"
+msgstr "Comportamento del tooltip"
+
+#: includes/class.rhc_layout_settings.php:1204
+msgid "Tooltip links target"
+msgstr "Target del link del tooltip"
+
+#: includes/class.rhc_layout_settings.php:1207
+msgid "_self"
+msgstr "_self"
+
+#: includes/class.rhc_layout_settings.php:1208
+msgid "_blank"
+msgstr "_blank"
+
+#: includes/class.rhc_layout_settings.php:1209
+msgid "_top"
+msgstr "_top"
+
+#: includes/class.rhc_layout_settings.php:1210
+msgid "_parent"
+msgstr "_parent"
+
+#: includes/class.rhc_layout_settings.php:1218
+msgid "Disable title link"
+msgstr "Disabilita link del titolo"
+
+#: includes/class.rhc_layout_settings.php:1227
+msgid "Enable custom details layout"
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:1228
+msgid "Choose no if you dont want to use the custom layout that can be set on the event edit page."
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:1237
+#, fuzzy
+msgid "Show on hover"
+msgstr "Mostrare caricamento"
+
+#: includes/class.rhc_layout_settings.php:1246
+#, fuzzy
+msgid "Close on event title leave"
+msgstr "Vista lista di eventi calendario"
+
+#: includes/class.rhc_layout_settings.php:1255
+msgid "Render image in tooltip"
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:1266
+msgid "icalendar button"
+msgstr "Pulsante iCalendar"
+
+#: includes/class.rhc_layout_settings.php:1270
+msgid "Enable icalendar button"
+msgstr "Abilita pulsante iCalendar"
+
+#: includes/class.rhc_layout_settings.php:1285
+msgid "Dialog width"
+msgstr "Larghezza finestra"
+
+#: includes/class.rhc_layout_settings.php:1296
+msgid "Button label"
+msgstr "Etichetta pulsante"
+
+#: includes/class.rhc_layout_settings.php:1304
+msgid "Dialog title"
+msgstr "Titolo finestra"
+
+#: includes/class.rhc_layout_settings.php:1313
+msgid "Dialog description"
+msgstr "Descrizione finestra"
+
+#: includes/class.rhc_layout_settings.php:1320
+msgid "Alignment"
+msgstr "Allineamento"
+
+#: includes/class.rhc_layout_settings.php:1323
+msgid "Left"
+msgstr "Sinistra"
+
+#: includes/class.rhc_layout_settings.php:1324
+msgid "Center"
+msgstr "Centro"
+
+#: includes/class.rhc_layout_settings.php:1325
+msgid "Right"
+msgstr "Destra"
+
+#: includes/class.rhc_layout_settings.php:1341
+#, fuzzy
+msgid "Calendar button (filter)"
+msgstr "Pulsante iCalendar"
+
+#: includes/class.rhc_layout_settings.php:1346
+msgid "Hierarchical filter"
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:1348
+msgid "Choose yes to limit the terms listed under a taxonomy in the taxonomy filter.  For example, lets say that the calendar is configured to only show events from the \"Sports\" category, the filter will only display terms that contains events and that are children of the \"Sports\" term."
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:1436
+#: includes/class.rhc_layout_settings.php:1438
+msgid "Date/time format"
+msgstr "Formato data/ora"
+
+#: includes/class.rhc_layout_settings.php:1437
+msgid "Customize date and time formats"
+msgstr "Personalizza il formato della data e dell'ora"
+
+#: includes/class.rhc_layout_settings.php:1468
+msgid "Calendar month view"
+msgstr "Vista mensile calendario"
+
+#: includes/class.rhc_layout_settings.php:1473
+msgid "Month view title"
+msgstr "Titolo della vista mensile"
+
+#: includes/class.rhc_layout_settings.php:1476
+#: includes/class.rhc_layout_settings.php:1680
+msgid "MMMM yyyy"
+msgstr "MMMM yyyy"
+
+#: includes/class.rhc_layout_settings.php:1484
+msgid "Column label"
+msgstr "Etichetta colonna"
+
+#: includes/class.rhc_layout_settings.php:1487
+msgid "ddd"
+msgstr "ddd"
+
+#: includes/class.rhc_layout_settings.php:1495
+#: includes/class.rhc_layout_settings.php:1565
+#: includes/class.rhc_layout_settings.php:1640
+msgid "Event time format"
+msgstr "Formato orario evento"
+
+#: includes/class.rhc_layout_settings.php:1498
+msgid "h(:mm)t"
+msgstr "h(:mm)t"
+
+#: includes/class.rhc_layout_settings.php:1538
+msgid "Calendar week view"
+msgstr "Vista settimanale calendario"
+
+#: includes/class.rhc_layout_settings.php:1543
+msgid "Week view title"
+msgstr "Titolo vista settimanale"
+
+#: includes/class.rhc_layout_settings.php:1546
+msgid "MMM d[ yyyy]{ '&#8212;'[ MMM] d yyyy}"
+msgstr "MMM d[ yyyy]{ '&#8212;'[ MMM] d yyyy}"
+
+#: includes/class.rhc_layout_settings.php:1554
+msgid "Week view column"
+msgstr "Colonna vista settimanale"
+
+#: includes/class.rhc_layout_settings.php:1557
+msgid "ddd M/d"
+msgstr "ddd M/d"
+
+#: includes/class.rhc_layout_settings.php:1568
+#: includes/class.rhc_layout_settings.php:1643
+msgid "h:mm{ - h:mm}"
+msgstr "h:mm{ - h:mm}"
+
+#: includes/class.rhc_layout_settings.php:1576
+msgid "Axis format (Also affects day view)"
+msgstr "Formato orario tabella (riguarda anche la vista giornaliera)"
+
+#: includes/class.rhc_layout_settings.php:1579
+msgid "h(:mm)tt"
+msgstr "h(:mm)tt"
+
+#: includes/class.rhc_layout_settings.php:1613
+msgid "Calendar day view"
+msgstr "Vista giornaliera calendario"
+
+#: includes/class.rhc_layout_settings.php:1618
+msgid "Day view title"
+msgstr "Titolo vista giornaliera"
+
+#: includes/class.rhc_layout_settings.php:1621
+msgid "dddd, MMM d, yyyy"
+msgstr "dddd, MMM d, yyyy"
+
+#: includes/class.rhc_layout_settings.php:1629
+msgid "Day view column"
+msgstr "Colonna vista giornaliera"
+
+#: includes/class.rhc_layout_settings.php:1632
+msgid "dddd M/d"
+msgstr "dddd M/d"
+
+#: includes/class.rhc_layout_settings.php:1672
+msgid "Calendar event list view"
+msgstr "Vista lista di eventi calendario"
+
+#: includes/class.rhc_layout_settings.php:1677
+#, fuzzy
+msgid "Title format"
+msgstr "Formato orario"
+
+#: includes/class.rhc_layout_settings.php:1688
+msgid "Main date format"
+msgstr "Formato data principale"
+
+#: includes/class.rhc_layout_settings.php:1691
+msgid "dddd MMMM d, yyyy"
+msgstr "dddd MMMM d, yyyy"
+
+#: includes/class.rhc_layout_settings.php:1699
+msgid "Start/end date format"
+msgstr "Formato data inizio/fine"
+
+#: includes/class.rhc_layout_settings.php:1702
+msgid "dddd MMMM d, yyyy. h:mmtt"
+msgstr "dddd MMMM d, yyyy. h:mmtt"
+
+#: includes/class.rhc_layout_settings.php:1710
+#, fuzzy
+msgid "Start/end date format (All day)"
+msgstr "Formato data inizio/fine"
+
+#: includes/class.rhc_layout_settings.php:1713
+#, fuzzy
+msgid "dddd MMMM d, yyyy."
+msgstr "dddd MMMM d, yyyy"
+
+#: includes/class.rhc_layout_settings.php:1723
+#, fuzzy
+msgid "Calendar event list view(Extended details)"
+msgstr "Vista lista di eventi calendario"
+
+#: includes/class.rhc_layout_settings.php:1728
+#: includes/class.rhc_post_info_settings.php:126
+#: includes/class.rhc_post_info_settings.prerhc15.php:81
+#: includes/class.rhc_post_info_settings.prerhc15.php:89
+msgid "Date format"
+msgstr "Formato data"
+
+#: includes/class.rhc_layout_settings.php:1731
+#, fuzzy
+msgid "MMMM d, yyyy"
+msgstr "MMMM yyyy"
+
+#: includes/class.rhc_layout_settings.php:1739
+#: includes/class.rhc_post_info_settings.php:134
+msgid "Time format"
+msgstr "Formato orario"
+
+#: includes/class.rhc_layout_settings.php:1742
+#, fuzzy
+msgid "h:mm tt"
+msgstr "h(:mm)tt"
+
+#: includes/class.rhc_layout_settings.php:1750
+#, fuzzy
+msgid "Date with time format"
+msgstr "Formato data e ora"
+
+#: includes/class.rhc_layout_settings.php:1753
+#, fuzzy
+msgid "MMMM d, yyyy.  h:mm tt"
+msgstr "dddd MMMM d, yyyy. h:mmtt"
+
+#: includes/class.rhc_layout_settings.php:1781
+msgid "Event popup (click on calendar event)"
+msgstr "Popup evento (cliccare su evento calendario)"
+
+#: includes/class.rhc_layout_settings.php:1789
+#: includes/class.rhc_layout_settings.php:1811
+msgid "ddd MMMM d, yyyy h:mm TT"
+msgstr "ddd MMMM d, yyyy h:mm TT"
+
+#: includes/class.rhc_layout_settings.php:1797
+msgid "Start date(all-day)"
+msgstr "Data di inizio (tutto il giorno)"
+
+#: includes/class.rhc_layout_settings.php:1800
+#: includes/class.rhc_layout_settings.php:1822
+msgid "ddd MMMM d, yyyy"
+msgstr "ddd MMMM d, yyyy"
+
+#: includes/class.rhc_layout_settings.php:1819
+msgid "End date(all-day)"
+msgstr "Data di fine (tutto il giorno)"
+
+#: includes/class.rhc_layout_settings.php:1842
+#: includes/class.rhc_layout_settings.php:1844
+msgid "Feature Access"
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:1843
+msgid "Set permissions by user role. "
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:1860
+#, fuzzy
+msgid "Read events"
+msgstr "Cerca eventi"
+
+#: includes/class.rhc_layout_settings.php:1861
+#, fuzzy
+msgid "Read private events"
+msgstr "Cerca eventi"
+
+#: includes/class.rhc_layout_settings.php:1862
+#, fuzzy
+msgid "Edit events"
+msgstr "Modifica evento"
+
+#: includes/class.rhc_layout_settings.php:1863
+msgid "Publish events"
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:1864
+#, fuzzy
+msgid "Delete events"
+msgstr "Campi evento predefiniti"
+
+#: includes/class.rhc_layout_settings.php:1865
+#, fuzzy
+msgid "Edit others events"
+msgstr "Modifica evento"
+
+#: includes/class.rhc_layout_settings.php:1866
+#, fuzzy
+msgid "Edit published events"
+msgstr "Modifica evento"
+
+#: includes/class.rhc_layout_settings.php:1867
+msgid "Delete published events"
+msgstr ""
+
+#: includes/class.rhc_layout_settings.php:1868
+#, fuzzy
+msgid "Delete private events"
+msgstr "Solo eventi correlati."
+
+#: includes/class.rhc_layout_settings.php:1869
+#, fuzzy
+msgid "Delete others events"
+msgstr "Abbreviazioni dei mesi"
+
+#: includes/class.rhc_layout_settings.php:1871
+#, fuzzy
+msgid "Manage venues"
+msgstr "Aggiorna luogo"
+
+#: includes/class.rhc_layout_settings.php:1872
+#, fuzzy
+msgid "Manage calendars"
+msgstr "Nuovo calendario"
+
+#: includes/class.rhc_layout_settings.php:1873
+#, fuzzy
+msgid "Manage organizers"
+msgstr "Tutti gli organizzatori"
+
+#: includes/class.rhc_layout_settings.php:1875
+#, fuzzy
+msgid "Manage custom taxonomies (addon)"
+msgstr "Tassonomie Calendarize"
+
+#: includes/class.rhc_layout_settings.php:2117
+msgid "date number"
+msgstr "numero giorno"
+
+#: includes/class.rhc_layout_settings.php:2118
+msgid "date number, 2 digits"
+msgstr "numero giorno, 2 cifre"
+
+#: includes/class.rhc_layout_settings.php:2119
+msgid "date name, short"
+msgstr "nome giorno, abbreviazione"
+
+#: includes/class.rhc_layout_settings.php:2120
+msgid "date name, full"
+msgstr "nome giorno, intero"
+
+#: includes/class.rhc_layout_settings.php:2121
+msgid "month number"
+msgstr "numero mese"
+
+#: includes/class.rhc_layout_settings.php:2122
+msgid "month number, 2 digits"
+msgstr "numero mese, 2 cifre"
+
+#: includes/class.rhc_layout_settings.php:2123
+msgid "month name, short"
+msgstr "nome mese, abbreviazione"
+
+#: includes/class.rhc_layout_settings.php:2124
+msgid "month name, full"
+msgstr "nome mese, intero"
+
+#: includes/class.rhc_layout_settings.php:2125
+msgid "year, 2 digits"
+msgstr "anno, 2 cifre"
+
+#: includes/class.rhc_layout_settings.php:2126
+msgid "year, 4 digits"
+msgstr "anno, 4 cifre"
+
+#: includes/class.rhc_layout_settings.php:2127
+msgid "hours, 12 hour format"
+msgstr "orario, formato 12 ore"
+
+#: includes/class.rhc_layout_settings.php:2128
+msgid "hours, 12 hour format, 2 digits"
+msgstr "orario, formato 12 ore, 2 cifre"
+
+#: includes/class.rhc_layout_settings.php:2129
+msgid "hours, 24 hour format"
+msgstr "orario, formato 24 ore"
+
+#: includes/class.rhc_layout_settings.php:2130
+msgid "hours, 24 hour format, 2 digits"
+msgstr "orario, formato 24 ore, 2 cifre"
+
+#: includes/class.rhc_layout_settings.php:2131
+msgid "colon"
+msgstr "due punti"
+
+#: includes/class.rhc_layout_settings.php:2133
+msgid "minutes, 2 digits"
+msgstr "minuti, 2 cifre"
+
+#: includes/class.rhc_layout_settings.php:2134
+#: includes/class.rhc_layout_settings.php:2135
+#: includes/class.rhc_layout_settings.php:2136
+#: includes/class.rhc_layout_settings.php:2137
+#, php-format
+msgid "%s or %s"
+msgstr "%s o %s"
+
+#: includes/class.rhc_layout_settings.php:2138
+msgid "ISO8601 format"
+msgstr "Formato ISO8601"
+
+#: includes/class.rhc_layout_settings.php:2139
+msgid "Single quote"
+msgstr "Virgolette"
+
+#: includes/class.rhc_layout_settings.php:2140
+msgid "comma"
+msgstr "virgola"
+
+#: includes/class.rhc_layout_settings.php:2141
+msgid "forward slash"
+msgstr "slash"
+
+#: includes/class.rhc_layout_settings.php:2142
+msgid "dot"
+msgstr "punto"
+
+#: includes/class.rhc_layout_settings.php:2154
+msgid "Preview:"
+msgstr "Anteprima:"
+
+#: includes/class.rhc_layout_settings.php:2162
+msgid "default format"
+msgstr "formato predefinito"
+
+#: includes/class.rhc_layout_settings.php:2162
+msgid "default"
+msgstr "predefinito"
+
+#: includes/class.rhc_layout_settings.php:2163
+msgid "clear value"
+msgstr "cancella valore"
+
+#: includes/class.rhc_layout_settings.php:2163
+msgid "clear"
+msgstr "cancella"
+
+#: includes/class.rhc_layout_settings.php:2164
+msgid "space"
+msgstr "spazio"
+
+#: includes/class.rhc_layout_settings.php:2167
+msgid "done"
+msgstr "fatto"
+
+#: includes/class.rhc_layout_settings.php:2237
+#, fuzzy
+msgid "No options"
+msgstr "Più opzioni"
+
+#: includes/class.rhc_organizers.php:28
+msgid "Organizers"
+msgstr "Organizzatori"
+
+#: includes/class.rhc_organizers.php:30
+msgid "Search Organizer"
+msgstr "Cerca organizzatore"
+
+#: includes/class.rhc_organizers.php:31
+msgid "Popular Organizers"
+msgstr "Organizzatori più frequenti"
+
+#: includes/class.rhc_organizers.php:32
+msgid "All organizers"
+msgstr "Tutti gli organizzatori"
+
+#: includes/class.rhc_organizers.php:35
+msgid "Edit Organizer"
+msgstr "Modifica organizzatore"
+
+#: includes/class.rhc_organizers.php:36
+msgid "Update Organizer"
+msgstr "Aggiorna organizzatore"
+
+#: includes/class.rhc_organizers.php:37
+msgid "Add Organizer"
+msgstr "Aggiungi organizzatore"
+
+#: includes/class.rhc_organizers.php:38
+msgid "New Organizer"
+msgstr "Nuovo organizzatore"
+
+#: includes/class.rhc_post_info_metabox.php:118
+#: includes/class.rhc_post_info_metabox.php:119
+#: includes/class.rhc_post_info_metabox.php:120
+msgid "Event, Venue & Tooltip Details Box Layout"
+msgstr ""
+
+#: includes/class.rhc_post_info_metabox.php:152
+msgid "1/4 content - 3/4 Image"
+msgstr ""
+
+#: includes/class.rhc_post_info_metabox.php:153
+msgid "1/3 content - 2/3 Image"
+msgstr ""
+
+#: includes/class.rhc_post_info_metabox.php:154
+msgid "1/2 content - 1/2 Image"
+msgstr ""
+
+#: includes/class.rhc_post_info_metabox.php:155
+msgid "2/3 content - 1/3 Image"
+msgstr ""
+
+#: includes/class.rhc_post_info_metabox.php:156
+msgid "3/4 content - 1/4 Image"
+msgstr ""
+
+#: includes/class.rhc_post_info_metabox.php:201
+#, php-format
+msgid "%s content columns. Holder proportion: %s"
+msgstr ""
+
+#: includes/class.rhc_post_info_metabox.php:217
+msgid "Content size / Image size"
+msgstr ""
+
+#: includes/class.rhc_post_info_metabox.php:219
+msgid "1/4 - 3/4"
+msgstr ""
+
+#: includes/class.rhc_post_info_metabox.php:219
+msgid "1/3 - 2/3"
+msgstr ""
+
+#: includes/class.rhc_post_info_metabox.php:219
+msgid "Half/Half"
+msgstr ""
+
+#: includes/class.rhc_post_info_metabox.php:219
+msgid "2/3 - 1/3"
+msgstr ""
+
+#: includes/class.rhc_post_info_metabox.php:219
+msgid "3/4 - 1/4"
+msgstr ""
+
+#: includes/class.rhc_post_info_metabox.php:250
+#: includes/class.rhc_post_info_metabox.prerhc15.php:177
+msgid "Label:"
+msgstr "Etichetta:"
+
+#: includes/class.rhc_post_info_metabox.php:254
+msgid "Width:"
+msgstr ""
+
+#: includes/class.rhc_post_info_metabox.php:257
+msgid "Half"
+msgstr ""
+
+#: includes/class.rhc_post_info_metabox.php:261
+#: includes/class.rhc_post_info_metabox.prerhc15.php:162
+#: includes/class.rhc_post_info_settings.prerhc15.php:270
+msgid "Type:"
+msgstr "Tipo:"
+
+#: includes/class.rhc_post_info_metabox.php:263
+#: includes/class.rhc_post_info_metabox.php:473
+#: includes/class.rhc_post_info_metabox.php:475
+#: includes/class.rhc_post_info_metabox.prerhc15.php:164
+#, fuzzy
+msgid "Label"
+msgstr "Etichetta:"
+
+#: includes/class.rhc_post_info_metabox.php:266
+#: includes/class.rhc_post_info_metabox.prerhc15.php:167
+#: includes/class.rhc_post_info_settings.prerhc15.php:274
+msgid "Taxonomy"
+msgstr "Tassonomia"
+
+#: includes/class.rhc_post_info_metabox.php:269
+#: includes/class.rhc_post_info_metabox.prerhc15.php:170
+#: includes/class.rhc_post_info_settings.prerhc15.php:277
+msgid "Taxonomy meta"
+msgstr "Taxonomy meta"
+
+#: includes/class.rhc_post_info_metabox.php:271
+#: includes/class.rhc_post_info_metabox.prerhc15.php:172
+#: includes/class.rhc_post_info_settings.prerhc15.php:279
+msgid "Post meta data"
+msgstr "Dati meta dell'articolo"
+
+#: includes/class.rhc_post_info_metabox.php:275
+msgid "Format:"
+msgstr ""
+
+#: includes/class.rhc_post_info_metabox.php:280
+msgid "PHP date format(optional):"
+msgstr ""
+
+#: includes/class.rhc_post_info_metabox.php:285
+#, fuzzy
+msgid "Custom:"
+msgstr "Personalizzato"
+
+#: includes/class.rhc_post_info_metabox.php:289
+#: includes/class.rhc_post_info_metabox.prerhc15.php:182
+msgid "Value:"
+msgstr "Valore:"
+
+#: includes/class.rhc_post_info_metabox.php:294
+msgid "Use rel=\"nofollow\" for link:"
+msgstr ""
+
+#: includes/class.rhc_post_info_metabox.php:303
+#: includes/class.rhc_post_info_metabox.prerhc15.php:188
+msgid "Taxonomy:"
+msgstr "Tassonomia:"
+
+#: includes/class.rhc_post_info_metabox.php:314
+#: includes/class.rhc_post_info_metabox.prerhc15.php:199
+#: includes/class.rhc_post_info_settings.prerhc15.php:306
+msgid "Taxonomy field:"
+msgstr "Campo tassonomia:"
+
+#: includes/class.rhc_post_info_metabox.php:329
+#: includes/class.rhc_post_info_metabox.prerhc15.php:214
+msgid "Meta fields:"
+msgstr "Campo meta:"
+
+#: includes/class.rhc_post_info_metabox.php:339
+#, fuzzy
+msgid "Add"
+msgstr "Aggiungi %s"
+
+#: includes/class.rhc_post_info_metabox.php:348
+msgid "This will restore the default template.  Any customization will be lost on all boxes."
+msgstr ""
+
+#: includes/class.rhc_post_info_metabox.php:348
+#, fuzzy
+msgid "Reset to default template"
+msgstr "Carica il template predefinito del luogo"
+
+#: includes/class.rhc_post_info_metabox.php:350
+msgid "This will replace the existing default fields with the layout set on this page for all boxes."
+msgstr ""
+
+#: includes/class.rhc_post_info_metabox.php:350
+#, fuzzy
+msgid "Save as default template"
+msgstr "Carica il template predefinito del luogo"
+
+#: includes/class.rhc_post_info_metabox.php:402
+msgid "You cannot edit this post."
+msgstr ""
+
+#: includes/class.rhc_post_info_metabox.prerhc15.php:107
+#: includes/class.rhc_post_info_metabox.prerhc15.php:108
+#: includes/class.rhc_post_info_metabox.prerhc15.php:109
+msgid "Additional info layout"
+msgstr "Informazioni addizionali sulla struttura"
+
+#: includes/class.rhc_post_info_settings.php:18
+#, fuzzy
+msgid "Apply default Event Detail Box"
+msgstr "Dettagli per contatto"
+
+#: includes/class.rhc_post_info_settings.php:19
+msgid "Apply default Venue Detail Box"
+msgstr ""
+
+#: includes/class.rhc_post_info_settings.php:20
+msgid "Apply default Dynamic Tooltip"
+msgstr ""
+
+#: includes/class.rhc_post_info_settings.php:103
+#: includes/class.rhc_post_info_settings.php:105
+#: includes/class.rhc_post_info_settings.prerhc15.php:43
+#: includes/class.rhc_post_info_settings.prerhc15.php:45
+msgid "Default event fields"
+msgstr "Campi evento predefiniti"
+
+#: includes/class.rhc_post_info_settings.php:104
+#: includes/class.rhc_post_info_settings.prerhc15.php:44
+msgid "Customize event fields"
+msgstr "Personalizza i campi degli eventi"
+
+#: includes/class.rhc_post_info_settings.php:111
+#: includes/class.rhc_post_info_settings.prerhc15.php:51
+msgid "Default post info fields"
+msgstr "Campi di informazioni predefiniti"
+
+#: includes/class.rhc_post_info_settings.php:116
+#: includes/class.rhc_post_info_settings.php:125
+#: includes/class.rhc_post_info_settings.prerhc15.php:71
+#: includes/class.rhc_post_info_settings.prerhc15.php:80
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: includes/class.rhc_post_info_settings.php:116
+#: includes/class.rhc_post_info_settings.php:133
+#: includes/class.rhc_post_info_settings.prerhc15.php:71
+#: includes/class.rhc_post_info_settings.prerhc15.php:88
+msgid "g:i a"
+msgstr "g:i a"
+
+#: includes/class.rhc_post_info_settings.php:117
+#: includes/class.rhc_post_info_settings.prerhc15.php:72
+msgid "Datetime, date and time format in this tab only applies to the start and end meta fields (start datetime, start date, start time, end datetime, end date, end time).  Because this values are rendered server side they follow the php <a href=\"http://php.net/manual/en/function.date.php\">date formatting syntax</a>."
+msgstr "I formati di data e ora, data e orario in questa tabella sono validi solo per l'inizio e fine dei campi meta (data e ora d'inizio, data d'inizio, orario d'inizio, data e ora di fine, data di fine, orario di fine). Dato che questi valori sono creati lato server, seguono la <a href=\"http://php.net/manual/it/function.date.php\">sintassi di formattazione date</a> del linguaggio PHP."
+
+#: includes/class.rhc_post_info_settings.php:118
+#: includes/class.rhc_post_info_settings.prerhc15.php:73
+msgid "Datetime format"
+msgstr "Formato data e ora"
+
+#: includes/class.rhc_post_info_settings.php:141
+#: includes/class.rhc_post_info_settings.php:192
+#, fuzzy
+msgid "Restore custom fields"
+msgstr "Personalizza i campi degli eventi"
+
+#: includes/class.rhc_post_info_settings.php:143
+msgid "If you have overwritten the default custom fields, use this button to restore the original set."
+msgstr ""
+
+#: includes/class.rhc_post_info_settings.php:144
+msgid "Observe that the default set is only used when creating new events.  Existing events will keep their current custom field layout."
+msgstr ""
+
+#: includes/class.rhc_post_info_settings.php:149
+#: includes/class.rhc_settings.php:644
+#, fuzzy
+msgid "Default"
+msgstr "predefinito"
+
+#: includes/class.rhc_post_info_settings.php:158
+msgid "Apply default to all events"
+msgstr ""
+
+#: includes/class.rhc_post_info_settings.php:160
+msgid "This option will apply and overwrite the custom field layout with the default one, on ALL events."
+msgstr ""
+
+#: includes/class.rhc_post_info_settings.php:161
+msgid "This operation may take a while to complete."
+msgstr ""
+
+#: includes/class.rhc_post_info_settings.php:162
+msgid "This operation cannot be undone. All the events custom field layout will be replaced!"
+msgstr ""
+
+#: includes/class.rhc_post_info_settings.php:167
+#, fuzzy
+msgid "Apply Default"
+msgstr "predefinito"
+
+#: includes/class.rhc_post_info_settings.php:205
+#, fuzzy
+msgid "Apply ALL default"
+msgstr "Applica filtri"
+
+#: includes/class.rhc_post_info_settings.prerhc15.php:64
+msgid "Default columns"
+msgstr "Colonne predefinite"
+
+#: includes/class.rhc_settings.php:123
+#: includes/class.rhc_settings.php:125
+msgid "Permalink settings"
+msgstr "Impostazioni permalink"
+
+#: includes/class.rhc_settings.php:124
+msgid "Modify permalinks"
+msgstr "Modifica permalink"
+
+#: includes/class.rhc_settings.php:132
+msgid "Events post type slug"
+msgstr "Slug per il tipo 'events'"
+
+#: includes/class.rhc_settings.php:139
+msgid "Calendar category slug"
+msgstr "Slug categoria calendario"
+
+#: includes/class.rhc_settings.php:146
+msgid "Venues slug"
+msgstr "Slug luoghi"
+
+#: includes/class.rhc_settings.php:153
+msgid "Organizers slug"
+msgstr "Slug organizzatori"
+
+#: includes/class.rhc_settings.php:161
+msgid "Visual calendar slug"
+msgstr "Slug calendario visuale"
+
+#: includes/class.rhc_settings.php:167
+msgid "Forced rewrite rules"
+msgstr "Regole di riscrittura forzate"
+
+#: includes/class.rhc_settings.php:169
+msgid "Choose yes if permalinks are not working.  It will attempt an alternative method of adding rewrite rules."
+msgstr "Scegliere sì se i permalink non funzionano. Si cercherà un metodo alternativo per aggiungere regole di riscrittura."
+
+#: includes/class.rhc_settings.php:177
+msgid "Enable calendar end point"
+msgstr "Abilita punto finale del calendario"
+
+#: includes/class.rhc_settings.php:179
+msgid "If permalinks are active, choose yes to be able to append /calendar/ to the url to load a calendar for that particular post type, example yourdomain.com/events/calendar/ will display the calendar without the need to setup the shortcode on a page."
+msgstr "Se i permalinks sono attivi, scegliere sì per aggiungere /calendar/ all'URL e caricare un calendario per quel tipo di articolo, ad esempio tuodominio.it/events/calendar/ mostrerà il calendario senza dover aggiungere uno shortcode in quella pagina."
+
+#: includes/class.rhc_settings.php:180
+msgid "If you have a page with permalink /events/calendar/ you may need to disable this, as it takes precedence over the page permlink."
+msgstr "Se è presente una pagina che ha come permalink /events/calendar/ si può avere necessità di disabilitare questa opzione, dato che ha la precedenza sul permalink della pagina."
+
+#: includes/class.rhc_settings.php:201
+#: includes/class.rhc_settings.php:203
+msgid "Custom Post Types"
+msgstr "Tipi di articolo personalizzato"
+
+#: includes/class.rhc_settings.php:202
+msgid "Enable calendar metabox for other post types."
+msgstr "Abilita i metabox di Calendarize negli altri tipi di articolo"
+
+#: includes/class.rhc_settings.php:210
+#, fuzzy
+msgid "Calendarize metabox"
+msgstr "Calendarize It"
+
+#: includes/class.rhc_settings.php:223
+#: includes/class.rhc_settings.php:259
+msgid "There are no additional Post Types to enable."
+msgstr "Non ci sono tipi di articolo addizionali da abilitare."
+
+#: includes/class.rhc_settings.php:239
+msgid "Calendarizer metabox can be enabled for other post types.  Check the post types, where you want the calendar metabox to be displayed."
+msgstr "I metabox di Calendarize It possono essere abilitati per altri tipi di articoli. Verificare il tipo di articolo, dove si vogliono far comparire i metabox del calendario."
+
+#: includes/class.rhc_settings.php:253
+#, fuzzy
+msgid "Events & Venue Detail box"
+msgstr "Dettagli per contatto"
+
+#: includes/class.rhc_settings.php:276
+#, fuzzy
+msgid "Check post types for wich you want to enable the detail box metabox."
+msgstr "Verifica il nome del tipo di articolo per il quale si vuole abilitare la tassonomia personalizzata."
+
+#: includes/class.rhc_settings.php:277
+msgid "You will need to manually add the [rhc_post_info] shortcode."
+msgstr ""
+
+#: includes/class.rhc_settings.php:292
+msgid "Other integration settings"
+msgstr "Altre impostazioni di integrazione"
+
+#: includes/class.rhc_settings.php:297
+msgid "Show all post types in calendar"
+msgstr "Mostra tutti i tipi di articolo nel calendario"
+
+#: includes/class.rhc_settings.php:298
+msgid "By default the calendarizeit shortcode only displays one custom post type (events by default), and you need to set the post_type value to show a diferent post type.  Choose yes if you want to display all enabled post types by default."
+msgstr "Lo shortcode di Calendarize visualizza di default solamente un tipo di articolo (events), scegliere sì se si desidera visualizzare tutti i tipi di articolo abilitati sul sito."
+
+#: includes/class.rhc_settings.php:347
+#: includes/class.rhc_settings.php:349
+#, fuzzy
+msgid "Events cache"
+msgstr "Calendario eventi"
+
+#: includes/class.rhc_settings.php:348
+msgid "Enable and configure event ajax caching."
+msgstr ""
+
+#: includes/class.rhc_settings.php:359
+#, fuzzy
+msgid "Disable events cache"
+msgstr "Disabilita la ricerca degli eventi"
+
+#: includes/class.rhc_settings.php:362
+msgid "Event cache is active by default, choose yes to turn off the server side events cache."
+msgstr ""
+
+#: includes/class.rhc_settings.php:373
+#, fuzzy
+msgid "Expiration minutes"
+msgstr "Blocco minuti"
+
+#: includes/class.rhc_settings.php:374
+msgid "By default set to 10080 (1 week).  Represents how long to wait before a cached event query is expired."
+msgstr ""
+
+#: includes/class.rhc_settings.php:382
+msgid "External sources cache"
+msgstr ""
+
+#: includes/class.rhc_settings.php:385
+msgid "Enable cache for external sources"
+msgstr ""
+
+#: includes/class.rhc_settings.php:396
+#, fuzzy
+msgid "External Sources Expiration minutes"
+msgstr "Blocco minuti"
+
+#: includes/class.rhc_settings.php:397
+msgid "By default set to 120 (2 hours).  If set too hight, it will take a while do detect new events."
+msgstr ""
+
+#: includes/class.rhc_settings.php:405
+msgid "Cache by user"
+msgstr ""
+
+#: includes/class.rhc_settings.php:408
+msgid "Turned off by default.  Choose yes if you have plugins or addons that may modify the content of events based on what user is logged in.  This increases the size of the cache, so only choose yes if needed."
+msgstr ""
+
+#: includes/class.rhc_settings.php:418
+msgid "File cache (Experimental)"
+msgstr ""
+
+#: includes/class.rhc_settings.php:421
+msgid "Local events will be saved to files.  Turning this option on will attempt to write to htaccess.  Only available with apache mod rewrite."
+msgstr ""
+
+#: includes/class.rhc_settings.php:432
+#: includes/class.rhc_settings.php:1069
+#, fuzzy
+msgid "Clear Cache"
+msgstr "cancella valore"
+
+#: includes/class.rhc_settings.php:434
+msgid "Click to clear calendar ajax cache."
+msgstr ""
+
+#: includes/class.rhc_settings.php:458
+#: includes/class.rhc_settings.php:459
+#: includes/class.rhc_settings.php:460
+msgid "Troubleshooting"
+msgstr "Risoluzione dei problemi"
+
+#: includes/class.rhc_settings.php:466
+msgid "Ignore WordPress Standard"
+msgstr "Ignora gli standard WordPress"
+
+#: includes/class.rhc_settings.php:469
+msgid "Choose yes only if you are getting a 404 page when trying to get an event page."
+msgstr "Scegliere sì solamente se si riceve un errore 404 quando tenta di accedere alla pagina di un evento."
+
+#: includes/class.rhc_settings.php:470
+msgid "If you choose yes and the event starts showing, it means that the theme or a plugin is not following a standard in regards to register_post_type and flush_rewrite_rules.  Under certain circumstances it could also affecting website performance."
+msgstr "Se si sceglie sì e gli eventi compaiono, significa che il tema o un qualche plugin non seguono lo standard per quanto riguarda register_post_type e flush_rewrite_rules. In alcune circostanze le prestazioni del sito potrebbero risentirne."
+
+#: includes/class.rhc_settings.php:479
+msgid "Enable thumbnail support"
+msgstr "Abilita supporto Immagine in evidenza"
+
+#: includes/class.rhc_settings.php:481
+msgid "Choose yes only if the thumbnail metabox is not showing when you edit event.  Usually themes enable this."
+msgstr "Scegliere sì solamente se il metabox della miniatura non compare quando si modifica un evento. Di solito sono i temi ad abilitare questa opzione."
+
+#: includes/class.rhc_settings.php:489
+msgid "Enable debug"
+msgstr "Abilita debug"
+
+#: includes/class.rhc_settings.php:491
+msgid "Choose yes to display a debug menu.  This provide technical information that support can use to troubleshoot problems."
+msgstr "Scegliere sì per visualizzare un menu di debug, che fornisce informazioni tecniche che l'assistenza può utilizzare per risolvere problemi."
+
+#: includes/class.rhc_settings.php:499
+msgid "Debug css and javascript"
+msgstr ""
+
+#: includes/class.rhc_settings.php:501
+msgid "Choose yes to load javascript and css files that are not minified, for easier debugging."
+msgstr ""
+
+#: includes/class.rhc_settings.php:510
+msgid "Api url"
+msgstr "URL API"
+
+#: includes/class.rhc_settings.php:511
+msgid "On some setups, wordpress is installed in a non-standard way and causes the site_url() function to return a value that is diferent from the real url, causing the browser to reject the ajax.  You need to add rhc_action=get_calendar_events to the query string."
+msgstr "In alcune configurazioni, WordPress è installato in modo non standard e induce la funzione site_url() a ritornare un valore che è differente dall'indirizzo reale, provocando il rifiuto dell'AJAX da parte del browser. Occorre aggiungere rhc_action=get_calendar_events alla query string."
+
+#: includes/class.rhc_settings.php:518
+msgid "Scripts in footer"
+msgstr ""
+
+#: includes/class.rhc_settings.php:521
+msgid "Choose yes if you want this plugin scripts loaded in the footer."
+msgstr ""
+
+#: includes/class.rhc_settings.php:530
+#, fuzzy
+msgid "Disable bootstrap"
+msgstr "Disabilita la tassonomia %s"
+
+#: includes/class.rhc_settings.php:533
+msgid "Choose yes to avoid loading the bundled bootstrap."
+msgstr ""
+
+#: includes/class.rhc_settings.php:546
+#, fuzzy
+msgid "Events ajax"
+msgstr "Eventi"
+
+#: includes/class.rhc_settings.php:551
+msgid "Enable ajax data shrink"
+msgstr ""
+
+#: includes/class.rhc_settings.php:554
+msgid "Ajax data shrink is a new feature introduced on version 2.7.4, it reduces the ajax data size.  Choose no if you want to disable this feature."
+msgstr ""
+
+#: includes/class.rhc_settings.php:564
+#, fuzzy
+msgid "Preload data"
+msgstr "Dati meta dell'articolo"
+
+#: includes/class.rhc_settings.php:567
+msgid "The first set of data in a calendar view will be preloaded.  Choose no if you do not want to preload events by default."
+msgstr ""
+
+#: includes/class.rhc_settings.php:577
+#, fuzzy
+msgid "Suppress filters"
+msgstr "Applica filtri"
+
+#: includes/class.rhc_settings.php:580
+msgid "This option was added specifically for partial compatibility with the qtranslate plugin.  Turning it on may break third party plugins that modify event content.  The qtranslate slug plugin is also need for further compatibility."
+msgstr ""
+
+#: includes/class.rhc_settings.php:595
+msgid "jQuery UI"
+msgstr ""
+
+#: includes/class.rhc_settings.php:600
+msgid "Frontend jQuery UI version"
+msgstr ""
+
+#: includes/class.rhc_settings.php:602
+msgid "Specify the jQuery UI version to load in the frontend and backend.  By default it loads 1.9.0 on WP3.5 and higher and 1.8.22 on pre WP3.5"
+msgstr ""
+
+#: includes/class.rhc_settings.php:603
+msgid "If you choose to skip loading the bundled jQuery UI, you need to make sure that the theme or plugin loads it."
+msgstr ""
+
+#: includes/class.rhc_settings.php:608
+#: includes/class.rhc_settings.php:626
+#, fuzzy
+msgid "Auto"
+msgstr "Personalizzato"
+
+#: includes/class.rhc_settings.php:609
+#: includes/class.rhc_settings.php:627
+msgid "jQuery UI 1.9.0"
+msgstr ""
+
+#: includes/class.rhc_settings.php:610
+#: includes/class.rhc_settings.php:628
+msgid "jQuery UI 1.8.22"
+msgstr ""
+
+#: includes/class.rhc_settings.php:611
+#: includes/class.rhc_settings.php:629
+msgid "jQuery UI 1.10.3"
+msgstr ""
+
+#: includes/class.rhc_settings.php:612
+#: includes/class.rhc_settings.php:630
+msgid "Do not load bundled jQuery UI"
+msgstr ""
+
+#: includes/class.rhc_settings.php:613
+#: includes/class.rhc_settings.php:631
+msgid "Load current WordPress jQuery UI"
+msgstr ""
+
+#: includes/class.rhc_settings.php:622
+#, fuzzy
+msgid "Backend jQuery UI version"
+msgstr "Calendarize It versione"
+
+#: includes/class.rhc_settings.php:640
+msgid "Registration api url"
+msgstr ""
+
+#: includes/class.rhc_settings.php:642
+#, fuzzy
+msgid "This option is currently not available."
+msgstr "Servizio di notifica non disponibile."
+
+#: includes/class.rhc_settings.php:653
+#, fuzzy
+msgid "Upcoming events widget"
+msgstr "Prossimi eventi"
+
+#: includes/class.rhc_settings.php:657
+#, fuzzy
+msgid "Use original upcoming events widget."
+msgstr "Non ci sono eventi in programma in questo intervallo di date"
+
+#: includes/class.rhc_settings.php:660
+msgid "If you experience problems with the upcoming events widget after updating, use this option to go back to the original upcoming events widget code."
+msgstr ""
+
+#: includes/class.rhc_settings.php:669
+msgid "Use author dropdown in settings."
+msgstr ""
+
+#: includes/class.rhc_settings.php:672
+msgid "Choose No in sites with too many users so that an open text field is shown in the Upcoming Events Widget settings instead of a dropdon for the author attribute."
+msgstr ""
+
+#: includes/class.rhc_settings.php:686
+#, fuzzy
+msgid "Improved events query"
+msgstr "Rimuovi evento per"
+
+#: includes/class.rhc_settings.php:690
+#, fuzzy
+msgid "Ajax events query version."
+msgstr "Calendarize It versione"
+
+#: includes/class.rhc_settings.php:693
+#, fuzzy
+msgid "Version 3.1.4"
+msgstr "Versione"
+
+#: includes/class.rhc_settings.php:694
+msgid "Requires PHP 5.3 or greater.  If PHP requirement is not met, will fallback to version 2.4.4.  Uses a supplementary wp_rhc_events table for faster querying of recurring events"
+msgstr ""
+
+#: includes/class.rhc_settings.php:695
+#: includes/class.rhc_settings.php:700
+#, fuzzy
+msgid "Version 2.4.4"
+msgstr "Versione"
+
+#: includes/class.rhc_settings.php:696
+msgid "Implemented a pair of post meta data that defined the event range start and end.  Faster than the original query methods."
+msgstr ""
+
+#: includes/class.rhc_settings.php:699
+msgid "Latest version (3.1.4)"
+msgstr ""
+
+#: includes/class.rhc_settings.php:701
+msgid "Original"
+msgstr ""
+
+#: includes/class.rhc_settings.php:710
+msgid "Force ajax install."
+msgstr ""
+
+#: includes/class.rhc_settings.php:713
+msgid "Turning this option will reset the internal ajax version so that it re-installs needed tables and re-generate event recurring dates."
+msgstr ""
+
+#: includes/class.rhc_settings.php:729
+msgid "Ajax catch php warnings."
+msgstr ""
+
+#: includes/class.rhc_settings.php:731
+msgid "Choose yes if the calendar is rendered but events are not showing.  You can verify the browser console, and check if the ajax dat is returned with a php warning.  If that is the case, turning on this option will try to catch and discard the warning so it doesnt breaks the expected calendar data."
+msgstr ""
+
+#: includes/class.rhc_settings.php:739
+msgid "Force disable browser cache"
+msgstr ""
+
+#: includes/class.rhc_settings.php:741
+msgid "Force disable browser cache."
+msgstr ""
+
+#: includes/class.rhc_settings.php:751
+#, fuzzy
+msgid "Disable iCal UTC"
+msgstr "Disabilita link del titolo"
+
+#: includes/class.rhc_settings.php:754
+msgid "Up to version 2.4.4 ical dates where set in local time.  Latest version default converts dtstart, dtend, rdate and exrdate to UTC depending on the configured offset in WordPress settings.  Choose yes to disable converting dates."
+msgstr ""
+
+#: includes/class.rhc_settings.php:764
+#, fuzzy
+msgid "Disable loading google map api"
+msgstr "Dettagli per Google Maps"
+
+#: includes/class.rhc_settings.php:767
+msgid "Choose yes if you are using another plugin or if the theme loads google maps api."
+msgstr ""
+
+#: includes/class.rhc_settings.php:778
+msgid "Load Scripts and Styles on page id"
+msgstr ""
+
+#: includes/class.rhc_settings.php:779
+msgid "Specify comma separated page ids where you wich the calendarize it scripts and styles to be loaded.  Please observe that upcoming events widget needs them also."
+msgstr ""
+
+#: includes/class.rhc_settings.php:791
+#, fuzzy
+msgid "Theme integration"
+msgstr "Integrazione del template"
+
+#: includes/class.rhc_settings.php:796
+#, fuzzy
+msgid "Theme meta fields"
+msgstr "Campo meta:"
+
+#: includes/class.rhc_settings.php:797
+msgid "Specify comma separated meta field names used by the theme to store layout information per post.  This is used if for example the theme allows to configure a sidebar per page, but it is not showing in the event page although it has been configured on the template."
+msgstr ""
+
+#: includes/class.rhc_settings.php:809
+msgid "Compatibility fixes"
+msgstr ""
+
+#: includes/class.rhc_settings.php:814
+msgid "Unwanted content in venuebox"
+msgstr ""
+
+#: includes/class.rhc_settings.php:817
+msgid "Choose yes if unwanted content is rendered in the venuebox or any other taxonomy related field."
+msgstr ""
+
+#: includes/class.rhc_settings.php:818
+msgid "Usually this is associated with plugins or themes that append content to a post, like sharing bars or forms."
+msgstr ""
+
+#: includes/class.rhc_settings.php:837
+msgid "Use uploads as temp folder"
+msgstr ""
+
+#: includes/class.rhc_settings.php:840
+msgid "Turn this option ON if you are getting the error message \"There was an error extracting the bundled resources\" when downloading addons."
+msgstr ""
+
+#: includes/class.rhc_settings.php:841
+msgid "This option was originally created for IIS hosted sites that have problem downloading DLC."
+msgstr ""
+
+#: includes/class.rhc_settings.php:855
+msgid "Single event (version 2)"
+msgstr ""
+
+#: includes/class.rhc_settings.php:860
+msgid "Apply the_content filter to the Event page content"
+msgstr ""
+
+#: includes/class.rhc_settings.php:863
+msgid "This option may fix issues where sharing buttons are not showing on the event page."
+msgstr ""
+
+#: includes/class.rhc_settings.php:873
+msgid "Menu Position (number)"
+msgstr ""
+
+#: includes/class.rhc_settings.php:874
+msgid "If the calendarize menu does not show in the admin menu, use this option to change its position.  For cases where other plugins overwrite Calendarize It! menu position."
+msgstr ""
+
+#: includes/class.rhc_settings.php:882
+#, fuzzy
+msgid "Disable static event list."
+msgstr "Disabilita link evento"
+
+#: includes/class.rhc_settings.php:885
+msgid "A static list of events is rendered in a noscript tag for people browsing the calendar without javascript.  This makes the events visible to search enginges too."
+msgstr ""
+
+#: includes/class.rhc_settings.php:895
+#, fuzzy
+msgid "Clear event colors."
+msgstr "Vista lista di eventi calendario"
+
+#: includes/class.rhc_settings.php:897
+msgid "This action cannot be undone!"
+msgstr ""
+
+#: includes/class.rhc_settings.php:898
+msgid "The text color and color background of all events will be cleared.  This action includes custom post types that have been calendarized."
+msgstr ""
+
+#: includes/class.rhc_settings.php:904
+#, fuzzy
+msgid "Clear all event colors"
+msgstr "Vista lista di eventi calendario"
+
+#: includes/class.rhc_settings.php:918
+msgid "Upgrading bugs"
+msgstr ""
+
+#: includes/class.rhc_settings.php:923
+#: includes/class.rhc_settings.php:951
+msgid "WP 4.1 cannot delete events"
+msgstr ""
+
+#: includes/class.rhc_settings.php:925
+msgid "After upgrading to WP 4.1, as an admin you cannot edit or trash events created by other users before the upgrade."
+msgstr ""
+
+#: includes/class.rhc_settings.php:953
+#, fuzzy
+msgid "Click to fix"
+msgstr "Il clic rimanda a"
+
+#: includes/class.rhc_settings.php:961
+msgid "This action cannot be undone!  Confirm to remove all event font color and background color."
+msgstr ""
+
+#: includes/class.rhc_settings.php:962
+msgid "Clear all event colors."
+msgstr ""
+
+#: includes/class.rhc_settings.php:984
+msgid "Error trying to create cache table."
+msgstr ""
+
+#: includes/class.rhc_static_upcoming_events.php:62
+msgid "This shortcode requires that the latest version of \"Ajax events query version.\" is enabled."
+msgstr ""
+
+#: includes/class.rhc_styles_and_scripts.php:248
+#: includes/class.rhc_tax_settings.php:22
+#: includes/class.rhc_template_frontend.php:651
+#: includes/class.rhc_venues.php:30
+#: includes/class.righthere_calendar.php:28
+msgid "Venues"
+msgstr "Luoghi"
+
+#: includes/class.rhc_tax_settings.php:30
+#: includes/class.rhc_tax_settings.php:31
+#: includes/class.rhc_tax_settings.php:32
+msgid "Calendarize taxonomies"
+msgstr "Tassonomie Calendarize"
+
+#: includes/class.rhc_tax_settings.php:40
+msgid "Enable calendarize-it taxonomies"
+msgstr "Abilita tassonomie di Calendarize It"
+
+#: includes/class.rhc_tax_settings.php:41
+msgid "Check the post type name for wich you want to enable the custom taxonomy."
+msgstr "Verifica il nome del tipo di articolo per il quale si vuole abilitare la tassonomia personalizzata."
+
+#: includes/class.rhc_tax_settings.php:95
+msgid "Disable calendarize taxonomies"
+msgstr "Disabilita tassonomia di Calendarize It"
+
+#: includes/class.rhc_tax_settings.php:96
+msgid "Use this options if you want to disable some of the calendarize-it built in taxonomies."
+msgstr "Usare questa opzione se si vogliono disabilitare le tassonomie integrate di Calendarize It."
+
+#: includes/class.rhc_tax_settings.php:102
+#, php-format
+msgid "Disable %s taxonomy"
+msgstr "Disabilita la tassonomia %s"
+
+#: includes/class.rhc_tax_settings.php:119
+#, fuzzy
+msgid "Backend Event List Taxonomies"
+msgstr "Tassonomie Calendarize"
+
+#: includes/class.rhc_tax_settings.php:121
+msgid "Check taxonomies that you would like to remove from the backend event list."
+msgstr ""
+
+#: includes/class.rhc_tax_settings.php:122
+msgid "On some sites, a large number of custom taxonomies makes the backend event list page to load very slow."
+msgstr ""
+
+#: includes/class.rhc_tax_settings.php:132
+#, fuzzy, php-format
+msgid "Disable taxonomy %s"
+msgstr "Disabilita la tassonomia %s"
+
+#: includes/class.rhc_tax_settings.php:151
+#, fuzzy, php-format
+msgid "Disable linked taxonomy %s"
+msgstr "Disabilita la tassonomia %s"
+
+#: includes/class.rhc_template_frontend.php:712
+msgid "Telephone"
+msgstr "Telefono"
+
+#: includes/class.rhc_venues.php:32
+msgid "Search Venue"
+msgstr "Cerca luogo"
+
+#: includes/class.rhc_venues.php:33
+msgid "Popular Venue"
+msgstr "Luoghi più utilizzati"
+
+#: includes/class.rhc_venues.php:34
+msgid "All venues"
+msgstr "Tutti i luoghi"
+
+#: includes/class.rhc_venues.php:37
+msgid "Edit venue"
+msgstr "Modifica luogo"
+
+#: includes/class.rhc_venues.php:38
+msgid "Update venue"
+msgstr "Aggiorna luogo"
+
+#: includes/class.rhc_venues.php:39
+msgid "Add venue"
+msgstr "Aggiungi luogo"
+
+#: includes/class.rhc_venues.php:40
+msgid "New venue"
+msgstr "Nuovo luogo"
+
+#: includes/class.righthere_calendar.php:92
+#: includes/class.righthere_calendar.php:95
+#: includes/class.righthere_calendar.php:96
+#: includes/class.righthere_calendar.php:97
+msgid "Events"
+msgstr "Eventi"
+
+#: includes/class.righthere_calendar.php:94
+msgid "Calendarize It"
+msgstr "Calendarize It"
+
+#: includes/class.righthere_calendar.php:98
+#: includes/class.righthere_calendar.php:105
+msgid "Add new event"
+msgstr "Aggiungi nuovo evento"
+
+#: includes/class.righthere_calendar.php:99
+msgid "Edit event"
+msgstr "Modifica evento"
+
+#: includes/class.righthere_calendar.php:100
+msgid "New event"
+msgstr "Nuovo evento"
+
+#: includes/class.righthere_calendar.php:101
+msgid "View event"
+msgstr "Visualizza evento"
+
+#: includes/class.righthere_calendar.php:102
+msgid "Search events"
+msgstr "Cerca eventi"
+
+#: includes/class.righthere_calendar.php:103
+msgid "No events found"
+msgstr "Nessun evento trovato"
+
+#: includes/class.righthere_calendar.php:104
+msgid "No events found in trash"
+msgstr "Nessun evento trovato nel cestino"
+
+#: includes/class.righthere_calendar.php:239
+msgid "Event start (YYYY-mm-dd)"
+msgstr "Inizio evento (YYYY-mm-dd)"
+
+#: includes/class.righthere_calendar.php:239
+msgid "You can also write the year only, or the year and the month.  Example 2012-06 to get events from june 6."
+msgstr "Si può anche scrivere solo l'anno, oppure l'anno e il mese. Esempio 2012-06 per ottenere eventi dal 6 giugno."
+
+#: includes/class.righthere_calendar.php:241
+#: includes/class.righthere_calendar.php:244
+#: includes/class.righthere_calendar.php:247
+msgid "show all"
+msgstr "mostra tutto"
+
+#: includes/class.shortcode_calendarize.calendarize.php:23
+msgid "detail"
+msgstr "dettaglio"
+
+#: includes/class.shortcode_calendarize.calendarize.php:25
+#, fuzzy
+msgid "Year"
+msgstr "cancella"
+
+#: includes/class.shortcode_calendarize.calendarize.php:146
+msgid "all-day"
+msgstr "tutto il giorno"
+
+#: includes/class.shortcode_calendarize.calendarize.php:154
+#: includes/class.shortcode_calendarize.calendarize.php:155
+#: includes/class.shortcode_calendarize.php:794
+#: includes/class.shortcode_calendarize.php:796
+msgid "iCal Feed"
+msgstr "Feed iCal"
+
+#: includes/class.shortcode_calendarize.calendarize.php:156
+#: includes/class.shortcode_calendarize.php:795
+#, fuzzy
+msgid "Get Feed for iCal (Google Calendar). This is for subscribing to the events in the Calendar. Add this URL to either iCal (Mac) or Google Calendar, or any other calendar that supports iCal Feed."
+msgstr "Ottenere il feed per iCal (Google Calendar). Serve ad abbonarsi agli eventi del calendario. Aggiungere questo URL ad iCal (Mac) o a Google Calendar, o qualsiasi altro calendario che supporta i feed iCal."
+
+#: includes/class.shortcode_calendarize.calendarize.php:202
+#, fuzzy
+msgid "Search"
+msgstr "Cerca %s"
+
+#: includes/class.shortcode_calendarize.php:421
+#, fuzzy
+msgid "Older events"
+msgstr "Cerca eventi"
+
+#: includes/class.shortcode_calendarize.php:421
+msgid "Previous events"
+msgstr ""
+
+#: includes/class.shortcode_calendarize.php:428
+#, fuzzy
+msgid "Next events"
+msgstr "Nuovo evento"
+
+#: includes/class.shortcode_calendarize.php:740
+msgid "No filters available."
+msgstr "Nessun filtro disponibile."
+
+#: includes/class.shortcode_calendarize.php:770
+#: includes/class.shortcode_calendarize.php:833
+#, fuzzy
+msgid "iCal feed URL"
+msgstr "Feed iCal"
+
+#: includes/class.shortcode_calendarize.php:775
+msgid "Copy feed url to clipboard"
+msgstr ""
+
+#: includes/class.shortcode_calendarize.php:776
+#: includes/class.shortcode_calendarize.php:838
+#, fuzzy
+msgid "Download ICS file"
+msgstr "Scaricati"
+
+#: includes/class.shortcode_calendarize.php:829
+msgid "Close dialog"
+msgstr ""
+
+#: includes/class.UpcomingEvents_Widget.php:14
+msgid "Calendarize (Upcoming Events)"
+msgstr "Calendarize (Prossimi eventi)"
+
+#: includes/class.UpcomingEvents_Widget.php:15
+msgid "Upcoming events"
+msgstr "Prossimi eventi"
+
+#: includes/class.UpcomingEvents_Widget.php:534
+msgid "Post type"
+msgstr "Tipo di articolo"
+
+#: includes/class.UpcomingEvents_Widget.php:550
+#, fuzzy
+msgid "Event taxonomies:"
+msgstr "Tassonomie Calendarize"
+
+#: includes/class.UpcomingEvents_Widget.php:560
+#, fuzzy
+msgid "Custom taxonomies:"
+msgstr "Tassonomie Calendarize"
+
+#: includes/class.UpcomingEvents_Widget.php:565
+msgid "*Overwrites event taxonomies filter."
+msgstr ""
+
+#: includes/class.UpcomingEvents_Widget.php:568
+#, fuzzy
+msgid "Terms"
+msgstr "Tema"
+
+#: includes/class.UpcomingEvents_Widget.php:573
+msgid "Max number of posts"
+msgstr "Numero massimo di articoli"
+
+#: includes/class.UpcomingEvents_Widget.php:578
+msgid "Max description word count"
+msgstr "Numero massimo di parole nella descrizione"
+
+#: includes/class.UpcomingEvents_Widget.php:583
+msgid "Remove event by"
+msgstr "Rimuovi evento per"
+
+#: includes/class.UpcomingEvents_Widget.php:585
+msgid "Hour"
+msgstr "Ora"
+
+#: includes/class.UpcomingEvents_Widget.php:586
+#, fuzzy
+msgid "Ending hour"
+msgstr "Fine conteggio"
+
+#: includes/class.UpcomingEvents_Widget.php:592
+#, fuzzy
+msgid "Days in the past"
+msgstr "giorni del mese"
+
+#: includes/class.UpcomingEvents_Widget.php:597
+msgid "Show featured image"
+msgstr "Mostra Immagine in evidenza"
+
+#: includes/class.UpcomingEvents_Widget.php:599
+msgid "No image"
+msgstr "Nessuna immagine"
+
+#: includes/class.UpcomingEvents_Widget.php:600
+msgid "Show image"
+msgstr "Mostra immagine"
+
+#: includes/class.UpcomingEvents_Widget.php:605
+msgid "Loading method"
+msgstr "Metodo di caricamento"
+
+#: includes/class.UpcomingEvents_Widget.php:607
+msgid "Server side"
+msgstr "Lato server"
+
+#: includes/class.UpcomingEvents_Widget.php:608
+msgid "Ajax"
+msgstr "AJAX"
+
+#: includes/class.UpcomingEvents_Widget.php:613
+msgid "Specific date (Y-m-d)"
+msgstr ""
+
+#: includes/class.UpcomingEvents_Widget.php:618
+msgid "Specific date End (Y-m-d)"
+msgstr ""
+
+#: includes/class.UpcomingEvents_Widget.php:623
+msgid "Only related events."
+msgstr "Solo eventi correlati."
+
+#: includes/class.UpcomingEvents_Widget.php:625
+msgid "If the loaded page is a calendar, venue or organizer (taxonomy), only show events from the same taxonomy."
+msgstr "Se la pagina caricata è un calendario, luogo od organizzatore (tassonomia), mostra solamente glie eventi della stessa tassonomia."
+
+#: includes/class.UpcomingEvents_Widget.php:628
+#, fuzzy
+msgid "Only premiere events."
+msgstr "Solo eventi correlati."
+
+#: includes/class.UpcomingEvents_Widget.php:630
+#, fuzzy
+msgid "disabled"
+msgstr "Variabile"
+
+#: includes/class.UpcomingEvents_Widget.php:631
+msgid "Premiere date"
+msgstr ""
+
+#: includes/class.UpcomingEvents_Widget.php:632
+msgid "First date in range"
+msgstr ""
+
+#: includes/class.UpcomingEvents_Widget.php:635
+msgid "Premiere:  The first event in a series."
+msgstr ""
+
+#: includes/class.UpcomingEvents_Widget.php:636
+msgid "First date in range:  Show only the first repetition of an event in the requested range"
+msgstr ""
+
+#: includes/class.UpcomingEvents_Widget.php:654
+#, fuzzy
+msgid "Author"
+msgstr "Personalizzato"
+
+#: includes/class.UpcomingEvents_Widget.php:657
+msgid "Any user"
+msgstr ""
+
+#: includes/class.UpcomingEvents_Widget.php:658
+msgid "Logged user"
+msgstr ""
+
+#: includes/debug.php:97
+#, php-format
+msgid "%s database table not found."
+msgstr ""
+
+#: includes/debug.php:101
+#, php-format
+msgid "%s database table exists. Contains %s records."
+msgstr ""
+
+#: includes/debug.php:112
+#, php-format
+msgid "Options contains %s records."
+msgstr ""
+
+#: includes/debug.php:121
+#, php-format
+msgid "Posts contains %s records."
+msgstr ""
+
+#: includes/debug.php:130
+#, php-format
+msgid "Postmeta contains %s records."
+msgstr ""
+
+#: includes/debug.php:144
+msgid "Event template does not have any meta data."
+msgstr ""
+
+#: includes/debug.php:147
+#, fuzzy
+msgid "Event template not set"
+msgstr "Disabilita template evento"
+
+#: includes/debug.php:153
+msgid "WordPress version"
+msgstr "Versione di WordPress"
+
+#: includes/debug.php:154
+msgid "Calendarize It version"
+msgstr "Calendarize It versione"
+
+#: includes/debug.php:155
+#, fuzzy
+msgid "PHP version"
+msgstr "Versione"
+
+#: includes/debug.php:156
+msgid "Template path"
+msgstr "Percorso template"
+
+#: includes/debug.php:157
+msgid "Saved options"
+msgstr "Opzioni salvate"
+
+#: includes/debug.php:158
+msgid "Loaded options"
+msgstr "Opzioni caricate"
+
+#: includes/debug.php:159
+msgid "Saved Rewrite rules"
+msgstr "Regole di riscrittura salvate"
+
+#: includes/debug.php:160
+msgid "Loaded $wp_rewrite"
+msgstr "$wp_rewrite caricato"
+
+#: includes/debug.php:161
+msgid "Rewrite rules as returned by $wp_rewrite->rewrite_rules()"
+msgstr "Riscrive le regole come restituite da $wp_rewrite->rewrite_rules()"
+
+#: includes/debug.php:162
+msgid ".htaccess content"
+msgstr "Contenuto .htaccess"
+
+#: includes/debug.php:163
+msgid "Published calendar (pages containing calendarizeit shortcode)"
+msgstr "Calendario pubblicato (pagine contenenti shortcode di calendarizeit)"
+
+#: includes/debug.php:164
+#, fuzzy
+msgid "fc_range_set meta data"
+msgstr "Dati meta dell'articolo"
+
+#: includes/debug.php:165
+msgid "Version 3.1.4 ajax query"
+msgstr ""
+
+#: includes/debug.php:166
+#, fuzzy
+msgid "Options row count"
+msgstr "Opzioni salvate."
+
+#: includes/debug.php:167
+msgid "Posts row count"
+msgstr ""
+
+#: includes/debug.php:168
+#, fuzzy
+msgid "Postmeta row count"
+msgstr "Dati meta dell'articolo"
+
+#: includes/debug.php:169
+#, fuzzy
+msgid "Event template meta data"
+msgstr "Disabilita template evento"
+
+#: includes/debug.php:183
+#, php-format
+msgid "Unknown function %s"
+msgstr "Funzione %s sconosciuta"
+
+#: includes/functions.template.php:46
+msgid "Larger map"
+msgstr "Mappa più grande"
+
+#: includes/meta_fields_default_labels.php:11
+msgid "All day"
+msgstr "Tutto il giorno"
+
+#: includes/meta_fields_default_labels.php:12
+#: includes/quick_icons.php:50
+msgid "Start datetime"
+msgstr "Orario di inizio"
+
+#: includes/meta_fields_default_labels.php:15
+#: includes/quick_icons.php:74
+msgid "End datetime"
+msgstr "Data e ora di fine"
+
+#: includes/meta_fields_default_labels.php:18
+#: includes/quick_icons.php:82
+#: includes/quick_icons.php:84
+#, fuzzy
+msgid "Excerpt"
+msgstr "Eccetto"
+
+#: includes/meta_fields_default_labels.php:19
+msgid "Group start"
+msgstr ""
+
+#: includes/meta_fields_default_labels.php:20
+msgid "Group end"
+msgstr ""
+
+#: includes/organizer_meta_fields.php:12
+#: includes/venue_meta_fields.php:12
+msgid "HTML Description"
+msgstr "Descrizione HTML"
+
+#: includes/organizer_meta_fields.php:13
+msgid "The description of the organizer, will be used in the organizer page content."
+msgstr "La descrizione dell'organizzatore, mostrata nella relativa pagina."
+
+#: includes/organizer_meta_fields.php:19
+#: includes/venue_meta_fields.php:69
+msgid "Contact Details"
+msgstr "Dettagli per contatto"
+
+#: includes/organizer_meta_fields.php:36
+#: includes/venue_meta_fields.php:86
+#, fuzzy
+msgid "Website label"
+msgstr "Sito internet"
+
+#: includes/organizer_meta_fields.php:37
+#: includes/venue_meta_fields.php:87
+msgid "Optional, display this label in the link instead of the site url."
+msgstr ""
+
+#: includes/organizer_meta_fields.php:41
+#: includes/venue_meta_fields.php:91
+msgid "Check to add rel=\"nofollow\" to the website link"
+msgstr ""
+
+#: includes/organizer_meta_fields.php:47
+#: includes/venue_meta_fields.php:97
+msgid "Image"
+msgstr "Immagine"
+
+#: includes/organizer_meta_fields.php:48
+msgid "Url to an image to display at the organizer category page"
+msgstr "URL di un'immagine da mostrare nella pagina della categoria"
+
+#: includes/postinfo_boxes.php:31
+#, fuzzy
+msgid "Tooltip Details"
+msgstr "Comportamento del tooltip"
+
+#: includes/quick_icons.php:14
+#, fuzzy
+msgid "Custom fields"
+msgstr "Personalizza i campi degli eventi"
+
+#: includes/quick_icons.php:17
+#, fuzzy
+msgid "Subtitle"
+msgstr "Titolo"
+
+#: includes/quick_icons.php:19
+#: includes/quick_icons.php:24
+#, fuzzy
+msgid "My label"
+msgstr "etichetta 'tutto il giorno'"
+
+#: includes/quick_icons.php:25
+#, fuzzy
+msgid "My custom value"
+msgstr "Intervallo personalizzato"
+
+#: includes/quick_icons.php:31
+#, fuzzy
+msgid "Event"
+msgstr "Eventi"
+
+#: includes/quick_icons.php:138
+#: includes/quick_icons.php:140
+#: includes/venue_meta_fields.php:32
+msgid "Postal code"
+msgstr "Codice postale"
+
+#: includes/quick_icons.php:195
+#, fuzzy
+msgid "Share"
+msgstr "Salva"
+
+#: includes/quick_icons.php:198
+#, fuzzy
+msgid "iCal feed"
+msgstr "Feed iCal"
+
+#: includes/sample-calendarize-it-add-taxonomy.php:7
+msgid "Show type"
+msgstr "Mostra tipo"
+
+#: includes/sample-calendarize-it-add-taxonomy.php:16
+msgid "Search Show types"
+msgstr ""
+
+#: includes/sample-calendarize-it-add-taxonomy.php:17
+msgid "Popular Show types"
+msgstr ""
+
+#: includes/sample-calendarize-it-add-taxonomy.php:18
+msgid "All show types"
+msgstr ""
+
+#: includes/sample-calendarize-it-add-taxonomy.php:21
+msgid "Edit show type"
+msgstr ""
+
+#: includes/sample-calendarize-it-add-taxonomy.php:22
+msgid "Update show type"
+msgstr ""
+
+#: includes/sample-calendarize-it-add-taxonomy.php:23
+msgid "Add show type"
+msgstr ""
+
+#: includes/sample-calendarize-it-add-taxonomy.php:24
+msgid "New show type"
+msgstr ""
+
+#: includes/venue_meta_fields.php:13
+msgid "The description of the venue, will be used in the venue page content."
+msgstr "La descrizione del luogo, mostrata nella relativa pagina."
+
+#: includes/venue_meta_fields.php:20
+msgid "Street address of this venue"
+msgstr "L'indirizzo di questo luogo"
+
+#: includes/venue_meta_fields.php:28
+#, fuzzy
+msgid "State/Province/Other"
+msgstr "Stato/Provincia/Altro"
+
+#: includes/venue_meta_fields.php:40
+msgid "Details for google map"
+msgstr "Dettagli per Google Maps"
+
+#: includes/venue_meta_fields.php:45
+msgid "Google address"
+msgstr "Indirizzo Google"
+
+#: includes/venue_meta_fields.php:49
+msgid "Latitude"
+msgstr "Latitudine"
+
+#: includes/venue_meta_fields.php:50
+#: includes/venue_meta_fields.php:55
+msgid "Optional, if not provided will attempt to use address"
+msgstr "Opzionale, se non fornita si cercherà di utilizzare l'indirizzo"
+
+#: includes/venue_meta_fields.php:54
+msgid "Longitud"
+msgstr "Longitudine"
+
+#: includes/venue_meta_fields.php:59
+msgid "Zoom"
+msgstr ""
+
+#: includes/venue_meta_fields.php:60
+msgid "Optional, specify the google map zoom value (default: 13)"
+msgstr ""
+
+#: includes/venue_meta_fields.php:64
+msgid "Text for info windows"
+msgstr "Testo per finestre informative"
+
+#: includes/venue_meta_fields.php:82
+#, fuzzy
+msgid "Website url"
+msgstr "Sito internet"
+
+#: includes/venue_meta_fields.php:98
+msgid "Url to an image to display at the venue category page"
+msgstr "URL di un'immagine da mostrare nella pagina del luogo"
+
+#: options-panel/class.al_importer.php:52
+msgid "Bundle is empty."
+msgstr ""
+
+#: options-panel/class.PluginOptionsPanelModule.php:39
+#: options-panel/class.PluginOptionsPanelModule.php:40
+msgid "Plugin Options Panel"
+msgstr "Pannello opzioni plugin"
+
+#: options-panel/class.PluginOptionsPanelModule.php:45
+#, php-format
+msgid "Plugin update %s is available!"
+msgstr "Aggiornamento plugin %s disponibile!"
+
+#: options-panel/class.PluginOptionsPanelModule.php:45
+msgid "Please update now"
+msgstr "Aggiorna ora"
+
+#: options-panel/class.PluginOptionsPanelModule.php:594
+msgid "Plugin is latest version."
+msgstr "Il plugin è all'ultima versione."
+
+#: options-panel/class.PluginOptionsPanelModule.php:597
+msgid "Invalid response format."
+msgstr "Formato risposta non valido."
+
+#: options-panel/class.PluginOptionsPanelModule.php:601
+msgid "Notification service is not available."
+msgstr "Servizio di notifica non disponibile."
+
+#: options-panel/class.PluginOptionsPanelModule.php:668
+msgid "Options updated."
+msgstr "Opzioni salvate."
+
+#: options-panel/class.PluginOptionsPanelModule.php:783
+msgid "Open all"
+msgstr "Apri tutto"
+
+#: options-panel/class.PluginOptionsPanelModule.php:784
+msgid "Save all"
+msgstr "Salva tutto"
+
+#: options-panel/class.PluginOptionsPanelModule.php:801
+#, php-format
+msgid "Options panel version %s"
+msgstr "Pannello opzioni versione %s"
+
+#: options-panel/class.plugin_registration.php:46
+msgid "License"
+msgstr "Licenza"
+
+#: options-panel/class.plugin_registration.php:47
+msgid "Item Purchase Key"
+msgstr "Codice di acquisto prodotto"
+
+#: options-panel/class.plugin_registration.php:48
+msgid "Product License"
+msgstr "Licenza prodotto"
+
+#: options-panel/class.plugin_registration.php:56
+msgid "Your purchase code can be found in your license Certificate file."
+msgstr "Il codice di acquisto prodotto si trova nel file del Certificato di licenza."
+
+#: options-panel/class.plugin_registration.php:57
+msgid "Go to Codecanyon and click My Account at the top, then click Downloads, and then click the <strong>License Certificate link</strong>."
+msgstr "Andare su Codecanyon e cliccare My Account in alto, poi cliccare Downloads, ed infine fare clic su <strong>License Certificate link</strong>."
+
+#: options-panel/class.plugin_registration.php:58
+msgid "You will find the code in there and it will look something like this:"
+msgstr "Il codice si troverà lì e sarà simile a questo:"
+
+#: options-panel/class.plugin_registration.php:59
+msgid "Item Purchase Code:"
+msgstr "Codice di acquisto prodotto"
+
+#: options-panel/class.plugin_registration.php:60
+#, php-format
+msgid "This allows us to verify your purchase and provide support to those who have paid. We will also automatically notify you when updates are available. Updates are free to download if you have purchased this once. If you have questions about this, please contact us at %s."
+msgstr "Questo ci permette di verificare l'acquisto e fornire assistenza a quelli che hanno pagato. Inoltre notificheremo automaticamente la presenza di nuovi aggiornamenti. Gli aggiornamenti sono scaricabili gratuitamente. Per domande, contattarci a %s."
+
+#: options-panel/class.plugin_registration.php:65
+msgid "License key"
+msgstr "Codice licenza"
+
+#: options-panel/class.plugin_registration.php:119
+#: options-panel/class.plugin_registration.php:158
+#: options-panel/class.plugin_registration.php:161
+msgid "Service not available."
+msgstr "Servizio non disponibile."
+
+#: options-panel/class.plugin_registration.php:123
+msgid "Missing parameter"
+msgstr "Parametro mancante"
+
+#: options-panel/class.plugin_registration.php:132
+msgid "License already added."
+msgstr "Licenza già aggiunta."
+
+#: options-panel/class.plugin_registration.php:149
+msgid "Please add a main license key before adding an addon license key."
+msgstr "Si prega di aggiungere un codice licenza di acquisto prima di aggiungere un codice licenza di aggiornamento."
+
+#: options-panel/class.plugin_registration.php:174
+#: options-panel/class.plugin_registration.php:178
+msgid "Item name not specified"
+msgstr "Nome oggetto non specificato"
+
+#: options-panel/class.plugin_registration.php:174
+#: options-panel/class.plugin_registration.php:178
+msgid "License not specified"
+msgstr "Licenza non specificata"
+
+#: options-panel/class.plugin_registration.php:201
+msgid "Add license"
+msgstr "Aggiungi licenza"
+
+#: options-panel/class.pop_bundles.php:44
+#: options-panel/class.pop_bundles.php:46
+#: options-panel/class.pop_bundles.php:57
+msgid "Bundles"
+msgstr ""
+
+#: options-panel/class.pop_bundles.php:45
+msgid "Plugin bundled content"
+msgstr ""
+
+#: options-panel/class.pop_bundles.php:53
+msgid "Bundles can be added by plugin add-ons or updates.  If you restore a bundle, depending on the bundle content, it can overwrite part of the current settings or all of them.  Make a backup of your settings before proceding."
+msgstr ""
+
+#: options-panel/class.pop_bundles.php:84
+msgid "Operation completed"
+msgstr "Operazione completata"
+
+#: options-panel/class.pop_bundles.php:88
+msgid "Unknown error while processing. Please reload and try again."
+msgstr "Errore sconosciuto durante la procedura. Si prega di ricaricare la pagina e riprovare."
+
+#: options-panel/class.pop_bundles.php:101
+msgid "Restore bundle:"
+msgstr ""
+
+#: options-panel/class.pop_bundles.php:105
+msgid "Click to restore bundle"
+msgstr ""
+
+#: options-panel/class.pop_downloadable_content.old.php:74
+#: options-panel/class.pop_downloadable_content.php:114
+#, php-format
+msgid "There is no downloadable content at this time.  You must register %s before you can actually see available downloadable content. For more information on how to register %s, please go the Options menu and the License tab."
+msgstr "In questo momento non è presente alcun contenuto scaricabile. Occorre registrare %s prima di poter visualizzare contenuto scaricabile disponibile. Per maggiori informazioni su come registrare %s, si prega di andare nel menu Opzioni alla sezione Codice licenza."
+
+#: options-panel/class.pop_downloadable_content.old.php:87
+#: options-panel/class.pop_downloadable_content.old.php:108
+#: options-panel/class.pop_downloadable_content.php:132
+#: options-panel/class.pop_downloadable_content.php:170
+#: options-panel/class.pop_downloadable_content.php:211
+#: options-panel/class.pop_downloadable_content.php:755
+#: options-panel/class.pop_downloadable_content.php:832
+#: options-panel/class.pop_downloadable_content.php:909
+msgid "Service is unavailable, please try again later."
+msgstr "Il servizio non è disponibile, si prega di riprovare più tardi."
+
+#: options-panel/class.pop_downloadable_content.old.php:96
+#: options-panel/class.pop_downloadable_content.php:198
+msgid "Please register the product before downloading content."
+msgstr "Si prega di registrare il prodotto prima di scaricare contenuti."
+
+#: options-panel/class.pop_downloadable_content.old.php:128
+#: options-panel/class.pop_downloadable_content.old.php:142
+#: options-panel/class.pop_downloadable_content.php:231
+#: options-panel/class.pop_downloadable_content.php:268
+msgid "Content downloaded and installed."
+msgstr "Contenuti scaricati ed installati."
+
+#: options-panel/class.pop_downloadable_content.old.php:147
+#: options-panel/class.pop_downloadable_content.php:273
+msgid "Unhandled content type, update plugin or theme to latest version."
+msgstr "Tipo di contenuto non gestibile, si prega di aggiornare il plugin o il tema all'ultima versione disponibile."
+
+#: options-panel/class.pop_downloadable_content.old.php:219
+#: options-panel/class.pop_downloadable_content.php:510
+msgid "New"
+msgstr "Nuovo"
+
+#: options-panel/class.pop_downloadable_content.old.php:220
+#: options-panel/class.pop_downloadable_content.php:515
+msgid "Downloaded"
+msgstr "Scaricati"
+
+#: options-panel/class.pop_downloadable_content.old.php:228
+#: options-panel/class.pop_downloadable_content.old.php:239
+#: options-panel/class.pop_downloadable_content.php:532
+msgid "Version"
+msgstr "Versione"
+
+#: options-panel/class.pop_downloadable_content.old.php:229
+#: options-panel/class.pop_downloadable_content.old.php:240
+#: options-panel/class.pop_downloadable_content.php:542
+msgid "Size"
+msgstr "Dimensione"
+
+#: options-panel/class.pop_downloadable_content.old.php:230
+#: options-panel/class.pop_downloadable_content.old.php:241
+msgid "Description"
+msgstr "Descrizione"
+
+#: options-panel/class.pop_downloadable_content.php:157
+msgid "Plugin settings error.  Missing plugin code."
+msgstr ""
+
+#: options-panel/class.pop_downloadable_content.php:180
+msgid "Free"
+msgstr ""
+
+#: options-panel/class.pop_downloadable_content.php:194
+#: options-panel/class.pop_downloadable_content.php:283
+#: options-panel/class.pop_downloadable_content.php:687
+#: options-panel/class.pop_downloadable_content.php:763
+#: options-panel/class.pop_downloadable_content.php:840
+msgid "No access.  You dont have permission to perform this action."
+msgstr ""
+
+#: options-panel/class.pop_downloadable_content.php:307
+#, fuzzy
+msgid "Plugin is no longer available."
+msgstr "Aggiornamento plugin %s disponibile!"
+
+#: options-panel/class.pop_downloadable_content.php:454
+#, php-format
+msgid "You have %s update(s) available for download"
+msgstr ""
+
+#: options-panel/class.pop_downloadable_content.php:484
+msgid "Please enter your License Key in the Options Panel to get access to the free add-ons and premium paid add-ons."
+msgstr ""
+
+#: options-panel/class.pop_downloadable_content.php:491
+msgid "Add-ons will be activated for all sites."
+msgstr ""
+
+#: options-panel/class.pop_downloadable_content.php:511
+msgid "Available Updates"
+msgstr ""
+
+#: options-panel/class.pop_downloadable_content.php:512
+#: options-panel/class.pop_downloadable_content.php:537
+msgid "Installed"
+msgstr ""
+
+#: options-panel/class.pop_downloadable_content.php:513
+msgid "Not installed"
+msgstr ""
+
+#: options-panel/class.pop_downloadable_content.php:547
+#, fuzzy
+msgid "Price"
+msgstr "Anteprima:"
+
+#: options-panel/class.pop_downloadable_content.php:554
+msgid "Enter your license key before you can purchase add-ons or download free add-ons."
+msgstr ""
+
+#: options-panel/class.pop_downloadable_content.php:566
+msgid "Discount Code"
+msgstr ""
+
+#: options-panel/class.pop_downloadable_content.php:572
+msgid "Apply Coupon"
+msgstr ""
+
+#: options-panel/class.pop_downloadable_content.php:579
+#, fuzzy
+msgid "Purchased"
+msgstr "Codice di acquisto prodotto"
+
+#: options-panel/class.pop_downloadable_content.php:580
+msgid "Checkout"
+msgstr ""
+
+#: options-panel/class.pop_downloadable_content.php:585
+msgid "Buy now"
+msgstr ""
+
+#: options-panel/class.pop_downloadable_content.php:591
+msgid "Visit site"
+msgstr ""
+
+#: options-panel/class.pop_downloadable_content.php:593
+msgid "On"
+msgstr ""
+
+#: options-panel/class.pop_downloadable_content.php:594
+msgid "Off"
+msgstr ""
+
+#: options-panel/class.pop_downloadable_content.php:601
+#, fuzzy
+msgid "Update"
+msgstr "Aggiorna %s"
+
+#: options-panel/class.pop_downloadable_content.php:601
+#, fuzzy
+msgid "Download"
+msgstr "Download"
+
+#: options-panel/class.pop_downloadable_content.php:697
+#: options-panel/class.pop_downloadable_content.php:773
+#: options-panel/class.pop_downloadable_content.php:850
+msgid "Plugin error.  Missing argument."
+msgstr ""
+
+#: options-panel/class.pop_downloadable_content.php:729
+#: options-panel/class.pop_downloadable_content.php:747
+#, php-format
+msgid "There was a communication error with the RightHere server. Contact support at support.righthere.com about payment %s.  Error message: %s"
+msgstr ""
+
+#: options-panel/class.pop_downloadable_content.php:749
+#: options-panel/class.pop_downloadable_content.php:826
+#: options-panel/class.pop_downloadable_content.php:903
+msgid "API Server returned an unrecognized format."
+msgstr ""
+
+#: options-panel/class.pop_downloadable_content.php:805
+#: options-panel/class.pop_downloadable_content.php:824
+#: options-panel/class.pop_downloadable_content.php:882
+#: options-panel/class.pop_downloadable_content.php:901
+#, php-format
+msgid "There was a communication error with the RightHere server. Coupon %s.  Error message: %s"
+msgstr ""
+
+#: options-panel/class.pop_downloadable_content.php:816
+msgid "Gift certificate applied.  Click Buy Now to continue."
+msgstr ""
+
+#: options-panel/class.pop_downloadable_content.php:818
+msgid "Discount applied.  Click Buy Now to continue."
+msgstr ""
+
+#: options-panel/class.pop_importer.php:61
+#: options-panel/class.pop_importer.php:104
+#: options-panel/class.pop_import_export.php:526
+#: options-panel/class.pop_import_export.php:546
+msgid "Could not read the imported code, please verify and try again."
+msgstr "Non è stato possibile leggere il codice importato, si prega di verificarlo e riprovare di nuovo."
+
+#: options-panel/class.pop_importer.php:65
+#: options-panel/class.pop_importer.php:108
+#, php-format
+msgid "The imported code does not belong to this plugin/theme.  Import code id: %s,%s"
+msgstr "Il codice importato non appartiene a questo plugin o tema. Identificativo codice di importazione: %s, %s"
+
+#: options-panel/class.pop_importer.php:81
+#: options-panel/class.pop_importer.php:114
+msgid "There was an error extracting the bundled resources."
+msgstr ""
+
+#: options-panel/class.pop_importer.php:90
+#: options-panel/class.pop_importer.php:123
+msgid "There was an error importing the content."
+msgstr "Si è verificato un errore durante l'importazione del contenuto."
+
+#: options-panel/class.pop_importer.php:99
+msgid "Unable to read bundle file"
+msgstr ""
+
+#: options-panel/class.pop_importer.php:191
+#, php-format
+msgid "Unable to create directory %s"
+msgstr "Impossibile creare la cartella %s"
+
+#: options-panel/class.pop_importer.php:215
+msgid "Could not create temporary file"
+msgstr "Non è stato possibile creare il file temporaneo"
+
+#: options-panel/class.pop_import_export.php:52
+#: options-panel/class.pop_import_export.php:561
+msgid "Automatic settings backup"
+msgstr "Backup delle impostazioni automatiche"
+
+#: options-panel/class.pop_import_export.php:113
+#: options-panel/class.pop_import_export.php:114
+#: options-panel/class.pop_import_export.php:115
+msgid "Settings import and export"
+msgstr "Impostazioni di importazione ed esportazione"
+
+#: options-panel/class.pop_import_export.php:122
+msgid "Export settings:"
+msgstr "Esporta impostazioni:"
+
+#: options-panel/class.pop_import_export.php:123
+msgid "Write a short label that identifies this export code and click on \"Export settings\" to get the site settings.  You can later use this code to restore settings by uploading the file in the Import settings section of this tab."
+msgstr "Scrivere una breve etichetta che identifichi questo codice esportato e cliccare su \"Esporta impostazioni\" per ottenere le impostazioni del sito. È possibile utilizzare questo codice successivamente per ripristinare le impostazioni caricando il file nella sezione Importa impostazioni di questa tabella."
+
+#: options-panel/class.pop_import_export.php:124
+msgid "Please observe that this will NOT export images or any other attachments, only the configuration values like image url or attachment paths."
+msgstr "Si prega di notare che NON verranno esportate immagini od eventuali allegati, solamente i valori di configurazione come URL di immagini o link di allegati."
+
+#: options-panel/class.pop_import_export.php:129
+#: options-panel/class.pop_import_export.php:316
+msgid "Export settings"
+msgstr "Impostazioni di esportazione"
+
+#: options-panel/class.pop_import_export.php:139
+msgid "Import settings:"
+msgstr "Impostazioni di importazione:"
+
+#: options-panel/class.pop_import_export.php:140
+msgid "Choose a file exported with the Export settings option on this tab"
+msgstr "Scegliere un file esportato con le impostazioni di esportazione di questa tabella"
+
+#: options-panel/class.pop_import_export.php:141
+msgid "Check the \"Backup\" options if you want to save your current settings locally."
+msgstr "Verificare l'opzione \"Backup\" se si vogliono salvare le impostazioni correnti in locale."
+
+#: options-panel/class.pop_import_export.php:142
+msgid "Click on \"Import settings\""
+msgstr "Cliccare su \"Importa impostazioni\""
+
+#: options-panel/class.pop_import_export.php:147
+#: options-panel/class.pop_import_export.php:329
+msgid "Import settings"
+msgstr "Importa impostazioni"
+
+#: options-panel/class.pop_import_export.php:158
+#: options-panel/class.pop_import_export.php:159
+#: options-panel/class.pop_import_export.php:160
+msgid "Saved settings and downloaded content"
+msgstr "Impostazioni salvate e contenuti scaricati"
+
+#: options-panel/class.pop_import_export.php:167
+msgid "Settings backup"
+msgstr "Impostazioni di backup"
+
+#: options-panel/class.pop_import_export.php:169
+msgid "Settings backup:"
+msgstr "Impostazioni di backup:"
+
+#: options-panel/class.pop_import_export.php:170
+msgid "Type a small description so you can identify this settings and press <i>Save settings</i>.  It will be listed on the Saved settings list."
+msgstr "Scrivere una breve descrizione per poter identificare queste impostazioni e premere <i>Salvare impostazioni</i>. Sarà mostrata nella lista delle impostazioni salvate."
+
+#: options-panel/class.pop_import_export.php:171
+msgid "<i>Technical:</i> This is stored in the local site options."
+msgstr "<i>Tecnico:</i> Questo è memorizzato nelle impostazioni locali del sito."
+
+#: options-panel/class.pop_import_export.php:177
+#: options-panel/class.pop_import_export.php:315
+msgid "Brief description"
+msgstr "Breve descrizione"
+
+#: options-panel/class.pop_import_export.php:180
+msgid "Save settings"
+msgstr "Salva impostazioni"
+
+#: options-panel/class.pop_import_export.php:187
+msgid "Saved settings"
+msgstr "Impostazioni salvate"
+
+#: options-panel/class.pop_import_export.php:327
+msgid "Backup my current settings locally."
+msgstr "Esegui il backup delle mie impostazioni in locale."
+
+#: options-panel/class.pop_import_export.php:381
+msgid "Please specify a label for this settings."
+msgstr "Si prega di specificare un'etichetta per queste impostazioni."
+
+#: options-panel/class.pop_import_export.php:415
+msgid "Error saving options."
+msgstr "Errore durante il salvataggio delle opzioni."
+
+#: options-panel/class.pop_import_export.php:447
+#: options-panel/class.pop_import_export.php:476
+#: options-panel/class.pop_import_export.php:479
+msgid "There are no saved settings."
+msgstr "Non ci sono impostazioni salvate."
+
+#: options-panel/class.pop_import_export.php:487
+msgid "This will permanently remove this settings."
+msgstr "Queste impostazioni saranno rimosse definitivamente."
+
+#: options-panel/class.pop_import_export.php:488
+msgid "Restore the current options to this settings."
+msgstr "Ripristina le opzioni correnti a queste impostazioni."
+
+#: options-panel/class.pop_import_export.php:498
+msgid "Please write a brief description for this export code."
+msgstr "Scrivere una breve descrizione per questo codice di esportazione."
+
+#: options-panel/class.pop_import_export.php:529
+#: options-panel/class.pop_import_export.php:549
+#, php-format
+msgid "The imported code does not belong to this group of settings.  Import code id: %s"
+msgstr "Il codice importato non appartiene a questo gruppo di impostazioni. Identificativo codice di importazione: %s"
+
+#: options-panel/class.pop_import_export.php:554
+msgid "The settings on this code are the same as the current settings."
+msgstr "Le impostazioni di questo codice sono le stesse di quelle attuali."
+
+#: options-panel/class.pop_import_export.php:567
+msgid "There was an error saving a backup of the current settings, please try again."
+msgstr "Si è verificato un errore durante il salvataggio di una copia delle impostazioni correnti, si prega di riprovare."
+
+#: options-panel/class.pop_import_export.php:574
+msgid "There was an error saving the settings, please try again."
+msgstr "Si è verificato un errore durante il salvataggio delle impostazioni, si prega di riprovare."
+
+#: options-panel/class.pop_import_export.php:598
+msgid "Nothing to remove."
+msgstr "Niente da rimuovere."
+
+#: options-panel/class.pop_import_export.php:615
+#, php-format
+msgid "Restored %s:%s"
+msgstr "%s ripristinato: %s"
+
+#: options-panel/class.pop_import_export.php:617
+msgid "Saved setting not found"
+msgstr "Impostazione salvata non trovata"
+
+#: options-panel/class.pop_input.php:291
+msgid "Date"
+msgstr "Data"
+
+#: options-panel/class.pop_input.php:321
+msgid "Save settings backup"
+msgstr "Backup delle impostazioni salvate"
+
+#: options-panel/class.pop_input.php:340
+msgid "Sorry, but this feature is disabled in the demo!"
+msgstr ""
+
+#: options-panel/class.pop_input.php:456
+msgid "Select"
+msgstr ""
+
+#: options-panel/class.pop_input.php:520
+msgid "You are not allowed to edit user roles."
+msgstr ""
+
+#: options-panel/class.pop_input.php:536
+#, fuzzy
+msgid "Choose"
+msgstr "Chiudi"
+
+#: options-panel/class.pop_input.php:545
+#, fuzzy
+msgid "Clear"
+msgstr "cancella"
+
+#: options-panel/class.pop_plugin_addons.php:24
+msgid "Plugin Add-ons"
+msgstr ""
+
+#: options-panel/class.pop_plugin_addons.php:198
+msgid "No addons installed.  Go to the Downloads menu to download an addon, then come back to this screen to activate it."
+msgstr ""
+
+#: options-panel/class.pop_uploader.php:36
+#: options-panel/class.pop_uploader.php:41
+#: options-panel/class.pop_uploader.php:51
+#: options-panel/class.pop_uploader.php:58
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr ""
+
+#: options-panel/class.pop_uploader.php:85
+msgid "Getting content length is not supported."
+msgstr "Non è possibile ottenere la lunghezza del contenuto."
+
+#: options-panel/class.pop_uploader.php:141
+#, php-format
+msgid "increase post_max_size and upload_max_filesize to %s"
+msgstr "increase post_max_size e upload_max_filesize a %s"
+
+#: options-panel/class.pop_uploader.php:165
+msgid "Server error. Upload directory isn't writable."
+msgstr "Errore del server. La cartella di caricamento non è scrivibile."
+
+#: options-panel/class.pop_uploader.php:169
+msgid "No files were uploaded."
+msgstr "Nessun file è stato caricato."
+
+#: options-panel/class.pop_uploader.php:175
+msgid "File is empty"
+msgstr "Il file è vuoto."
+
+#: options-panel/class.pop_uploader.php:179
+msgid "File is too large"
+msgstr "Il file è troppo grande"
+
+#: options-panel/class.pop_uploader.php:189
+#, php-format
+msgid "File has an invalid extension, it should be one of %s"
+msgstr "Il file ha un'estensione non valida, dovrebbe essere del tipo %s"
+
+#: options-panel/class.pop_uploader.php:206
+msgid "Could not save uploaded file."
+msgstr "Non è stato possibile salvare il file caricato."
+
+#: options-panel/class.pop_uploader.php:206
+msgid "The upload was cancelled, or server error encountered"
+msgstr "Il caricamento è stato cancellato, oppure il server ha riscontrato un errore."
+
+#: templates/calendar-single-post.php:15
+msgid "Pages:"
+msgstr "Pagine:"
+
+#: templates/calendar-single-post.php:18
+msgid "Edit"
+msgstr "Modifica"
+
+#: templates/default/calendars_form.php:22
+msgid "Show all"
+msgstr "Mostra tutto"
+
+#: templates/default/calendars_form.php:23
+msgid "Apply filters"
+msgstr "Applica filtri"
+
+#: templates/default/content-taxonomy-organizer.php:10
+#: templates/default/content-taxonomy-venue.php:17
+#: templates/default/content-venuebox.php:17
+#, fuzzy
+msgid "Phone:"
+msgstr "Telefono"
+
+#: templates/default/content-taxonomy-organizer.php:14
+#: templates/default/content-taxonomy-venue.php:21
+#: templates/default/content-venuebox.php:21
+#, fuzzy
+msgid "Email:"
+msgstr "Email"
+
+#: templates/default/content-taxonomy-organizer.php:18
+#: templates/default/content-taxonomy-venue.php:25
+#: templates/default/content-venuebox.php:25
+#, fuzzy
+msgid "Website:"
+msgstr "Sito internet"
+
+#: templates/default/content-taxonomy-venue.php:6
+#: templates/default/content-venuebox.php:6
+#, fuzzy
+msgid "Venue details"
+msgstr "Luoghi"
+
+#: templates/default/content-taxonomy-venue.php:13
+#: templates/default/content-venuebox.php:13
+#, fuzzy
+msgid "Address:"
+msgstr "Indirizzo"
+
+#: templates/default/event_list_content.php:15
+#, fuzzy
+msgid "Event details"
+msgstr "Lista eventi"
+
+#: templates/default/widget_calendar_event_list.php:55
+#, fuzzy
+msgid "View Google Map"
+msgstr "Indirizzo Google"
+
+#: templates/default/widget_calendar_event_list.php:56
+#, fuzzy
+msgid "Add to your calendar"
+msgstr "Aggiungi calendario"
+
+#: templates/default/widget_calendar_event_list.php:60
+msgid "Share on Facebook"
+msgstr ""
+
+#: templates/default/widget_calendar_event_list.php:64
+msgid "Share on Twitter"
+msgstr ""
+
+#: templates/default/widget_calendar_event_list.php:67
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: templates/default/widget_calendar_event_list.php:70
+msgid "Share on Google+"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Set Event Featrued Image"
+#~ msgstr "ID della pagina del template Evento"
+
+#~ msgid "Choose the default ui-theme to be used"
+#~ msgstr "Scegliere il tema da utilizzare"
+
+#~ msgid "Leave empty for the default styles."
+#~ msgstr "Lasciare vuoto per lo stile predefinito."
+
+#~ msgid "Button previous"
+#~ msgstr "Pulsante precedente"
+
+#~ msgid "Button next"
+#~ msgstr "Pulsante successivo"
+
+#~ msgid "Header icons"
+#~ msgstr "Icona intestazione"
+
+#, fuzzy
+#~ msgid "Option 2"
+#~ msgstr "Opzioni"
+
+#~ msgid "Customize shortcode output"
+#~ msgstr "Personalizza il codice dello shortcode"
+
+#~ msgid "Customize the ouput of the <b>[venue]</b> shortcode."
+#~ msgstr "Personalizza l'ouput dello shortcode <b>[venue]</b>."
+
+#~ msgid "Load default venue template"
+#~ msgstr "Carica il template predefinito del luogo"
+
+#~ msgid "Customize the ouput of the <b>[organizer]</b> shortcode."
+#~ msgstr "Personalizza l'ouput dello shortcode <b>[organizer]</b>."
+
+#~ msgid "Organizer layout"
+#~ msgstr "Struttura organizzatore"
+
+#~ msgid "Load default organizer template"
+#~ msgstr "Carica il template predefinito dell'organizzatore"
+
+#, fuzzy
+#~ msgid "Download ICS"
+#~ msgstr "Download"
+
+#~ msgid ""
+#~ "Optional, if not provided will build the google address using the regular "
+#~ "adrress, city, zip, state and country fields previously filled."
+#~ msgstr ""
+#~ "Opzionale, se non fornito sarà ricavato dai campi indirizzo, città, "
+#~ "codice postale, provincia e stato inseriti precedentemente."
+
+#~ msgid "Calendar template page id"
+#~ msgstr "ID della pagina del template Calendario"

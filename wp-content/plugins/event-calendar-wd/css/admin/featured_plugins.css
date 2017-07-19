@@ -1,0 +1,203 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+
+#main_featured_plugins_page{
+    font-family: Oswald;
+}
+
+#main_featured_plugins_page #featured-plugins-list {
+    position:relative;
+    margin:0px auto;
+    height:auto;
+    display:table;
+    list-style:none;
+    text-align: center;
+    width: 100%;
+}
+
+#main_featured_plugins_page #featured-plugins-list li {
+    display: inline-table;
+    width: 200px;
+    margin: 20px 10px 0px 10px;
+    background: #FFFFFF;
+    border-right: 3px solid #E5E5E5;
+    height: 335px;
+    border-bottom: 3px solid #E5E5E5;
+    position: relative;
+}
+
+#main_featured_plugins_page #featured-plugins-list li  .product {
+    position:relative;
+    height:113px;
+    background-color: transparent !important;
+    background-position-x: 50% !important;
+    margin: 7px;
+    border-radius: 3px;
+}
+
+#main_featured_plugins_page #featured-plugins-list li  .title {
+    width: 90%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#main_featured_plugins_page #featured-plugins-list  li.form-maker  .product {background:url(../images/featured/form.png) left center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.faq-wd  .product {background:url(../images/featured/faq_wd.png) left center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.instagram-wd  .product {background:url(../images/featured/instagram_feed.png) left center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.spider-calendar  .product {background:url(../images/featured/spiderCalendar.png) left center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.catalog  .product {background:url(../images/featured/catalog.png) left center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.contact-maker  .product {background:url(../images/featured/contact-form.png) left center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.contacts  .product {background:url(../images/featured/contacts.png) left center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.facebook  .product {background:url(../images/featured/facebook.png) left center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.faq  .product {background:url(../images/featured/faq.png) left center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.flash-calendar .product {background:url(../images/featured/flash.calendar.png) left center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.player  .product {background:url(../images/featured/player.png) left center no-repeat;  }
+#main_featured_plugins_page #featured-plugins-list  li.spider-calendar  .product {background:url(../images/featured/spider.calendar.png) left center no-repeat;}
+
+#main_featured_plugins_page #featured-plugins-list  li.contact_form_bulder .product {background:url(../images/featured/contact.builder.png) left center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.random_post  .product {background:url(../images/featured/random.post.png) left center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.google-maps  .product {background:url(../images/featured/google-maps.png) left center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.ecommerce-wd  .product {background:url(../images/featured/ecommerce.png) left center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.slider_wd  .product {background:url(../images/featured/slider.png) left center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.folder_menu  .product {background:url(../images/featured/folder.menu.png) left center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.google-analytics  .product {background:url(../images/featured/google-analytics.png) left center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.fb-feed  .product {background:url(../images/featured/facebook-feed.png) left center no-repeat;}
+
+#main_featured_plugins_page #featured-plugins-list  li.team-wd  .product {background:url(../images/featured/team-wd.png) left center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.post-slider  .product {background:url(../images/featured/post-slider.png) left center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.ad-manager  .product {background:url(../images/featured/ad-manager.png) left center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.youtube-wd  .product {background:url(../images/featured/youtube-wd.png) left center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.mailchimp-wd  .product {background:url(../images/featured/mailchimp-wd.png) left center no-repeat;}
+
+#main_featured_plugins_page #featured-plugins-list  li.zoom .product {background:url(../images/featured/zoom.png) left center no-repeat;}
+#main_featured_plugins_page #featured-plugins-list  li.photo-gallery  .product {background:url(../images/featured/photo-gallery.png) left center no-repeat #CACACA;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    background-position-x: 7px;
+}
+#main_featured_plugins_page #featured-plugins-list  li .product {
+    background-size: 115px !important;
+}
+#main_featured_plugins_page #featured-plugins-list  li.twitter-widget  .product {background:url(../images/featured/twittertools.png) left center no-repeat #CACACA;
+    background-size: 85px;
+    background-position-x: 12px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;}
+
+#main_featured_plugins_page #featured-plugins-list li  .title  .heading {
+    display: block;
+    position: relative;
+    font-size: 17px;
+    color: #767676;
+    margin: 13px 0px 13px 0px;
+    text-transform: uppercase;
+}
+
+#main_featured_plugins_page #featured-plugins-list li  .title  p {
+    font-size:14px;
+    color:#444;
+    margin-left:20px;
+}
+
+#main_featured_plugins_page #featured-plugins-list li  .description {
+    height: 127px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+#main_featured_plugins_page #featured-plugins-list li  .description  p {
+    text-align: center;
+    width: 100%;
+    color: #9A9A9A;
+    font-family: "Open Sans",sans-serif;
+}
+
+#featured-plugins-list li a.download {
+    display: block;
+    border-top: 1px solid #CACACA;
+    outline: none;
+    width: 90%;
+    margin: 0 auto;
+    font-size: 14px;
+    line-height: 40px;
+    text-decoration: none;
+    font-weight: bolder;
+    text-align: center;
+    color: #134D68;
+    position: absolute;
+    text-transform: uppercase;
+    bottom: 0;
+    left: 10px;
+    font-family: "Open Sans",sans-serif;
+    text-shadow: 1px 0;
+}
+
+#featured-plugins-list li a.download:hover {
+    color: #F47629;
+}
+
+.featured_header > div{
+    background: #FFFFFF;
+    border-right: 3px solid #E5E5E5;
+    border-bottom: 3px solid #E5E5E5;
+    padding: 20px 0;
+}
+.featured_header {
+    position: relative;
+    width: 90%;
+    margin: 15px auto 0px auto;
+}
+
+.featured_header .old_price{
+    color: rgba(180, 180, 180, 0.3);
+    text-decoration: line-through;
+    font-family: Oswald;
+}
+
+.featured_header h1.get_plugins{
+    color: #FFFFFF;
+    background:url(../images/featured/featured_plugins_bg.png) no-repeat;
+    height: 85px;
+    margin: 0;
+    background-size: 85% 100%;
+    background-position: center;
+    line-height: 60px;
+}
+
+.featured_header h1{
+    font-size: 50px;
+    text-align: center;
+    color: #F47629;
+    letter-spacing: 3px;
+    line-height: 10px;
+}
+
+.featured_header a{
+    text-decoration: none;
+}
+
+@media screen and (max-width: 1105px) {
+    .featured_header h1{
+        font-size: 37px;
+        line-height: 0;
+    }
+}
+
+
+@media screen and (max-width: 835px) {
+    .get_plugins span{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 700px){
+    .featured_header h1{
+        line-height: 40px;
+    }
+}
+
+@media screen and (max-width: 435px) {
+    .featured_header h1 {
+        font-size: 20px;
+        line-height: 25px;
+    }
+}

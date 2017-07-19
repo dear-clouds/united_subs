@@ -1,0 +1,5041 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woffice\n"
+"POT-Creation-Date: 2015-10-04 19:57+0100\n"
+"PO-Revision-Date: 2015-10-04 19:57+0100\n"
+"Last-Translator: \n"
+"Language-Team: 2F\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;_e;_n:1,2;__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:11
+msgid "404 Error. Not found..."
+msgstr "404 Ничего не найдено"
+
+#: ../404.php:27 ../content-none.php:20
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: ../404.php:33
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"К сожалению, по Вашему запросу ничего не найдено. Пожалуйста, попробуйте еще "
+"раз с другими ключевыми словами."
+
+#: ../404.php:37 ../content-none.php:30 ../content-private.php:33
+msgid "Back on the home page"
+msgstr "Вернуться на главную страницу"
+
+#: ../archive.php:20
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr "Архив за день: <span>%s</span>"
+
+#: ../archive.php:22
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr "Архив за месяц: <span>%s</span>"
+
+#: ../archive.php:24
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr "Архивы за год: <span>%s</span>"
+
+#: ../archive.php:27 ../taxonomy-directory-category.php:12
+msgid " Archives"
+msgstr "Архивы"
+
+#: ../archive.php:29
+msgid "Wiki Articles"
+msgstr "Вики Статьи"
+
+#: ../archive.php:31
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:23
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:25
+msgid "Projects"
+msgstr "Проекты"
+
+#: ../archive.php:33
+msgid "Archives"
+msgstr "Архивы"
+
+#: ../buddypress.php:33 ../content-page.php:18 ../single-wiki.php:66
+#: ../inc/buddypress.php:266 ../page-templates/projects.php:48
+#: ../page-templates/wiki.php:46
+msgid "Edit"
+msgstr "Редактировать"
+
+#: ../category.php:12
+#, php-format
+msgid "Category Archives: <span>%s</span>"
+msgstr "Категории архивов: <span>%s</span>"
+
+#: ../comments.php:24
+#, php-format
+msgid "<i class=\"fa fa-comment\"></i> One comment"
+msgid_plural "<i class=\"fa fa-comments\"></i> %1$s comments"
+msgstr[0] "<i class=\"fa fa-comment\"></i> Один комментарий"
+msgstr[1] "<i class=\"fa fa-comments\"></i> %1$s Комментария(ев)"
+
+#: ../comments.php:34 ../buddypress/groups/single/forum/edit.php:10
+msgid "Reply"
+msgstr "Ответить"
+
+#: ../comments.php:45
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: ../comments.php:46
+msgid "<i class=\"fa fa-chevron-left\"></i> Older Comments"
+msgstr "<i class=\"fa fa-chevron-left\"></i> Старые комментарии"
+
+#: ../comments.php:47
+msgid "Newer Comments <i class=\"fa fa-chevron-right\"></i>"
+msgstr "Новые комментарии <i class=\"fa fa-chevron-right\"></i>"
+
+#: ../comments.php:52
+msgid "Comments are closed."
+msgstr "Комментирование закрыто."
+
+#: ../comments.php:67
+msgid "Leave a Reply"
+msgstr "Оставить комментарий"
+
+#: ../comments.php:68
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Оставить комментарий для %s"
+
+#: ../comments.php:69
+msgid "Cancel Reply"
+msgstr "Отменить комментирование"
+
+#: ../comments.php:70 ../inc/hooks.php:804
+msgid "Post Comment"
+msgstr "Комментировать запись"
+
+#: ../content-masonry.php:34 ../inc/hooks.php:782 ../inc/hooks.php:785
+msgid ", "
+msgstr ""
+
+#: ../content-masonry.php:47
+msgid "Read more"
+msgstr "Читать далее"
+
+#: ../content-none.php:26
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+"Извините, но ничего не найдено. Возможно, поиск поможет найти подходящую "
+"статью."
+
+#: ../content-private.php:20
+msgid "Private content here"
+msgstr "Здесь приватный контент"
+
+#: ../content-private.php:24
+msgid "Apologies, you do not have the right to access to this page."
+msgstr "У вас недостаточно прав для доступа к этой странице."
+
+#: ../content-private.php:28
+msgid "You may just need to sign in to see the page content."
+msgstr "Вы  должны регистрироваться, чтобы видеть содержание страницы."
+
+#: ../content-private.php:35
+msgid "Sign in"
+msgstr "Регистрация"
+
+#: ../content.php:57
+msgid "Read More"
+msgstr "Читать далее"
+
+#: ../header.php:106
+msgid "Hi"
+msgstr "Привет"
+
+#: ../header.php:147 ../inc/hooks.php:923
+msgid "View your shopping cart"
+msgstr "Просмотреть корзину с покупками"
+
+#: ../index.php:75
+msgid "New Blog Article"
+msgstr "Новая статья"
+
+#: ../search.php:10
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: ../single-project.php:14 ../single-wiki.php:14 ../single.php:15
+#: ../inc/frontend.php:62
+msgid "Please enter a title."
+msgstr "Пожалуйста, введите заголовок."
+
+#: ../single-project.php:122
+msgid "Project's Members"
+msgstr "Участники проекта"
+
+#: ../single-project.php:151
+msgid "Project's Links"
+msgstr ""
+
+#: ../single-project.php:193 ../single-wiki.php:120 ../single.php:88
+#: ../inc/frontend.php:251
+msgid "Article's Title:"
+msgstr "Заголовок статьи"
+
+#: ../single-project.php:199 ../single-wiki.php:126 ../single.php:94
+#: ../inc/frontend.php:258
+msgid "Please enter a title"
+msgstr "Пожалуйста, введите заголовок"
+
+#: ../single-project.php:204 ../single-wiki.php:131 ../single.php:99
+#: ../inc/frontend.php:387
+msgid "Article's Content:"
+msgstr "Содержание новости"
+
+#: ../single-project.php:217
+msgid "Update Project"
+msgstr "Обновить проект"
+
+#: ../single-project.php:274 ../single-wiki.php:158
+msgid "Comments are closed..."
+msgstr "Комментирование закрыто."
+
+#: ../single-wiki.php:62
+#: ../framework-customizations/extensions/woffice-projects/helpers.php:13
+#: ../inc/buddypress.php:263
+msgid "View"
+msgstr "Просмотреть"
+
+#: ../single-wiki.php:71
+#: ../framework-customizations/extensions/woffice-projects/helpers.php:51
+msgid "Comments"
+msgstr "Комментарии"
+
+#: ../single-wiki.php:76
+msgid "Revisions"
+msgstr "Редакции"
+
+#: ../single-wiki.php:84
+#: ../framework-customizations/extensions/woffice-projects/helpers.php:62
+msgid "Are you sure you wish to delete article :"
+msgstr "Вы уверены, что хотите удалить статью:"
+
+#: ../single-wiki.php:85
+#: ../buddypress/members/single/messages/messages-loop.php:76
+#: ../buddypress/members/single/messages/single.php:28
+#: ../framework-customizations/extensions/woffice-projects/helpers.php:63
+msgid "Delete"
+msgstr "Удалить"
+
+#: ../single-wiki.php:144 ../single.php:111
+msgid "Update Article"
+msgstr "Обновить проект"
+
+#: ../single-wiki.php:166
+msgid "This post was last modified by"
+msgstr "Этот пост был изменен"
+
+#: ../single-wiki.php:167 ../single-wiki.php:184
+#: ../framework-customizations/extensions/woffice-birthdays/class-fw-extension-woffice-birthdays.php:263
+msgid " on"
+msgstr "на"
+
+#: ../single-wiki.php:179
+msgid "This article has not been revised since publication."
+msgstr "У этой статьи не было просмотров после публикации."
+
+#: ../single-wiki.php:183
+msgid "This post was created by"
+msgstr "Этот пост был изменен"
+
+#: ../single.php:68
+msgid "Edit Post"
+msgstr "Редактировать"
+
+#: ../single.php:117 ../inc/frontend.php:412
+msgid "Go Back"
+msgstr "Вернуться назад"
+
+#: ../bbpress/form-topic.php:41
+#, php-format
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr "Редактировать &ldquo;%s&rdquo;"
+
+#: ../bbpress/form-topic.php:43
+#, php-format
+msgid "Create New Topic in &ldquo;%s&rdquo;"
+msgstr "Создать новую тему &ldquo;%s&rdquo;"
+
+#: ../bbpress/form-topic.php:43
+msgid "Create New Topic"
+msgstr "Создать новую тему"
+
+#: ../bbpress/form-topic.php:53
+msgid ""
+"This forum is marked as closed to new topics, however your posting "
+"capabilities still allow you to do so."
+msgstr ""
+"В этом форуме нельзя создавать новые темы, однако Вы можете сделать это."
+
+#: ../bbpress/form-topic.php:61
+msgid "Your account has the ability to post unrestricted HTML content."
+msgstr ""
+"Ваша учетная запись имеет возможность размещать неограниченное содержание "
+"HTML ."
+
+#: ../bbpress/form-topic.php:75
+#, php-format
+msgid "Topic Title (Maximum Length: %d):"
+msgstr "Название темы (Maximum Length: %d):"
+
+#: ../bbpress/form-topic.php:90
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes:"
+msgstr ""
+"Вы можете использовать эти <abbr title=\"HyperText Markup Language\">HTML</"
+"abbr> теги и атрибуты:"
+
+#: ../bbpress/form-topic.php:101
+msgid "Topic Tags:"
+msgstr "Темы тегов:"
+
+#: ../bbpress/form-topic.php:114
+msgid "Forum:"
+msgstr "Форум"
+
+#: ../bbpress/form-topic.php:117
+msgid "(No Forum)"
+msgstr "(Нет Форума)"
+
+#: ../bbpress/form-topic.php:133
+msgid "Topic Type:"
+msgstr "Тип темы:"
+
+#: ../bbpress/form-topic.php:145
+msgid "Topic Status:"
+msgstr "Статус темы:"
+
+#: ../bbpress/form-topic.php:164
+msgid "Notify the author of follow-up replies via email"
+msgstr "Уведомить автора о последующих ответах по электронной почте"
+
+#: ../bbpress/form-topic.php:168
+msgid "Notify me of follow-up replies via email"
+msgstr "Уведомить меня о новых ответах по электронной почте"
+
+#: ../bbpress/form-topic.php:184
+msgid "Keep a log of this edit:"
+msgstr "Вести журнал измений:"
+
+#: ../bbpress/form-topic.php:188
+msgid "Optional reason for editing:"
+msgstr "Причина редактирования:"
+
+#: ../bbpress/form-topic.php:203
+msgid "Submit"
+msgstr "Отправить"
+
+#: ../bbpress/form-topic.php:226
+#, php-format
+msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+msgstr "Форум &#8216;%s&#8217; закрыт для новых тем и ответов."
+
+#: ../bbpress/form-topic.php:234
+msgid "You cannot create new topics."
+msgstr "Вы не можете создавать новые темы."
+
+#: ../bbpress/form-topic.php:234
+msgid "You must be logged in to create new topics."
+msgstr "Пожалуйста, авторизуйтесь, чтобы создавать новые темы ."
+
+#: ../bbpress/loop-replies.php:18 ../bbpress/loop-replies.php:70
+msgid "Author"
+msgstr "Автор"
+
+#: ../bbpress/loop-replies.php:24 ../bbpress/loop-replies.php:76
+#: ../framework-customizations/theme/options/posts.php:15
+msgid "Posts"
+msgstr "Записи"
+
+#: ../bbpress/loop-replies.php:42 ../bbpress/loop-replies.php:80
+msgid "Replies"
+msgstr "Ответы"
+
+#: ../bbpress/loop-single-reply.php:21
+msgid "in reply to: "
+msgstr "в ответ на:"
+
+#: ../bbpress/loop-single-topic.php:60
+#, php-format
+msgid "Started by: %1$s"
+msgstr "В начале: %1$s"
+
+#: ../bbpress/loop-single-topic.php:68
+#, php-format
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr "в : <a href=\"%1$s\">%2$s</a>"
+
+#: ../bbpress/loop-topics.php:19
+msgid "Topic"
+msgstr "Тема"
+
+#: ../buddypress/activity/activity-loop.php:20
+msgid "Load More"
+msgstr "Загрузить еще"
+
+#: ../buddypress/activity/activity-loop.php:34
+msgid "Sorry, there was no activity found. Please try a different filter."
+msgstr ""
+"Извините, но на данный момент нам нечего вам показать. Попробуйте "
+"использовать другой фильтр или зайти попозже."
+
+#: ../buddypress/activity/comment.php:27
+#, php-format
+msgid ""
+"<a href=\"%1$s\">%2$s</a> replied <a href=\"%3$s\" class=\"activity-time-"
+"since\"><span class=\"time-since\">%4$s</span></a>"
+msgstr ""
+"<a href=\"%1$s\">%2$s</a> ответил <a href=\"%3$s\" class=\"activity-time-"
+"since\"><span class=\"time-since\">%4$s</span></a>"
+
+#: ../buddypress/activity/entry.php:50
+msgid "View Conversation"
+msgstr "Просмотреть диалог"
+
+#: ../buddypress/activity/entry.php:113
+msgid "Cancel"
+msgstr "Отмена"
+
+#: ../buddypress/activity/index.php:27
+#, php-format
+msgid "All Members <span>%s</span>"
+msgstr "Все пользователи <span>%s</span>"
+
+#: ../buddypress/activity/index.php:37
+#, php-format
+msgid "My Friends <span>%s</span>"
+msgstr "Мои друзья <span>%s</span>"
+
+#: ../buddypress/activity/index.php:49 ../buddypress/groups/index.php:26
+#, php-format
+msgid "My Groups <span>%s</span>"
+msgstr "Мои группы <span>%s</span>"
+
+#: ../buddypress/activity/index.php:59
+#, php-format
+msgid "My Favorites <span>%s</span>"
+msgstr "Избранное <span>%s</span>"
+
+#: ../buddypress/activity/index.php:67 ../inc/buddypress.php:242
+msgid "Mentions"
+msgstr "Упоминания"
+
+#: ../buddypress/activity/index.php:85
+#: ../buddypress/groups/single/activity.php:3
+msgid "RSS"
+msgstr "RSS"
+
+#: ../buddypress/activity/index.php:90
+#: ../buddypress/groups/single/activity.php:8
+#: ../buddypress/members/single/activity.php:18
+msgid "Show:"
+msgstr "Показать:"
+
+#: ../buddypress/activity/index.php:92
+#: ../buddypress/groups/single/activity.php:10
+#: ../buddypress/members/single/activity.php:20
+msgid "&mdash; Everything &mdash;"
+msgstr "&mdash; Все &mdash;"
+
+#: ../buddypress/activity/post-form.php:23
+#, php-format
+msgid "What's new in %s, %s?"
+msgstr "Что нового в %s, %s?"
+
+#: ../buddypress/activity/post-form.php:25
+#, php-format
+msgid "What's new, %s?"
+msgstr "Что нового, %s?"
+
+#: ../buddypress/activity/post-form.php:44
+msgid "Post in"
+msgstr "Опубликовать в"
+
+#: ../buddypress/activity/post-form.php:47
+#: ../buddypress/members/single/profile/profile-wp.php:8
+msgid "My Profile"
+msgstr "Мой профиль"
+
+#: ../buddypress/groups/create.php:34 ../buddypress/groups/single/admin.php:16
+msgid "Group Name (required)"
+msgstr "Название проекта (обязательно)"
+
+#: ../buddypress/groups/create.php:39 ../buddypress/groups/single/admin.php:19
+msgid "Group Description (required)"
+msgstr "Описание проекта (обязательно)"
+
+#: ../buddypress/groups/create.php:56 ../buddypress/groups/single/admin.php:56
+msgid "Privacy Options"
+msgstr "Настройки конфиденциальности"
+
+#: ../buddypress/groups/create.php:59 ../buddypress/groups/single/admin.php:61
+msgid "This is a public group"
+msgstr "Открытый проект"
+
+#: ../buddypress/groups/create.php:61 ../buddypress/groups/single/admin.php:63
+msgid "Any site member can join this group."
+msgstr "Любой пользователь сайта может пригласить вас в проект."
+
+#: ../buddypress/groups/create.php:62 ../buddypress/groups/create.php:73
+#: ../buddypress/groups/single/admin.php:64
+#: ../buddypress/groups/single/admin.php:74
+msgid ""
+"This group will be listed in the groups directory and in search results."
+msgstr ""
+"Этот проект будет отображаться в списке проектов и в результатах поиска."
+
+#: ../buddypress/groups/create.php:63 ../buddypress/groups/single/admin.php:65
+msgid "Group content and activity will be visible to any site member."
+msgstr "Содержание проекта и активность будут видны любому пользователю сайта."
+
+#: ../buddypress/groups/create.php:69 ../buddypress/groups/single/admin.php:71
+msgid "This is a private group"
+msgstr "Это частный проект"
+
+#: ../buddypress/groups/create.php:72 ../buddypress/groups/single/admin.php:73
+msgid "Only users who request membership and are accepted can join the group."
+msgstr ""
+"Вступить в проект могут только те пользователи, запрос на вступление которых "
+"был принят."
+
+#: ../buddypress/groups/create.php:74 ../buddypress/groups/create.php:85
+#: ../buddypress/groups/single/admin.php:75
+#: ../buddypress/groups/single/admin.php:85
+msgid ""
+"Group content and activity will only be visible to members of the group."
+msgstr "Содержание проекта и активность будут видны только участникам проекта."
+
+#: ../buddypress/groups/create.php:80 ../buddypress/groups/single/admin.php:81
+msgid "This is a hidden group"
+msgstr "Это скрытый проект"
+
+#: ../buddypress/groups/create.php:83 ../buddypress/groups/single/admin.php:83
+msgid "Only users who are invited can join the group."
+msgstr "Вступить в проект могут лишь те пользователи, которых пригласили."
+
+#: ../buddypress/groups/create.php:84 ../buddypress/groups/single/admin.php:84
+msgid ""
+"This group will not be listed in the groups directory or search results."
+msgstr ""
+"Этот проект не будет отображаться в списке проектов и результатах поиска."
+
+#: ../buddypress/groups/create.php:90 ../buddypress/groups/single/admin.php:92
+msgid "Group Invitations"
+msgstr "Приглашения в проект"
+
+#: ../buddypress/groups/create.php:92 ../buddypress/groups/single/admin.php:94
+msgid "Which members of this group are allowed to invite others?"
+msgstr ""
+"Какие участники этого проекта имеют возможность приглашать других "
+"пользователей?"
+
+#: ../buddypress/groups/create.php:97 ../buddypress/groups/single/admin.php:99
+msgid "All group members"
+msgstr "Все участники проекта"
+
+#: ../buddypress/groups/create.php:102
+#: ../buddypress/groups/single/admin.php:104
+msgid "Group admins and mods only"
+msgstr "Только админы и модераторы проекта"
+
+#: ../buddypress/groups/create.php:107
+#: ../buddypress/groups/single/admin.php:109
+msgid "Group admins only"
+msgstr "Только администраторы проекта"
+
+#: ../buddypress/groups/create.php:113
+msgid "Group Forums"
+msgstr "Форумы проекта"
+
+#: ../buddypress/groups/create.php:117
+msgid "Should this group have a forum?"
+msgstr "У этой группы должен ли быть форум?"
+
+#: ../buddypress/groups/create.php:120
+#: ../buddypress/groups/single/admin.php:47
+msgid "Enable discussion forum"
+msgstr "Разрешить обсуждение форума"
+
+#: ../buddypress/groups/create.php:124
+#, php-format
+msgid ""
+"<strong>Attention Site Admin:</strong> Group forums require the <a href=\"%s"
+"\">correct setup and configuration</a> of a bbPress installation."
+msgstr ""
+"<strong>Внимание, админы сайта:</strong> Для форумов проектов надо <a href="
+"\"%s\">правильно настроить</a> bbPress."
+
+#: ../buddypress/groups/create.php:150
+#: ../buddypress/groups/single/admin.php:127
+msgid ""
+"Upload an image to use as a profile photo for this group. The image will be "
+"shown on the main group page, and in search results."
+msgstr ""
+"Загрузите картинку, чтобы использовать ее как картинку профиля этого "
+"проекта. Она будет отображаться на главной странице проекта, а также в "
+"результатах поиска."
+
+#: ../buddypress/groups/create.php:158
+msgid ""
+"To skip the group profile photo upload process, hit the \"Next Step\" button."
+msgstr ""
+"Для пропуска процесса загрузки картинки профиля проекта нажмите на кнопку "
+"«Следующий шаг»."
+
+#: ../buddypress/groups/create.php:165
+msgid "Crop Group Profile Photo"
+msgstr "Обрезать картинку профиля проекта"
+
+#: ../buddypress/groups/create.php:212
+msgid "Select people to invite from your friends list."
+msgstr "Выберите пользователей из списка друзей, чтобы пригласить в проект."
+
+#: ../buddypress/groups/create.php:230
+#: ../buddypress/groups/single/invites-loop.php:52
+msgid "Remove Invite"
+msgstr "Удалить приглашение"
+
+#: ../buddypress/groups/create.php:247
+msgid ""
+"Once you have built up friend connections you will be able to invite others "
+"to your group."
+msgstr ""
+"Как только у вас появятся друзья, вы сможете приглашать их в свои проекты."
+
+#: ../buddypress/groups/groups-loop.php:47
+#: ../buddypress/groups/single/group-header.php:42
+#, php-format
+msgid "active %s"
+msgstr "активность: %s"
+
+#: ../buddypress/groups/groups-loop.php:95
+msgid "There were no groups found."
+msgstr "Проекты не найдены."
+
+#: ../buddypress/groups/index.php:23
+#, php-format
+msgid "All Groups <span>%s</span>"
+msgstr "Все проекты <span>%s</span>"
+
+#: ../buddypress/groups/single/admin.php:26
+msgid "Notify group members of these changes via email"
+msgstr "Отправить уведомление об изменениях участникам проекта по e-mail"
+
+#: ../buddypress/groups/single/admin.php:137
+msgid ""
+"If you'd like to remove the existing group profile photo but not upload a "
+"new one, please use the delete group profile photo button."
+msgstr ""
+"Если вы хотите удалить текущую картинку профиля проекта, но не будете "
+"загружать новую, используйте кнопку удаления картинки профиля проекта."
+
+#: ../buddypress/groups/single/admin.php:139
+msgid "Delete Group Profile Photo"
+msgstr "Удалить картинку профиля проекта"
+
+#: ../buddypress/groups/single/admin.php:149
+msgid "Crop Profile Photo"
+msgstr "Обрезать картинку профиля"
+
+#: ../buddypress/groups/single/admin.php:177
+msgid "Administrators"
+msgstr "Администраторы"
+
+#: ../buddypress/groups/single/admin.php:185
+#: ../buddypress/groups/single/admin.php:212
+#, php-format
+msgid "Profile picture of %s"
+msgstr "Картинка профиля %s"
+
+#: ../buddypress/groups/single/admin.php:190
+#: ../buddypress/groups/single/admin.php:217
+msgid "Demote to Member"
+msgstr "Понизить до участника"
+
+#: ../buddypress/groups/single/admin.php:205
+msgid "Moderators"
+msgstr "Модераторы"
+
+#: ../buddypress/groups/single/admin.php:216
+#: ../buddypress/groups/single/admin.php:272
+msgid "Promote to Admin"
+msgstr "Назначить админом"
+
+#: ../buddypress/groups/single/admin.php:231
+#: ../framework-customizations/extensions/shortcodes/shortcodes/members/config.php:8
+msgid "Members"
+msgstr "Участники"
+
+#: ../buddypress/groups/single/admin.php:260
+msgid "(banned)"
+msgstr ""
+
+#: ../buddypress/groups/single/admin.php:266
+msgid "Remove Ban"
+msgstr "Удалить бан"
+
+#: ../buddypress/groups/single/admin.php:270
+msgid "Kick &amp; Ban"
+msgstr "Отпавить в &amp; бан"
+
+#: ../buddypress/groups/single/admin.php:271
+msgid "Promote to Mod"
+msgstr "Назначить модератором"
+
+#: ../buddypress/groups/single/admin.php:276
+msgid "Remove from group"
+msgstr "Удалить из проекта"
+
+#: ../buddypress/groups/single/admin.php:290
+msgid "This group has no members."
+msgstr "В этом проекте нет участников."
+
+#: ../buddypress/groups/single/admin.php:324
+msgid ""
+"WARNING: Deleting this group will completely remove ALL content associated "
+"with it. There is no way back, please be careful with this option."
+msgstr ""
+"ВНИМАНИЕ: Удаление проекта приведет к полному удалению ВСЕГО связанного "
+"содержимого. Пути назад не будет, пожалуйста, будьте осторожны с этим "
+"действием."
+
+#: ../buddypress/groups/single/admin.php:327
+msgid "I understand the consequences of deleting this group."
+msgstr "Я сознательно продолжаю удаление этого прокта."
+
+#: ../buddypress/groups/single/forum.php:19
+msgid "New Topic"
+msgstr "Новая тема"
+
+#: ../buddypress/groups/single/forum.php:27
+#: ../buddypress/groups/single/forum/edit.php:16
+#: ../buddypress/groups/single/forum/topic.php:17
+msgid "Forum Directory"
+msgstr "Список форумов"
+
+#: ../buddypress/groups/single/forum.php:36
+#: ../buddypress/members/single/blogs.php:19
+#: ../buddypress/members/single/forums.php:18
+#: ../buddypress/members/single/friends.php:20
+#: ../buddypress/members/single/groups.php:20
+msgid "Order By:"
+msgstr "Фильтр:"
+
+#: ../buddypress/groups/single/forum.php:38
+#: ../buddypress/members/single/blogs.php:21
+#: ../buddypress/members/single/forums.php:20
+#: ../buddypress/members/single/friends.php:22
+#: ../buddypress/members/single/groups.php:22
+msgid "Last Active"
+msgstr "Последняя активность:"
+
+#: ../buddypress/groups/single/forum.php:39
+#: ../buddypress/members/single/forums.php:21
+msgid "Most Posts"
+msgstr "Количество записей"
+
+#: ../buddypress/groups/single/forum.php:40
+#: ../buddypress/members/single/forums.php:22
+msgid "Unreplied"
+msgstr "Без ответа"
+
+#: ../buddypress/groups/single/forum.php:69
+msgid "You will auto join this group when you start a new topic."
+msgstr ""
+"Вы автоматически вступите в этот проект когда откроете новую тему форума."
+
+#: ../buddypress/groups/single/forum.php:73
+msgid "Post a New Topic:"
+msgstr "Опубликовать новую тему форума:"
+
+#: ../buddypress/groups/single/forum.php:75
+#: ../buddypress/groups/single/forum/edit.php:47
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: ../buddypress/groups/single/forum.php:78
+#: ../buddypress/groups/single/forum/edit.php:50
+msgid "Content:"
+msgstr "Текст:"
+
+#: ../buddypress/groups/single/forum.php:81
+#: ../buddypress/groups/single/forum/edit.php:53
+msgid "Tags (comma separated):"
+msgstr "Теги (разделяйте запятыми):"
+
+#: ../buddypress/groups/single/group-header.php:11
+msgid "Group Admins"
+msgstr "Администраторы проекта"
+
+#: ../buddypress/groups/single/group-header.php:20
+msgid "Group Mods"
+msgstr "Модераторы проекта"
+
+#: ../buddypress/groups/single/invites-loop.php:81
+msgid "Select friends to invite."
+msgstr "Выберите друзей, чтобы пригласить их."
+
+#: ../buddypress/groups/single/members.php:79
+msgid "No members were found."
+msgstr "Пользователи не найдены."
+
+#: ../buddypress/groups/single/request-membership.php:4
+#, php-format
+msgid "You are requesting to become a member of the group '%s'."
+msgstr "Отправить заявку на вступление в проект '%s'."
+
+#: ../buddypress/groups/single/request-membership.php:7
+msgid "Comments (optional)"
+msgstr "Комментарии (не обязательно)"
+
+#: ../buddypress/groups/single/send-invites.php:24
+msgid "Group invitations can only be extended to friends."
+msgstr "Приглашать в группу можно только друзей."
+
+#: ../buddypress/groups/single/send-invites.php:25
+msgid ""
+"Once you've made some friendships, you'll be able to invite those members to "
+"this group."
+msgstr ""
+"Как только вы подружитесь с кем-либо, вы сможете пригласить этих "
+"пользователей в этот проект."
+
+#: ../buddypress/groups/single/send-invites.php:33
+msgid "All of your friends already belong to this group."
+msgstr "Все ваши друзья уже являются участниками этого проекта."
+
+#: ../buddypress/groups/single/forum/edit.php:25
+msgid "Edit:"
+msgstr "Редактировать"
+
+#: ../buddypress/groups/single/forum/edit.php:87
+msgid "This topic does not exist."
+msgstr "Эта тема не существует."
+
+#: ../buddypress/groups/single/forum/topic.php:9
+msgid "New Reply"
+msgstr "Ответить"
+
+#: ../buddypress/groups/single/forum/topic.php:32
+msgid "Topic tags:"
+msgstr "Темы тегов:"
+
+#: ../buddypress/groups/single/forum/topic.php:81
+#, php-format
+msgid "%1$s said %2$s:"
+msgstr "%1$s сказать %2$s:"
+
+#: ../buddypress/groups/single/forum/topic.php:119
+msgid "There are no posts for this topic."
+msgstr "В этой теме нет записей."
+
+#: ../buddypress/groups/single/forum/topic.php:134
+msgid "You will auto join this group when you reply to this topic."
+msgstr "Вы автоматически вступите в этот проект, когда ответите в теме."
+
+#: ../buddypress/groups/single/forum/topic.php:139
+msgid "Add a reply:"
+msgstr "Добавить ответ:"
+
+#: ../buddypress/groups/single/forum/topic.php:155
+msgid "This topic is closed, replies are no longer accepted."
+msgstr "Эта тема закрыта, ответы больше не публикуются."
+
+#: ../buddypress/members/activate.php:14
+msgid ""
+"Your account was activated successfully! Your account details have been sent "
+"to you in a separate email."
+msgstr ""
+"Ваш аккаунт успешно активирован. Детали регистрации (логин и пароль) были "
+"отправлены вам на тот адрес e-mail, который вы указали."
+
+#: ../buddypress/members/activate.php:16
+#, php-format
+msgid ""
+"Your account was activated successfully! You can now <a href=\"%s\">log in</"
+"a> with the username and password you provided when you signed up."
+msgstr ""
+"Ваш аккаунт успешно активирован! Теперь вы можете <a href=\"%s"
+"\">авторизоваться</a>, используя логин и пароль, указанные вами при "
+"регистрации."
+
+#: ../buddypress/members/activate.php:21
+msgid "Please provide a valid activation key."
+msgstr "Пожалуйста, используйте правильный ключ активации."
+
+#: ../buddypress/members/activate.php:25
+msgid "Activation Key:"
+msgstr "Ключ активации:"
+
+#: ../buddypress/members/members-loop.php:145
+msgid "Sorry, no members were found."
+msgstr "Извините, пользователи не найдены."
+
+#: ../buddypress/members/register.php:30
+msgid "User registration is currently not allowed."
+msgstr "В данный момент регистрация запрещена."
+
+#: ../buddypress/members/register.php:49
+msgid ""
+"Registering for this site is easy. Just fill in the fields below, and we'll "
+"get a new account set up for you in no time."
+msgstr ""
+"Зарегистрироваться на этом сайте очень легко. Просто заполните поля, "
+"указанные ниже, и вы сразу получите вашу новую учетную запись."
+
+#: ../buddypress/members/register.php:64
+msgid "Account Details"
+msgstr "Детали учетной записи"
+
+#: ../buddypress/members/register.php:66 ../inc/register.php:36
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: ../buddypress/members/register.php:66 ../buddypress/members/register.php:77
+#: ../buddypress/members/register.php:88
+#: ../buddypress/members/register.php:100
+#: ../buddypress/members/register.php:249
+#: ../buddypress/members/register.php:265
+msgid "(required)"
+msgstr "(обязательно)"
+
+#: ../buddypress/members/register.php:77
+msgid "Email Address"
+msgstr "E-mail адрес"
+
+#: ../buddypress/members/register.php:88
+msgid "Choose a Password"
+msgstr "Выберите пароль"
+
+#: ../buddypress/members/register.php:100
+msgid "Confirm Password"
+msgstr "Подтвердите пароль"
+
+#: ../buddypress/members/register.php:146 ../inc/register.php:102
+msgid "Profile Details"
+msgstr "Детали профиля"
+
+#: ../buddypress/members/register.php:168
+#: ../buddypress/members/register.php:183
+#, php-format
+msgid ""
+"This field can be seen by: <span class=\"current-visibility-level\">%s</span>"
+msgstr "Кто видит это поле: <span class=\"current-visibility-level\">%s</span>"
+
+#: ../buddypress/members/register.php:173
+msgid "Who can see this field?"
+msgstr "Кто может видеть это поле?"
+
+#: ../buddypress/members/register.php:178
+msgid "Close"
+msgstr "Закрыть"
+
+#: ../buddypress/members/register.php:243
+msgid "Blog Details"
+msgstr "Подробности о сайте"
+
+#: ../buddypress/members/register.php:245
+msgid "Yes, I'd like to create a new site"
+msgstr "Да, я хочу создать новый сайт"
+
+#: ../buddypress/members/register.php:249
+msgid "Blog URL"
+msgstr "URL сайта"
+
+#: ../buddypress/members/register.php:265
+msgid "Site Title"
+msgstr "Заголовок сайта:"
+
+#: ../buddypress/members/register.php:276
+msgid ""
+"I would like my site to appear in search engines, and in public listings "
+"around this network."
+msgstr ""
+"Я хотел бы, чтобы мой сайт присутствовал в поисковых системах вроде Google и "
+"Yandex, а также в ленте активности и каталоге сайтов сети."
+
+#: ../buddypress/members/register.php:286
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:24
+msgid "Yes"
+msgstr "Да"
+
+#: ../buddypress/members/register.php:287
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:28
+msgid "No"
+msgstr "Нет"
+
+#: ../buddypress/members/register.php:355
+msgid ""
+"You have successfully created your account! To begin using this site you "
+"will need to activate your account via the email we have just sent to your "
+"address."
+msgstr ""
+"Вы успешно создали ваш аккаунт. Для того чтобы начать им пользоваться, вам "
+"необходимо активировать его через e-mail письмо, которое мы только что вам "
+"отправили."
+
+#: ../buddypress/members/register.php:357
+msgid ""
+"You have successfully created your account! Please log in using the username "
+"and password you have just created."
+msgstr ""
+"Вы успешно зарегистрировали вашу учетную запись! Пожалуйста, авторизуйтесь, "
+"используя логин и пароль, который вы только что создали."
+
+#: ../buddypress/members/single/blogs.php:22
+msgid "Newest"
+msgstr "Новые"
+
+#: ../buddypress/members/single/blogs.php:23
+#: ../buddypress/members/single/friends.php:24
+#: ../buddypress/members/single/groups.php:25
+msgid "Alphabetical"
+msgstr "По алфавиту"
+
+#: ../buddypress/members/single/friends.php:23
+msgid "Newest Registered"
+msgstr "Последние зарегистированные"
+
+#: ../buddypress/members/single/groups.php:23
+msgid "Most Members"
+msgstr "Количество участников"
+
+#: ../buddypress/members/single/groups.php:24
+msgid "Newly Created"
+msgstr "Недавно созданные"
+
+#: ../buddypress/members/single/friends/requests.php:37
+#: ../buddypress/members/single/groups/invites.php:23
+msgid "Accept"
+msgstr "Принять"
+
+#: ../buddypress/members/single/friends/requests.php:38
+#: ../buddypress/members/single/groups/invites.php:24
+msgid "Reject"
+msgstr "Отклонить"
+
+#: ../buddypress/members/single/friends/requests.php:68
+msgid "You have no pending friendship requests."
+msgstr "У вас нет предложений дружбы."
+
+#: ../buddypress/members/single/groups/invites.php:37
+msgid "You have no outstanding group invites."
+msgstr "У вас нет приглашений в проекты."
+
+#: ../buddypress/members/single/messages/messages-loop.php:27
+#: ../buddypress/members/single/notifications/notifications-loop.php:6
+msgid "Select all"
+msgstr "Выделить всё"
+
+#: ../buddypress/members/single/messages/messages-loop.php:28
+msgid "From"
+msgstr "От"
+
+#: ../buddypress/members/single/messages/messages-loop.php:29
+msgid "Subject"
+msgstr "Тема"
+
+#: ../buddypress/members/single/messages/messages-loop.php:30
+#: ../buddypress/members/single/notifications/notifications-loop.php:9
+#: ../inc/multiverso.php:103
+msgid "Actions"
+msgstr "Действия"
+
+#: ../buddypress/members/single/messages/messages-loop.php:46
+msgid "From:"
+msgstr "От:"
+
+#: ../buddypress/members/single/messages/messages-loop.php:53
+msgid "To:"
+msgstr "Дпя:"
+
+#: ../buddypress/members/single/messages/messages-loop.php:68
+#: ../inc/buddypress.php:284
+msgid "Read"
+msgstr "Читать"
+
+#: ../buddypress/members/single/messages/messages-loop.php:72
+#: ../inc/buddypress.php:281
+msgid "Unread"
+msgstr "Непрочитано"
+
+#: ../buddypress/members/single/messages/messages-loop.php:102
+msgid "Sorry, no messages were found."
+msgstr "Извините, сообщения не найдены."
+
+#: ../buddypress/members/single/messages/notices-loop.php:36
+msgid "Sent:"
+msgstr "Отправлено:"
+
+#: ../buddypress/members/single/messages/notices-loop.php:54
+msgid "Sorry, no notices were found."
+msgstr "Извините, уведомлений на данный момент нет."
+
+#: ../buddypress/members/single/messages/single.php:14
+msgid "You are alone in this conversation."
+msgstr "В этом обсуждении только Вы."
+
+#: ../buddypress/members/single/messages/single.php:18
+#, php-format
+msgid "Conversation between %s recipients."
+msgstr "Переписка между %s собеседниками."
+
+#: ../buddypress/members/single/messages/single.php:22
+#, php-format
+msgid "Conversation between %s and you."
+msgstr "Переписка между %s и вами."
+
+#: ../buddypress/members/single/messages/single.php:90
+msgid "Send a Reply"
+msgstr "Отправить ответ"
+
+#: ../buddypress/members/single/notifications/feedback-no-notifications.php:7
+msgid "You have no unread notifications."
+msgstr "У вас нет непрочитанных уведомлений."
+
+#: ../buddypress/members/single/notifications/feedback-no-notifications.php:11
+msgid "This member has no unread notifications."
+msgstr "У этого пользователя нет непрочитанных уведомлений."
+
+#: ../buddypress/members/single/notifications/feedback-no-notifications.php:19
+msgid "You have no notifications."
+msgstr "У вас нет уведомлений."
+
+#: ../buddypress/members/single/notifications/feedback-no-notifications.php:23
+msgid "This member has no notifications."
+msgstr "У этого пользователя нет уведомлений."
+
+#: ../buddypress/members/single/notifications/notifications-loop.php:7
+msgid "Notification"
+msgstr "Уведомление"
+
+#: ../buddypress/members/single/notifications/notifications-loop.php:8
+msgid "Date Received"
+msgstr "Дата получения"
+
+#: ../buddypress/members/single/profile/change-avatar.php:1
+#: ../inc/buddypress.php:269
+msgid "Change Profile Photo"
+msgstr "Изменить картинку профиля"
+
+#: ../buddypress/members/single/profile/change-avatar.php:7
+msgid ""
+"Your profile photo will be used on your profile and throughout the site. If "
+"there is a <a href=\"http://gravatar.com\">Gravatar</a> associated with your "
+"account email we will use that, or you can upload an image from your "
+"computer."
+msgstr ""
+"Ваша картинка профиля будет использоваться в вашем профиле и повсеместно на "
+"сайте. Если с вашим email адресом на этом сайте есть связанная учетная "
+"запись из <a href=\"http://gravatar.com\">Gravatar</a>, то именно она будет "
+"использоваться, или же вы можете загрузить картинку с вашего компьютера."
+
+#: ../buddypress/members/single/profile/change-avatar.php:14
+msgid ""
+"Click below to select a JPG, GIF or PNG format photo from your computer and "
+"then click 'Upload Image' to proceed."
+msgstr ""
+"Щелкните ниже, чтобы выбрать с вашего компьютера картинки в формате JPG, GIF "
+"или PNG, а затем нажмите 'Загрузить картинку'."
+
+#: ../buddypress/members/single/profile/change-avatar.php:23
+msgid ""
+"If you'd like to delete your current profile photo but not upload a new one, "
+"please use the delete profile photo button."
+msgstr ""
+"Если вы хотите удалить текущую картинку профиля проекта, но не будете "
+"загружать новую, используйте кнопку удаления картинки профиля."
+
+#: ../buddypress/members/single/profile/change-avatar.php:24
+msgid "Delete My Profile Photo"
+msgstr "Удалить мою картинку профиля"
+
+#: ../buddypress/members/single/profile/change-avatar.php:31
+msgid "Crop Your New Profile Photo"
+msgstr "Обрезать вашу новую картинку профиля"
+
+#: ../buddypress/members/single/profile/change-avatar.php:55
+msgid ""
+"Your profile photo will be used on your profile and throughout the site. To "
+"change your profile photo, please create an account with <a href=\"http://"
+"gravatar.com\">Gravatar</a> using the same email address as you used to "
+"register with this site."
+msgstr ""
+"Ваша картинка профиля будет использоваться в вашем профиле и повсеместно на "
+"сайте. Чтобы изменить свою картинку, создайте аккаунт на сайте <a href="
+"\"http://gravatar.com\">Gravatar</a> с тем же email адресом, использованным "
+"вами для регистрации на этом сайте."
+
+#: ../buddypress/members/single/profile/profile-wp.php:8
+#, php-format
+msgid "%s's Profile"
+msgstr "%s's  Профиль"
+
+#: ../buddypress/members/single/profile/profile-wp.php:15
+#: ../framework-customizations/extensions/woffice-directory/settings-options.php:50
+#: ../framework-customizations/extensions/woffice-projects/helpers.php:176
+#: ../framework-customizations/theme/options/posts/project.php:78
+#: ../framework-customizations/theme/options/posts/project.php:95
+msgid "Name"
+msgstr "Имя"
+
+#: ../buddypress/members/single/profile/profile-wp.php:24
+msgid "About Me"
+msgstr "Обо мне"
+
+#: ../buddypress/members/single/profile/profile-wp.php:33
+msgid "Website"
+msgstr "Сайт"
+
+#: ../buddypress/members/single/profile/profile-wp.php:42
+msgid "Jabber"
+msgstr ""
+
+#: ../buddypress/members/single/profile/profile-wp.php:51
+msgid "AOL Messenger"
+msgstr ""
+
+#: ../buddypress/members/single/profile/profile-wp.php:60
+msgid "Yahoo Messenger"
+msgstr ""
+
+#: ../buddypress/members/single/settings/capabilities.php:9
+msgid "This user is a spammer."
+msgstr "Этот пользователь - спамер."
+
+#: ../buddypress/members/single/settings/delete-account.php:7
+msgid ""
+"Deleting your account will delete all of the content you have created. It "
+"will be completely irrecoverable."
+msgstr ""
+"Удаление вашей учетной записи также удалит весь созданный вами контент. Это "
+"действие нельзя отменить."
+
+#: ../buddypress/members/single/settings/delete-account.php:11
+msgid ""
+"Deleting this account will delete all of the content it has created. It will "
+"be completely irrecoverable."
+msgstr ""
+"Удаление вашей учетной записи также удалит весь созданный вами контент. Это "
+"действие нельзя отменить."
+
+#: ../buddypress/members/single/settings/delete-account.php:23
+msgid "I understand the consequences."
+msgstr "Я понимаю последствия."
+
+#: ../buddypress/members/single/settings/general.php:7
+msgid ""
+"Current Password <span>(required to update email or change current password)"
+"</span>"
+msgstr ""
+"Текущий пароль <span>(впишите для изменения email адреса или пароля)</span>"
+
+#: ../buddypress/members/single/settings/general.php:8
+msgid "Lost your password?"
+msgstr "Забыли пароль?"
+
+#: ../buddypress/members/single/settings/general.php:12
+msgid "Account Email"
+msgstr "E-mail учетной записи"
+
+#: ../buddypress/members/single/settings/general.php:15
+msgid "Change Password <span>(leave blank for no change)</span>"
+msgstr ""
+"Изменить пароль <span>(оставьте поля пустыми, если не хотите менять)</span>"
+
+#: ../buddypress/members/single/settings/general.php:16
+msgid "New Password"
+msgstr "Новый пароль"
+
+#: ../buddypress/members/single/settings/general.php:18
+msgid "Repeat New Password"
+msgstr "Повторите новый пароль"
+
+#: ../buddypress/members/single/settings/notifications.php:4
+msgid "Send an email notice when:"
+msgstr "Отправить по e-mail уведомление, когда:"
+
+#: ../buddypress/members/single/settings/profile.php:15
+msgid "Visibility"
+msgstr "Видимость"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/alert/config.php:5
+msgid "Alert Box"
+msgstr "Выпадающий список"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/alert/config.php:6
+msgid "This is a box that you can customize with an icon and a background"
+msgstr "В этом окне Вы можете изменить иконку и фон"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/alert/config.php:7
+#: ../framework-customizations/extensions/shortcodes/shortcodes/animated_number/config.php:10
+#: ../framework-customizations/extensions/shortcodes/shortcodes/bigbluebutton/config.php:10
+#: ../framework-customizations/extensions/shortcodes/shortcodes/contactform7/config.php:10
+#: ../framework-customizations/extensions/shortcodes/shortcodes/eventon/config.php:10
+#: ../framework-customizations/extensions/shortcodes/shortcodes/eventon_form/config.php:10
+#: ../framework-customizations/extensions/shortcodes/shortcodes/file-away/config.php:10
+#: ../framework-customizations/extensions/shortcodes/shortcodes/full/config.php:7
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/config.php:10
+#: ../framework-customizations/extensions/shortcodes/shortcodes/list/config.php:10
+#: ../framework-customizations/extensions/shortcodes/shortcodes/members/config.php:10
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/config.php:10
+#: ../framework-customizations/extensions/shortcodes/shortcodes/progressbar/config.php:8
+#: ../framework-customizations/extensions/shortcodes/shortcodes/trello/config.php:10
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/config.php:8
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_headlines/config.php:8
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/config.php:10
+msgid "Content Elements"
+msgstr "Элементы контента"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/alert/options.php:5
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_headlines/config.php:6
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_headlines/options.php:8
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:30
+#: ../framework-customizations/extensions/woffice-funfacts/includes/class-fw-widget-woffice-funfacts.php:49
+#: ../framework-customizations/extensions/woffice-map/includes/class-fw-widget-woffice-map.php:53
+#: ../framework-customizations/extensions/woffice-poll/includes/class-fw-widget-woffice-poll.php:51
+#: ../framework-customizations/extensions/woffice-projects/includes/class-fw-widget-woffice-projects
+#: copy.php:45
+#: ../framework-customizations/extensions/woffice-wiki/includes/class-fw-widget-woffice-wiki.php:46
+#: ../inc/multiverso.php:100 ../inc/multiverso.php:167
+#: ../inc/multiverso.php:253 ../inc/widgets/cf7/class-widget-cf7.php:38
+#: ../inc/widgets/eventon/class-widget-eventon.php:39
+#: ../inc/widgets/visualizer/class-widget-visualizer.php:38
+#: ../inc/widgets/wpml/class-widget-wpml.php:38
+msgid "Title"
+msgstr "Заголовок"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/alert/options.php:6
+msgid "This is the title of the box."
+msgstr "Это заголовок контейнера."
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/alert/options.php:10
+#: ../framework-customizations/extensions/shortcodes/shortcodes/file-away/options.php:8
+#: ../framework-customizations/extensions/shortcodes/shortcodes/full/options.php:5
+#: ../framework-customizations/extensions/woffice-funfacts/settings-options.php:29
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:10
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:38
+#: ../framework-customizations/theme/options/widgets.php:32
+#: ../framework-customizations/theme/options/posts/directory.php:48
+msgid "Content"
+msgstr "Содержимое"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/alert/options.php:14
+msgid "This is the content of the box."
+msgstr "Это содержание контейнера."
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/alert/options.php:17
+#: ../framework-customizations/extensions/shortcodes/shortcodes/progressbar/options.php:16
+#: ../framework-customizations/extensions/woffice-directory/settings-options.php:52
+#: ../framework-customizations/extensions/woffice-funfacts/settings-options.php:33
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:91
+#: ../framework-customizations/theme/options/widgets.php:36
+#: ../framework-customizations/theme/options/posts/directory.php:49
+#: ../framework-customizations/theme/options/posts/project.php:80
+msgid "Icon"
+msgstr "Иконка"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/alert/options.php:19
+msgid "The icon will be displayed in the background with a small opacity"
+msgstr "Значок будет отображаться в фоновом режиме"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/alert/options.php:23
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:68
+#: ../framework-customizations/theme/options/header.php:62
+#: ../framework-customizations/theme/options/login.php:61
+#: ../framework-customizations/theme/options/menu.php:17
+msgid "Background color"
+msgstr "Цвет фона"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/alert/options.php:25
+msgid ""
+"The background of the box, remember that the white color should come out."
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/animated_number/config.php:8
+msgid "Animated Number"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/animated_number/config.php:9
+msgid ""
+"Show an animated number with a title under, it will takes the full width so "
+"you can wrap it in columns."
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/animated_number/options.php:9
+msgid "The animated number"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/animated_number/options.php:10
+msgid "Only number please or it will not work."
+msgstr "Только число, пожалуйста, или это не будет работать."
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/animated_number/options.php:15
+msgid "Title under"
+msgstr "Название под"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/bigbluebutton/config.php:8
+msgid "BigBlueutton Meetings"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/bigbluebutton/config.php:9
+msgid "Dropdown list to show all the meetings from your BigBluebutton account."
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/bigbluebutton/views/view.php:11
+msgid "Sorry, you need to install this plugin first"
+msgstr "Извините, сначала Вы должны установить этот плагин "
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/column/options.php:5
+msgid "Extra Class to the column"
+msgstr "Дополнительный Класс к колонке"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/column/options.php:6
+msgid "Such as: center to align in the middle the content inside."
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/contactform7/config.php:8
+msgid "Contact Form 7"
+msgstr "Контактная форма 7"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/contactform7/config.php:9
+msgid "Add a contact form7"
+msgstr "Добавить контактную форму 7"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/contactform7/options.php:14
+msgid "Choose a form :"
+msgstr "Выберите форму:"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/contactform7/options.php:15
+msgid "You need to have installed before the Plugin Contact Form 7."
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/contactform7/views/view.php:10
+msgid "Please select a form in the shortcode option."
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/eventon/config.php:8
+msgid "EventOn Calendar"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/eventon/config.php:9
+msgid "Add a full month calendar from EventON events"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/eventon/options.php:7
+msgid "Unique ID :"
+msgstr "Уникальный ID:"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/eventon/options.php:8
+msgid "Any number you like, just to difference them (example: 9999999)"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/eventon/options.php:12
+msgid "Auto Open events"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/eventon/options.php:15
+#: ../framework-customizations/extensions/shortcodes/shortcodes/trello/options.php:28
+#: ../framework-customizations/extensions/woffice-birthdays/settings-options.php:21
+#: ../framework-customizations/theme/options/general.php:34
+#: ../framework-customizations/theme/options/general.php:56
+#: ../framework-customizations/theme/options/general.php:70
+#: ../framework-customizations/theme/options/header.php:44
+#: ../framework-customizations/theme/options/header.php:82
+#: ../framework-customizations/theme/options/header.php:96
+#: ../framework-customizations/theme/options/login.php:28
+#: ../framework-customizations/theme/options/login.php:103
+#: ../framework-customizations/theme/options/login.php:116
+#: ../framework-customizations/theme/options/login.php:142
+#: ../framework-customizations/theme/options/login.php:157
+#: ../framework-customizations/theme/options/login.php:172
+#: ../framework-customizations/theme/options/page-title.php:72
+#: ../framework-customizations/theme/options/posts.php:70
+#: ../framework-customizations/theme/options/posts.php:91
+#: ../framework-customizations/theme/options/sidebar.php:19
+#: ../framework-customizations/theme/options/sidebar.php:33
+#: ../framework-customizations/theme/options/sidebar.php:47
+#: ../framework-customizations/theme/options/sidebar.php:61
+#: ../framework-customizations/theme/options/sidebar.php:75
+#: ../framework-customizations/theme/options/sidebar.php:102
+#: ../framework-customizations/theme/options/sidebar.php:124
+#: ../framework-customizations/theme/options/sidebar.php:138
+#: ../framework-customizations/theme/options/styling.php:49
+#: ../framework-customizations/theme/options/styling.php:63
+#: ../framework-customizations/theme/options/styling.php:77
+msgid "Yep"
+msgstr "Да"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/eventon/options.php:19
+#: ../framework-customizations/extensions/shortcodes/shortcodes/trello/options.php:32
+#: ../framework-customizations/extensions/woffice-birthdays/settings-options.php:25
+#: ../framework-customizations/theme/options/general.php:38
+#: ../framework-customizations/theme/options/general.php:60
+#: ../framework-customizations/theme/options/general.php:74
+#: ../framework-customizations/theme/options/header.php:48
+#: ../framework-customizations/theme/options/header.php:86
+#: ../framework-customizations/theme/options/header.php:100
+#: ../framework-customizations/theme/options/page-title.php:76
+#: ../framework-customizations/theme/options/posts.php:74
+#: ../framework-customizations/theme/options/posts.php:95
+#: ../framework-customizations/theme/options/sidebar.php:23
+#: ../framework-customizations/theme/options/sidebar.php:37
+#: ../framework-customizations/theme/options/sidebar.php:51
+#: ../framework-customizations/theme/options/sidebar.php:65
+#: ../framework-customizations/theme/options/sidebar.php:79
+#: ../framework-customizations/theme/options/sidebar.php:106
+#: ../framework-customizations/theme/options/sidebar.php:128
+#: ../framework-customizations/theme/options/sidebar.php:142
+#: ../framework-customizations/theme/options/styling.php:53
+#: ../framework-customizations/theme/options/styling.php:67
+#: ../framework-customizations/theme/options/styling.php:81
+msgid "Nope"
+msgstr "Нет"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/eventon/views/view.php:16
+msgid "Please select an unique ID in the shortcode option."
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/eventon_form/config.php:8
+msgid "EventOn Calendar Form"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/eventon_form/config.php:9
+msgid "Add a form so user can create event"
+msgstr "Добавьте форму, чтобы пользователь мог создать событие"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/file-away/config.php:8
+#, fuzzy
+msgid "File Manager (File Away)"
+msgstr "Файловый Менеджер"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/file-away/config.php:9
+msgid "Add a File Away file manager"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/file-away/options.php:9
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/options.php:25
+msgid "Choose here what you want to generate"
+msgstr "Выберите то, что Вы хотите создать"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/file-away/options.php:11
+#, fuzzy
+msgid "Directory View"
+msgstr "Список форумов"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/file-away/options.php:12
+msgid "Files Upload"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/file-away/options.php:18
+#, fuzzy
+msgid "Select a directory"
+msgstr "Выберите категорию:"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/file-away/options.php:30
+msgid "Optional Sub directory"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/file-away/options.php:31
+msgid ""
+"The path to a sub directory from the directory you have choose in the last "
+"option. Like : test/ "
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/file-away/options.php:35
+msgid "File Away Info"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/file-away/options.php:36
+msgid ""
+"If you need more options about this, please use the default shortcode "
+"generator from the plugin, it is slower but you'll find more options. You "
+"can also have  a look on this article for more details"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/file-away/views/view.php:24
+msgid "Please install File Away plugin and make sure it is activated."
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/full/config.php:5
+msgid "Full Width Text"
+msgstr "Текст по ширине"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/full/config.php:6
+msgid ""
+"Full width container, it is not in the white container and will use light "
+"colors as in the sidebar."
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/full/options.php:9
+msgid "This is the content of the container."
+msgstr "Это содержимое контейнера."
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/config.php:8
+msgid "LearnDash"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/config.php:9
+msgid "Display Learndash elements"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.php:14
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:14
+msgid "Type :"
+msgstr "Тип:"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.php:15
+#, fuzzy
+msgid "What do you want to display ?"
+msgstr "Вы хотите скрыть логотип?"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.php:18
+msgid "Current User data (Courses, scores, certificates..)"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.php:19
+msgid "Courses list"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.php:20
+msgid "Lessons list"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.php:21
+msgid "Quizzes list"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.php:22
+#, fuzzy
+msgid "Course's content"
+msgstr "Содержание новости"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.php:27
+msgid "Info"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.php:28
+msgid ""
+"The next options are only if you have selected Course, Lessons, Quizzes list "
+"in the option above."
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.php:32
+#, fuzzy
+msgid "Number :"
+msgstr "Число"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.php:42
+#, fuzzy
+msgid "order :"
+msgstr "Фильтр:"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.php:45
+msgid "Ascending"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.php:49
+msgid "Descending"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.php:55
+msgid "Optional Tag :"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.php:56
+msgid "Display only the ones from a specific tag. We need its slug here."
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.php:60
+#, fuzzy
+msgid "Optional Category :"
+msgstr "Категория статьи:"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.php:61
+msgid "Display only the ones from a specific category. We need its slug here."
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.php:65
+msgid "For the current user :"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.php:66
+msgid ""
+"Display the data only for the current user ? (Not all courses, but his "
+"courses for example). ONLY FOR THE COURSES"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/list/config.php:8
+msgid "List"
+msgstr "Список"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/list/config.php:9
+msgid "Add a list with some icons"
+msgstr "Добавьте список с некоторыми символами"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/list/options.php:9
+msgid "List style"
+msgstr "Стиль списка"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/list/options.php:10
+msgid "This is the icon at the beginning."
+msgstr "Это - символ вначале."
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/list/options.php:21
+msgid "List Items"
+msgstr "Пункты списка"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/members/config.php:9
+msgid "Display avatars of the members with link to their profiles."
+msgstr "Отображение аватарок участников с ссылкой на их профили."
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/members/options.php:8
+msgid "All Users"
+msgstr "Все пользователи"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/members/options.php:14
+msgid "Select members type"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/config.php:8
+#, fuzzy
+msgid "File Manager (Multiverso)"
+msgstr "Файловый Менеджер"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/config.php:9
+msgid "Add a Multiverso file manager/file/all files/category..."
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/options.php:24
+msgid "Content :"
+msgstr "Содержимое:"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/options.php:27
+msgid "All files"
+msgstr "Все файлы"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/options.php:28
+msgid "Single File"
+msgstr "Отдельный файл"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/options.php:29
+msgid "Files Category"
+msgstr "Категория файлов"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/options.php:30
+msgid "Files Manager"
+msgstr "Файловый Менеджер"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/options.php:35
+msgid "Select File :"
+msgstr "Выберите файл:"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/options.php:36
+msgid "(If you have chosen -> Single file)"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/options.php:41
+msgid "Select Category :"
+msgstr "Выберите категорию:"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/options.php:42
+msgid "(If you have chosen -> Files Category)"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/views/view.php:19
+msgid "Please select a value in the shortcode option."
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/progressbar/config.php:6
+msgid "Progress Bar"
+msgstr "Прогресс бар"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/progressbar/config.php:7
+msgid "A cool progress bar"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/progressbar/options.php:13
+msgid "Progress"
+msgstr "Прогресс"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/progressbar/options.php:17
+msgid "Choose an icon that will be on the progress bar at the beginning."
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/trello/config.php:8
+msgid "Trello"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/trello/config.php:9
+msgid "Add a Trello Element"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/trello/options.php:8
+msgid "Type of Trello element"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/trello/options.php:9
+msgid "You need to have installed before the Plugin WP Trello."
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/trello/options.php:20
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:33
+msgid "ID"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/trello/options.php:21
+msgid ""
+"The ID of the element, you can find it in the URL or in Settings -> WP "
+"TRELLO -> API Helper"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/trello/options.php:24
+msgid "Link ?"
+msgstr "Связь?"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/trello/options.php:35
+msgid "Display as a link to Trello."
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/trello/views/view.php:12
+msgid "Please select an ID for the Trello Element."
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/trello/views/view.php:16
+msgid "Please install the plugin "
+msgstr "Пожалуйста, установите плагин"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/config.php:6
+msgid "Button"
+msgstr "Кнопка"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/config.php:7
+msgid "A very awesome button"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:7
+msgid "Button Label"
+msgstr "Название кнопки"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:8
+msgid "This is the text that appears on your button"
+msgstr "Текст, который появляется на Вашей кнопке"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:13
+msgid "Button Link"
+msgstr "Связь кнопки"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:14
+msgid "Where should your button link to"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:20
+msgid "Open Link in New Window"
+msgstr "Открыть ссылку в новом окне"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:21
+msgid "Select here if you want to open the linked page in a new window"
+msgstr "Выберите это, если Вы хотите открыть страницу в новом окне"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:32
+msgid "Button icon"
+msgstr "Символ кнопки"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:33
+msgid "Choose an icon for your button just before the label"
+msgstr "Выберите значок для вашей кнопки "
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:38
+msgid "Button size"
+msgstr "Размер кнопки"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:39
+msgid "Choose a size for your button"
+msgstr "Выберите размер для кнопки"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:43
+msgid "Small"
+msgstr "Маленький"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:44
+#: ../inc/register.php:81
+msgid "Default"
+msgstr "По умолчанию"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:45
+msgid "Large"
+msgstr "Большой"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:49
+msgid "Button color"
+msgstr "Цвет кнопки"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:50
+msgid "Choose a color for your button background"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_headlines/config.php:7
+msgid "Title with borders."
+msgstr "Заголовок с границами."
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_headlines/options.php:9
+msgid "Write the heading title content."
+msgstr "Напишите  заголовок контента."
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_headlines/options.php:13
+msgid "Heading Size"
+msgstr "Размер Заголовка"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/config.php:8
+msgid "Woocommerce"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/config.php:9
+msgid "Add a Woocommerce products"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:7
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:32
+msgid "Headline"
+msgstr "Заголовок"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:8
+msgid "This is the heading that appears above the carousel"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:15
+msgid "You need to have installed before the Plugin Woocommerce."
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:17
+msgid "Recent Products"
+msgstr "Недавние продукты"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:18
+msgid "Featured Products"
+msgstr "Представленные продукты"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:19
+msgid "Products"
+msgstr "Товары"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:20
+msgid "Top Rated Products"
+msgstr "Топ лучших товаров"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:21
+msgid "Releated Products"
+msgstr "Сопутствующие Товары"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:27
+msgid "Order by :"
+msgstr "Сортировать по:"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:29
+msgid "Menu Order"
+msgstr "Порядок меню"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:31
+msgid "Date"
+msgstr "Дата"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:32
+msgid "Rand"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:39
+msgid "Order"
+msgstr "Заказ"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:40
+msgid "This is the order of the products"
+msgstr "Заказанные товары"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:43
+msgid "ASC"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:47
+msgid "DESC"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:58
+msgid "How many ?"
+msgstr "Сколько?"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:59
+msgid ""
+"How many products do you want to show, they'll be added in a 4 columns "
+"carousel."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-birthdays/class-fw-extension-woffice-birthdays.php:190
+msgid "Birthdays"
+msgstr "Дни рождения"
+
+#: ../framework-customizations/extensions/woffice-birthdays/class-fw-extension-woffice-birthdays.php:193
+msgid "Birthday"
+msgstr "День рождения"
+
+#: ../framework-customizations/extensions/woffice-birthdays/class-fw-extension-woffice-birthdays.php:196
+msgid "Happy"
+msgstr "Счастливый"
+
+#: ../framework-customizations/extensions/woffice-birthdays/class-fw-extension-woffice-birthdays.php:199
+msgid "Next Birthday"
+msgstr "Следующий День рождения"
+
+#: ../framework-customizations/extensions/woffice-birthdays/class-fw-extension-woffice-birthdays.php:204
+msgid "Sorry no birthdays set..."
+msgstr "Извините, День рождения не указан"
+
+#: ../framework-customizations/extensions/woffice-birthdays/class-fw-extension-woffice-birthdays.php:234
+msgid " years old"
+msgstr "лет"
+
+#: ../framework-customizations/extensions/woffice-birthdays/hooks.php:26
+msgid ""
+"We will only use it for the Birthday widget, so we can celebrate everyone\\s "
+"birthday."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-birthdays/manifest.php:7
+msgid "Woffice Birthdays"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-birthdays/manifest.php:8
+msgid ""
+"Enables the possibility to add a birthdays widget in Woffice. (See "
+"documentation for detailed informations)."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-birthdays/settings-options.php:8
+msgid "Birthdays Extension"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-birthdays/settings-options.php:11
+msgid "Wigdet Options"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-birthdays/settings-options.php:16
+msgid "Show the age of the person"
+msgstr "Показать возраст пользователя"
+
+#: ../framework-customizations/extensions/woffice-birthdays/settings-options.php:17
+msgid "In the widget beside the name"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-birthdays/includes/class-fw-widget-woffice-birthdays.php:15
+msgid "(Woffice) Birthdays"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-cover/hooks.php:65
+msgid "Uploading..."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-cover/hooks.php:73
+msgid "Unable to upload file..."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-cover/hooks.php:77
+msgid "Image uploaded."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-cover/hooks.php:85
+msgid "An error occurred and the upload failed."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-cover/hooks.php:97
+msgid "Unable to upload file."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-cover/hooks.php:114
+#, fuzzy
+msgid "Image Deleted"
+msgstr "Удалить"
+
+#: ../framework-customizations/extensions/woffice-cover/hooks.php:233
+msgid ""
+"URL to the cover image, you can upload the image from your profile page on "
+"the top right corner."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-cover/manifest.php:7
+msgid "Woffice Cover"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-cover/manifest.php:8
+msgid ""
+"Enables the possibility to add a cover image to your Buddypress profile."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-cover/settings-options.php:8
+#, fuzzy
+msgid "Cover Options"
+msgstr "Содержание контента"
+
+#: ../framework-customizations/extensions/woffice-cover/settings-options.php:11
+#, fuzzy
+msgid "Default Cover Options"
+msgstr "Содержание контента"
+
+#: ../framework-customizations/extensions/woffice-cover/settings-options.php:16
+#, fuzzy
+msgid "Default Cover"
+msgstr "Значение по умолчанию"
+
+#: ../framework-customizations/extensions/woffice-cover/settings-options.php:17
+msgid "It is an optional option, it's not required"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-woffice-directory.php:36
+msgid "Item"
+msgstr "Пункт"
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-woffice-directory.php:37
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:27
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:26
+msgid "Add New"
+msgstr "Добавить новое "
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-woffice-directory.php:39
+msgid "Edit Item"
+msgstr "Редактировать пункт"
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-woffice-directory.php:40
+#, php-format
+msgid "View %s"
+msgstr "Просмотр %s"
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-woffice-directory.php:41
+#, php-format
+msgid "All %s"
+msgstr "Все %s"
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-woffice-directory.php:42
+#, php-format
+msgid "Search %s"
+msgstr "Поиск %s"
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-woffice-directory.php:43
+#, php-format
+msgid "No %s found"
+msgstr "Ничего %s не найдено"
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-woffice-directory.php:44
+#, php-format
+msgid "No %s found in the trash"
+msgstr "Ничего %s не найдено в корзине"
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-woffice-directory.php:86
+msgid "Directory Categories"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-woffice-directory.php:87
+msgid "Directory Category"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-woffice-directory.php:88
+msgid "Search Directory Categories"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-woffice-directory.php:89
+msgid "All Directory Categories"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-woffice-directory.php:90
+msgid "Edit Directory"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-woffice-directory.php:91
+msgid "Update Directory Category"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-woffice-directory.php:92
+msgid "Add New Directory Category"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-woffice-directory.php:93
+msgid "New Directory Category"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-woffice-directory.php:94
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:84
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:72
+msgid "Categories"
+msgstr "Категории"
+
+#: ../framework-customizations/extensions/woffice-directory/manifest.php:7
+msgid "Woffice Directory"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-directory/manifest.php:8
+msgid ""
+"Enables the possibility to add a complete directory page to your site for "
+"Jobs, Partners..."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-directory/settings-options.php:10
+#: ../inc/buddypress.php:347
+msgid "Settings"
+msgstr "Настройки"
+
+#: ../framework-customizations/extensions/woffice-directory/settings-options.php:13
+msgid "Main Options"
+msgstr "Основные параметры"
+
+#: ../framework-customizations/extensions/woffice-directory/settings-options.php:18
+msgid "Directory item name"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-directory/settings-options.php:19
+msgid ""
+"This is the name in the Wordpress menus, like Job, Partners, Corporates..."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-directory/settings-options.php:30
+#: ../framework-customizations/extensions/woffice-map/settings-options.php:33
+msgid "Zoom level"
+msgstr "Масштаб"
+
+#: ../framework-customizations/extensions/woffice-directory/settings-options.php:31
+msgid "Just the level of zooming in the map (Main directory page)."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-directory/settings-options.php:41
+#: ../framework-customizations/extensions/woffice-map/settings-options.php:44
+#: ../framework-customizations/theme/options/page-title.php:26
+msgid "Center"
+msgstr "Центр"
+
+#: ../framework-customizations/extensions/woffice-directory/settings-options.php:42
+msgid "This is the center of the map (Main directory page)."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-directory/settings-options.php:46
+msgid "Default fields"
+msgstr "По умолчанию"
+
+#: ../framework-customizations/extensions/woffice-directory/settings-options.php:47
+msgid ""
+"This is the default fields displayed on all the directory single page, if it "
+"is empty you'll be able to choose different fields for every item."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-directory/settings-options.php:51
+msgid "Default value"
+msgstr "Значение по умолчанию"
+
+#: ../framework-customizations/extensions/woffice-funfacts/manifest.php:7
+msgid "Woffice FunFacts"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-funfacts/manifest.php:8
+msgid ""
+"Enables the possibility to add a funfacts widget in Woffice. (See "
+"documentation for detailed informations)."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-funfacts/settings-options.php:10
+#: ../framework-customizations/extensions/woffice-funfacts/includes/class-fw-widget-woffice-funfacts.php:43
+msgid "Fun Facts"
+msgstr "Интересные Факты"
+
+#: ../framework-customizations/extensions/woffice-funfacts/settings-options.php:13
+#: ../framework-customizations/theme/options/widgets.php:16
+msgid "Fun Facts Widget"
+msgstr "Виджет интересных фактов"
+
+#: ../framework-customizations/extensions/woffice-funfacts/settings-options.php:24
+#: ../framework-customizations/theme/options/widgets.php:27
+msgid "Fun facts"
+msgstr "Интересные факты"
+
+#: ../framework-customizations/extensions/woffice-funfacts/settings-options.php:25
+#: ../framework-customizations/theme/options/widgets.php:28
+msgid ""
+"They will be displayed as in a slider within the widget, you can use for any "
+"other purpose than fun facts."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-funfacts/includes/class-fw-widget-woffice-funfacts.php:15
+msgid "(Woffice) Fun Facts"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-glogin/helpers.php:26
+msgid "Login With Google"
+msgstr "Войти с помощью Google"
+
+#: ../framework-customizations/extensions/woffice-glogin/helpers.php:32
+msgid "Sign In With Facebook"
+msgstr "Авторизоваться с помощью Facebook"
+
+#: ../framework-customizations/extensions/woffice-glogin/helpers.php:37
+msgid "or"
+msgstr "или"
+
+#: ../framework-customizations/extensions/woffice-glogin/manifest.php:7
+msgid "Woffice Social Login"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-glogin/manifest.php:8
+msgid ""
+"Enables the possibility to login with your Google & Facebook Account. (See "
+"documentation for detailed informations)."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:14
+msgid "Google Login"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:17
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:62
+#: ../framework-customizations/theme/options/styling.php:93
+msgid "Important :"
+msgstr "Важно :"
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:22
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:67
+msgid "Your callback URL :"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:27
+msgid "Project name"
+msgstr "Название проекта "
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:29
+msgid ""
+"When you have enabled the Google+ API in the Google API page, you have "
+"created a project. Please copy/past its name here."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:32
+msgid "Client ID"
+msgstr "Уникальный ID:"
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:34
+msgid "Your Google API client ID for this project (see Credentials page)."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:37
+msgid "Client Secret"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:39
+msgid ""
+"Your Google API Secret key for this project (downloaded in a JSON file)."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:42
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:73
+msgid "Show the button ?"
+msgstr "Показать кнопку ?"
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:46
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:77
+#: ../framework-customizations/theme/options/buddypress.php:26
+#: ../framework-customizations/theme/options/buddypress.php:82
+#: ../framework-customizations/theme/options/buddypress.php:96
+#: ../framework-customizations/theme/options/footer.php:19
+#: ../framework-customizations/theme/options/footer.php:90
+#: ../framework-customizations/theme/options/general.php:20
+#: ../framework-customizations/theme/options/posts.php:56
+msgid "Show"
+msgstr "Показать "
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:50
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:81
+#: ../framework-customizations/theme/options/buddypress.php:86
+#: ../framework-customizations/theme/options/buddypress.php:100
+#: ../framework-customizations/theme/options/footer.php:23
+#: ../framework-customizations/theme/options/footer.php:94
+#: ../framework-customizations/theme/options/general.php:24
+#: ../framework-customizations/theme/options/posts.php:60
+msgid "Hide"
+msgstr "Скрыть"
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:53
+msgid ""
+"Do you want to show it on the login page, you can hide if you only want to "
+"use Facebook one."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:59
+msgid "Facebook Sign In (Register)"
+msgstr "Авторизоваться с помощью Facebook"
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:70
+msgid ""
+"If it is on OFF, please be sure to have installed and activated the plugin : "
+"Nextend Facebook Connect."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:84
+msgid ""
+"Do you want to show it on the login page, you can hide if you only want to "
+"use Google one, if the plugin is not installed it will be hide by default."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-maintenance/manifest.php:7
+msgid "Woffice Maintenance"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-maintenance/manifest.php:8
+msgid ""
+"Enables the possibility to add a Coming Soon & Maintenance feature in "
+"Woffice. (See documentation for detailed informations)."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:13
+msgid "Content Options"
+msgstr "Содержание контента"
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:17
+#: ../inc/class-tgm-plugin-activation.php:1391 ../inc/multiverso.php:102
+#: ../inc/multiverso.php:205 ../inc/multiverso.php:301
+msgid "Status"
+msgstr "Статус"
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:18
+msgid ""
+"Once enabled it'll redirects all the visitors/members to the maintenance "
+"page."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:22
+msgid "On"
+msgstr "Включить"
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:26
+msgid "Off"
+msgstr "Выключить"
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:33
+msgid "This is the headline displayed on the page."
+msgstr "Этот Заголовок отображается на странице."
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:39
+msgid "Below the headline"
+msgstr "Ниже заголовка"
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:53
+msgid "Style"
+msgstr "Стиль "
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:56
+msgid "Background Options"
+msgstr "Цвет фона"
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:62
+#: ../framework-customizations/theme/options/footer.php:43
+#: ../framework-customizations/theme/options/header.php:56
+msgid "Text color"
+msgstr "Цвет текста"
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:63
+msgid "This is the text color over the image."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:69
+#: ../framework-customizations/theme/options/login.php:62
+msgid "This is the background color and the image will be over it."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:72
+#: ../framework-customizations/theme/options/login.php:65
+msgid "Background Image"
+msgstr "Фоновое изображение"
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:73
+#: ../framework-customizations/theme/options/login.php:66
+msgid "Large Image on fullscreen."
+msgstr "Изображение на весь экран."
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:77
+#: ../framework-customizations/theme/options/page-title.php:55
+msgid "Layer Opacity"
+msgstr "Непрозрачность слоя"
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:85
+msgid ""
+"This is the opacity of the layer with the color over the background image."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:86
+#: ../framework-customizations/theme/options/login.php:79
+#: ../framework-customizations/theme/options/page-title.php:59
+msgid "A number between 0 - 1, if you choose 0 it will becomes hidden."
+msgstr "Число в диапазоне 0 - 1, если Вы выберете 0, оно будет скрытым."
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:92
+msgid "This is an extra icon so it looks better."
+msgstr "Это дополнительная иконка"
+
+#: ../framework-customizations/extensions/woffice-map/manifest.php:7
+msgid "Woffice Members Map"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-map/manifest.php:8
+msgid ""
+"Enables the possibility to add a map of Buddypress members in Woffice. (See "
+"documentation for detailed informations)."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-map/settings-options.php:12
+#: ../framework-customizations/extensions/woffice-map/includes/class-fw-widget-woffice-map.php:47
+msgid "Users Map"
+msgstr "Карта пользователей"
+
+#: ../framework-customizations/extensions/woffice-map/settings-options.php:15
+msgid "Google API Public Key"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-map/settings-options.php:18
+msgid ""
+"We are using the GeoCoding Google API to get coordinates from users "
+"locations. By default it is working with our API key but as there are many "
+"Woffice around, the Quota (2500 requests per day) may be reached really "
+"quickly so the map will no longer be available. That is why it is important "
+"to use you own Google API key. Please see : "
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-map/settings-options.php:21
+msgid "Google API Status"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-map/settings-options.php:34
+msgid "Just the level of zooming in the map."
+msgstr "Уровень масштабирования карты."
+
+#: ../framework-customizations/extensions/woffice-map/settings-options.php:45
+msgid "This is the center of the map."
+msgstr "Это центр карты."
+
+#: ../framework-customizations/extensions/woffice-map/includes/class-fw-widget-woffice-map.php:15
+msgid "(Woffice) Users Map"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-map/views/view.php:19
+msgid "Members around the world"
+msgstr "Участники на карте"
+
+#: ../framework-customizations/extensions/woffice-map/views/view.php:26
+msgid ""
+"Sorry there is no users locations so we can not display the map. As it is "
+"empty."
+msgstr ""
+"Извините, местоположение пользователей не определено, таким образом, мы не "
+"можем показать карту, так как она пуста."
+
+#: ../framework-customizations/extensions/woffice-poll/class-fw-extension-woffice-poll.php:211
+msgid "No results :"
+msgstr "Нет результатов :"
+
+#: ../framework-customizations/extensions/woffice-poll/class-fw-extension-woffice-poll.php:225
+msgid "In percentage (%)"
+msgstr "В процентах (%)"
+
+#: ../framework-customizations/extensions/woffice-poll/class-fw-extension-woffice-poll.php:234
+msgid "Total answers number :"
+msgstr "Общее количество ответов:"
+
+#: ../framework-customizations/extensions/woffice-poll/hooks.php:61
+msgid ""
+"Error, something is wrong please refresh this page. Note that you can not "
+"vote twice."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-poll/hooks.php:69
+#: ../framework-customizations/extensions/woffice-poll/views/view.php:62
+#, fuzzy
+msgid "Thanks ! Here are the results for"
+msgstr "Спасибо! Вот результаты:"
+
+#: ../framework-customizations/extensions/woffice-poll/manifest.php:7
+msgid "Woffice Poll"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-poll/manifest.php:8
+msgid ""
+"Enables the possibility to add a poll widget in Woffice. (See documentation "
+"for detailed informations)."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-poll/settings-options.php:12
+msgid "Build Poll"
+msgstr "Создать опрос"
+
+#: ../framework-customizations/extensions/woffice-poll/settings-options.php:15
+msgid "Information :"
+msgstr "Информация:"
+
+#: ../framework-customizations/extensions/woffice-poll/settings-options.php:20
+msgid "Poll Question"
+msgstr "Вопрос опроса"
+
+#: ../framework-customizations/extensions/woffice-poll/settings-options.php:38
+msgid "Poll answers"
+msgstr "Ответы опроса"
+
+#: ../framework-customizations/extensions/woffice-poll/settings-options.php:40
+msgid "These questions will be displayed within the widget in Woffice."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-poll/settings-options.php:48
+msgid "Results"
+msgstr "Результаты"
+
+#: ../framework-customizations/extensions/woffice-poll/includes/class-fw-widget-woffice-poll.php:16
+msgid "Get the poll from the Unyson Extensions"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-poll/includes/class-fw-widget-woffice-poll.php:17
+msgid "(Woffice) Poll"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-poll/includes/class-fw-widget-woffice-poll.php:45
+msgid "Poll"
+msgstr "Опрос"
+
+#: ../framework-customizations/extensions/woffice-poll/views/view.php:53
+msgid "Send"
+msgstr "Отправить "
+
+#: ../framework-customizations/extensions/woffice-poll/views/view.php:85
+msgid "Sorry, there is no answer set yet in the Extension options."
+msgstr "Извините, этот ответ не предусмотрен опросом."
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:24
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:26
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:28
+msgid "Project"
+msgstr "Проект"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:29
+msgid "Edit Project"
+msgstr "Редактировать проект"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:30
+msgid "View Project"
+msgstr "Просмотреть проект"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:31
+msgid "All Projects"
+msgstr "Все проекты"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:32
+msgid "Search Project"
+msgstr "Поиск проекта"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:33
+msgid "No Project found."
+msgstr "Проект не найден."
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:34
+msgid "No Project found in Trash."
+msgstr "В корзине проект не найден."
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:76
+msgid "Project Categories"
+msgstr "Категории проекта"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:77
+msgid "Project Category"
+msgstr "Категория проекта"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:78
+msgid "Search Project Categories"
+msgstr "Поиск по категориям проекта"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:79
+msgid "All Project Categories"
+msgstr "Все категории проекта"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:80
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:68
+msgid "Edit Category"
+msgstr "Редактировать категорию"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:81
+msgid "Update Project Category"
+msgstr "Обновить категорию проекта"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:82
+msgid "Add New Project Category"
+msgstr "Добавить новую категорию в проект"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:83
+msgid "New Project Category"
+msgstr "Новая категория проекта"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:153
+#, fuzzy
+msgid "You have a new task"
+msgstr "У вас нет уведомлений."
+
+#: ../framework-customizations/extensions/woffice-projects/helpers.php:21
+#: ../framework-customizations/extensions/woffice-projects/helpers.php:23
+msgid "Quick Edit"
+msgstr "Быстрое редактирование"
+
+#: ../framework-customizations/extensions/woffice-projects/helpers.php:33
+msgid "Todo"
+msgstr "Задачи"
+
+#: ../framework-customizations/extensions/woffice-projects/helpers.php:43
+msgid "Files"
+msgstr "Файлы"
+
+#: ../framework-customizations/extensions/woffice-projects/helpers.php:170
+msgid "Add a New Task"
+msgstr "Добавить новую задачу"
+
+#: ../framework-customizations/extensions/woffice-projects/helpers.php:181
+msgid "Due date"
+msgstr "Установленная дата"
+
+#: ../framework-customizations/extensions/woffice-projects/helpers.php:189
+msgid "Add a note"
+msgstr "Добавить заметку"
+
+#: ../framework-customizations/extensions/woffice-projects/helpers.php:196
+msgid "Assign an user (optional)"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-projects/helpers.php:202
+#: ../framework-customizations/theme/options/posts.php:10
+#: ../framework-customizations/theme/options/posts/page.php:15
+#: ../framework-customizations/theme/options/posts/post.php:15
+#: ../framework-customizations/theme/options/posts/project.php:15
+#: ../framework-customizations/theme/options/posts/wiki.php:15
+msgid "No one"
+msgstr "Никто не"
+
+#: ../framework-customizations/extensions/woffice-projects/helpers.php:212
+msgid "Add Task"
+msgstr "Добавить задачу"
+
+#: ../framework-customizations/extensions/woffice-projects/hooks.php:220
+msgid "The task has been deleted !"
+msgstr "Задача удалена!"
+
+#: ../framework-customizations/extensions/woffice-projects/hooks.php:346
+msgid "The task has been added !"
+msgstr "Задача добавлена!"
+
+#: ../framework-customizations/extensions/woffice-projects/manifest.php:7
+msgid "Woffice Projects"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-projects/manifest.php:8
+msgid "Enables the possibility to add a project management to your site."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-projects/includes/class-fw-widget-woffice-projects
+#: copy.php:15
+msgid "(Woffice) Projects"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-projects/includes/class-fw-widget-woffice-tasks-assigned.php:15
+msgid "(Woffice) User tasks"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-projects/views/widget-assigned.php:17
+msgid "You have"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-projects/views/widget-assigned.php:17
+msgid "tasks"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-projects/views/widget-assigned.php:43
+#, fuzzy
+msgid "Well done ! You don't have any task from your projects."
+msgstr "К сожалению, у Вас еще нет проектов."
+
+#: ../framework-customizations/extensions/woffice-projects/views/widget.php:24
+msgid "Sorry you don't have any project yet."
+msgstr "К сожалению, у Вас еще нет проектов."
+
+#: ../framework-customizations/extensions/woffice-updater/manifest.php:7
+msgid "Woffice Updater"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-updater/manifest.php:8
+msgid ""
+"Auto Update your theme with the latest release, just by entering your "
+"purchase code."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-updater/settings-options.php:13
+msgid "Updater Settings"
+msgstr "Настройки обновлений"
+
+#: ../framework-customizations/extensions/woffice-updater/settings-options.php:16
+msgid "Envato Username"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-updater/settings-options.php:18
+msgid "Your Envato (Themeforest) Username goes here. "
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-updater/settings-options.php:21
+msgid "Woffice Purchase code"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-updater/settings-options.php:23
+msgid ""
+"The Purchase code of this license. You can find it in the Themeforest's "
+"download page (it's a large number)."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-updater/settings-options.php:26
+msgid "Purchase code status"
+msgstr "статсу кода покупки"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:22
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:24
+msgid "Wiki"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:23
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:25
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:27
+msgid "Article"
+msgstr "Статья"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:28
+msgid "Edit Article"
+msgstr "Редактировать статью"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:29
+msgid "View Article"
+msgstr "Просмотреть статью"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:30
+#: ../page-templates/wiki.php:155
+msgid "All Articles"
+msgstr "Все статьи"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:31
+msgid "Search Article"
+msgstr "Поиск статьи"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:32
+msgid "No Article found."
+msgstr "Статья не найдена"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:33
+msgid "No Article found in Trash."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:64
+msgid "Wiki Categories"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:65
+msgid "Article Category"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:66
+msgid "Search Wiki Categories"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:67
+msgid "All Wiki Categories"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:69
+msgid "Update Wiki Category"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:70
+msgid "Add New Wiki Category"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:71
+msgid "New Wiki Category"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-wiki/helpers.php:50
+msgid "I like this article"
+msgstr "Мне нравится эта статья"
+
+#: ../framework-customizations/extensions/woffice-wiki/manifest.php:7
+msgid "Woffice Wiki"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-wiki/manifest.php:8
+msgid "Enables the possibility to add a wiki management to your site."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-wiki/includes/class-fw-widget-woffice-wiki.php:15
+msgid "(Woffice) Wiki Articles"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-wiki/includes/class-fw-widget-woffice-wiki.php:52
+#: ../inc/widgets/eventon/class-widget-eventon.php:45
+msgid "Number"
+msgstr "Число"
+
+#: ../framework-customizations/theme/manifest.php:9
+msgid "Woffice"
+msgstr ""
+
+#: ../framework-customizations/theme/manifest.php:11
+msgid "Another awesome Wordpress theme"
+msgstr "Другая удивительная тема Wordpress"
+
+#: ../framework-customizations/theme/options/buddypress.php:28
+#, fuzzy
+msgid "If checked the field will be displayed on the members page."
+msgstr "Этот Заголовок отображается на странице."
+
+#: ../framework-customizations/theme/options/buddypress.php:33
+msgid "Field's icon"
+msgstr ""
+
+#: ../framework-customizations/theme/options/buddypress.php:47
+msgid "Buddypress"
+msgstr ""
+
+#: ../framework-customizations/theme/options/buddypress.php:51
+#: ../framework-customizations/theme/options/dashboard.php:11
+#: ../framework-customizations/theme/options/general.php:11
+#: ../framework-customizations/theme/options/header.php:11
+#: ../framework-customizations/theme/options/menu.php:11
+#: ../framework-customizations/theme/options/news.php:11
+#: ../framework-customizations/theme/options/page-title.php:11
+#: ../framework-customizations/theme/options/posts.php:19
+#: ../framework-customizations/theme/options/sidebar.php:11
+msgid "Main options"
+msgstr "Основные параметры"
+
+#: ../framework-customizations/theme/options/buddypress.php:56
+msgid "New Member Types"
+msgstr ""
+
+#: ../framework-customizations/theme/options/buddypress.php:58
+msgid ""
+"This is a way to categorise your members (members directory, privacy on "
+"certain pages...), you will have more/better options with this plugin :"
+msgstr ""
+
+#: ../framework-customizations/theme/options/buddypress.php:62
+msgid "Role Name"
+msgstr ""
+
+#: ../framework-customizations/theme/options/buddypress.php:66
+msgid "Role capabilities"
+msgstr ""
+
+#: ../framework-customizations/theme/options/buddypress.php:69
+msgid "You can learn more about user capabilities here"
+msgstr "Вы можете узнать больше о возможностях пользователей здесь"
+
+#: ../framework-customizations/theme/options/buddypress.php:77
+#: ../inc/buddypress.php:662
+msgid "Personal Calendar"
+msgstr ""
+
+#: ../framework-customizations/theme/options/buddypress.php:78
+msgid "Show the personal calendar tab on user's profile."
+msgstr ""
+
+#: ../framework-customizations/theme/options/buddypress.php:91
+#, fuzzy
+msgid "Members filter"
+msgstr "Участники"
+
+#: ../framework-customizations/theme/options/buddypress.php:92
+msgid "Show the dropdown filter on the Buddypress members directory."
+msgstr ""
+
+#: ../framework-customizations/theme/options/buddypress.php:105
+msgid "Display fields in Buddypress members directory"
+msgstr ""
+
+#: ../framework-customizations/theme/options/custom-css.php:7
+msgid "Custom CSS"
+msgstr ""
+
+#: ../framework-customizations/theme/options/custom-css.php:11
+msgid "Custom CSS, JS"
+msgstr ""
+
+#: ../framework-customizations/theme/options/custom-css.php:15
+msgid "Type your custom CSS here "
+msgstr ""
+
+#: ../framework-customizations/theme/options/custom-css.php:17
+msgid ""
+"No need to set the tags (&lt;style&gt;&lt;/style&gt;). It is better to "
+"change the CSS changes here than editing the theme files ;) or you can "
+"create a child theme if you have a lot of changes."
+msgstr ""
+
+#: ../framework-customizations/theme/options/custom-css.php:18
+msgid "Without the HTML tags \"style\" please"
+msgstr ""
+
+#: ../framework-customizations/theme/options/custom-css.php:21
+msgid "Type your custom Jquery/Javascript here "
+msgstr ""
+
+#: ../framework-customizations/theme/options/custom-css.php:23
+msgid ""
+"No need to set the tags (&lt;script&gt;&lt;/script&gt;). It will understands "
+"the \"$\", all is wrapped in a Jquery function."
+msgstr ""
+
+#: ../framework-customizations/theme/options/custom-css.php:24
+msgid "Without the HTML tags \"script\" please"
+msgstr ""
+
+#: ../framework-customizations/theme/options/dashboard.php:7
+msgid "Home Dashboard"
+msgstr ""
+
+#: ../framework-customizations/theme/options/dashboard.php:15
+msgid "Number of columns in the dashboard"
+msgstr ""
+
+#: ../framework-customizations/theme/options/dashboard.php:18
+msgid "This is only for non-mobiles devices, because it is responsive."
+msgstr ""
+
+#: ../framework-customizations/theme/options/dashboard.php:20
+msgid "1 Columns"
+msgstr "1 Колонка"
+
+#: ../framework-customizations/theme/options/dashboard.php:21
+msgid "2 Columns"
+msgstr "2 Колонки"
+
+#: ../framework-customizations/theme/options/dashboard.php:22
+msgid "3 Columns"
+msgstr "3 Колонки"
+
+#: ../framework-customizations/theme/options/footer.php:7
+msgid "Footer & Extrafooter"
+msgstr ""
+
+#: ../framework-customizations/theme/options/footer.php:11
+msgid "Footer Options"
+msgstr ""
+
+#: ../framework-customizations/theme/options/footer.php:15
+msgid "Show the Footer Widgets"
+msgstr ""
+
+#: ../framework-customizations/theme/options/footer.php:26
+msgid ""
+"They will be above the copyright bar and below the extrafooter bar. You can "
+"set them in the widget page."
+msgstr ""
+
+#: ../framework-customizations/theme/options/footer.php:29
+msgid "Number of columns ?"
+msgstr "Число колонок?"
+
+#: ../framework-customizations/theme/options/footer.php:31
+msgid "For the footer widgets."
+msgstr ""
+
+#: ../framework-customizations/theme/options/footer.php:44
+msgid "This is the color used in the footer for the texts."
+msgstr ""
+
+#: ../framework-customizations/theme/options/footer.php:49
+msgid "Link color"
+msgstr "Цвет ссылки"
+
+#: ../framework-customizations/theme/options/footer.php:50
+msgid "The colored color within the footer"
+msgstr ""
+
+#: ../framework-customizations/theme/options/footer.php:55
+msgid "Widgets Background Color"
+msgstr "Цвет фона виджетов"
+
+#: ../framework-customizations/theme/options/footer.php:56
+msgid "Color used in the widget background"
+msgstr "Цвет используется в фоне виджета"
+
+#: ../framework-customizations/theme/options/footer.php:61
+msgid "Copyright Background Color"
+msgstr ""
+
+#: ../framework-customizations/theme/options/footer.php:64
+msgid "Copyright text in uppercase ?"
+msgstr ""
+
+#: ../framework-customizations/theme/options/footer.php:69
+msgid "Copyright Content"
+msgstr ""
+
+#: ../framework-customizations/theme/options/footer.php:76
+msgid "Color of the border between the widgets and the copyright."
+msgstr ""
+
+#: ../framework-customizations/theme/options/footer.php:81
+msgid "Extra Footer"
+msgstr ""
+
+#: ../framework-customizations/theme/options/footer.php:85
+msgid "Show extra footer bar ?"
+msgstr ""
+
+#: ../framework-customizations/theme/options/footer.php:86
+msgid ""
+"That is a box with random photos of your members with a tagline over these "
+"images and a link to any page you like. (Usually, the member directory page)"
+msgstr ""
+
+#: ../framework-customizations/theme/options/footer.php:100
+msgid "Extrafooter Content"
+msgstr ""
+
+#: ../framework-customizations/theme/options/footer.php:102
+msgid ""
+"The text on the extra footer, you can use some \"span\" elements to color "
+"some words."
+msgstr ""
+
+#: ../framework-customizations/theme/options/footer.php:107
+msgid "Extrafooter Link"
+msgstr ""
+
+#: ../framework-customizations/theme/options/footer.php:108
+msgid "Link when the user click on that extra footer bar."
+msgstr ""
+
+#: ../framework-customizations/theme/options/footer.php:113
+#: ../framework-customizations/theme/options/page-title.php:84
+msgid "Border color"
+msgstr "Цвет границы"
+
+#: ../framework-customizations/theme/options/footer.php:114
+msgid "Color of the border between the content and the extrafooter."
+msgstr ""
+
+#: ../framework-customizations/theme/options/general.php:7
+msgid "General Options"
+msgstr "Общие Параметры"
+
+#: ../framework-customizations/theme/options/general.php:15
+msgid "Page loading"
+msgstr "Загрузка страницы"
+
+#: ../framework-customizations/theme/options/general.php:16
+msgid "Show the page loading bar above the navbar."
+msgstr ""
+
+#: ../framework-customizations/theme/options/general.php:29
+msgid "Do you want to make this website public ?"
+msgstr "Вы хотите опубликовать этот сайт?"
+
+#: ../framework-customizations/theme/options/general.php:30
+msgid ""
+"As an Intranet, every visitor have to login to access to the content and the "
+"wbesite, with this option your Website will be free to be reached by "
+"everyone..."
+msgstr ""
+
+#: ../framework-customizations/theme/options/general.php:43
+msgid "Excluded pages"
+msgstr "Исключенные страницы"
+
+#: ../framework-customizations/theme/options/general.php:44
+msgid ""
+"If the website is private you can still make some pages public with this "
+"option. That means that the pages selected will not be affected by the "
+"redirection to the login page"
+msgstr ""
+
+#: ../framework-customizations/theme/options/general.php:51
+msgid "Hide website ?"
+msgstr "Скрыть веб-сайт?"
+
+#: ../framework-customizations/theme/options/general.php:52
+msgid ""
+"Do you want to hide the website from Search engines, so it is only "
+"accessible by URL."
+msgstr ""
+
+#: ../framework-customizations/theme/options/general.php:65
+msgid "Woffice topbar ?"
+msgstr ""
+
+#: ../framework-customizations/theme/options/general.php:66
+#, fuzzy
+msgid "Do you want to see the Woffice topbar links in the admin bar."
+msgstr "Вы хотите видеть боковую панель на этих страницах"
+
+#: ../framework-customizations/theme/options/general.php:81
+msgid "Favicons"
+msgstr ""
+
+#: ../framework-customizations/theme/options/general.php:85
+msgid "Favicon"
+msgstr ""
+
+#: ../framework-customizations/theme/options/general.php:86
+msgid "Upload a favicon image (PNG 32px x 32px)"
+msgstr ""
+
+#: ../framework-customizations/theme/options/general.php:90
+msgid "(Android) Icon 1"
+msgstr ""
+
+#: ../framework-customizations/theme/options/general.php:91
+msgid "Upload an image (PNG 192px x 192px). For screens with a density of 4.0"
+msgstr ""
+
+#: ../framework-customizations/theme/options/general.php:95
+msgid "(Android) Icon 2"
+msgstr ""
+
+#: ../framework-customizations/theme/options/general.php:96
+msgid "Upload an image (PNG 144px x 144px). For screens with a density of 3.0"
+msgstr ""
+
+#: ../framework-customizations/theme/options/general.php:100
+msgid "(Iphone) Icon"
+msgstr ""
+
+#: ../framework-customizations/theme/options/general.php:101
+msgid "Upload an image (PNG 114px x 114px)"
+msgstr ""
+
+#: ../framework-customizations/theme/options/general.php:105
+msgid "(Ipad) Icon"
+msgstr ""
+
+#: ../framework-customizations/theme/options/general.php:106
+msgid "Upload an image (PNG 144px x 144px)"
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:7
+msgid "Header bar"
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:15
+msgid "Main Logo"
+msgstr "Основной Логотип"
+
+#: ../framework-customizations/theme/options/header.php:16
+msgid "Upload your image for the logo (white color advised)"
+msgstr "Загрузите изображение логотипа (белый цвет рекомендуется )"
+
+#: ../framework-customizations/theme/options/header.php:21
+#: ../framework-customizations/theme/options/login.php:87
+msgid "Logo Width"
+msgstr "Ширина логотипа"
+
+#: ../framework-customizations/theme/options/header.php:24
+#: ../framework-customizations/theme/options/header.php:31
+#: ../framework-customizations/theme/options/menu.php:24
+#: ../framework-customizations/theme/options/news.php:18
+msgid "A number please"
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:25
+#: ../framework-customizations/theme/options/header.php:32
+#: ../framework-customizations/theme/options/menu.php:25
+msgid "No need to set px"
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:28
+msgid "Navigation Bar Height"
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:35
+msgid "Do you want to hide the logo ?"
+msgstr "Вы хотите скрыть логотип?"
+
+#: ../framework-customizations/theme/options/header.php:40
+msgid "Fixed navigation ?"
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:51
+msgid ""
+"Do you want to fix the navigation on the top of the screen when scrolling."
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:57
+msgid "This is the color used for the text (username)"
+msgstr "Этот цвет используется для текста (имя пользователя)"
+
+#: ../framework-customizations/theme/options/header.php:63
+msgid "The background color of the navbar"
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:68
+msgid "Icons color"
+msgstr "Цвет иконок"
+
+#: ../framework-customizations/theme/options/header.php:69
+msgid "This is the color used in the header for the icons."
+msgstr "Этот цвет используется в заголовке для иконок."
+
+#: ../framework-customizations/theme/options/header.php:74
+msgid "Link hover color"
+msgstr "Цвет ссылки при наведении"
+
+#: ../framework-customizations/theme/options/header.php:75
+msgid "The Hover color on the menu links, also for the submenu."
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:78
+msgid "Search icon in the menu ?"
+msgstr "Иконка поиска в меню?"
+
+#: ../framework-customizations/theme/options/header.php:89
+msgid "Do you want to show the seacrh icon at the end of the menu."
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:92
+msgid "User box ?"
+msgstr ""
+
+#: ../framework-customizations/theme/options/header.php:103
+msgid "Do you want to show the user box in the navbar ?"
+msgstr ""
+
+#: ../framework-customizations/theme/options/login.php:16
+msgid "Login Page"
+msgstr "Страница Входа"
+
+#: ../framework-customizations/theme/options/login.php:20
+msgid "Login options"
+msgstr "Параметры входа"
+
+#: ../framework-customizations/theme/options/login.php:24
+msgid "Custom Login Page"
+msgstr "Пользовательская Страница Входа"
+
+#: ../framework-customizations/theme/options/login.php:32
+#: ../framework-customizations/theme/options/login.php:107
+#: ../framework-customizations/theme/options/login.php:120
+#: ../framework-customizations/theme/options/login.php:146
+#: ../framework-customizations/theme/options/login.php:161
+#: ../framework-customizations/theme/options/login.php:176
+msgid "nope"
+msgstr "нет"
+
+#: ../framework-customizations/theme/options/login.php:35
+msgid ""
+"That is going to replace the login page from Wordpress with the new one from "
+"Woffice -> IMPORTANT! The page as to be named LOGIN please."
+msgstr ""
+
+#: ../framework-customizations/theme/options/login.php:39
+msgid "Login page"
+msgstr "Страница Входа"
+
+#: ../framework-customizations/theme/options/login.php:40
+msgid ""
+"This is the login page, it needs the Template fields to be set as \"LOGIN\"."
+msgstr ""
+
+#: ../framework-customizations/theme/options/login.php:44
+msgid "Just select the page's name here"
+msgstr "Выберите название страницы"
+
+#: ../framework-customizations/theme/options/login.php:49
+msgid "Welcome Message"
+msgstr "Приветственное Сообщение"
+
+#: ../framework-customizations/theme/options/login.php:50
+msgid "Above the login form"
+msgstr ""
+
+#: ../framework-customizations/theme/options/login.php:70
+msgid "Image Opacity"
+msgstr "Непрозрачность изображения"
+
+#: ../framework-customizations/theme/options/login.php:78
+msgid "This is the opacity of the image over the background color"
+msgstr ""
+
+#: ../framework-customizations/theme/options/login.php:82
+msgid "Logo Image"
+msgstr "Изображение Логотипа"
+
+#: ../framework-customizations/theme/options/login.php:83
+msgid "Just your logo as a PNG file"
+msgstr "Ваш логотип в формате PNG"
+
+#: ../framework-customizations/theme/options/login.php:90
+msgid "This is the width of your logo in the login page, no \"px\" please."
+msgstr ""
+
+#: ../framework-customizations/theme/options/login.php:93
+msgid "Logo Height"
+msgstr "Высота логотипа"
+
+#: ../framework-customizations/theme/options/login.php:96
+msgid "This is the height of your logo in the login page, no \"px\" please."
+msgstr ""
+
+#: ../framework-customizations/theme/options/login.php:99
+msgid "Show Wordpress Logo"
+msgstr "Показать Логотип Wordpress "
+
+#: ../framework-customizations/theme/options/login.php:112
+msgid "Show reset password link"
+msgstr "Показать ссылку сброса пароля"
+
+#: ../framework-customizations/theme/options/login.php:123
+msgid ""
+"If you select Yep, we will add a link to the \"reset password\" Wordpress "
+"page, so the visitor can get a new password."
+msgstr ""
+
+#: ../framework-customizations/theme/options/login.php:128
+msgid "Registers Options"
+msgstr ""
+
+#: ../framework-customizations/theme/options/login.php:132
+msgid "Register message"
+msgstr ""
+
+#: ../framework-customizations/theme/options/login.php:135
+msgid ""
+"This is the text displayed before the Register button if the anyone can "
+"register in the Wordpress settings."
+msgstr ""
+
+#: ../framework-customizations/theme/options/login.php:138
+msgid "Buddypress Xprofile fields ?"
+msgstr ""
+
+#: ../framework-customizations/theme/options/login.php:149
+msgid ""
+"Do you want to see the Buddypress Xprofile fields from the \"Base\" "
+"displayed on the register form ? Thus, you can add as many field as you like."
+msgstr ""
+
+#: ../framework-customizations/theme/options/login.php:153
+msgid "Role field in the form"
+msgstr ""
+
+#: ../framework-customizations/theme/options/login.php:164
+msgid ""
+"Do you want to see the Role field in the registration form ? Of course, "
+"\"administrator\" is not in the option."
+msgstr ""
+
+#: ../framework-customizations/theme/options/login.php:168
+msgid "Captcha on Register form ?"
+msgstr ""
+
+#: ../framework-customizations/theme/options/login.php:179
+msgid ""
+"Do you want to see a captcha on the register page, if you select \"yep\" "
+"please fill the fields below."
+msgstr ""
+"Чтобы увидеть капчу на странице регистрации выберите \" да \" и заполните "
+"поля ниже ."
+
+#: ../framework-customizations/theme/options/login.php:182
+msgid "Captcha Question"
+msgstr "Вопрос капчи"
+
+#: ../framework-customizations/theme/options/login.php:185
+msgid "A question that humans can reply but not robots."
+msgstr "Вопрос, на который могут ответить люди, но не роботы."
+
+#: ../framework-customizations/theme/options/login.php:188
+msgid "Captcha Answer"
+msgstr "Ответ капчи"
+
+#: ../framework-customizations/theme/options/login.php:191
+msgid "The answer of the question above."
+msgstr "Ответ на вопрос выше."
+
+#: ../framework-customizations/theme/options/menu.php:7
+msgid "Menu"
+msgstr "Меню"
+
+#: ../framework-customizations/theme/options/menu.php:18
+msgid "The background color of the menu"
+msgstr "Цвет фона меню"
+
+#: ../framework-customizations/theme/options/menu.php:21
+msgid "Menu Width"
+msgstr "Ширина меню"
+
+#: ../framework-customizations/theme/options/menu.php:30
+msgid "Menu color #2"
+msgstr "Цвет меню #2"
+
+#: ../framework-customizations/theme/options/menu.php:31
+msgid "Used for the text color and the borders"
+msgstr "Используемый цвет текста и границ"
+
+#: ../framework-customizations/theme/options/menu.php:36
+msgid "Menu hover color"
+msgstr "Цвет при наведении на меню"
+
+#: ../framework-customizations/theme/options/menu.php:37
+msgid "Used as a link background, link color on it is white."
+msgstr ""
+
+#: ../framework-customizations/theme/options/menu.php:40
+msgid "Menu Layout"
+msgstr ""
+
+#: ../framework-customizations/theme/options/menu.php:41
+msgid ""
+"Choose your menu layout below. The vertical menu is a beta feature you can "
+"try it but we think it needs more options, if you see any bug please report "
+"it on 2f.ticksy.com"
+msgstr ""
+
+#: ../framework-customizations/theme/options/menu.php:45
+msgid "Horizontal Top"
+msgstr ""
+
+#: ../framework-customizations/theme/options/menu.php:49
+msgid "Left Vertical"
+msgstr ""
+
+#: ../framework-customizations/theme/options/news.php:7
+msgid "Blog"
+msgstr "Блог"
+
+#: ../framework-customizations/theme/options/news.php:15
+msgid "Number of posts displayed per page"
+msgstr "Количество постов отображаемых на странице"
+
+#: ../framework-customizations/theme/options/news.php:21
+msgid "Blog Page Title"
+msgstr ""
+
+#: ../framework-customizations/theme/options/news.php:22
+msgid "It is the default Wordpress page here"
+msgstr ""
+
+#: ../framework-customizations/theme/options/news.php:27
+msgid "Display Sidebar ?"
+msgstr "Отобразить Боковую Панель ?"
+
+#: ../framework-customizations/theme/options/news.php:31
+msgid "With Sidebar"
+msgstr "С Помощью Боковой Панели"
+
+#: ../framework-customizations/theme/options/news.php:35
+msgid "Full Width"
+msgstr "Вся ширина"
+
+#: ../framework-customizations/theme/options/news.php:40
+msgid "Blog layout"
+msgstr "Макет блога"
+
+#: ../framework-customizations/theme/options/news.php:41
+msgid "This is the blog layout for the main page"
+msgstr "Это макет блога для главной страницы"
+
+#: ../framework-customizations/theme/options/news.php:45
+msgid "Classic"
+msgstr "Классический"
+
+#: ../framework-customizations/theme/options/news.php:49
+msgid "Masonry"
+msgstr ""
+
+#: ../framework-customizations/theme/options/page-title.php:7
+msgid "Title Box"
+msgstr ""
+
+#: ../framework-customizations/theme/options/page-title.php:15
+msgid "Default Featured image"
+msgstr "Популярные изображения по умолчанию"
+
+#: ../framework-customizations/theme/options/page-title.php:16
+msgid "Upload a large image"
+msgstr "Загрузить большое изображение"
+
+#: ../framework-customizations/theme/options/page-title.php:21
+msgid "Alignment of the background image ?"
+msgstr "Выровнять фоновое изображение?"
+
+#: ../framework-customizations/theme/options/page-title.php:24
+msgid "Vertical alignment here"
+msgstr "Вертикальное выравнивание "
+
+#: ../framework-customizations/theme/options/page-title.php:27
+msgid "Bottom"
+msgstr "Вниз"
+
+#: ../framework-customizations/theme/options/page-title.php:28
+msgid "Top"
+msgstr "Вверх"
+
+#: ../framework-customizations/theme/options/page-title.php:32
+msgid "Height of the page title box"
+msgstr ""
+
+#: ../framework-customizations/theme/options/page-title.php:35
+msgid "In pixels pixels please, but without the PX"
+msgstr ""
+
+#: ../framework-customizations/theme/options/page-title.php:36
+msgid "Just a number without the PX"
+msgstr ""
+
+#: ../framework-customizations/theme/options/page-title.php:39
+msgid "Headline text in uppercase ?"
+msgstr "Заголовок текста прописными буквами?"
+
+#: ../framework-customizations/theme/options/page-title.php:44
+msgid "Font weight: bold ?"
+msgstr ""
+
+#: ../framework-customizations/theme/options/page-title.php:49
+msgid "Headline Color"
+msgstr "Цвет заголовка"
+
+#: ../framework-customizations/theme/options/page-title.php:52
+msgid "This is the color of the headline."
+msgstr "Это цвет заголовка."
+
+#: ../framework-customizations/theme/options/page-title.php:58
+msgid ""
+"This is the opacity of the layer behind the page title and over the featured "
+"image"
+msgstr ""
+
+#: ../framework-customizations/theme/options/page-title.php:62
+msgid "Layer Color"
+msgstr "Цвет слоя"
+
+#: ../framework-customizations/theme/options/page-title.php:65
+msgid ""
+"This is the color of the layer behind the page title and over the featured "
+"image"
+msgstr ""
+
+#: ../framework-customizations/theme/options/page-title.php:68
+msgid "Show border bottom"
+msgstr "Показать нижнюю границу"
+
+#: ../framework-customizations/theme/options/page-title.php:79
+msgid "This is the colored border below this title box."
+msgstr ""
+
+#: ../framework-customizations/theme/options/page-title.php:85
+msgid "Color of the border below the the box title."
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts.php:23
+msgid "Who can create a Blog article ?"
+msgstr "Кто может создать блог к статье ?"
+
+#: ../framework-customizations/theme/options/posts.php:24
+msgid ""
+"It is only affecting a front end button on the main Blog page. The roles "
+"with post edit capabilities will still be able to create Blog article from "
+"the backend."
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts.php:30
+msgid "Who can create a Wiki article ?"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts.php:31
+msgid ""
+"It is only affecting a front end button on the main wiki page. The roles "
+"with post edit capabilities will still be able to create Wiki from the "
+"backend."
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts.php:37
+msgid "Who can create a project article ?"
+msgstr "Кто может создать статью проекта?"
+
+#: ../framework-customizations/theme/options/posts.php:38
+msgid ""
+"It is only affecting a front end button on the main projects page. The roles "
+"with post edit capabilities will still be able to create Projects from the "
+"backend."
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts.php:44
+msgid "Who can create a directory item ?"
+msgstr "Кто может создать элемент каталога?"
+
+#: ../framework-customizations/theme/options/posts.php:45
+msgid ""
+"It is only affecting a front end button on the main directory page. The "
+"roles with post edit capabilities will still be able to create an item from "
+"the backend."
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts.php:51
+msgid "Show comments on pages"
+msgstr "Показывать комментарии на страницах"
+
+#: ../framework-customizations/theme/options/posts.php:52
+msgid ""
+"Do you want to display the comments to allow user to comment on pages ? If "
+"it you choose \"show\" you will still be able to override it on every page."
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts.php:65
+msgid "Are the projects public ?"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts.php:66
+msgid ""
+"If it is \"Yep\", every non logged users can view the project but not edit "
+"them."
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts.php:79
+msgid "Wiki Exclude categories"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts.php:80
+msgid "Do you want to exclude categories from the Wiki page ?"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts.php:86
+msgid "Notice user on task assignment ?"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts.php:87
+msgid ""
+"Do you want to notice the user by email when a project task is assigned to "
+"the user ?"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts.php:100
+#, fuzzy
+msgid "Email's content"
+msgstr "Содержание новости"
+
+#: ../framework-customizations/theme/options/posts.php:101
+#, fuzzy
+msgid "This is the content of the email before the task name."
+msgstr "Это содержимое контейнера."
+
+#: ../framework-customizations/theme/options/sidebar.php:7
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+#: ../framework-customizations/theme/options/sidebar.php:15
+msgid "Display the Sidebar on pages"
+msgstr "Дисплей на боковой панели страницы"
+
+#: ../framework-customizations/theme/options/sidebar.php:26
+msgid ""
+"This is a global option for the whole website, you can still use a full "
+"width layout by using a page template."
+msgstr ""
+
+#: ../framework-customizations/theme/options/sidebar.php:29
+msgid "Only for logged users ?"
+msgstr "Только для зарегистрированных пользователей?"
+
+#: ../framework-customizations/theme/options/sidebar.php:40
+msgid "Do you want to restrict sidebar access only to the logged users ?"
+msgstr ""
+
+#: ../framework-customizations/theme/options/sidebar.php:43
+msgid "Sidebar on Group & Member pages ?"
+msgstr ""
+
+#: ../framework-customizations/theme/options/sidebar.php:54
+#: ../framework-customizations/theme/options/sidebar.php:68
+msgid "Do you want to see the sidebar on these pages"
+msgstr "Вы хотите видеть боковую панель на этих страницах"
+
+#: ../framework-customizations/theme/options/sidebar.php:57
+msgid "Sidebar on Blog pages ?"
+msgstr "Боковая панель на страницах блога ?"
+
+#: ../framework-customizations/theme/options/sidebar.php:71
+msgid "Open the sidebar by default"
+msgstr "Открыть боковую панель по умолчанию"
+
+#: ../framework-customizations/theme/options/sidebar.php:82
+msgid ""
+"The sidebar can either be hidden or be visible by default, the user will "
+"find an action button in the header bar."
+msgstr ""
+
+#: ../framework-customizations/theme/options/sidebar.php:98
+msgid "Display the Sidebar on mobiles"
+msgstr "Отобразить боковую панель на мобильных телефонах"
+
+#: ../framework-customizations/theme/options/sidebar.php:109
+msgid ""
+"If you choose \"yep\" the sidebar will be toggled with a button fixed on the "
+"right side during the navigation."
+msgstr ""
+
+#: ../framework-customizations/theme/options/sidebar.php:112
+msgid "Minimum sidebar height"
+msgstr "Минимальная высота боковой панели"
+
+#: ../framework-customizations/theme/options/sidebar.php:114
+msgid ""
+"You can set here a minimum height for the sidebar, it may looks weird but "
+"that is better for the layout and prevent some javascript bugs."
+msgstr ""
+
+#: ../framework-customizations/theme/options/sidebar.php:116
+msgid "A value in Pixel but no needs for the px."
+msgstr ""
+
+#: ../framework-customizations/theme/options/sidebar.php:119
+msgid "Show scroll top arrow ?"
+msgstr ""
+
+#: ../framework-customizations/theme/options/sidebar.php:121
+msgid ""
+"This is the arrow at the bottom of the page which allow the user to scroll "
+"to the top."
+msgstr ""
+"Это стрелка в нижней части страницы, которая позволяет пользователю "
+"подняться наверх."
+
+#: ../framework-customizations/theme/options/sidebar.php:133
+msgid "Show scroll arrow in the sidebar ?"
+msgstr "Показать стрелку прокрутки на боковой панели?"
+
+#: ../framework-customizations/theme/options/sidebar.php:135
+msgid ""
+"Do you want to display at the bottom of the right sidebar an arrow to help "
+"user navigation."
+msgstr ""
+
+#: ../framework-customizations/theme/options/styling.php:7
+msgid "Styling"
+msgstr "Стиль"
+
+#: ../framework-customizations/theme/options/styling.php:11
+msgid "Fonts options"
+msgstr "Варианты шрифтов"
+
+#: ../framework-customizations/theme/options/styling.php:26
+msgid "Main font Family"
+msgstr ""
+
+#: ../framework-customizations/theme/options/styling.php:27
+msgid "Used for the main texts (content, menu, footer ...)."
+msgstr ""
+
+#: ../framework-customizations/theme/options/styling.php:41
+msgid "Headlines font Family"
+msgstr ""
+
+#: ../framework-customizations/theme/options/styling.php:42
+msgid "Used for all the headlines. The size set here does not matters."
+msgstr ""
+"Используется для всех заголовков. Размер текста здесь не имеет значение."
+
+#: ../framework-customizations/theme/options/styling.php:45
+msgid "Extended latin ?"
+msgstr ""
+
+#: ../framework-customizations/theme/options/styling.php:56
+msgid "This is for some fonts in some language (polish for example)."
+msgstr ""
+
+#: ../framework-customizations/theme/options/styling.php:59
+msgid "Bold Headlines ?"
+msgstr "Жирные Заголовки ?"
+
+#: ../framework-customizations/theme/options/styling.php:70
+#: ../framework-customizations/theme/options/styling.php:84
+msgid ""
+"This is a global option for most of the titles, you will have something "
+"similar to the demo."
+msgstr ""
+
+#: ../framework-customizations/theme/options/styling.php:73
+msgid "Uppercase Headlines ?"
+msgstr ""
+
+#: ../framework-customizations/theme/options/styling.php:89
+msgid "Color options"
+msgstr "Варианты цвета"
+
+#: ../framework-customizations/theme/options/styling.php:95
+msgid "Some colors can be found on the other tabs of the page settings ;)"
+msgstr ""
+
+#: ../framework-customizations/theme/options/styling.php:100
+msgid "Main color"
+msgstr "Основной цвет"
+
+#: ../framework-customizations/theme/options/styling.php:101
+msgid ""
+"This is your brand color (used in the links or in the buttons background for "
+"instance)."
+msgstr ""
+"Это ваш фирменный цвет (например, используемый для ссылок или кнопок фона)."
+
+#: ../framework-customizations/theme/options/styling.php:106
+msgid "Main text color"
+msgstr "Основной цвет текста"
+
+#: ../framework-customizations/theme/options/styling.php:107
+msgid "This is the main color for the content, sidebar ..."
+msgstr "Это основной цвет для контента, боковой панели ..."
+
+#: ../framework-customizations/theme/options/styling.php:112
+msgid "Body background color"
+msgstr ""
+
+#: ../framework-customizations/theme/options/styling.php:117
+msgid "Light Color #1"
+msgstr ""
+
+#: ../framework-customizations/theme/options/styling.php:118
+#: ../framework-customizations/theme/options/styling.php:124
+msgid ""
+"We use this color for some design effects in the content (sidebar, form, box "
+"title...)"
+msgstr ""
+
+#: ../framework-customizations/theme/options/styling.php:123
+msgid "Light Color #2"
+msgstr ""
+
+#: ../framework-customizations/theme/options/styling.php:129
+msgid "Light Color #3"
+msgstr ""
+
+#: ../framework-customizations/theme/options/styling.php:130
+msgid ""
+"We use this color for some design effects in the content (messages, "
+"icons ...)"
+msgstr ""
+"Мы используем этот цвет для некоторых эффектов в дизайне контента "
+"(Сообщений, иконок ...)"
+
+#: ../framework-customizations/theme/options/styling.php:135
+msgid "Notifications color"
+msgstr "Цвет уведомлений"
+
+#: ../framework-customizations/theme/options/widgets.php:7
+msgid "Custom Widgets"
+msgstr "Пользовательские виджеты"
+
+#: ../framework-customizations/theme/options/widgets.php:47
+msgid "Poll Widget"
+msgstr "Виджет опроса"
+
+#: ../framework-customizations/theme/options/widgets.php:51
+msgid "Sidebar Position"
+msgstr "Позиция боковой панели"
+
+#: ../framework-customizations/theme/options/widgets.php:55
+msgid "Left"
+msgstr "Лево"
+
+#: ../framework-customizations/theme/options/widgets.php:59
+msgid "Right"
+msgstr "Право"
+
+#: ../framework-customizations/theme/options/posts/directory.php:35
+#: ../framework-customizations/theme/options/posts/directory.php:44
+msgid "Custom fields"
+msgstr "Настраиваемые поля"
+
+#: ../framework-customizations/theme/options/posts/directory.php:45
+msgid ""
+"You can add any data here (salary,population,dates,birthdays...anything you "
+"like)."
+msgstr ""
+"Здесь Вы можете добавить любые данные (зарплата,население,даты,дни "
+"рождения...все что угодно)."
+
+#: ../framework-customizations/theme/options/posts/directory.php:57
+msgid "Item settings "
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/directory.php:62
+msgid "Location"
+msgstr "Местоположение"
+
+#: ../framework-customizations/theme/options/posts/directory.php:63
+msgid "The location will be visible in the main directory page & single page."
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/directory.php:68
+msgid "Button text"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/directory.php:69
+msgid ""
+"If you fill this option, you'll the possibility to add a button on the "
+"single page (can link to a form within your site or an extern URL). If you "
+"leave it empty, it won't be displayed."
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/directory.php:73
+msgid "Button link"
+msgstr "Ссылка на кнопку"
+
+#: ../framework-customizations/theme/options/posts/directory.php:77
+msgid "Button Icon"
+msgstr "Значок Кнопки"
+
+#: ../framework-customizations/theme/options/posts/page.php:23
+msgid "Select users :"
+msgstr "Выбор пользователей :"
+
+#: ../framework-customizations/theme/options/posts/page.php:44
+msgid "Page settings "
+msgstr "Параметры страницы"
+
+#: ../framework-customizations/theme/options/posts/page.php:48
+msgid "Hide the title"
+msgstr "Скрыть Заголовок"
+
+#: ../framework-customizations/theme/options/posts/page.php:49
+msgid "Only the featured image will be visible, the title will be hidden."
+msgstr "Только изображение будет видимым, название будет скрыто."
+
+#: ../framework-customizations/theme/options/posts/page.php:55
+msgid "Exclude Members"
+msgstr "Исключить участников"
+
+#: ../framework-customizations/theme/options/posts/page.php:56
+#: ../framework-customizations/theme/options/posts/project.php:51
+msgid "Help tip : Hold Ctrl to select multiple users."
+msgstr ""
+"Подсказка : удерживайте клавишу CTRL для выбора нескольких пользователей."
+
+#: ../framework-customizations/theme/options/posts/page.php:57
+msgid ""
+"The excluded members will not be able to see that page, they will receive an "
+"error message instead."
+msgstr ""
+"Исключенные пользоватеи не будут видеть эту страницу,вместо этого они "
+"получат сообщение об ошибке."
+
+#: ../framework-customizations/theme/options/posts/page.php:62
+#: ../framework-customizations/theme/options/posts/post.php:31
+#: ../framework-customizations/theme/options/posts/wiki.php:25
+msgid "Exclude Roles"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/page.php:63
+#: ../framework-customizations/theme/options/posts/post.php:32
+#: ../framework-customizations/theme/options/posts/wiki.php:26
+msgid "Help tip : Hold Ctrl to select multiple roles."
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/page.php:64
+msgid ""
+"The excluded roles will not be able to see that page, they will receive an "
+"error message instead. "
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/page.php:68
+msgid "Only for logged users"
+msgstr "Только для зарегистрированных пользователей"
+
+#: ../framework-customizations/theme/options/posts/page.php:69
+msgid ""
+"If your website is public you can hide this page from non-logged users, they "
+"will find a link to the login page."
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/page.php:75
+msgid "Add a slider"
+msgstr "Добавить слайдер"
+
+#: ../framework-customizations/theme/options/posts/page.php:76
+msgid ""
+"This will override the page title box (image & title), you'll have the "
+"selected Revolution slider instead."
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/post.php:20
+msgid "Post Options"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/post.php:24
+msgid "Top featured image (optional)"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/post.php:25
+msgid ""
+"Change the image behind the page title, otherwise we are going to use the "
+"default one."
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/post.php:33
+msgid ""
+"The excluded roles will not be able to see that blog post, they will receive "
+"an error message instead. "
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/post.php:37
+#, fuzzy
+msgid "Featured image height"
+msgstr "Популярные изображения по умолчанию"
+
+#: ../framework-customizations/theme/options/posts/post.php:40
+#, fuzzy
+msgid "Only a number please"
+msgstr "Только число, пожалуйста, или это не будет работать."
+
+#: ../framework-customizations/theme/options/posts/post.php:43
+#: ../framework-customizations/theme/options/posts/wiki.php:31
+msgid "Everyone can edit ?"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/post.php:44
+#: ../framework-customizations/theme/options/posts/wiki.php:32
+msgid ""
+"If it is not checked only the admin and the post author will be able to edit "
+"(from the frontend)."
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/project.php:19
+msgid "Project settings "
+msgstr "Параметры проекта"
+
+#: ../framework-customizations/theme/options/posts/project.php:23
+#, fuzzy
+msgid "Project Progress"
+msgstr "Категории проекта"
+
+#: ../framework-customizations/theme/options/posts/project.php:24
+#, fuzzy
+msgid "How do you want to track the progress on this project ?"
+msgstr "Вы хотите видеть боковую панель на этих страницах"
+
+#: ../framework-customizations/theme/options/posts/project.php:28
+#, fuzzy
+msgid "Tasks"
+msgstr "Добавить задачу"
+
+#: ../framework-customizations/theme/options/posts/project.php:32
+msgid "Time"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/project.php:38
+msgid "Project Starting Date"
+msgstr "Дата начала проекта"
+
+#: ../framework-customizations/theme/options/posts/project.php:39
+#: ../framework-customizations/theme/options/posts/project.php:45
+msgid ""
+"Will be used for the progress bar on the single project page and in the "
+"widget."
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/project.php:44
+msgid "Project Ending Date"
+msgstr "Дата Окончания Проекта"
+
+#: ../framework-customizations/theme/options/posts/project.php:50
+msgid "Project Members"
+msgstr "Назначить конкретных Волонтеров на этот проект"
+
+#: ../framework-customizations/theme/options/posts/project.php:52
+msgid ""
+"They will be allowed to modify the project from the single page and view it "
+"of course."
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/project.php:57
+msgid "Project Files"
+msgstr "Файлы Проекта"
+
+#: ../framework-customizations/theme/options/posts/project.php:58
+msgid ""
+"If it is checked, a directory will be created in your directory 1 set in "
+"your File Away settings. See the following link for details informations :"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/project.php:63
+msgid "Allow edit"
+msgstr "Разрешить редактировать"
+
+#: ../framework-customizations/theme/options/posts/project.php:64
+msgid ""
+"Allowing the frontend edit from the users allowed to see the project, this "
+"may not be a good idea if you are using the page builder on that page. You "
+"can also choose in the other options."
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/project.php:66
+msgid "Frontend Edit"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/project.php:67
+msgid "Backend Edit link"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/project.php:68
+msgid "No Edit icon"
+msgstr "Нет значка редактирования"
+
+#: ../framework-customizations/theme/options/posts/project.php:74
+msgid "Project extern Links"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/project.php:75
+msgid "You can add here extern links related to the projects."
+msgstr "Вы можете добавить сюда внешние ссылки, имеющие отношение к проектам."
+
+#: ../framework-customizations/theme/options/posts/project.php:79
+msgid "Link"
+msgstr "Ссылка"
+
+#: ../framework-customizations/theme/options/posts/project.php:85
+msgid "Project Todo"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/project.php:86
+msgid ""
+"If it is checked, a todo tab will be displayed and the project members will "
+"be able to create tasks for the project. Note it\\ll be overwritten if you "
+"enter a Wunderlist List ID below."
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/project.php:91
+msgid "Project Todo tasks"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/project.php:92
+msgid "It can be edited on the frontend by the projects member."
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/project.php:96
+msgid "Done ?"
+msgstr "Выполнить ?"
+
+#: ../framework-customizations/theme/options/posts/project.php:97
+msgid "Due Date ?"
+msgstr "Срок?"
+
+#: ../framework-customizations/theme/options/posts/project.php:98
+msgid "Note ?"
+msgstr "Заметка ?"
+
+#: ../framework-customizations/theme/options/posts/project.php:101
+msgid "Specific member ?"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/project.php:103
+msgid ""
+"If you have already some project\\s member, the selected user have to be one "
+"of them."
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/project.php:110
+msgid "Wunderlist List ID"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/project.php:111
+msgid "The xxxxx in https://www.wunderlist.com/list/xxxxx"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/project.php:112
+msgid ""
+"You can set here a Wunderlist list ID, once it is PUBLISHED. However, this "
+"is an experimental feature for now, because your list will be public but "
+"only the persons with the link will be able to see it "
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/project.php:116
+msgid "Calendar sync"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/project.php:117
+msgid ""
+"If it is checked, an event will be added to eventON calendar when the post "
+"is created."
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/wiki.php:20
+msgid "Wiki settings "
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/wiki.php:27
+msgid ""
+"The excluded roles will not be able to see that wiki article, they will "
+"receive an error message instead. "
+msgstr ""
+
+#: ../inc/buddypress.php:120
+msgid "Select Members"
+msgstr "Выберите Пользователей"
+
+#: ../inc/buddypress.php:224
+msgid "Welcome"
+msgstr "Добро пожаловать"
+
+#: ../inc/buddypress.php:236 ../inc/buddypress.php:239
+#, fuzzy
+msgid "Activity"
+msgstr "Активировать"
+
+#: ../inc/buddypress.php:245
+msgid "Favorites"
+msgstr ""
+
+#: ../inc/buddypress.php:248 ../inc/buddypress.php:317
+msgid "Friends"
+msgstr ""
+
+#: ../inc/buddypress.php:251 ../inc/buddypress.php:332
+#, fuzzy
+msgid "Groups"
+msgstr "Модераторы проекта"
+
+#: ../inc/buddypress.php:260
+#, fuzzy
+msgid "Profile"
+msgstr "Мой профиль"
+
+#: ../inc/buddypress.php:278
+#, fuzzy
+msgid "Notifications"
+msgstr "Уведомление"
+
+#: ../inc/buddypress.php:293
+#, fuzzy
+msgid "Messages"
+msgstr "Приветственное Сообщение"
+
+#: ../inc/buddypress.php:296
+msgid "Inbox"
+msgstr ""
+
+#: ../inc/buddypress.php:299
+msgid "Starred"
+msgstr ""
+
+#: ../inc/buddypress.php:302
+#, fuzzy
+msgid "Sent"
+msgstr "Отправлено:"
+
+#: ../inc/buddypress.php:305
+msgid "Compose"
+msgstr ""
+
+#: ../inc/buddypress.php:308
+msgid "Notices"
+msgstr ""
+
+#: ../inc/buddypress.php:320
+msgid "Friendships"
+msgstr ""
+
+#: ../inc/buddypress.php:323
+#, fuzzy
+msgid "Requests"
+msgstr "Требуется"
+
+#: ../inc/buddypress.php:335
+#, fuzzy
+msgid "Memberships"
+msgstr "Участники"
+
+#: ../inc/buddypress.php:338
+#, fuzzy
+msgid "Invitations"
+msgstr "Приглашения в проект"
+
+#: ../inc/buddypress.php:350
+#, fuzzy
+msgid "General"
+msgstr "Общие Параметры"
+
+#: ../inc/buddypress.php:353 ../inc/register.php:43
+msgid "Email"
+msgstr "Электронная почта"
+
+#: ../inc/buddypress.php:356
+#, fuzzy
+msgid "Profile Visibility"
+msgstr "Видимость"
+
+#: ../inc/buddypress.php:359
+msgid "Capabilities"
+msgstr ""
+
+#: ../inc/buddypress.php:365
+msgid "Log Out"
+msgstr "Выйти"
+
+#: ../inc/buddypress.php:420
+msgid ""
+"This address will be used on the members directory map, please make sur the "
+"address is valid for Google Map"
+msgstr ""
+"Этот адрес будет использоваться на картах пользователей, пожалуйста, "
+"уточните адрес на карте Google"
+
+#: ../inc/buddypress.php:433 ../inc/buddypress.php:446
+#: ../inc/buddypress.php:459 ../inc/buddypress.php:472
+#: ../inc/buddypress.php:485 ../inc/buddypress.php:498
+#: ../inc/buddypress.php:511
+msgid ""
+"Copy past your URL in this field please, if it is empty it will not be "
+"displayed."
+msgstr ""
+
+#: ../inc/buddypress.php:540
+msgid "Facebook URL"
+msgstr ""
+
+#: ../inc/buddypress.php:541
+msgid "Twitter URL"
+msgstr ""
+
+#: ../inc/buddypress.php:542
+msgid "Linkedin URL"
+msgstr ""
+
+#: ../inc/buddypress.php:543
+msgid "Slack URL"
+msgstr ""
+
+#: ../inc/buddypress.php:544
+msgid "Google URL"
+msgstr ""
+
+#: ../inc/buddypress.php:545
+msgid "Github URL"
+msgstr ""
+
+#: ../inc/buddypress.php:546
+msgid "Instagram URL"
+msgstr ""
+
+#: ../inc/buddypress.php:644
+msgid "Calendar"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:161
+msgid "Install Required Plugins"
+msgstr "Установить Требуемые Плагины"
+
+#: ../inc/class-tgm-plugin-activation.php:162
+msgid "Install Plugins"
+msgstr "Установить Плагины"
+
+#: ../inc/class-tgm-plugin-activation.php:163
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Установить Плагин: %s"
+
+#: ../inc/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr "Что-то пошло не так."
+
+#: ../inc/class-tgm-plugin-activation.php:175
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr "Вернитесь к панели управления"
+
+#: ../inc/class-tgm-plugin-activation.php:177
+#: ../inc/class-tgm-plugin-activation.php:1956
+msgid "Plugin activated successfully."
+msgstr "Плагин успешно активирован."
+
+#: ../inc/class-tgm-plugin-activation.php:178
+#: ../inc/class-tgm-plugin-activation.php:1644
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины установлены и активированы успешно. %1$s"
+
+#: ../inc/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr "Закрыть это уведомление"
+
+#: ../inc/class-tgm-plugin-activation.php:532
+#: ../inc/class-tgm-plugin-activation.php:2173
+msgid "Return to the Dashboard"
+msgstr "Вернуться к панели"
+
+#: ../inc/class-tgm-plugin-activation.php:1167
+#: ../inc/class-tgm-plugin-activation.php:1348
+msgid "Private Repository"
+msgstr "Личное хранилище"
+
+#: ../inc/class-tgm-plugin-activation.php:1170
+#: ../inc/class-tgm-plugin-activation.php:1351
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1175
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1178
+msgid "Required"
+msgstr "Требуется"
+
+#: ../inc/class-tgm-plugin-activation.php:1178
+msgid "Recommended"
+msgstr "Рекомендуется"
+
+#: ../inc/class-tgm-plugin-activation.php:1181
+msgid "Not Installed"
+msgstr "Не установлен"
+
+#: ../inc/class-tgm-plugin-activation.php:1183
+msgid "Installed But Not Activated"
+msgstr "Установлен но не активирован"
+
+#: ../inc/class-tgm-plugin-activation.php:1288
+#: ../inc/class-tgm-plugin-activation.php:1409
+msgid "Install"
+msgstr "Установить"
+
+#: ../inc/class-tgm-plugin-activation.php:1312
+#: ../inc/class-tgm-plugin-activation.php:1410
+msgid "Activate"
+msgstr "Активировать"
+
+#: ../inc/class-tgm-plugin-activation.php:1372
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1388
+msgid "Plugin"
+msgstr "Плагин"
+
+#: ../inc/class-tgm-plugin-activation.php:1389
+msgid "Source"
+msgstr "Источник"
+
+#: ../inc/class-tgm-plugin-activation.php:1390
+msgid "Type"
+msgstr "Тип"
+
+#: ../inc/class-tgm-plugin-activation.php:1939
+msgid "Install package not available."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1940
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1941
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1942
+msgid "Installing the plugin&#8230;"
+msgstr "Установка плагина&#8230;"
+
+#: ../inc/class-tgm-plugin-activation.php:1943
+msgid "Plugin install failed."
+msgstr "Плагин установить не удалось."
+
+#: ../inc/class-tgm-plugin-activation.php:1944
+msgid "Plugin installed successfully."
+msgstr "Плагин установлен успешно."
+
+#: ../inc/class-tgm-plugin-activation.php:1955
+msgid "Plugin activation failed."
+msgstr "Не удалось выполнить активацию плагина."
+
+#: ../inc/class-tgm-plugin-activation.php:2069
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Начало процесса установки и активации. Этот процесс может занять некоторое "
+"время, пожалуйста, подождите."
+
+#: ../inc/class-tgm-plugin-activation.php:2070
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s установлен и активирован успешно."
+
+#: ../inc/class-tgm-plugin-activation.php:2070
+#: ../inc/class-tgm-plugin-activation.php:2079
+msgid "Show Details"
+msgstr "Показать детали"
+
+#: ../inc/class-tgm-plugin-activation.php:2070
+#: ../inc/class-tgm-plugin-activation.php:2079
+msgid "Hide Details"
+msgstr "Скрыть детали"
+
+#: ../inc/class-tgm-plugin-activation.php:2071
+msgid "All installations and activations have been completed."
+msgstr "Установка и активация завершена."
+
+#: ../inc/class-tgm-plugin-activation.php:2072
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагина %1$s (%2$d/%3$d)"
+
+#: ../inc/class-tgm-plugin-activation.php:2076
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Процесс установки и активации. Этот процесс может занять некоторое время, "
+"пожалуйста, подождите."
+
+#: ../inc/class-tgm-plugin-activation.php:2077
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Произошла ошибка при установке %1$s: <strong>%2$s</strong>."
+
+#: ../inc/class-tgm-plugin-activation.php:2078
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s не удалась."
+
+#: ../inc/class-tgm-plugin-activation.php:2079
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s успешно установлен."
+
+#: ../inc/class-tgm-plugin-activation.php:2080
+msgid "All installations have been completed."
+msgstr "Все установки были завершены."
+
+#: ../inc/class-tgm-plugin-activation.php:2081
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина %1$s (%2$d/%3$d)"
+
+#: ../inc/frontend.php:114
+msgid "Dates are not good, please check again."
+msgstr "Сроки указаны не корректно, пожалуйста, проверьте еще раз."
+
+#: ../inc/frontend.php:243
+msgid "Information"
+msgstr "Информация"
+
+#: ../inc/frontend.php:244
+msgid ""
+"You'll only find here basic settings for the projects, for more settings "
+"please contact an user with author right."
+msgstr ""
+"Здесь Вы создаете проект! (Название, Даты, Категория, Описание).\n"
+"Остальные настройки появятся после публикации проекта (Задачи, Файлы, "
+"Комментарии)\n"
+"Будьте внимательны при заполнении проекта :)"
+
+#: ../inc/frontend.php:251
+msgid "Project's Title:"
+msgstr "Название проекта:"
+
+#: ../inc/frontend.php:278
+msgid "Article's Category:"
+msgstr "Категория статьи:"
+
+#: ../inc/frontend.php:281 ../inc/frontend.php:324 ../inc/frontend.php:370
+msgid "No category"
+msgstr "Нет категории"
+
+#: ../inc/frontend.php:297
+msgid "Project's starting date:"
+msgstr "Дата начала проекта:"
+
+#: ../inc/frontend.php:303
+msgid "Project's ending date:"
+msgstr "Дата окончания проекта:"
+
+#: ../inc/frontend.php:321
+msgid "Project's Category:"
+msgstr "Категория проекта:"
+
+#: ../inc/frontend.php:340
+msgid "Project's members:"
+msgstr "Назначить конкретных волонтеров на этот проект:"
+
+#: ../inc/frontend.php:341
+msgid "If it's empty, all the members will be allowed"
+msgstr "Если оставить пустым, то до проета допускаются все учасники!"
+
+#: ../inc/frontend.php:367
+msgid "Article's Category :"
+msgstr "Категория статьи:"
+
+#: ../inc/frontend.php:379
+msgid "Article's Thumbnail :"
+msgstr "Картинка новости"
+
+#: ../inc/frontend.php:387
+msgid "Project's Description:"
+msgstr "Описание проекта:"
+
+#: ../inc/frontend.php:402
+msgid "Create Project"
+msgstr "Создать проект"
+
+#: ../inc/frontend.php:402
+msgid "Create Article"
+msgstr "Разместить на сайте"
+
+#: ../inc/hooks.php:443
+msgid "Search..."
+msgstr "Поиск по площадке..."
+
+#: ../inc/hooks.php:468
+msgid "Content Sidebar"
+msgstr ""
+
+#: ../inc/hooks.php:470
+msgid ""
+"Appears in the main content, left or right as you like see theme settings. "
+"Every widget need a title."
+msgstr ""
+
+#: ../inc/hooks.php:478
+msgid "Dashboard Widgets"
+msgstr ""
+
+#: ../inc/hooks.php:480
+msgid "Appears in the dashboard page."
+msgstr ""
+
+#: ../inc/hooks.php:488
+msgid "Footer Widgets"
+msgstr "Виджеты для нижнего колонтитула"
+
+#: ../inc/hooks.php:490
+msgid "Appears in the footer section of the site."
+msgstr "Появляется в нижнем колонтитуле сайта ."
+
+#: ../inc/hooks.php:687
+msgid "Search"
+msgstr "Поиск"
+
+#: ../inc/hooks.php:740
+msgid "Previous Posts"
+msgstr "Предыдущие Посты"
+
+#: ../inc/hooks.php:744
+msgid "Next Posts"
+msgstr "Следующие посты"
+
+#: ../inc/hooks.php:760
+msgid "<i class=\"fa fa-hand-o-left\"></i> %title"
+msgstr ""
+
+#: ../inc/hooks.php:762
+msgid "%title <i class=\"fa fa-hand-o-right\"></i>"
+msgstr ""
+
+#: ../inc/hooks.php:955
+msgid "Unit Price"
+msgstr "Цена за единицу"
+
+#: ../inc/hooks.php:956
+msgid "Quantity"
+msgstr "Количество"
+
+#: ../inc/hooks.php:962
+msgid "No products in the cart."
+msgstr "В корзине нет товаров."
+
+#: ../inc/hooks.php:965
+msgid "Cart Subtotal"
+msgstr "Итог в корзине"
+
+#: ../inc/hooks.php:968
+msgid "Cart"
+msgstr "Корзина"
+
+#: ../inc/hooks.php:971
+msgid "Checkout"
+msgstr "Оформить заказ"
+
+#: ../inc/menus.php:8
+msgid "[Woffice] main menu in the header."
+msgstr ""
+
+#: ../inc/menus.php:14
+msgid "[Woffice] Menu for non-logged users."
+msgstr ""
+
+#: ../inc/multiverso.php:11
+msgid "You need to be logged to manage your files!"
+msgstr "Зарегистрируйтесь, чтобы управлять Вашими файлами!"
+
+#: ../inc/multiverso.php:86 ../inc/multiverso.php:246
+msgid "Add new File"
+msgstr "Добавить новый файл"
+
+#: ../inc/multiverso.php:101
+msgid "Category/Folder"
+msgstr "Категория/Папка"
+
+#: ../inc/multiverso.php:121
+msgid "Are you sure you wish to trash the file: "
+msgstr "Вы уверены, что хотите поместить файл в корзину:"
+
+#: ../inc/multiverso.php:161
+msgid "Edit File"
+msgstr "Редактировать файл"
+
+#: ../inc/multiverso.php:169 ../inc/multiverso.php:260
+msgid "Description"
+msgstr "Описание"
+
+#: ../inc/multiverso.php:176 ../inc/multiverso.php:266
+msgid "Category"
+msgstr "Категория"
+
+#: ../inc/multiverso.php:207 ../inc/multiverso.php:303
+msgid "Published"
+msgstr "Опубликовано"
+
+#: ../inc/multiverso.php:208 ../inc/multiverso.php:304
+msgid "Pending Review"
+msgstr ""
+
+#: ../inc/multiverso.php:209 ../inc/multiverso.php:305
+msgid "Draft"
+msgstr ""
+
+#: ../inc/multiverso.php:210 ../inc/multiverso.php:306
+msgid "Trashed"
+msgstr ""
+
+#: ../inc/multiverso.php:228
+msgid "Update"
+msgstr "Обновить"
+
+#: ../inc/multiverso.php:322
+msgid "Save"
+msgstr "Сохранить"
+
+#: ../inc/register.php:50
+msgid "Password"
+msgstr "Пароль"
+
+#: ../inc/register.php:57
+msgid "First Name"
+msgstr "Имя"
+
+#: ../inc/register.php:64
+msgid "Last Name"
+msgstr "Фамилия"
+
+#: ../inc/register.php:85
+msgid "Role"
+msgstr "Список"
+
+#: ../inc/register.php:143
+#, fuzzy
+msgid "Register"
+msgstr "Последние зарегистированные"
+
+#: ../inc/register.php:153
+msgid "Required form field is missing"
+msgstr "Необходимые поля формы отсутствует"
+
+#: ../inc/register.php:157
+msgid "Username too short. At least 4 characters is required"
+msgstr "Имя пользователя слишком короткое. Необходимо не менее 4 символов "
+
+#: ../inc/register.php:161
+msgid "Password length must be greater than 5"
+msgstr "Пароль должен быть больше 5"
+
+#: ../inc/register.php:165
+msgid "Email is not valid"
+msgstr "Электронная почты не действителена"
+
+#: ../inc/register.php:169
+msgid "Email Already in use"
+msgstr "Электронная почта уже используется"
+
+#: ../inc/register.php:174
+msgid "Website is not a valid URL"
+msgstr ""
+
+#: ../inc/register.php:193
+msgid "Sorry, the captcha is not valid."
+msgstr "Извините, капча не действительна."
+
+#: ../inc/register.php:234
+msgid "Registration complete. You can now "
+msgstr "Регистрация завершена. Теперь Вы можете "
+
+#: ../inc/register.php:234
+msgid "Sign In"
+msgstr "Регистрация"
+
+#: ../inc/widgets/cf7/class-widget-cf7.php:10
+msgid "(Woffice) Form"
+msgstr ""
+
+#: ../inc/widgets/cf7/class-widget-cf7.php:44
+msgid "Form:"
+msgstr "Форма"
+
+#: ../inc/widgets/cf7/class-widget-cf7.php:56
+msgid "No form Found"
+msgstr "Форма не найдена"
+
+#: ../inc/widgets/eventon/class-widget-eventon.php:10
+msgid "(Woffice) Events"
+msgstr ""
+
+#: ../inc/widgets/eventon/views/widget.php:18
+msgid "No post found..."
+msgstr "Пост не найден..."
+
+#: ../inc/widgets/visualizer/class-widget-visualizer.php:10
+msgid "(Woffice) Graph"
+msgstr ""
+
+#: ../inc/widgets/visualizer/class-widget-visualizer.php:44
+msgid "Graph:"
+msgstr "Графа:"
+
+#: ../inc/widgets/visualizer/class-widget-visualizer.php:57
+msgid "No Graph Found"
+msgstr "Графа не найдена"
+
+#: ../inc/widgets/wpml/class-widget-wpml.php:10
+msgid "(Woffice) WPML languages"
+msgstr ""
+
+#: ../page-templates/login.php:54 ../page-templates/login.php:59
+msgid "ERROR:"
+msgstr "ОШИБКА:"
+
+#: ../page-templates/login.php:55
+msgid "Invalid username and/or password."
+msgstr "Неверное имя пользователя и/или пароль."
+
+#: ../page-templates/login.php:60
+msgid "Username and/or Password is empty."
+msgstr "Имя пользователя и/или Пароль не заполнены."
+
+#: ../page-templates/login.php:64
+msgid "Success:"
+msgstr ""
+
+#: ../page-templates/login.php:65
+msgid "You are logged out."
+msgstr "Вы вышли из системы."
+
+#: ../page-templates/login.php:95
+msgid "Lost Password"
+msgstr "Забыли пароль"
+
+#: ../page-templates/login.php:104
+msgid "Sign Up"
+msgstr "Зарегистрируйтесь"
+
+#: ../page-templates/login.php:108
+msgid "Go back"
+msgstr "Вернуться"
+
+#: ../page-templates/login.php:120
+msgid "Proudly powered by"
+msgstr ""
+
+#: ../page-templates/projects.php:91
+msgid "See Project"
+msgstr "Смотреть проект"
+
+#: ../page-templates/projects.php:110
+msgid "Create a project"
+msgstr "Создать проект"
+
+#: ../page-templates/wiki.php:151
+msgid "New Wiki Article"
+msgstr "Новая  Wiki статья"
+
+#: ../woocommerce/cart/cart-totals.php:20
+msgid "Cart Totals"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:26
+msgid "Subtotal"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:48
+msgid "Shipping"
+msgstr "Доставка"
+
+#: ../woocommerce/cart/cart-totals.php:80
+msgid "Total"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:92
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:95
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: ../woocommerce/cart/cross-sells.php:41
+msgid "You may be interested in&hellip;"
+msgstr "Вы можете быть заинтересованы в&hellip;"
+
+#: ../woocommerce/single-product/related.php:43
+msgid "Related Products"
+msgstr "Сопутствующие Товары"
+
+#: ../woocommerce/single-product/up-sells.php:44
+msgid "You may also like&hellip;"
+msgstr "Вы можете также like&hellip;"
+
+#~ msgid "News"
+#~ msgstr "Новости"
+
+#~ msgid "Sorry Wise chat isn't enabled...Please install it."
+#~ msgstr "Извините чат выключен ... Пожалуйста, установите его ."

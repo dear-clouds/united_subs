@@ -1,0 +1,17 @@
+<div class="rssap-preview">
+<?php if ($list) : ?>
+    <?php foreach ($list as $item) : ?>
+        <h2><?php echo esc_html($item['title']); ?></h2>
+        <?php if (isset($item['thumbnail']) && $item['thumbnail']) : ?>
+            <p><img src="<?php echo esc_attr($item['thumbnail']); ?>"></p>
+        <?php endif; ?>
+        <?php echo $item['content']; ?>
+        <?php if ($feed->display_readmore) : ?>
+            <?php echo str_replace('%LINK%', $item['url'], $feed->readmore_template); ?>
+        <?php endif; ?>
+        <hr>
+    <?php endforeach; ?>
+<?php else: ?>
+    <p><?php esc_html_e('Error loading feed', 'rss-autopilot'); ?></p>
+<?php endif; ?>
+</div>

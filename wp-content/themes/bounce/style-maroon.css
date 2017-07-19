@@ -1,0 +1,280 @@
+/*************************** General Styling ***************************/
+
+/* Text Styling */
+a {
+color: #A98E91;
+}
+a:hover {
+color: #5D2831;
+}
+
+/* Form Styling */
+input[type="button"],
+input[type="submit"],
+input[type="reset"] {
+border-color: #654E50;
+background-color: #453537;
+background-image: -moz-linear-gradient(#453537, #1A1415);
+background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#453537), to(#1A1415));
+background-image: -webkit-linear-gradient(#453537, #1A1415);
+background-image: -o-linear-gradient(#453537, #1A1415);
+background-image: -ms-linear-gradient(#453537, #1A1415);
+-pie-background: linear-gradient(#453537, #1A1415);
+}
+
+
+/*************************** Header ***************************/
+
+/* Header Outer */
+#header-outer {
+background-color: #2d353a;
+background-image: url(lib/images/header-bg-maroon.png), -moz-linear-gradient(#3A2C2E, #000);
+background-image: url(lib/images/header-bg-maroon.png), -webkit-gradient(linear, 0% 0%, 0% 100%, from(#3A2C2E), to(#000));
+background-image: url(lib/images/header-bg-maroon.png), -webkit-linear-gradient(#3A2C2E, #000);
+background-image: url(lib/images/header-bg-maroon.png), -o-linear-gradient(#3A2C2E, #000);
+background-image: url(lib/images/header-bg-maroon.png), -ms-linear-gradient(#3A2C2E, #000);
+}
+
+/* Logo */
+.default-logo {
+background-image: url(lib/images/logo-maroon.png);
+}
+
+
+/*************************** Navigation Menus ***************************/
+
+/* Nav Wrapper */
+#nav {
+border-color: #765b5e;
+background-color: #685053;
+background-image: -moz-linear-gradient(#685053, #453537);
+background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#685053), to(#453537));
+background-image: -webkit-linear-gradient(#685053, #453537);
+background-image: -o-linear-gradient(#685053, #453537);
+background-image: -ms-linear-gradient(#685053, #453537);
+-pie-background: linear-gradient(#685053, #453537);
+}
+.mobile-menu {
+border-color: #4E3B3E;
+}
+
+/* Top Level Nav */
+#nav a {
+border-left-color: #4E3B3E;
+border-right-color: #5F494C;
+}
+#nav li.home a {
+background-position: -55px -21px;
+}
+
+/* Drop Down Menus */
+#nav .sub-menu {
+border-color: #281F21;
+background-color: #453537;
+}
+#nav .sub-menu a {
+border-color: #654E50;
+}
+#nav .sub-menu a:hover {
+color: #A98E91;
+}
+
+
+/*************************** Social Icons ***************************/
+
+#social-icons {
+border-color: #4E3B3E;
+border-top-color: #3F3132;
+}
+
+
+/*************************** Top Content ***************************/
+
+/* Top Content */
+#top-content {
+color: #A98E91;
+border-color: #654E50;
+background-color: #453537;
+background-image: -moz-linear-gradient(#453537, #1A1415);
+background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#453537), to(#1A1415));
+background-image: -webkit-linear-gradient(#453537, #1A1415);
+background-image: -o-linear-gradient(#453537, #1A1415);
+background-image: -ms-linear-gradient(#453537, #1A1415);
+-pie-background: linear-gradient(#453537, #1A1415);
+}
+#top-content.top-content-stripes {
+background-image: url(lib/images/top-content-bg.png), -moz-linear-gradient(#453537, #1A1415);
+background-image: url(lib/images/top-content-bg.png), -webkit-gradient(linear, 0% 0%, 0% 100%, from(#453537), to(#1A1415));
+background-image: url(lib/images/top-content-bg.png), -webkit-linear-gradient(#453537, #1A1415);
+background-image: url(lib/images/top-content-bg.png), -o-linear-gradient(#453537, #1A1415);
+background-image: url(lib/images/top-content-bg.png), -ms-linear-gradient(#453537, #1A1415);
+}
+
+/* Post Meta */
+.post-meta {
+color: #8B797C;
+}
+.post-meta a {
+color: #8B797C;
+}
+
+/* Breadcrumbs */
+#breadcrumbs a {
+font-weight: normal;
+color: #A98E91;
+}
+
+/* Search Form */
+#top-content #searchform {
+border-color: #403032;
+background-color: #201819;
+background-image: -moz-linear-gradient(#201819, #291F20);
+background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#201819), to(#291F20));
+background-image: -webkit-linear-gradient(#201819, #291F20);
+background-image: -o-linear-gradient(#201819, #291F20);
+background-image: -ms-linear-gradient(#201819, #291F20);
+-pie-background: linear-gradient(#201819, #291F20);
+}
+#top-content #searchbar {
+color: #6A4E52;
+}
+#top-content #searchsubmit {
+background-position: -108px -36px;
+}
+
+
+/*************************** Page/Post Styling ***************************/
+
+/* Posts */
+.post-text h2 a {
+color: #5D2831;
+}
+.post-text h2 a:hover {
+color: #AF2C42;
+}
+
+
+/*************************** Shortcodes: Author Info ***************************/
+
+.author-info {
+background-color: #453537;
+background-image: -moz-linear-gradient(#453537, #1A1415);
+background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#453537), to(#1A1415));
+background-image: -webkit-linear-gradient(#453537, #1A1415);
+background-image: -o-linear-gradient(#453537, #1A1415);
+background-image: -ms-linear-gradient(#453537, #1A1415);
+-pie-background: linear-gradient(#453537, #1A1415);
+}
+.author-info .author-links {
+color: #A98E91;
+}
+.author-info .author-links a:hover {
+color: #A98E91;
+}
+.author-info .author-desc {
+color: #A98E91;
+}
+
+
+/*************************** Shortcodes: Buttons ***************************/
+
+.sc-button {
+color: #fff;
+border-color: #957578;
+background-color: #685053;
+background-image: -moz-linear-gradient(#685053, #453537);
+background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#685053), to(#453537));
+background-image: -webkit-linear-gradient(#685053, #453537);
+background-image: -o-linear-gradient(#685053, #453537);
+background-image: -ms-linear-gradient(#685053, #453537);
+-pie-background: linear-gradient(#685053, #453537);
+}
+.sc-button:hover {
+color: #fff;
+background: #453537;
+}
+
+
+/*************************** Shortcodes: Price Box ***************************/
+
+.sc-price-box {
+background-color: #453537;
+background-image: -moz-linear-gradient(#453537, #1A1415);
+background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#453537), to(#1A1415));
+background-image: -webkit-linear-gradient(#453537, #1A1415);
+background-image: -o-linear-gradient(#453537, #1A1415);
+background-image: -ms-linear-gradient(#453537, #1A1415);
+-pie-background: linear-gradient(#453537, #1A1415);
+}
+.sc-price-divider {
+border-top-color: #2B2122;
+border-bottom-color: #3C2F31;
+}
+.sc-price-box-content {
+color: #A98E91;
+}
+
+
+/*************************** Shortcodes: Pricing Table ***************************/
+
+.sc-pricing-table thead th {
+border-color: #654E50;
+background-color: #453537;
+background-image: -moz-linear-gradient(#453537, #1A1415);
+background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#453537), to(#1A1415));
+background-image: -webkit-linear-gradient(#453537, #1A1415);
+background-image: -o-linear-gradient(#453537, #1A1415);
+background-image: -ms-linear-gradient(#453537, #1A1415);
+-pie-background: linear-gradient(#453537, #1A1415);
+}
+.sc-pricing-table .price {
+color: #A98E91;
+}
+
+
+/*************************** Shortcodes: Slider ***************************/
+
+/* Slide Caption */
+.caption {
+background-color: #453537;
+}
+
+
+/*************************** Shortcodes: Text Boxes ***************************/
+
+#top-content .text-box {
+color: #A98E91;
+}
+
+
+/*************************** Widgets ***************************/
+
+/* Custom Menus Widget */
+.widget_nav_menu a:hover,
+.widget_nav_menu .current-menu-item > a {
+background-color: #453537;
+background-image: -moz-linear-gradient(#453537, #1A1415);
+background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#453537), to(#1A1415));
+background-image: -webkit-linear-gradient(#453537, #1A1415);
+background-image: -o-linear-gradient(#453537, #1A1415);
+background-image: -ms-linear-gradient(#453537, #1A1415);
+-pie-background: linear-gradient(#453537, #1A1415);
+}
+
+
+/*************************** Page Navigation ***************************/
+
+/* Page & Comments Navigation */
+.wp-pagenavi span,
+.wp-pagenavi.cat-navi a,
+.wp-pagenavi.comment-navi a,
+.wp-pagenavi.post-navi a span {
+border-color: #654E50;
+background-color: #453537;
+background-image: -moz-linear-gradient(#453537, #1A1415);
+background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#453537), to(#1A1415));
+background-image: -webkit-linear-gradient(#453537, #1A1415);
+background-image: -o-linear-gradient(#453537, #1A1415);
+background-image: -ms-linear-gradient(#453537, #1A1415);
+-pie-background: linear-gradient(#453537, #1A1415);
+}

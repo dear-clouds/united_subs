@@ -1,0 +1,83 @@
+/*
+Upcoming Events Widget
+*/
+/* widget_upcoming_events.css */
+h3 + .rhc-widget-upcoming-item {
+	border-top:1px solid #ddd;
+}
+
+.rhc-widget-upcoming-item {
+	display: block;
+	clear: both;
+	width: 100%;
+	min-height: 44px;
+	position: relative;
+	/*border-bottom: 1px solid #DDD;*/
+	padding: 7px 0 0 0;
+}
+
+.rhc-widget-upcoming-featured-image {
+	float:left;
+	width: 25%;
+	margin-right: 4px;
+}
+
+.rhc-widget-upcoming-featured-image img {
+	width:100%;
+	height:auto;
+	border:1px solid #ddd;
+	padding:4px;
+}
+
+.rhc-widget-upcoming {
+	float: right;
+	width: 65%;
+	display: block;
+	top: 12px;
+	right: 0;
+	line-height: 120%;
+}
+
+.featured-0 .rhc-widget-upcoming {
+	width:100%;
+}
+
+.rhc-widget-date-time {
+	font-weight:bold;
+	font-size:.9em;
+}
+
+.rhc-hide {
+	display:none;
+} 
+
+.rhc-clear {
+	clear:both;
+}
+
+.rhc-widget-upcoming-item .rhc-description {
+	padding-bottom:5px;
+}
+
+/** RTL **/
+body.rtl .rhc-widget-upcoming {
+	float: left;
+	left: 0;
+	right:auto;
+}
+
+.widget_upcoming_events_widget .fc-edit-tools,
+.widget_upcoming_events_widget .fc-header,
+.widget_upcoming_events_widget .fc-lower-head-tools,
+.widget_upcoming_events_widget .fc-head-control,
+.widget_upcoming_events_widget .fc-footer{
+	display:none;
+}
+
+.widget_upcoming_events_widget .fc-view {
+	/*min-height:0; this hides the loading animation*/
+}
+
+.widget_upcoming_events_widget .widget-title {
+
+}

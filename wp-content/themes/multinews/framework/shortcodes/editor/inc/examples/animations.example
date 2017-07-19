@@ -1,0 +1,38 @@
+<h2>Different animation types</h2>
+
+[%mom_su_animate type="bounceIn" delay="1"] [%mom_su_note] Animated text [/%mom_su_note] [/%mom_su_animate]
+[%mom_su_animate type="flipInX" delay="2"] [%mom_su_note] Animated text [/%mom_su_note] [/%mom_su_animate]
+[%mom_su_animate type="flipInY" delay="3"] [%mom_su_note] Animated text [/%mom_su_note] [/%mom_su_animate]
+[%mom_su_animate type="fadeInDown" delay="4"] [%mom_su_note] Animated text [/%mom_su_note] [/%mom_su_animate]
+[%mom_su_animate type="fadeInLeft" delay="5"] [%mom_su_note] Animated text [/%mom_su_note] [/%mom_su_animate]
+[%mom_su_animate type="fadeInRight" delay="6"] [%mom_su_note] Animated text [/%mom_su_note] [/%mom_su_animate]
+[%mom_su_animate type="fadeInUp" delay="7"] [%mom_su_note] Animated text [/%mom_su_note] [/%mom_su_animate]
+
+-----
+
+<h2>Animated columns</h2>
+
+[%mom_su_row]
+	[%mom_su_column size="1/2"]
+		[%mom_su_animate type="fadeInLeft" delay="1" duration="1.5"] [%mom_su_box] Column content [/%mom_su_box] [/%mom_su_animate]
+	[/%mom_su_column]
+	[%mom_su_column size="1/2"]
+		[%mom_su_animate type="fadeInRight" delay="1" duration="1.5"] [%mom_su_box] Column content [/%mom_su_box] [/%mom_su_animate]
+	[/%mom_su_column]
+[/%mom_su_row]
+
+-----
+
+<h2>Animated buttons</h2>
+
+[%mom_su_animate delay="1" inline="yes"] [%mom_su_button] Click me [/%mom_su_button] [/%mom_su_animate] [%mom_su_animate delay="2" inline="yes"] [%mom_su_button] Click me [/%mom_su_button] [/%mom_su_animate] [%mom_su_animate delay="3" inline="yes"] [%mom_su_button] Click me [/%mom_su_button] [/%mom_su_animate]
+
+-----
+
+<h2>Animated tabs</h2>
+
+[%mom_su_tabs]
+	[%mom_su_tab title="Tab title"] [%mom_su_animate type="fadeInUp"] Tab content [/%mom_su_animate] [/%mom_su_tab]
+	[%mom_su_tab title="Tab title"] [%mom_su_animate type="fadeInUp"] Tab content [/%mom_su_animate] [/%mom_su_tab]
+	[%mom_su_tab title="Tab title"] [%mom_su_animate type="fadeInUp"] Tab content [/%mom_su_animate] [/%mom_su_tab]
+[/%mom_su_tabs]

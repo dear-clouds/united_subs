@@ -1,0 +1,41 @@
+.sidebar-momizat-custom:not(.closed) .widgets-sortables {
+	position: relative;
+	padding-bottom: 50px !important;
+	margin-bottom: 0 !important;
+}
+.sidebar-momizat-custom:not(.closed) .mom_custom_sidebar_delete {
+	display: block;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	text-align: right;
+	padding: 15px !important;
+	-moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+
+}
+.sidebar-momizat-custom:not(.closed) .mom_custom_sidebar_delete a{
+	color: #a00;
+	text-decoration: none;
+}
+.widget-liquid-right #mom_add_custom_sidebar {
+    clear: both;
+    margin-top: 20px;
+    padding: 20px;
+    text-align: center;
+
+}
+.widget-liquid-right #mom_add_custom_sidebar h3 {
+	margin-top: 0;
+}
+#mom_custom_sidebar {
+	width: 40%;
+	margin-bottom: 10px;
+	padding: 7px;
+}
+
+.ls-plugins-screen-notice {
+	display: none !important;
+}

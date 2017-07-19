@@ -1,0 +1,15 @@
+table.torrent-file-list td {
+	text-align: center;
+}
+
+span.katracker-stats-seed {
+	color: #080;
+}
+
+span.katracker-stats-leech {
+	color: #00f;
+}
+
+span.katracker-stats-hits {
+	color: #333;
+}

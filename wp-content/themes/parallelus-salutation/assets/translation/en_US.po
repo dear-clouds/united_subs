@@ -1,0 +1,4887 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Salutation\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-10 12:29-0600\n"
+"PO-Revision-Date: 2013-06-10 12:31-0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ./\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: ../..\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPath-2: ../..\n"
+
+#: ../../404.php:34
+msgid "Error 404"
+msgstr ""
+
+#: ../../404.php:41
+msgid "The page you are looking for could not be found."
+msgstr ""
+
+#: ../../comments.php:16
+msgid "Comments"
+msgstr ""
+
+#: ../../comments.php:22
+msgid "This post is password protected. Enter your password to view comments."
+msgstr ""
+
+#: ../../comments.php:65 ../../activity/comment.php:36
+#: ../../activity/entry.php:58 ../../forums/single/edit.php:10
+#: ../../groups/single/forum/edit.php:10
+msgid "Reply"
+msgstr ""
+
+#: ../../comments.php:65
+#: ../../framework/contact-form-settings/admin-fields-home.php:57
+#: ../../framework/content-fields/admin.php:48
+#: ../../framework/layout-settings/admin-home.php:56
+#: ../../framework/layout-settings/admin-home.php:156
+#: ../../framework/layout-settings/admin-home.php:256
+#: ../../framework/sidebar-settings/admin-home.php:52
+#: ../../framework/sidebar-settings/admin-tabs-home.php:53
+#: ../../framework/slideshow-settings/admin-home.php:52
+#: ../../framework/slideshow-settings/admin-settings.php:177
+msgid "Edit"
+msgstr ""
+
+#: ../../comments.php:79
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../../comments.php:130
+msgid "Add a comment"
+msgstr ""
+
+#: ../../comments.php:130
+#, php-format
+msgid "Reply to %s"
+msgstr ""
+
+#: ../../comments.php:133
+msgid "Cancel reply?"
+msgstr ""
+
+#: ../../comments.php:156
+msgid "You are currently logged in"
+msgstr ""
+
+#: ../../comments.php:156
+msgid "Log out of this account"
+msgstr ""
+
+#: ../../comments.php:156
+msgid "Log out"
+msgstr ""
+
+#: ../../comments.php:164
+#, php-format
+msgid "You must be %s logged in %s to comment."
+msgstr ""
+
+#: ../../comments.php:170 ../../bbpress/form-user-edit.php:14
+#: ../../bbpress/form-user-edit.php:19
+#: ../../members/single/profile/profile-wp.php:15
+msgid "Name"
+msgstr ""
+
+#: ../../comments.php:174 ../../bbpress/form-user-edit.php:105
+#: ../../bbpress/form-user-register.php:28
+msgid "Email"
+msgstr ""
+
+#: ../../comments.php:178 ../../bbpress/form-user-edit.php:57
+#: ../../members/single/profile/profile-wp.php:33
+msgid "Website"
+msgstr ""
+
+#: ../../comments.php:183 ../../template-blog.php:99
+msgid "Comment"
+msgstr ""
+
+#: ../../comments.php:186
+msgid "Add Comment"
+msgstr ""
+
+#: ../../footer-default.php:11
+msgid "Sign in to your account"
+msgstr ""
+
+#: ../../footer-default.php:13
+msgid "Account Login"
+msgstr ""
+
+#: ../../footer-default.php:15 ../../bbpress/form-user-edit.php:99
+#: ../../bbpress/form-user-login.php:17
+#: ../../bbpress/form-user-register.php:23 ../../registration/register.php:36
+msgid "Username"
+msgstr ""
+
+#: ../../footer-default.php:19 ../../bbpress/form-user-login.php:22
+msgid "Password"
+msgstr ""
+
+#: ../../footer-default.php:25
+msgid "Sign in"
+msgstr ""
+
+#: ../../footer-default.php:29
+msgid "Forgot your password?"
+msgstr ""
+
+#: ../../functions.php:65
+msgid "Main Menu"
+msgstr ""
+
+#: ../../page-forum-statistics.php:29
+msgid "<p>Here are the statistics and popular topics of our forums.</p>"
+msgstr ""
+
+#: ../../page-forum-statistics.php:35
+msgid "Registered Users"
+msgstr ""
+
+#: ../../page-forum-statistics.php:40
+msgid "Forums"
+msgstr ""
+
+#: ../../page-forum-statistics.php:45 ../../bbpress/loop-single-forum.php:22
+msgid "Topics"
+msgstr ""
+
+#: ../../page-forum-statistics.php:50 ../../single-reply.php:32
+#: ../../bbpress/loop-replies.php:36 ../../bbpress/loop-replies.php:55
+#: ../../bbpress/loop-single-forum.php:20
+#: ../../bbpress/loop-single-topic.php:20
+msgid "Replies"
+msgstr ""
+
+#: ../../page-forum-statistics.php:55
+msgid "Topic Tags"
+msgstr ""
+
+#: ../../page-forum-statistics.php:62
+msgid "Empty Topic Tags"
+msgstr ""
+
+#: ../../page-forum-statistics.php:71
+msgid "Hidden Topics"
+msgstr ""
+
+#: ../../page-forum-statistics.php:82
+msgid "Hidden Replies"
+msgstr ""
+
+#: ../../page-forum-statistics.php:101
+msgid "Popular Topics"
+msgstr ""
+
+#: ../../page-topic-tags.php:25
+msgid ""
+"<p>This is a collection of tags that are currently popular on our forums.</p>"
+msgstr ""
+
+#: ../../page.php:28 ../../single.php:119
+msgid "Pages:"
+msgstr ""
+
+#: ../../search.php:20
+msgid "Search Results"
+msgstr ""
+
+#: ../../search.php:20
+msgid "Search results for: "
+msgstr ""
+
+#: ../../single-reply.php:31 ../../bbpress/loop-replies.php:23
+#: ../../bbpress/loop-replies.php:46
+msgid "Author"
+msgstr ""
+
+#: ../../single-reply.php:52
+#, php-format
+msgid "Posted on %1$s at %2$s"
+msgstr ""
+
+#: ../../single.php:64
+msgid "Posted by "
+msgstr ""
+
+#: ../../single.php:99
+#, php-format
+msgid "<span class=\"%1$s\">Posted in</span> %2$s"
+msgstr ""
+
+#: ../../single.php:109 ../../template-blog.php:160
+#, php-format
+msgid "<span class=\"%1$s\">Tagged</span> %2$s"
+msgstr ""
+
+#: ../../taxonomy-topic-tag-edit.php:20 ../../taxonomy-topic-tag.php:20
+#, php-format
+msgid "Topic Tag: %s"
+msgstr ""
+
+#: ../../template-blog.php:92
+msgid "by "
+msgstr ""
+
+#: ../../template-blog.php:99
+msgid "1"
+msgstr ""
+
+#: ../../template-blog.php:99
+msgid "%"
+msgstr ""
+
+#: ../../template-blog.php:142
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../../activity/activity-loop.php:27
+msgid "Load More"
+msgstr ""
+
+#: ../../activity/activity-loop.php:37
+msgid "Sorry, there was no activity found. Please try a different filter."
+msgstr ""
+
+#: ../../activity/comment.php:29
+#, php-format
+msgid "<a href=\"%1$s\">%2$s</a> <span class=\"time-since date\">%3$s</span>"
+msgstr ""
+
+#: ../../activity/comment.php:32 ../../bbpress/form-topic-tag.php:89
+#: ../../bbpress/form-topic-tag.php:102
+#: ../../framework/contact-form-settings/admin-fields-home.php:58
+#: ../../framework/content-fields/admin.php:49
+#: ../../framework/layout-settings/admin-home.php:57
+#: ../../framework/layout-settings/admin-home.php:157
+#: ../../framework/layout-settings/admin-home.php:257
+#: ../../framework/sidebar-settings/admin-home.php:53
+#: ../../framework/sidebar-settings/admin-tabs-home.php:54
+#: ../../framework/slideshow-settings/admin-home.php:53
+#: ../../framework/slideshow-settings/admin-settings.php:178
+#: ../../members/single/messages/messages-loop.php:52
+#: ../../members/single/messages/notices-loop.php:36
+msgid "Delete"
+msgstr ""
+
+#: ../../activity/entry.php:45
+msgid "Go to "
+msgstr ""
+
+#: ../../activity/entry.php:51
+#: ../../framework/theme-functions/buddypress.php:50
+msgid "Favorite"
+msgstr ""
+
+#: ../../activity/entry.php:53
+#: ../../framework/theme-functions/buddypress.php:51
+msgid "Remove Favorite"
+msgstr ""
+
+#: ../../activity/entry.php:80
+msgid "In reply to"
+msgstr ""
+
+#: ../../activity/entry.php:81
+msgid "View Thread / Permalink"
+msgstr ""
+
+#: ../../activity/entry.php:81
+#: ../../framework/theme-functions/buddypress.php:49
+msgid "View"
+msgstr ""
+
+#: ../../activity/entry.php:114
+msgid "Post"
+msgstr ""
+
+#: ../../activity/entry.php:114
+msgid "or press esc to cancel."
+msgstr ""
+
+#: ../../activity/index.php:5
+msgid "Site Activity"
+msgstr ""
+
+#: ../../activity/index.php:20
+msgid "The public activity for everyone on this site."
+msgstr ""
+
+#: ../../activity/index.php:20 ../../members/index.php:21
+#, php-format
+msgid "All Members <span>%s</span>"
+msgstr ""
+
+#: ../../activity/index.php:28
+msgid "The activity of my friends only."
+msgstr ""
+
+#: ../../activity/index.php:28 ../../members/index.php:24
+#, php-format
+msgid "My Friends <span>%s</span>"
+msgstr ""
+
+#: ../../activity/index.php:36
+msgid "The activity of groups I am a member of."
+msgstr ""
+
+#: ../../activity/index.php:36 ../../groups/index.php:34
+#, php-format
+msgid "My Groups <span>%s</span>"
+msgstr ""
+
+#: ../../activity/index.php:43
+msgid "The activity I've marked as a favorite."
+msgstr ""
+
+#: ../../activity/index.php:43
+#, php-format
+msgid "My Favorites <span>%s</span>"
+msgstr ""
+
+#: ../../activity/index.php:48
+msgid "Activity that I have been mentioned in."
+msgstr ""
+
+#: ../../activity/index.php:48
+#, php-format
+msgid "@%s Mentions"
+msgstr ""
+
+#: ../../activity/index.php:48
+#, php-format
+msgid "(%s new)"
+msgstr ""
+
+#: ../../activity/index.php:58 ../../groups/single/activity.php:3
+msgid "RSS"
+msgstr ""
+
+#: ../../activity/index.php:64 ../../members/single/activity.php:7
+msgid "No Filter"
+msgstr ""
+
+#: ../../activity/index.php:65 ../../members/single/activity.php:8
+msgid "Show Updates"
+msgstr ""
+
+#: ../../activity/index.php:66 ../../members/single/activity.php:11
+msgid "Show Blog Posts"
+msgstr ""
+
+#: ../../activity/index.php:67 ../../members/single/activity.php:12
+msgid "Show Blog Comments"
+msgstr ""
+
+#: ../../activity/index.php:70 ../../members/single/activity.php:20
+msgid "Show New Forum Topics"
+msgstr ""
+
+#: ../../activity/index.php:71 ../../members/single/activity.php:21
+msgid "Show Forum Replies"
+msgstr ""
+
+#: ../../activity/index.php:75 ../../members/single/activity.php:25
+msgid "Show New Groups"
+msgstr ""
+
+#: ../../activity/index.php:76 ../../members/single/activity.php:26
+msgid "Show New Group Memberships"
+msgstr ""
+
+#: ../../activity/index.php:80 ../../members/single/activity.php:15
+msgid "Show Friendship Connections"
+msgstr ""
+
+#: ../../activity/index.php:83
+msgid "Show New Members"
+msgstr ""
+
+#: ../../activity/post-form.php:7
+#, php-format
+msgid ""
+"You are mentioning %s in a new update, this user will be sent a notification "
+"of your message."
+msgstr ""
+
+#: ../../activity/post-form.php:29
+#, php-format
+msgid "What's new in %s, %s?"
+msgstr ""
+
+#: ../../activity/post-form.php:31
+#, php-format
+msgid "What's new %s?"
+msgstr ""
+
+#: ../../activity/post-form.php:41
+msgid "Post Update"
+msgstr ""
+
+#: ../../activity/post-form.php:47
+#: ../../framework/theme-functions/buddypress.php:185
+msgid "in"
+msgstr ""
+
+#: ../../activity/post-form.php:50
+#: ../../members/single/profile/profile-wp.php:8
+msgid "My Profile"
+msgstr ""
+
+#: ../../bbpress/content-single-topic-lead.php:15
+msgid "Creator"
+msgstr ""
+
+#: ../../bbpress/content-single-topic-lead.php:18
+#: ../../bbpress/loop-topics.php:17
+msgid "Topic"
+msgstr ""
+
+#: ../../bbpress/content-single-topic-lead.php:43
+#: ../../bbpress/loop-single-reply.php:76
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../../bbpress/feedback-logged-in.php:13
+msgid "You are already logged in."
+msgstr ""
+
+#: ../../bbpress/feedback-no-access.php:13
+msgid "Private"
+msgstr ""
+
+#: ../../bbpress/feedback-no-access.php:16
+msgid "You do not have permission to view this forum."
+msgstr ""
+
+#: ../../bbpress/feedback-no-forums.php:13
+msgid "Oh bother! No forums were found here!"
+msgstr ""
+
+#: ../../bbpress/feedback-no-replies.php:13
+msgid "Oh bother! No replies were found here!"
+msgstr ""
+
+#: ../../bbpress/feedback-no-topics.php:13
+msgid "Oh bother! No topics were found here!"
+msgstr ""
+
+#: ../../bbpress/form-anonymous.php:17
+msgid "Author Information"
+msgstr ""
+
+#: ../../bbpress/form-anonymous.php:17
+msgid "Your information:"
+msgstr ""
+
+#: ../../bbpress/form-anonymous.php:22
+msgid "Name (required):"
+msgstr ""
+
+#: ../../bbpress/form-anonymous.php:27
+msgid "Mail (will not be published) (required):"
+msgstr ""
+
+#: ../../bbpress/form-anonymous.php:32
+msgid "Website:"
+msgstr ""
+
+#: ../../bbpress/form-forum.php:35 ../../bbpress/form-topic-2012-05-10.php:39
+#: ../../bbpress/form-topic.php:41
+#, php-format
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../../bbpress/form-forum.php:37
+#, php-format
+msgid "Create New Forum in &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../../bbpress/form-forum.php:37
+msgid "Create New Forum"
+msgstr ""
+
+#: ../../bbpress/form-forum.php:47
+msgid ""
+"This forum is closed to new content, however your account still allows you "
+"to do so."
+msgstr ""
+
+#: ../../bbpress/form-forum.php:55 ../../bbpress/form-reply-2012-05-10.php:42
+#: ../../bbpress/form-reply.php:44 ../../bbpress/form-topic-2012-05-10.php:59
+#: ../../bbpress/form-topic.php:61
+msgid "Your account has the ability to post unrestricted HTML content."
+msgstr ""
+
+#: ../../bbpress/form-forum.php:67
+#, php-format
+msgid "Forum Name (Maximum Length: %d):"
+msgstr ""
+
+#: ../../bbpress/form-forum.php:78
+msgid "Forum Description:"
+msgstr ""
+
+#: ../../bbpress/form-forum.php:93 ../../bbpress/form-reply-2012-05-10.php:65
+#: ../../bbpress/form-reply.php:75 ../../bbpress/form-topic-2012-05-10.php:91
+#: ../../bbpress/form-topic.php:101
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes:"
+msgstr ""
+
+#: ../../bbpress/form-forum.php:102
+msgid "Forum Type:"
+msgstr ""
+
+#: ../../bbpress/form-forum.php:111
+msgid "Status:"
+msgstr ""
+
+#: ../../bbpress/form-forum.php:120
+msgid "Visibility:"
+msgstr ""
+
+#: ../../bbpress/form-forum.php:129
+msgid "Parent Forum:"
+msgstr ""
+
+#: ../../bbpress/form-forum.php:134
+msgid "(No Parent)"
+msgstr ""
+
+#: ../../bbpress/form-forum.php:149
+#: ../../bbpress/form-reply-2012-05-10.php:135
+#: ../../bbpress/form-reply.php:145
+#: ../../bbpress/form-topic-2012-05-10.php:184
+#: ../../bbpress/form-topic-merge.php:88 ../../bbpress/form-topic-split.php:92
+#: ../../bbpress/form-topic.php:194
+msgid "Submit"
+msgstr ""
+
+#: ../../bbpress/form-forum.php:172
+#, php-format
+msgid "The forum &#8216;%s&#8217; is closed to new content."
+msgstr ""
+
+#: ../../bbpress/form-forum.php:180
+msgid "You cannot create new forums at this time."
+msgstr ""
+
+#: ../../bbpress/form-forum.php:180
+msgid "You must be logged in to create new forums."
+msgstr ""
+
+#: ../../bbpress/form-protected.php:13
+msgid "Protected"
+msgstr ""
+
+#: ../../bbpress/form-reply-2012-05-10.php:27 ../../bbpress/form-reply.php:29
+#, php-format
+msgid "Reply To: %s"
+msgstr ""
+
+#: ../../bbpress/form-reply-2012-05-10.php:34 ../../bbpress/form-reply.php:36
+msgid ""
+"This topic is marked as closed to new replies, however your posting "
+"capabilities still allow you to do so."
+msgstr ""
+
+#: ../../bbpress/form-reply-2012-05-10.php:56 ../../bbpress/form-reply.php:60
+msgid "Reply:"
+msgstr ""
+
+#: ../../bbpress/form-reply-2012-05-10.php:74 ../../bbpress/form-reply.php:84
+msgid "Tags:"
+msgstr ""
+
+#: ../../bbpress/form-reply-2012-05-10.php:90 ../../bbpress/form-reply.php:100
+#: ../../bbpress/form-topic-2012-05-10.php:144
+#: ../../bbpress/form-topic.php:154
+msgid "Notify the author of follow-up replies via email"
+msgstr ""
+
+#: ../../bbpress/form-reply-2012-05-10.php:94 ../../bbpress/form-reply.php:104
+#: ../../bbpress/form-topic-2012-05-10.php:148
+#: ../../bbpress/form-topic.php:158
+msgid "Notify me of follow-up replies via email"
+msgstr ""
+
+#: ../../bbpress/form-reply-2012-05-10.php:109
+#: ../../bbpress/form-reply.php:119
+#: ../../bbpress/form-topic-2012-05-10.php:162
+#: ../../bbpress/form-topic.php:172
+msgid "Revision"
+msgstr ""
+
+#: ../../bbpress/form-reply-2012-05-10.php:112
+#: ../../bbpress/form-reply.php:122
+#: ../../bbpress/form-topic-2012-05-10.php:165
+#: ../../bbpress/form-topic.php:175
+msgid "Keep a log of this edit:"
+msgstr ""
+
+#: ../../bbpress/form-reply-2012-05-10.php:116
+#: ../../bbpress/form-reply.php:126
+#: ../../bbpress/form-topic-2012-05-10.php:169
+#: ../../bbpress/form-topic.php:179
+msgid "Optional reason for editing:"
+msgstr ""
+
+#: ../../bbpress/form-reply-2012-05-10.php:158
+#: ../../bbpress/form-reply.php:168
+#, php-format
+msgid "The topic &#8216;%s&#8217; is closed to new replies."
+msgstr ""
+
+#: ../../bbpress/form-reply-2012-05-10.php:166
+#: ../../bbpress/form-reply.php:176
+#: ../../bbpress/form-topic-2012-05-10.php:207
+#: ../../bbpress/form-topic.php:217
+#, php-format
+msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+msgstr ""
+
+#: ../../bbpress/form-reply-2012-05-10.php:174
+#: ../../bbpress/form-reply.php:184
+msgid "You cannot reply to this topic."
+msgstr ""
+
+#: ../../bbpress/form-reply-2012-05-10.php:174
+#: ../../bbpress/form-reply.php:184
+msgid "You must be logged in to reply to this topic."
+msgstr ""
+
+#: ../../bbpress/form-topic-2012-05-10.php:41 ../../bbpress/form-topic.php:43
+#, php-format
+msgid "Create New Topic in &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../../bbpress/form-topic-2012-05-10.php:41 ../../bbpress/form-topic.php:43
+msgid "Create New Topic"
+msgstr ""
+
+#: ../../bbpress/form-topic-2012-05-10.php:51 ../../bbpress/form-topic.php:53
+msgid ""
+"This forum is marked as closed to new topics, however your posting "
+"capabilities still allow you to do so."
+msgstr ""
+
+#: ../../bbpress/form-topic-2012-05-10.php:73 ../../bbpress/form-topic.php:75
+#, php-format
+msgid "Topic Title (Maximum Length: %d):"
+msgstr ""
+
+#: ../../bbpress/form-topic-2012-05-10.php:82
+msgid "Topic Description:"
+msgstr ""
+
+#: ../../bbpress/form-topic-2012-05-10.php:100
+#: ../../bbpress/form-topic.php:110
+msgid "Topic Tags:"
+msgstr ""
+
+#: ../../bbpress/form-topic-2012-05-10.php:111
+#: ../../bbpress/form-topic.php:121
+msgid "Forum:"
+msgstr ""
+
+#: ../../bbpress/form-topic-2012-05-10.php:125
+#: ../../bbpress/form-topic.php:135
+msgid "Topic Type:"
+msgstr ""
+
+#: ../../bbpress/form-topic-2012-05-10.php:215
+#: ../../bbpress/form-topic.php:225
+msgid "You cannot create new topics at this time."
+msgstr ""
+
+#: ../../bbpress/form-topic-2012-05-10.php:215
+#: ../../bbpress/form-topic.php:225
+msgid "You must be logged in to create new topics."
+msgstr ""
+
+#: ../../bbpress/form-topic-merge.php:22
+#, php-format
+msgid "Merge topic \"%s\""
+msgstr ""
+
+#: ../../bbpress/form-topic-merge.php:27
+msgid ""
+"Select the topic to merge this one into. The destination topic will remain "
+"the lead topic, and this one will change into a reply."
+msgstr ""
+
+#: ../../bbpress/form-topic-merge.php:28
+msgid ""
+"To keep this topic as the lead, go to the other topic and use the merge tool "
+"from there instead."
+msgstr ""
+
+#: ../../bbpress/form-topic-merge.php:32
+msgid ""
+"All replies within both topics will be merged chronologically. The order of "
+"the merged replies is based on the time and date they were posted. If the "
+"destination topic was created after this one, it's post date will be updated "
+"to second earlier than this one."
+msgstr ""
+
+#: ../../bbpress/form-topic-merge.php:36
+msgid "Destination"
+msgstr ""
+
+#: ../../bbpress/form-topic-merge.php:40
+msgid "Merge with this topic:"
+msgstr ""
+
+#: ../../bbpress/form-topic-merge.php:49
+msgid "No topics were found to which the topic could be merged to!"
+msgstr ""
+
+#: ../../bbpress/form-topic-merge.php:55
+msgid "There are no other topics in this forum to merge with."
+msgstr ""
+
+#: ../../bbpress/form-topic-merge.php:63 ../../bbpress/form-topic-split.php:67
+msgid "Topic Extras"
+msgstr ""
+
+#: ../../bbpress/form-topic-merge.php:70
+msgid "Merge topic subscribers"
+msgstr ""
+
+#: ../../bbpress/form-topic-merge.php:75
+msgid "Merge topic favoriters"
+msgstr ""
+
+#: ../../bbpress/form-topic-merge.php:78
+msgid "Merge topic tags"
+msgstr ""
+
+#: ../../bbpress/form-topic-merge.php:84 ../../bbpress/form-topic-split.php:88
+msgid "<strong>WARNING:</strong> This process cannot be undone."
+msgstr ""
+
+#: ../../bbpress/form-topic-merge.php:101
+#: ../../bbpress/form-topic-split.php:105
+msgid "You do not have the permissions to edit this topic!"
+msgstr ""
+
+#: ../../bbpress/form-topic-merge.php:101
+#: ../../bbpress/form-topic-split.php:105
+msgid "You cannot edit this topic."
+msgstr ""
+
+#: ../../bbpress/form-topic-split.php:22
+#, php-format
+msgid "Split topic \"%s\""
+msgstr ""
+
+#: ../../bbpress/form-topic-split.php:27
+msgid ""
+"When you split a topic, you are slicing it in half starting with the reply "
+"you just selected. Choose to use that reply as a new topic with a new title, "
+"or merge those replies into an existing topic."
+msgstr ""
+
+#: ../../bbpress/form-topic-split.php:31
+msgid ""
+"If you use the existing topic option, replies within both topics will be "
+"merged chronologically. The order of the merged replies is based on the time "
+"and date they were posted."
+msgstr ""
+
+#: ../../bbpress/form-topic-split.php:35
+msgid "Split Method"
+msgstr ""
+
+#: ../../bbpress/form-topic-split.php:39
+#, php-format
+msgid "New topic in <strong>%s</strong> titled:"
+msgstr ""
+
+#: ../../bbpress/form-topic-split.php:40
+#, php-format
+msgid "Split: %s"
+msgstr ""
+
+#: ../../bbpress/form-topic-split.php:47
+msgid "Use an existing topic in this forum:"
+msgstr ""
+
+#: ../../bbpress/form-topic-split.php:56
+msgid "No other topics found!"
+msgstr ""
+
+#: ../../bbpress/form-topic-split.php:74
+msgid "Copy subscribers to the new topic"
+msgstr ""
+
+#: ../../bbpress/form-topic-split.php:79
+msgid "Copy favoriters to the new topic"
+msgstr ""
+
+#: ../../bbpress/form-topic-split.php:82
+msgid "Copy topic tags to the new topic"
+msgstr ""
+
+#: ../../bbpress/form-topic-tag.php:18
+#, php-format
+msgid "Manage Tag: \"%s\""
+msgstr ""
+
+#: ../../bbpress/form-topic-tag.php:22
+msgid "Rename"
+msgstr ""
+
+#: ../../bbpress/form-topic-tag.php:25
+msgid "Leave the slug empty to have one automatically generated."
+msgstr ""
+
+#: ../../bbpress/form-topic-tag.php:29
+msgid ""
+"Changing the slug affects its permalink. Any links to the old slug will stop "
+"working."
+msgstr ""
+
+#: ../../bbpress/form-topic-tag.php:35
+msgid "Name:"
+msgstr ""
+
+#: ../../bbpress/form-topic-tag.php:40
+msgid "Slug:"
+msgstr ""
+
+#: ../../bbpress/form-topic-tag.php:59
+msgid "Merge"
+msgstr ""
+
+#: ../../bbpress/form-topic-tag.php:62
+msgid "Merging tags together cannot be undone."
+msgstr ""
+
+#: ../../bbpress/form-topic-tag.php:68
+msgid "Existing tag:"
+msgstr ""
+
+#: ../../bbpress/form-topic-tag.php:74
+#, php-format
+msgid ""
+"Are you sure you want to merge the \"%s\" tag into the tag you specified?"
+msgstr ""
+
+#: ../../bbpress/form-topic-tag.php:92
+msgid "This does not delete your topics. Only the tag itself is deleted."
+msgstr ""
+
+#: ../../bbpress/form-topic-tag.php:95
+msgid "Deleting a tag cannot be undone."
+msgstr ""
+
+#: ../../bbpress/form-topic-tag.php:96
+msgid "Any links to this tag will no longer function."
+msgstr ""
+
+#: ../../bbpress/form-topic-tag.php:103
+#, php-format
+msgid ""
+"Are you sure you want to delete the \"%s\" tag? This is permanent and cannot "
+"be undone."
+msgstr ""
+
+#: ../../bbpress/form-topic.php:86
+msgid "Topic:"
+msgstr ""
+
+#: ../../bbpress/form-user-edit.php:24
+msgid "First Name"
+msgstr ""
+
+#: ../../bbpress/form-user-edit.php:29
+msgid "Last Name"
+msgstr ""
+
+#: ../../bbpress/form-user-edit.php:34
+msgid "Nickname"
+msgstr ""
+
+#: ../../bbpress/form-user-edit.php:39
+msgid "Display name publicly as"
+msgstr ""
+
+#: ../../bbpress/form-user-edit.php:49 ../../bbpress/form-user-edit.php:52
+msgid "Contact Info"
+msgstr ""
+
+#: ../../bbpress/form-user-edit.php:74 ../../bbpress/form-user-edit.php:77
+msgid "About Yourself"
+msgstr ""
+
+#: ../../bbpress/form-user-edit.php:74 ../../bbpress/form-user-edit.php:77
+msgid "About the user"
+msgstr ""
+
+#: ../../bbpress/form-user-edit.php:82
+msgid "Biographical Info"
+msgstr ""
+
+#: ../../bbpress/form-user-edit.php:84
+msgid ""
+"Share a little biographical information to fill out your profile. This may "
+"be shown publicly."
+msgstr ""
+
+#: ../../bbpress/form-user-edit.php:91 ../../bbpress/form-user-edit.php:94
+msgid "Account"
+msgstr ""
+
+#: ../../bbpress/form-user-edit.php:101
+msgid "Usernames cannot be changed."
+msgstr ""
+
+#: ../../bbpress/form-user-edit.php:117
+#, php-format
+msgid ""
+"There is a pending email address change to <code>%1$s</code>. <a href=\"%2$s"
+"\">Cancel</a>"
+msgstr ""
+
+#: ../../bbpress/form-user-edit.php:126
+#: ../../members/single/settings/general.php:51
+msgid "New Password"
+msgstr ""
+
+#: ../../bbpress/form-user-edit.php:129
+msgid ""
+"If you would like to change the password type a new one. Otherwise leave "
+"this blank."
+msgstr ""
+
+#: ../../bbpress/form-user-edit.php:132
+msgid "Type your new password again."
+msgstr ""
+
+#: ../../bbpress/form-user-edit.php:135
+msgid ""
+"Hint: The password should be at least seven characters long. To make it "
+"stronger, use upper and lower case letters, numbers and symbols like ! \" ? "
+"$ % ^ &amp; )."
+msgstr ""
+
+#: ../../bbpress/form-user-edit.php:142
+msgid "Role:"
+msgstr ""
+
+#: ../../bbpress/form-user-edit.php:153
+msgid "Super Admin"
+msgstr ""
+
+#: ../../bbpress/form-user-edit.php:156
+msgid "Grant this user super admin privileges for the Network."
+msgstr ""
+
+#: ../../bbpress/form-user-edit.php:169 ../../forums/single/edit.php:57
+#: ../../forums/single/edit.php:73 ../../groups/single/admin.php:32
+#: ../../groups/single/admin.php:117 ../../groups/single/forum/edit.php:54
+#: ../../groups/single/forum/edit.php:70
+#: ../../members/single/profile/edit.php:146
+#: ../../members/single/settings/general.php:57
+#: ../../members/single/settings/notifications.php:50
+msgid "Save Changes"
+msgstr ""
+
+#: ../../bbpress/form-user-edit.php:174
+msgid "Update Profile"
+msgstr ""
+
+#: ../../bbpress/form-user-edit.php:174
+msgid "Update User"
+msgstr ""
+
+#: ../../bbpress/form-user-login.php:14 ../../bbpress/form-user-login.php:35
+msgid "Log In"
+msgstr ""
+
+#: ../../bbpress/form-user-login.php:28
+msgid "Keep me signed in"
+msgstr ""
+
+#: ../../bbpress/form-user-lost-pass.php:14
+msgid "Lost Password"
+msgstr ""
+
+#: ../../bbpress/form-user-lost-pass.php:18
+msgid "Username or Email"
+msgstr ""
+
+#: ../../bbpress/form-user-lost-pass.php:27
+msgid "Reset my password"
+msgstr ""
+
+#: ../../bbpress/form-user-register.php:14 ../../registration/register.php:22
+msgid "Create an Account"
+msgstr ""
+
+#: ../../bbpress/form-user-register.php:17
+msgid "Your username must be unique, and cannot be changed later."
+msgstr ""
+
+#: ../../bbpress/form-user-register.php:18
+msgid ""
+"We use your email address to email you a secure password and verify your "
+"account."
+msgstr ""
+
+#: ../../bbpress/form-user-register.php:36
+msgid "Register"
+msgstr ""
+
+#: ../../bbpress/loop-forums.php:18
+msgid "Forum"
+msgstr ""
+
+#: ../../bbpress/loop-replies.php:28 ../../bbpress/loop-replies.php:51
+#: ../../bbpress/loop-single-forum.php:20
+#: ../../bbpress/loop-single-topic.php:20
+#: ../../framework/layout-settings/admin-options-defaults.php:109
+msgid "Posts"
+msgstr ""
+
+#: ../../bbpress/loop-single-reply.php:45
+#: ../../groups/single/forum/topic.php:67
+msgid "said"
+msgstr ""
+
+#: ../../bbpress/loop-single-topic.php:22
+msgid "Voices"
+msgstr ""
+
+#: ../../bbpress/loop-single-topic.php:92
+#, php-format
+msgid "Started by: %1$s"
+msgstr ""
+
+#: ../../bbpress/loop-single-topic.php:100
+#, php-format
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#: ../../bbpress/loop-single-topic.php:112
+#, php-format
+msgid "Latest: %1$s"
+msgstr ""
+
+#: ../../bbpress/user-details.php:14
+#, php-format
+msgid "Profile: %s"
+msgstr ""
+
+#: ../../bbpress/user-details.php:18
+#, php-format
+msgid "Edit Profile of User %s"
+msgstr ""
+
+#: ../../bbpress/user-details.php:18
+msgid "(Edit)"
+msgstr ""
+
+#: ../../bbpress/user-details.php:31
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: ../../bbpress/user-favorites.php:16
+msgid "Favorite Forum Topics"
+msgstr ""
+
+#: ../../bbpress/user-favorites.php:27
+msgid "You currently have no favorite topics."
+msgstr ""
+
+#: ../../bbpress/user-favorites.php:27
+msgid "This user has no favorite topics."
+msgstr ""
+
+#: ../../bbpress/user-subscriptions.php:20
+msgid "Subscribed Forum Topics"
+msgstr ""
+
+#: ../../bbpress/user-subscriptions.php:31
+msgid "You are not currently subscribed to any topics."
+msgstr ""
+
+#: ../../bbpress/user-subscriptions.php:31
+msgid "This user is not currently subscribed to any topics."
+msgstr ""
+
+#: ../../bbpress/user-topics-created.php:16
+msgid "Forum Topics Created"
+msgstr ""
+
+#: ../../bbpress/user-topics-created.php:27
+msgid "You have not created any topics."
+msgstr ""
+
+#: ../../bbpress/user-topics-created.php:27
+msgid "This user has not created any topics."
+msgstr ""
+
+#: ../../blogs/blogs-loop.php:45
+msgid "Visit Blog"
+msgstr ""
+
+#: ../../blogs/blogs-loop.php:80
+msgid "Sorry, there were no blogs found."
+msgstr ""
+
+#: ../../blogs/create.php:10 ../../blogs/index.php:18
+msgid "Create a Blog"
+msgstr ""
+
+#: ../../blogs/create.php:13 ../../blogs/index.php:14
+msgid "Blogs Directory"
+msgstr ""
+
+#: ../../blogs/create.php:22 ../../framework/core/admin-object.php:732
+msgid "Blog Settings"
+msgstr ""
+
+#: ../../blogs/create.php:33
+msgid "Blog registration is currently disabled"
+msgstr ""
+
+#: ../../blogs/index.php:29
+#, php-format
+msgid "All Blogs <span>%s</span>"
+msgstr ""
+
+#: ../../blogs/index.php:32
+#, php-format
+msgid "My Blogs <span>%s</span>"
+msgstr ""
+
+#: ../../blogs/index.php:39 ../../forums/index.php:54
+#: ../../forums/single/forum.php:34 ../../groups/index.php:46
+#: ../../groups/single/forum.php:32 ../../members/index.php:37
+#: ../../members/single/blogs.php:6 ../../members/single/forums.php:18
+#: ../../members/single/friends.php:9 ../../members/single/groups.php:10
+msgid "Order By:"
+msgstr ""
+
+#: ../../blogs/index.php:41 ../../forums/index.php:56
+#: ../../forums/single/forum.php:36 ../../groups/index.php:48
+#: ../../groups/single/forum.php:34 ../../members/index.php:39
+#: ../../members/single/blogs.php:8 ../../members/single/forums.php:20
+#: ../../members/single/friends.php:11 ../../members/single/groups.php:12
+msgid "Last Active"
+msgstr ""
+
+#: ../../blogs/index.php:42 ../../members/single/blogs.php:9
+msgid "Newest"
+msgstr ""
+
+#: ../../blogs/index.php:43 ../../groups/index.php:51
+#: ../../members/index.php:43 ../../members/single/blogs.php:10
+#: ../../members/single/friends.php:13 ../../members/single/groups.php:15
+msgid "Alphabetical"
+msgstr ""
+
+#: ../../forums/forums-loop.php:40 ../../groups/single/forum/topic.php:81
+msgid "Permalink"
+msgstr ""
+
+#: ../../forums/forums-loop.php:46
+msgid "Posted in:"
+msgstr ""
+
+#: ../../forums/forums-loop.php:51
+msgid "Creator:"
+msgstr ""
+
+#: ../../forums/forums-loop.php:53
+msgid "Latest:"
+msgstr ""
+
+#: ../../forums/forums-loop.php:60
+msgid "replies"
+msgstr ""
+
+#: ../../forums/forums-loop.php:96
+msgid "Sorry, there were no forum topics found."
+msgstr ""
+
+#: ../../forums/index.php:16
+msgid "Forums Directory"
+msgstr ""
+
+#: ../../forums/index.php:17 ../../forums/index.php:47
+#: ../../forums/single/forum.php:19 ../../groups/single/forum.php:17
+msgid "New Topic"
+msgstr ""
+
+#: ../../forums/index.php:30
+#, php-format
+msgid "All Topics <span>%s</span>"
+msgstr ""
+
+#: ../../forums/index.php:34
+#, php-format
+msgid "My Topics <span>%s</span>"
+msgstr ""
+
+#: ../../forums/index.php:57 ../../forums/single/forum.php:37
+#: ../../groups/single/forum.php:35 ../../members/single/forums.php:21
+msgid "Most Posts"
+msgstr ""
+
+#: ../../forums/index.php:58 ../../forums/single/forum.php:38
+#: ../../groups/single/forum.php:36 ../../members/single/forums.php:22
+msgid "Unreplied"
+msgstr ""
+
+#: ../../forums/index.php:96
+msgid "Create New Topic:"
+msgstr ""
+
+#: ../../forums/index.php:100 ../../forums/single/edit.php:49
+#: ../../groups/single/forum.php:71 ../../groups/single/forum/edit.php:43
+msgid "Title:"
+msgstr ""
+
+#: ../../forums/index.php:103 ../../forums/single/edit.php:52
+#: ../../groups/single/forum.php:74 ../../groups/single/forum/edit.php:46
+msgid "Content:"
+msgstr ""
+
+#: ../../forums/index.php:106 ../../groups/single/forum.php:77
+#: ../../groups/single/forum/edit.php:49
+msgid "Tags (comma separated):"
+msgstr ""
+
+#: ../../forums/index.php:109
+msgid "Post In Group Forum:"
+msgstr ""
+
+#: ../../forums/index.php:112
+msgid "----"
+msgstr ""
+
+#: ../../forums/index.php:129 ../../groups/single/forum.php:83
+msgid "Post Topic"
+msgstr ""
+
+#: ../../forums/index.php:129
+msgid "Please pick a group forum to post this topic."
+msgstr ""
+
+#: ../../forums/index.php:130
+msgid "Cancel"
+msgstr ""
+
+#: ../../forums/index.php:141
+#, php-format
+msgid ""
+"You are not a member of any groups so you don't have any group forums you "
+"can post in. To start posting, first find a group that matches the topic "
+"subject you'd like to start. If this group does not exist, why not <a "
+"href='%s'>create a new group</a>? Once you have joined or created the group "
+"you can post your topic in that group's forum."
+msgstr ""
+
+#: ../../forums/single/edit.php:16 ../../forums/single/forum.php:25
+#: ../../forums/single/topic.php:43 ../../groups/single/forum.php:23
+#: ../../groups/single/forum/edit.php:16
+#: ../../groups/single/forum/topic.php:14
+msgid "Forum Directory"
+msgstr ""
+
+#: ../../forums/single/edit.php:25 ../../groups/single/forum/edit.php:29
+msgid "Edit:"
+msgstr ""
+
+#: ../../forums/single/edit.php:88 ../../groups/single/forum/edit.php:85
+msgid "This topic does not exist."
+msgstr ""
+
+#: ../../forums/single/forum-header.php:13 ../../groups/groups-loop.php:48
+#, php-format
+msgid "active %s"
+msgstr ""
+
+#: ../../forums/single/topic.php:37 ../../groups/single/forum/topic.php:10
+msgid "New Reply"
+msgstr ""
+
+#: ../../forums/single/topic.php:97
+#, php-format
+msgid "%s said %s ago:"
+msgstr ""
+
+#: ../../forums/single/topic.php:117
+msgid "Permanent link to this post"
+msgstr ""
+
+#: ../../forums/single/topic.php:153 ../../groups/single/forum/topic.php:134
+msgid "Add a reply:"
+msgstr ""
+
+#: ../../forums/single/topic.php:158 ../../groups/single/forum/topic.php:139
+msgid "Post Reply"
+msgstr ""
+
+#: ../../forums/single/topic.php:169 ../../groups/single/forum/topic.php:150
+msgid "This topic is closed, replies are no longer accepted."
+msgstr ""
+
+#: ../../forums/single/topic.php:184 ../../groups/single/forum/topic.php:164
+msgid "There are no posts for this topic."
+msgstr ""
+
+#: ../../framework/blog-settings/admin-home.php:12
+msgid ""
+"Configure the options below to set the default blog options for your site."
+msgstr ""
+
+#: ../../framework/blog-settings/admin-home.php:24
+#: ../../framework/layout-settings/admin-options-defaults.php:142
+#: ../../framework/utilities/breadcrumbs.php:68
+msgid "Blog"
+msgstr ""
+
+#: ../../framework/blog-settings/admin-home.php:25
+msgid ""
+"Control the display of blog posts, post lists and the content of these pages."
+msgstr ""
+
+#: ../../framework/blog-settings/admin-home.php:28
+#: ../../framework/contact-form-settings/admin-home.php:24
+#: ../../framework/theme-settings/admin.php:66
+#: ../../framework/theme-settings/admin.php:215
+msgid "Options"
+msgstr ""
+
+#: ../../framework/blog-settings/admin-home.php:32
+msgid "Include the author name in blog post list."
+msgstr ""
+
+#: ../../framework/blog-settings/admin-home.php:34
+msgid "Show author name"
+msgstr ""
+
+#: ../../framework/blog-settings/admin-home.php:37
+msgid "Include the author avatar in blog post list."
+msgstr ""
+
+#: ../../framework/blog-settings/admin-home.php:39
+msgid "Show author avatar"
+msgstr ""
+
+#: ../../framework/blog-settings/admin-home.php:42
+msgid "Include the posted date in blog post list."
+msgstr ""
+
+#: ../../framework/blog-settings/admin-home.php:44
+msgid "Show post date"
+msgstr ""
+
+#: ../../framework/blog-settings/admin-home.php:47
+msgid "Include the comment count and a link to the form in blog posts."
+msgstr ""
+
+#: ../../framework/blog-settings/admin-home.php:49
+msgid "Show comments link"
+msgstr ""
+
+#: ../../framework/blog-settings/admin-home.php:52
+msgid "Include a list of categories for the post in the blog post list."
+msgstr ""
+
+#: ../../framework/blog-settings/admin-home.php:54
+msgid "Show categories"
+msgstr ""
+
+#: ../../framework/blog-settings/admin-home.php:57
+msgid "Include a list of tags for each post in its description."
+msgstr ""
+
+#: ../../framework/blog-settings/admin-home.php:59
+msgid "Show tags"
+msgstr ""
+
+#: ../../framework/blog-settings/admin-home.php:62
+msgid "Show featured image for each article on the blog page?"
+msgstr ""
+
+#: ../../framework/blog-settings/admin-home.php:64
+msgid "Images on blog lists"
+msgstr ""
+
+#: ../../framework/blog-settings/admin-home.php:67
+msgid "Show featured image for current post on the single post page."
+msgstr ""
+
+#: ../../framework/blog-settings/admin-home.php:69
+msgid "Featured image on post"
+msgstr ""
+
+#: ../../framework/blog-settings/admin-home.php:72
+msgid ""
+"The default post image width. This can also be set from the blog shortcode "
+"or in a single post."
+msgstr ""
+
+#: ../../framework/blog-settings/admin-home.php:74
+msgid "Post image width"
+msgstr ""
+
+#: ../../framework/blog-settings/admin-home.php:77
+msgid ""
+"The default post image height. This can also be set from the blog shortcode "
+"or in a single post."
+msgstr ""
+
+#: ../../framework/blog-settings/admin-home.php:79
+msgid "Post image height"
+msgstr ""
+
+#: ../../framework/blog-settings/admin-home.php:82
+msgid ""
+"Show content excerpts on your blog pages. Selecting \"No\" will display the "
+"full post in your post list."
+msgstr ""
+
+#: ../../framework/blog-settings/admin-home.php:84
+msgid "Use post excerpts"
+msgstr ""
+
+#: ../../framework/blog-settings/admin-home.php:87
+msgid ""
+"The number of words in post excerpts, 250 max. Custom excerpts are not "
+"restricted by this setting."
+msgstr ""
+
+#: ../../framework/blog-settings/admin-home.php:89
+msgid "Post excerpt length"
+msgstr ""
+
+#: ../../framework/blog-settings/admin-home.php:92
+msgid ""
+"Optional link after post excerpts. Enter desired text for the link or for no "
+"link, leave blank or set to \"-1\"."
+msgstr ""
+
+#: ../../framework/blog-settings/admin-home.php:94
+msgid "\"Read more...\" link"
+msgstr ""
+
+#: ../../framework/blog-settings/admin-home.php:108
+#: ../../framework/contact-form-settings/admin-home.php:104
+#: ../../framework/design-settings/admin-home.php:390
+#: ../../framework/layout-settings/admin-options-defaults.php:391
+#: ../../framework/theme-settings/admin.php:431
+msgid "Save Settings"
+msgstr ""
+
+#: ../../framework/blog-settings/admin-home.php:111
+msgid "Export Blog Settings"
+msgstr ""
+
+#: ../../framework/blog-settings/admin.php:16
+#: ../../framework/contact-form-settings/admin-fields-home.php:20
+#: ../../framework/contact-form-settings/admin-fields-options.php:65
+#: ../../framework/contact-form-settings/admin.php:16
+#: ../../framework/content-fields/admin.php:12
+#: ../../framework/design-settings/admin.php:16
+#: ../../framework/layout-settings/admin.php:16
+#: ../../framework/sidebar-settings/admin.php:16
+#: ../../framework/slideshow-settings/admin.php:16
+#: ../../framework/theme-settings/admin.php:9
+msgid "Required"
+msgstr ""
+
+#: ../../framework/blog-settings/load.php:42
+msgid "Read more..."
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-fields-home.php:17
+#: ../../framework/content-fields/admin.php:198
+msgid "Field"
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-fields-home.php:18
+msgid "Shortcode key"
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-fields-home.php:19
+#: ../../framework/content-fields/admin.php:200
+msgid "Type"
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-fields-home.php:21
+#: ../../framework/content-fields/admin.php:25
+#: ../../framework/content-fields/admin.php:98
+#: ../../framework/content-fields/admin.php:201
+#: ../../framework/layout-settings/admin-home.php:23
+#: ../../framework/layout-settings/admin-home.php:123
+#: ../../framework/layout-settings/admin-home.php:223
+#: ../../framework/sidebar-settings/admin-home.php:18
+#: ../../framework/sidebar-settings/admin-tabs-home.php:19
+#: ../../framework/slideshow-settings/admin-home.php:20
+#: ../../framework/slideshow-settings/admin-settings.php:134
+msgid "Actions"
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-fields-home.php:24
+msgid "Form Fields"
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-fields-home.php:25
+msgid ""
+"Add and edit the your contact form fields. To create a field, click the "
+"\"Add new Field\" button below."
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-fields-home.php:65
+msgid "No fields created."
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-fields-home.php:87
+#: ../../framework/content-fields/admin.php:84
+#: ../../framework/content-fields/admin.php:115
+#: ../../framework/layout-settings/admin-home.php:81
+#: ../../framework/layout-settings/admin-home.php:181
+#: ../../framework/layout-settings/admin-home.php:281
+#: ../../framework/sidebar-settings/admin-home.php:78
+#: ../../framework/sidebar-settings/admin-tabs-home.php:79
+#: ../../framework/slideshow-settings/admin-home.php:79
+msgid "Override"
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-fields-home.php:87
+#: ../../framework/layout-settings/admin-home.php:81
+#: ../../framework/layout-settings/admin-home.php:181
+#: ../../framework/layout-settings/admin-home.php:281
+#: ../../framework/sidebar-settings/admin-home.php:78
+#: ../../framework/sidebar-settings/admin-tabs-home.php:79
+#: ../../framework/slideshow-settings/admin-home.php:79
+msgid "from save file"
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-fields-home.php:116
+msgid "Export Contact Fields"
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-fields-options.php:7
+#: ../../framework/layout-settings/admin-options-footer.php:18
+#: ../../framework/layout-settings/admin-options-header.php:56
+#: ../../framework/layout-settings/admin-options-layout.php:268
+#: ../../framework/sidebar-settings/admin-options.php:10
+#: ../../framework/sidebar-settings/admin-tabs-options.php:11
+#: ../../framework/slideshow-settings/admin-settings.php:15
+msgid "Create new"
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-fields-options.php:8
+msgid "Contact Field"
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-fields-options.php:10
+msgid "Create new fields to add to your contact form."
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-fields-options.php:19
+msgid "The name of the field as it will be displayed in the form."
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-fields-options.php:21
+#: ../../framework/content-fields/admin.php:346
+msgid "Field title"
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-fields-options.php:24
+msgid "This key is used to add the field to contact forms."
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-fields-options.php:26
+#, php-format
+msgid "For example, you can use %s to include the field in a form."
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-fields-options.php:29
+msgid "Field key (unique identifier)"
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-fields-options.php:32
+msgid ""
+"You can add instructions or information for the user about this field. HTML "
+"code is allowed."
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-fields-options.php:34
+#: ../../framework/content-fields/admin.php:359
+msgid "Caption"
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-fields-options.php:55
+#: ../../framework/content-fields/admin.php:365
+msgid "Field type"
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-fields-options.php:58
+msgid ""
+"Set the value of hidden fields here or they will contain no information.<br /"
+"><br />If your selected field type requires pre-defined options, such as "
+"radio buttons or select boxes, enter the values here as a comma separated "
+"list. For example, your values could be entered as <code>Good, Better, Best</"
+"code>."
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-fields-options.php:60
+#: ../../framework/content-fields/admin.php:370
+msgid "Values (if applicable)"
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-fields-options.php:63
+msgid "Require users to enter a value?"
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-fields-options.php:68
+msgid "Enter an optional error message for empty fields that are required."
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-fields-options.php:70
+msgid "Required error message"
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-fields-options.php:73
+msgid ""
+"You can optionally specify a minimum number of characters allowed for this "
+"field."
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-fields-options.php:75
+msgid "Minimum length"
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-fields-options.php:78
+msgid ""
+"You can optionally specify a maximum number of characters allowed for this "
+"field."
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-fields-options.php:80
+msgid "Maximum length"
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-fields-options.php:90
+msgid "You can apply validation to some fields to ensure valid entries."
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-fields-options.php:92
+msgid "Validation"
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-fields-options.php:95
+msgid "Enter an optional error message for fields that fail validation."
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-fields-options.php:97
+msgid "Validation error message"
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-fields-options.php:100
+msgid ""
+"Optional. You can specify the width of the field in pixels. Does not apply "
+"to some input types."
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-fields-options.php:102
+msgid "Input width"
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-fields-options.php:105
+msgid ""
+"Optional. You can specify the height of the field in pixels. Does not apply "
+"to some input types."
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-fields-options.php:107
+msgid "Input height"
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-fields-options.php:113
+msgid "Save Field Settings"
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-home.php:7
+msgid "Please save the form settings below before you continue."
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-home.php:20
+#: ../../framework/core/admin-object.php:739
+#: ../../framework/theme-functions/layout-and-design.php:1601
+msgid "Contact Form"
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-home.php:21
+msgid ""
+"Display your form with the <code>[contact_form]</code> shortcode. You can "
+"customize each instance with unique values for <code>to</code>, "
+"<code>subject</code> and <code>thankyou</code> in the form. Empty fields use "
+"the default settings established in the fileds below."
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-home.php:28
+msgid ""
+"The default address to deliver messages sent from contact forms. For "
+"example: "
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-home.php:30
+msgid "Email To"
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-home.php:33
+msgid "Enter the default email subject for contact form messages."
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-home.php:35
+#: ../../members/single/messages/compose.php:17
+msgid "Subject"
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-home.php:38
+msgid ""
+"The \"thank you\" message visitors will see after sending. HTML is allowed."
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-home.php:40
+msgid "Thank You Message"
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-home.php:43
+msgid "The text to appear on the send button. Default: \"Send\""
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-home.php:45
+msgid "Button text"
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-home.php:48
+msgid "Require CAPTCHA image verification?"
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-home.php:50
+msgid ""
+"Sample image. <a href=\"#\" onclick=\"document.getElementById('captcha')."
+"src='"
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-home.php:51
+msgid "Use CAPTCHA"
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-home.php:87
+msgid "Above are examples of how you can add the shortcode to your content. "
+msgstr ""
+
+#: ../../framework/contact-form-settings/admin-home.php:89
+msgid "Shortcodes"
+msgstr ""
+
+#: ../../framework/contact-form-settings/load.php:18
+msgid "Message From Website Contact Form"
+msgstr ""
+
+#: ../../framework/contact-form-settings/load.php:19
+msgid "Thank you, your message has been sent."
+msgstr ""
+
+#: ../../framework/contact-form-settings/load.php:20
+msgid "Send"
+msgstr ""
+
+#: ../../framework/contact-form-settings/settings-object.php:49
+#: ../../framework/theme-settings/settings-object.php:41
+msgid "You must enter a field name."
+msgstr ""
+
+#: ../../framework/contact-form-settings/settings-object.php:53
+#: ../../framework/layout-settings/settings-object.php:96
+#: ../../framework/theme-settings/settings-object.php:45
+msgid "You must specify a unique key."
+msgstr ""
+
+#: ../../framework/contact-form-settings/settings-object.php:72
+msgid "You must enter an email address."
+msgstr ""
+
+#: ../../framework/content-fields/admin.php:19
+msgid ""
+"Listed below are the fields created. If a box cannot be edited, it was "
+"created programmatically. Click on the name of a box to edit and add fields"
+msgstr ""
+
+#: ../../framework/content-fields/admin.php:23
+#: ../../framework/content-fields/admin.php:97
+msgid "Box"
+msgstr ""
+
+#: ../../framework/content-fields/admin.php:24
+msgid "Nbr of fields"
+msgstr ""
+
+#: ../../framework/content-fields/admin.php:35
+msgid "More Fields boxes"
+msgstr ""
+
+#: ../../framework/content-fields/admin.php:38
+msgid "Boxes created with More Fields or overridden from elsewhere."
+msgstr ""
+
+#: ../../framework/content-fields/admin.php:50
+#: ../../framework/content-fields/admin.php:86
+#: ../../framework/content-fields/admin.php:116
+msgid "Export"
+msgstr ""
+
+#: ../../framework/content-fields/admin.php:56
+msgid "There are no boxes"
+msgstr ""
+
+#: ../../framework/content-fields/admin.php:67
+msgid "Saved boxes"
+msgstr ""
+
+#: ../../framework/content-fields/admin.php:68
+msgid "Boxes from files created with More Types."
+msgstr ""
+
+#: ../../framework/content-fields/admin.php:89
+#: ../../framework/content-fields/admin.php:118
+msgid "Overridden above"
+msgstr ""
+
+#: ../../framework/content-fields/admin.php:102
+msgid "Boxes created elsewhere"
+msgstr ""
+
+#: ../../framework/content-fields/admin.php:103
+msgid "Boxes created in functions.php or by other plugins."
+msgstr ""
+
+#: ../../framework/content-fields/admin.php:132
+#: ../../framework/content-fields/admin.php:331
+msgid "Add new"
+msgstr ""
+
+#: ../../framework/content-fields/admin.php:140
+msgid ""
+"You can control for what post type this box shows up by using the More Types "
+"plugin."
+msgstr ""
+
+#: ../../framework/content-fields/admin.php:150
+msgid "This is the title that will appear at the head of the box."
+msgstr ""
+
+#: ../../framework/content-fields/admin.php:152
+msgid "Title of the box"
+msgstr ""
+
+#: ../../framework/content-fields/admin.php:182
+msgid "Used with post types"
+msgstr ""
+
+#: ../../framework/content-fields/admin.php:194
+msgid "There are the fields of this box"
+msgstr ""
+
+#: ../../framework/content-fields/admin.php:199
+#: ../../framework/content-fields/admin.php:354
+msgid "Custom field key"
+msgstr ""
+
+#: ../../framework/content-fields/admin.php:210
+msgid "No input fields exists"
+msgstr ""
+
+#: ../../framework/content-fields/admin.php:266
+msgid "Once you have saved your new box, you can add fields to it."
+msgstr ""
+
+#: ../../framework/content-fields/admin.php:279
+#: ../../framework/content-fields/admin.php:382
+msgid "Advanced settings"
+msgstr ""
+
+#: ../../framework/content-fields/admin.php:284
+msgid ""
+"The default column the box will appear in. Note that a user can move boxes "
+"on the Write/Edit page as they see fit."
+msgstr ""
+
+#: ../../framework/content-fields/admin.php:286
+#: ../../framework/design-settings/admin-home.php:223
+#: ../../framework/design-settings/admin-home.php:276
+#: ../../framework/design-settings/admin-home.php:329
+#: ../../framework/layout-settings/admin-options-footer.php:62
+#: ../../framework/layout-settings/admin-options-header.php:130
+msgid "Right"
+msgstr ""
+
+#: ../../framework/content-fields/admin.php:286
+#: ../../framework/design-settings/admin-home.php:221
+#: ../../framework/design-settings/admin-home.php:274
+#: ../../framework/design-settings/admin-home.php:327
+#: ../../framework/layout-settings/admin-options-footer.php:60
+#: ../../framework/layout-settings/admin-options-header.php:128
+msgid "Left"
+msgstr ""
+
+#: ../../framework/content-fields/admin.php:287
+msgid "Default position"
+msgstr ""
+
+#: ../../framework/content-fields/admin.php:290
+msgid "The roles for which this field will be visible."
+msgstr ""
+
+#: ../../framework/content-fields/admin.php:293
+msgid "Roles to access"
+msgstr ""
+
+#: ../../framework/content-fields/admin.php:308
+#: ../../framework/content-fields/admin.php:420
+#: ../../members/single/settings/capabilities.php:51
+msgid "Save"
+msgstr ""
+
+#: ../../framework/content-fields/admin.php:344
+msgid "This is the name of the field as it will appear in the box."
+msgstr ""
+
+#: ../../framework/content-fields/admin.php:349
+msgid "This is the key to be used to access this data in the templates."
+msgstr ""
+
+#: ../../framework/content-fields/admin.php:351
+msgid "E.g. you can use <code>&lt;?php meta('"
+msgstr ""
+
+#: ../../framework/content-fields/admin.php:357
+msgid ""
+"If you enter instructions for the user on what the field is for, it will "
+"appear under the field in the box. Html code is  allowed here."
+msgstr ""
+
+#: ../../framework/content-fields/admin.php:368
+msgid ""
+"If the field type permitts a list of pre-defined values, enter them here, "
+"comma separated. E.g. values could be <code>Drums, Bells, *Whistles</code>, "
+"where <code>Whistles</code> becomes the default value."
+msgstr ""
+
+#: ../../framework/content-fields/admin.php:387
+msgid ""
+"If permalinks are enabled, then this is the slug under which you will find "
+"an archive page for this custom field."
+msgstr ""
+
+#: ../../framework/content-fields/admin.php:390
+msgid "For this field: <code>"
+msgstr ""
+
+#: ../../framework/content-fields/admin.php:394
+msgid "Slug"
+msgstr ""
+
+#: ../../framework/content-fields/admin.php:406
+msgid "The roles for which this box will be visible."
+msgstr ""
+
+#: ../../framework/content-fields/admin.php:408
+msgid "Access"
+msgstr ""
+
+#: ../../framework/content-fields/field-types.php:14
+msgid "Text"
+msgstr ""
+
+#: ../../framework/content-fields/field-types.php:16
+msgid "Creates a simple one line text input box."
+msgstr ""
+
+#: ../../framework/content-fields/field-types.php:21
+msgid "Textarea"
+msgstr ""
+
+#: ../../framework/content-fields/field-types.php:23
+msgid "Creates a plain text box."
+msgstr ""
+
+#: ../../framework/content-fields/field-types.php:28
+msgid "WYSIWYG"
+msgstr ""
+
+#: ../../framework/content-fields/field-types.php:51
+msgid ""
+"Creates text box that allows formatted input. WYSIWYG - What you see is what "
+"you get"
+msgstr ""
+
+#: ../../framework/content-fields/field-types.php:56
+msgid "Select"
+msgstr ""
+
+#: ../../framework/content-fields/field-types.php:62
+msgid ""
+"Creates a select list, with elements with the names/values as specified below"
+msgstr ""
+
+#: ../../framework/content-fields/field-types.php:67
+msgid "Radio"
+msgstr ""
+
+#: ../../framework/content-fields/field-types.php:73
+msgid ""
+"Creates a radio button list, where the user can only select one value. The "
+"list of values is specifed below."
+msgstr ""
+
+#: ../../framework/content-fields/field-types.php:78
+msgid "Checkbox"
+msgstr ""
+
+#: ../../framework/content-fields/field-types.php:83
+msgid "Creates single checkbox, which key is either on/off."
+msgstr ""
+
+#: ../../framework/content-fields/field-types.php:88
+msgid "File list"
+msgstr ""
+
+#: ../../framework/content-fields/field-types.php:103
+msgid "Select files from posts media library."
+msgstr ""
+
+#: ../../framework/content-fields/field-types.php:112
+msgid ""
+"<code class=\"mf_color\"><a href=\"http://www.w3.org/TR/css3-color/"
+"#html4\">color keyword</a></code>, rgb(a) or HEX"
+msgstr ""
+
+#: ../../framework/content-fields/field-types.php:113
+msgid "Color"
+msgstr ""
+
+#: ../../framework/content-fields/field-types.php:116
+msgid ""
+"HTML5 input type, full functionality available in modern browsers. "
+"Alternative input values can be <code class=\"mf_color\"><a href=\"http://"
+"www.w3.org/TR/css3-color/#html4\">color keyword</a></code>, <code>rgba(255, "
+"255, 255, 1.0)</code>, <code>#ffffff</code> or <code>#fff</code>"
+msgstr ""
+
+#: ../../framework/content-fields/field-types.php:121
+msgid "Range"
+msgstr ""
+
+#: ../../framework/content-fields/field-types.php:122
+msgid "Number range"
+msgstr ""
+
+#: ../../framework/content-fields/field-types.php:125
+#: ../../framework/content-fields/field-types.php:134
+msgid ""
+"HTML5 input type, full functionality available in modern browsers. "
+"Alternative input: numerical in the range specified below."
+msgstr ""
+
+#: ../../framework/content-fields/field-types.php:130
+#: ../../framework/content-fields/field-types.php:131
+msgid "Number"
+msgstr ""
+
+#: ../../framework/content-fields/field-types.php:139
+msgid "<code>HH:ii</code>, i.e <code>13:37</code>"
+msgstr ""
+
+#: ../../framework/content-fields/field-types.php:140
+msgid "Time"
+msgstr ""
+
+#: ../../framework/content-fields/field-types.php:143
+msgid ""
+"HTML5 input type, full functionality available in modern browsers. "
+"Alternative input: HH:ii, i.e <code>13:37</code>"
+msgstr ""
+
+#: ../../framework/content-fields/field-types.php:148
+msgid "<code>YYYY-mm</code>, i.e <code>2010-07</code>"
+msgstr ""
+
+#: ../../framework/content-fields/field-types.php:149
+msgid "Month"
+msgstr ""
+
+#: ../../framework/content-fields/field-types.php:152
+msgid ""
+"HTML5 input type, full functionality available in modern browsers. "
+"Alternative input: YYYY-mm, i.e <code>2010-07</code>"
+msgstr ""
+
+#: ../../framework/content-fields/field-types.php:157
+msgid "<code>YYYY-WWW</code>, i.e <code>2010-W29</code>"
+msgstr ""
+
+#: ../../framework/content-fields/field-types.php:158
+msgid "Week"
+msgstr ""
+
+#: ../../framework/content-fields/field-types.php:161
+msgid ""
+"HTML5 input type, full functionality available in modern browsers. "
+"Alternative input: YYYY-WWW, i.e <code>2010-W27</code>"
+msgstr ""
+
+#: ../../framework/content-fields/field-types.php:166
+msgid "<code>YYYY-mm-dd</code>, i.e <code>2010-07-19</code>"
+msgstr ""
+
+#: ../../framework/content-fields/field-types.php:167
+msgid "Date"
+msgstr ""
+
+#: ../../framework/content-fields/field-types.php:170
+msgid ""
+"HTML5 input type, full functionality available in modern browsers. "
+"Alternative input: YYYY-mm-dd, i.e <code>2010-07-10</code>"
+msgstr ""
+
+#: ../../framework/content-fields/settings-object.php:177
+msgid "Your box needs a title!"
+msgstr ""
+
+#: ../../framework/content-fields/settings-object.php:196
+msgid "You need a name for the field!"
+msgstr ""
+
+#: ../../framework/content-fields/settings-object.php:200
+msgid "You need to specify a custom field key for the field!"
+msgstr ""
+
+#: ../../framework/core/admin-object.php:84
+msgid "Settings"
+msgstr ""
+
+#: ../../framework/core/admin-object.php:85
+msgid "Support"
+msgstr ""
+
+#: ../../framework/core/admin-object.php:86
+msgid "Donate"
+msgstr ""
+
+#: ../../framework/core/admin-object.php:143
+msgid "View the help documentation: "
+msgstr ""
+
+#: ../../framework/core/admin-object.php:251
+#, php-format
+msgid ""
+"Options configured under %s can be exported and read from a saved file. The "
+"default location for these files is in the %s directory. To create an export "
+"file click the download button below. Save the file as %s and copy it to the "
+"save directory."
+msgstr ""
+
+#: ../../framework/core/admin-object.php:374
+msgid "Someting has gone awry. Sorry."
+msgstr ""
+
+#: ../../framework/core/admin-object.php:421
+msgid "Saved!"
+msgstr ""
+
+#: ../../framework/core/admin-object.php:427
+msgid "Deleted!"
+msgstr ""
+
+#: ../../framework/core/admin-object.php:672
+msgid "Appearance"
+msgstr ""
+
+#: ../../framework/core/admin-object.php:678
+msgid "Design Settings"
+msgstr ""
+
+#: ../../framework/core/admin-object.php:679
+msgid "Default settings including logo, skins, fonts and backgrounds."
+msgstr ""
+
+#: ../../framework/core/admin-object.php:685
+msgid "Layouts, Headers and Footers"
+msgstr ""
+
+#: ../../framework/core/admin-object.php:686
+msgid ""
+"Create and manage the headers, footers and templates available for your "
+"content."
+msgstr ""
+
+#: ../../framework/core/admin-object.php:692
+msgid "Sidebars &amp; Top Tabs"
+msgstr ""
+
+#: ../../framework/core/admin-object.php:693
+msgid ""
+"Create sidebars and manage the \"slide down\" tabs at the top of your site."
+msgstr ""
+
+#: ../../framework/core/admin-object.php:699
+msgid "Slide shows"
+msgstr ""
+
+#: ../../framework/core/admin-object.php:700
+msgid "Create and manage your slide shows."
+msgstr ""
+
+#: ../../framework/core/admin-object.php:712
+msgid "Theme Settings"
+msgstr ""
+
+#: ../../framework/core/admin-object.php:718
+msgid "Basic Settings"
+msgstr ""
+
+#: ../../framework/core/admin-object.php:719
+#: ../../framework/theme-settings/admin.php:63
+msgid "Various settings related to your site setup and functionality."
+msgstr ""
+
+#: ../../framework/core/admin-object.php:725
+#: ../../framework/theme-settings/admin.php:211
+msgid "Special Features"
+msgstr ""
+
+#: ../../framework/core/admin-object.php:726
+msgid ""
+"Enable optional settings for advanced functionality and display effects."
+msgstr ""
+
+#: ../../framework/core/admin-object.php:733
+msgid ""
+"Control the display of blog pages, posts and the content of these pages."
+msgstr ""
+
+#: ../../framework/core/admin-object.php:740
+msgid "Create input fields and customize the contact forms for your site."
+msgstr ""
+
+#: ../../framework/core/admin-object.php:746
+#: ../../framework/theme-settings/admin.php:298
+msgid "Developer Options"
+msgstr ""
+
+#: ../../framework/core/admin-object.php:747
+msgid "Advanced options for admin permissions and theme setup."
+msgstr ""
+
+#: ../../framework/core/admin-object.php:753
+msgid "Theme Admin Branding"
+msgstr ""
+
+#: ../../framework/core/admin-object.php:754
+msgid ""
+"Some features to enable re-branding of theme options, help documents, etc."
+msgstr ""
+
+#: ../../framework/core/admin-object.php:1286
+msgid "Are you sure you want to delete?"
+msgstr ""
+
+#: ../../framework/core/admin-object.php:1343
+msgid ""
+"Permalinks are currently not enabled! To use this feature, enable permalinks "
+"in the <a href=\"options-permalink.php\">Permalink Settings</a>."
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:58
+msgid "Configure the default design options."
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:66
+msgid "Enter the full URL to your logo file. For example: "
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:69
+msgid "Logo"
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:72
+msgid "The width of the logo file."
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:74
+msgid "Logo width"
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:77
+msgid "The height of the logo file."
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:79
+msgid "Logo height"
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:86
+msgid "Default skin for the theme."
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:88
+msgid "Skin"
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:139
+msgid "Default heading font."
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:141
+msgid "Enter the file name for your custom Cufon font."
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:141
+msgid ""
+"If saved in a different folder include the path to the file. For example: "
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:144
+#: ../../framework/design-settings/admin-home.php:173
+msgid ""
+"Enter a font name. This should be a standard web-safe font or it may not "
+"display for all viewers."
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:146
+#: ../../framework/design-settings/admin-home.php:175
+msgid "What is a web-safe font?"
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:154
+msgid "Heading font"
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:171
+msgid "Select the default font for the page body."
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:180
+msgid "Body font"
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:186
+msgid "Default Sidebar"
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:190
+msgid "The default sidebar to use when not specified."
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:192
+#: ../../framework/sidebar-settings/admin-home.php:16
+#: ../../framework/sidebar-settings/admin-options.php:11
+msgid "Sidebar"
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:198
+msgid "Default Backgrounds"
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:206
+#: ../../framework/design-settings/admin-home.php:215
+#: ../../framework/design-settings/admin-home.php:259
+#: ../../framework/design-settings/admin-home.php:268
+#: ../../framework/design-settings/admin-home.php:312
+#: ../../framework/design-settings/admin-home.php:321
+#: ../../framework/layout-settings/admin-options-footer.php:44
+#: ../../framework/layout-settings/admin-options-footer.php:53
+#: ../../framework/layout-settings/admin-options-header.php:101
+#: ../../framework/layout-settings/admin-options-header.php:121
+#: ../../framework/sidebar-settings/admin-tabs-options.php:30
+#: ../../framework/sidebar-settings/admin-tabs-options.php:39
+#: ../../framework/slideshow-settings/admin-settings.php:40
+#: ../../framework/slideshow-settings/admin-settings.php:47
+msgid "Optional"
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:208
+#: ../../framework/design-settings/admin-home.php:261
+#: ../../framework/design-settings/admin-home.php:314
+#: ../../framework/layout-settings/admin-options-footer.php:46
+#: ../../framework/layout-settings/admin-options-header.php:103
+#: ../../framework/sidebar-settings/admin-tabs-options.php:32
+msgid "Enter the HEX color value for an option background color."
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:209
+#: ../../framework/design-settings/admin-home.php:262
+#: ../../framework/design-settings/admin-home.php:315
+#: ../../framework/layout-settings/admin-options-footer.php:47
+#: ../../framework/layout-settings/admin-options-header.php:104
+#: ../../framework/sidebar-settings/admin-tabs-options.php:33
+msgid "Where can I get the HEX value for my color?"
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:211
+msgid "Header background color"
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:217
+#: ../../framework/layout-settings/admin-options-header.php:123
+msgid "Enter the full URL of an image to show in your header background."
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:222
+#: ../../framework/design-settings/admin-home.php:275
+#: ../../framework/design-settings/admin-home.php:328
+#: ../../framework/layout-settings/admin-options-footer.php:61
+#: ../../framework/layout-settings/admin-options-header.php:129
+msgid "Center"
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:228
+#: ../../framework/design-settings/admin-home.php:281
+#: ../../framework/design-settings/admin-home.php:334
+#: ../../framework/layout-settings/admin-options-footer.php:67
+#: ../../framework/layout-settings/admin-options-header.php:135
+msgid "Horizontal position"
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:231
+#: ../../framework/design-settings/admin-home.php:284
+#: ../../framework/design-settings/admin-home.php:337
+#: ../../framework/layout-settings/admin-options-footer.php:71
+#: ../../framework/layout-settings/admin-options-header.php:139
+msgid "Top"
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:232
+#: ../../framework/design-settings/admin-home.php:285
+#: ../../framework/design-settings/admin-home.php:338
+#: ../../framework/layout-settings/admin-options-footer.php:72
+#: ../../framework/layout-settings/admin-options-header.php:140
+msgid "Middle"
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:233
+#: ../../framework/design-settings/admin-home.php:286
+#: ../../framework/design-settings/admin-home.php:339
+#: ../../framework/layout-settings/admin-options-footer.php:73
+#: ../../framework/layout-settings/admin-options-header.php:141
+msgid "Bottom"
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:238
+#: ../../framework/design-settings/admin-home.php:291
+#: ../../framework/design-settings/admin-home.php:344
+#: ../../framework/layout-settings/admin-options-footer.php:78
+#: ../../framework/layout-settings/admin-options-header.php:146
+msgid "Vertical position"
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:241
+#: ../../framework/design-settings/admin-home.php:294
+#: ../../framework/design-settings/admin-home.php:347
+#: ../../framework/layout-settings/admin-options-footer.php:82
+#: ../../framework/layout-settings/admin-options-header.php:150
+msgid "No repeat"
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:242
+#: ../../framework/design-settings/admin-home.php:295
+#: ../../framework/design-settings/admin-home.php:348
+#: ../../framework/layout-settings/admin-options-footer.php:83
+#: ../../framework/layout-settings/admin-options-header.php:151
+msgid "Repeat"
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:243
+#: ../../framework/design-settings/admin-home.php:296
+#: ../../framework/design-settings/admin-home.php:349
+#: ../../framework/layout-settings/admin-options-footer.php:84
+#: ../../framework/layout-settings/admin-options-header.php:152
+msgid "Repeat Horizontal"
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:244
+#: ../../framework/design-settings/admin-home.php:297
+#: ../../framework/design-settings/admin-home.php:350
+#: ../../framework/layout-settings/admin-options-footer.php:85
+#: ../../framework/layout-settings/admin-options-header.php:153
+msgid "Repeat Vertical"
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:249
+#: ../../framework/design-settings/admin-home.php:302
+#: ../../framework/design-settings/admin-home.php:355
+#: ../../framework/layout-settings/admin-options-footer.php:90
+#: ../../framework/layout-settings/admin-options-header.php:158
+msgid "Background repeat"
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:251
+msgid "Header background image"
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:264
+msgid "Footer background color"
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:270
+#: ../../framework/design-settings/admin-home.php:323
+#: ../../framework/layout-settings/admin-options-footer.php:55
+msgid "Enter the full URL of an image to show in your footer background."
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:304
+msgid "Footer background image"
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:317
+msgid "Body background color"
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:357
+msgid "Body background image"
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:363
+msgid "Styles"
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:367
+msgid ""
+"Add custom CSS directly to the <code>&lt;head&gt;</code> section of the "
+"site. For example, you could change the color of your links to red by "
+"entering: <code>a:link, a:visited { color: #C00; }</code>"
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:369
+msgid "Custom CSS"
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:375
+msgid "Scripts"
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:379
+msgid ""
+"Add custom JavaScript directly to the <code>&lt;head&gt;</code> section of "
+"the site. For example, you could add an alert by entering: <code>alert"
+"('Welcome!');</code>"
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:381
+msgid "Custom JavaScript"
+msgstr ""
+
+#: ../../framework/design-settings/admin-home.php:393
+msgid "Export Design Settings"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-home.php:8
+msgid ""
+"Creat unique page headers and footers then assign them to layouts. Configure "
+"the columns and content sources of each layout with drag-and-drop controls."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-home.php:21
+#: ../../framework/layout-settings/admin-options-defaults.php:71
+#: ../../framework/layout-settings/admin-options-layout.php:297
+msgid "Header"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-home.php:26
+msgid "Headers"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-home.php:27
+msgid ""
+"Select the elements to use in your header including slide shows, top "
+"graphics, menus, top content area and showcase content. The headers created "
+"here are available to add to any page layout."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-home.php:62
+msgid "No page headers created."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-home.php:110
+msgid "Export Page Headers"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-home.php:121
+#: ../../framework/layout-settings/admin-options-defaults.php:77
+#: ../../framework/layout-settings/admin-options-layout.php:303
+msgid "Footer"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-home.php:126
+msgid "Footers"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-home.php:127
+msgid ""
+"Configure the options for the content and layout of page footers. The "
+"footers created here are available to add to page layouts."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-home.php:162
+msgid "No page footers created."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-home.php:210
+msgid "Export Page Footers"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-home.php:221
+msgid "Template"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-home.php:226
+msgid "Layouts"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-home.php:227
+msgid "Create and manage the templates available for your content."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-home.php:262
+msgid "No layouts created."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-home.php:310
+msgid "Export Layouts"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:58
+msgid "Layout &amp; Template Defaults"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:60
+msgid "Configure the themes default layout options."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:69
+msgid "This header will be used for layouts without a header specified."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:75
+msgid "This footer will be used for layouts without a footer specified."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:81
+msgid "This layout will be used for any content without a layout specified."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:83
+msgid "Main Layout"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:88
+msgid "Templates"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:93
+msgid "The default layout to use for the home page of the site."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:95
+msgid "Home page"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:100
+msgid "The default layout to use for new pages."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:102
+msgid "Pages"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:107
+msgid "The default layout to use for new posts."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:114
+msgid ""
+"This is the WordPress version of a \"blog page\". Used when a category, "
+"author, or date is queried. Note that this layout will be overridden by "
+"selections for \"Category\", \"Author\", \"Tag\" and \"Date\" for their "
+"respective query types."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:118
+msgid "Category (optional)"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:119
+msgid ""
+"<strong>Category layout:</strong> Used when a category is queried. Typically "
+"the same layout as \"Blog\"."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:124
+msgid "Author (optional)"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:125
+msgid ""
+"<strong>Author layout:</strong> Used when posts for a specific author are "
+"queried. Typically the same layout as \"Blog\"."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:130
+msgid "Tag (optional)"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:131
+msgid ""
+"<strong>Tag layout:</strong> Used when a tag is queried. Typically the same "
+"layout as \"Blog\"."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:136
+msgid "Date (optional)"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:137
+msgid ""
+"<strong>Date layout:</strong> Used when posts for a specific date or time "
+"are queried. Typically the same layout as \"Blog\"."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:148
+msgid "The layout to use for search results."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:150
+#: ../../framework/utilities/post-type-static-block.php:55
+msgid "Search"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:155
+msgid "The layout to use for error pages."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:157
+msgid "Error"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:165
+msgid "The default layout for your BuddyPress pages."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:169
+msgid "Activity (optional)"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:170
+msgid "<strong>Activity</strong>"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:175
+msgid "Blogs (optional)"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:176
+msgid "<strong>Blogs</strong>"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:181
+msgid "Forums (optional)"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:182
+msgid "<strong>Forums</strong>"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:187
+msgid "Groups (optional)"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:188
+msgid "<strong>Groups</strong>"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:193
+msgid "Groups - single (optional)"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:194
+msgid "<strong>Groups - single</strong>"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:199
+msgid "Groups - single plugins (optional)"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:200
+msgid "<strong>Groups - single plugins</strong>"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:205
+msgid "Members (optional)"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:206
+msgid "<strong>Members</strong>"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:211
+msgid "Members - single (optional)"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:212
+msgid "<strong>Members - single</strong>"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:217
+msgid "Members - single plugins (optional)"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:218
+msgid "<strong>Members - single plugins</strong>"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:225
+msgid "BuddyPress"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:234
+msgid "The default layout for your bbPress forum and topic pages."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:237
+msgid "Topic (optional)"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:238
+msgid "<strong>Topic</strong>"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:252
+msgid "bbPress"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:318
+msgid "Registered Template Files"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:319
+msgid ""
+"Layouts registered manually using the <code>register_context()</code> "
+"function for template files."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:341
+msgid ""
+"To manually register a template file you can use the <code>register_context()"
+"</code> function. To do this add an entry to your <code>functions.php</code> "
+"file."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:342
+msgid ""
+"Below is an example usage of how you might register a custom layout for a "
+"\"news\" category file. After you create a category with the slug \"news\" "
+"and add a file to the theme folder named <code>category-news.php</code> you "
+"would copy the following to your <code>functions.php</code> file."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:349
+msgid ""
+"<strong>Note:</strong> For more detailed documentation of this function, see "
+"the notes in the theme file \"framework/theme-functions/template-engine.php\""
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:360
+msgid "Custom Post Types (auto generated)"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:361
+msgid ""
+"The following layouts were generated from the WP Custom Post Type object. "
+"They may not apply as some post types do not have public facing template "
+"files or may use overload methods for inserting content or shortcodes "
+"instead. Setting the values below can allow a custom post type to have the "
+"theme specific layout applied but not always."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:363
+msgid ""
+"These settings may not apply depending on the method of inserting content "
+"used by the plugin author."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-defaults.php:394
+msgid "Export Layout Settings"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-footer.php:19
+msgid "Page footer"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-footer.php:21
+msgid "Create a new page footer."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-footer.php:31
+#: ../../framework/sidebar-settings/admin-options.php:22
+#: ../../framework/sidebar-settings/admin-tabs-options.php:24
+#: ../../framework/slideshow-settings/admin-settings.php:27
+msgid "This name is for reference only."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-footer.php:33
+#: ../../framework/layout-settings/admin-options-header.php:70
+#: ../../framework/sidebar-settings/admin-options.php:24
+#: ../../framework/sidebar-settings/admin-tabs-options.php:26
+msgid "Title"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-footer.php:38
+msgid "Select a static block as the content source for this footer."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-footer.php:40
+#: ../../framework/layout-settings/admin-options-header.php:87
+msgid "<strong>Primary content</strong>"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-footer.php:49
+#: ../../framework/layout-settings/admin-options-header.php:106
+msgid "Background color"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-footer.php:59
+#: ../../framework/layout-settings/admin-options-footer.php:70
+#: ../../framework/layout-settings/admin-options-footer.php:81
+#: ../../framework/layout-settings/admin-options-header.php:127
+#: ../../framework/layout-settings/admin-options-header.php:138
+#: ../../framework/layout-settings/admin-options-header.php:149
+msgid "Default (Design Settings)"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-footer.php:92
+#: ../../framework/layout-settings/admin-options-header.php:160
+msgid "Background image"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-footer.php:101
+msgid "Save Footer"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-header.php:33
+msgid "Slide Show: "
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-header.php:40
+#: ../../framework/layout-settings/admin-options-layout.php:243
+msgid "Static Block: "
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-header.php:57
+msgid "Page header"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-header.php:59
+msgid "Create a new page header."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-header.php:68
+msgid "For reference only."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-header.php:73
+msgid ""
+"Optional. Override your default logo for this header. Enter full image URL."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-header.php:75
+msgid "Alternate logo"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-header.php:79
+msgid ""
+"Select a sidebar to populate the area above the page top and below the logo "
+"and menu."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-header.php:81
+msgid "Top banner"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-header.php:85
+msgid ""
+"The header area can display slide shows, static content or nothing. Select "
+"the source for this header. "
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-header.php:91
+msgid "Show borders"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-header.php:92
+msgid "Hide borders"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-header.php:95
+msgid "Show the borders of the top container."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-header.php:97
+msgid "Top container"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-header.php:111
+msgid "Show glow effect"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-header.php:112
+msgid "Hide glow effect"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-header.php:115
+msgid "Show glow effect in header background."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-header.php:117
+msgid "Background glow"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-header.php:169
+msgid "Save Header"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-layout.php:200
+msgid "Please enter a name for the \"Layout title\""
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-layout.php:204
+msgid "Please enter an ID for the \"Layout key\""
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-layout.php:250
+msgid "Page: "
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-layout.php:254
+#: ../../framework/layout-settings/admin-options-layout.php:258
+msgid "None (theme default)"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-layout.php:269
+msgid "Layout"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-layout.php:271
+msgid "Create a new content layout for your site."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-layout.php:280
+msgid "Layout Options"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-layout.php:284
+msgid "The name shown when selecting a template."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-layout.php:286
+msgid "Layout title"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-layout.php:289
+msgid "A unique ID not currently in use by any other layouts."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-layout.php:291
+msgid "Layout key (unique identifier)"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-layout.php:294
+msgid "Select a header from the \"Page Headers\" to use with this layout"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-layout.php:300
+msgid "Select a footer from the \"Page Footers\" to use with this layout"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-layout.php:311
+msgid ""
+"You can optionally select a different skin for this layout, overriding the "
+"default theme skin."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-layout.php:313
+msgid "Skin override"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-layout.php:327
+msgid "Save Layout"
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-layout.php:335
+msgid ""
+"Select a sidebar to display. To create additional sidebars go to \"Design "
+"Settings &gt; Sidebars\""
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-layout.php:336
+msgid "Inserts a horizontal divider between layout sections."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-layout.php:337
+msgid ""
+"Select a page to pull the content from to be displayed for this area of the "
+"layout. This content will remain constant across all pages/posts using this "
+"layout."
+msgstr ""
+
+#: ../../framework/layout-settings/admin-options-layout.php:338
+msgid ""
+"This area will display the main content for the current page/post being "
+"displayed. You should only include this area once for each layout."
+msgstr ""
+
+#: ../../framework/layout-settings/settings-object.php:92
+msgid "You must enter a template name."
+msgstr ""
+
+#: ../../framework/layout-settings/settings-object.php:125
+#: ../../framework/layout-settings/settings-object.php:154
+#: ../../framework/sidebar-settings/settings-object.php:29
+#: ../../framework/sidebar-settings/settings-object.php:55
+msgid "You must enter a title."
+msgstr ""
+
+#: ../../framework/sidebar-settings/admin-home.php:17
+#: ../../framework/slideshow-settings/admin-home.php:19
+msgid "Shortcode"
+msgstr ""
+
+#: ../../framework/sidebar-settings/admin-home.php:21
+msgid "Sidebars"
+msgstr ""
+
+#: ../../framework/sidebar-settings/admin-home.php:22
+msgid ""
+"Create sidebars which you can include in layouts, insert with shortcodes and "
+"add widgets to from the \"Widgets\" page."
+msgstr ""
+
+#: ../../framework/sidebar-settings/admin-home.php:59
+msgid "No sidebars created."
+msgstr ""
+
+#: ../../framework/sidebar-settings/admin-home.php:107
+msgid "Export Sidebars"
+msgstr ""
+
+#: ../../framework/sidebar-settings/admin-options.php:13
+msgid "Create a new sidebar."
+msgstr ""
+
+#: ../../framework/sidebar-settings/admin-options.php:27
+msgid "This ID can be used to include the widget area with a shortcode."
+msgstr ""
+
+#: ../../framework/sidebar-settings/admin-options.php:29
+#, php-format
+msgid "For example, you can use %s to include the sidebar into a content area."
+msgstr ""
+
+#: ../../framework/sidebar-settings/admin-options.php:32
+msgid "Alias"
+msgstr ""
+
+#: ../../framework/sidebar-settings/admin-options.php:41
+msgid "Save Sidebar"
+msgstr ""
+
+#: ../../framework/sidebar-settings/admin-tabs-home.php:17
+#: ../../framework/sidebar-settings/admin-tabs-options.php:12
+msgid "Tab"
+msgstr ""
+
+#: ../../framework/sidebar-settings/admin-tabs-home.php:22
+msgid "Slide Open Top Tabs"
+msgstr ""
+
+#: ../../framework/sidebar-settings/admin-tabs-home.php:23
+msgid ""
+"Each tab created in this section will appear in your \"Widgets\" menu as a "
+"new sidebar.  You can add content to the tab by inserting widgets in the "
+"sidebar."
+msgstr ""
+
+#: ../../framework/sidebar-settings/admin-tabs-home.php:60
+msgid "No tabs created."
+msgstr ""
+
+#: ../../framework/sidebar-settings/admin-tabs-home.php:108
+msgid "Export Tabs"
+msgstr ""
+
+#: ../../framework/sidebar-settings/admin-tabs-options.php:14
+msgid "Create a new tab."
+msgstr ""
+
+#: ../../framework/sidebar-settings/admin-tabs-options.php:35
+msgid "Tab background color"
+msgstr ""
+
+#: ../../framework/sidebar-settings/admin-tabs-options.php:41
+msgid ""
+"Add an optional CSS class. This can be used for applying special styles."
+msgstr ""
+
+#: ../../framework/sidebar-settings/admin-tabs-options.php:43
+msgid "CSS Classes"
+msgstr ""
+
+#: ../../framework/sidebar-settings/admin-tabs-options.php:47
+msgid "Conditional functions to optionally show/hide tabs."
+msgstr ""
+
+#: ../../framework/sidebar-settings/admin-tabs-options.php:48
+msgid ""
+"You can specify a tab should only show for logged in users by inserting "
+"<code>function-is-user-logged-in</code>. Many of the WordPress conditional "
+"functions can be used by prefixing the text \"function-\" before the "
+"function name or \"-function-\" to test for the NOT condition. A list of "
+"these functions and be found on the codex site:  "
+msgstr ""
+
+#: ../../framework/sidebar-settings/admin-tabs-options.php:49
+msgid "WP Conditional Tags"
+msgstr ""
+
+#: ../../framework/sidebar-settings/admin-tabs-options.php:50
+msgid "Examples of conditional functions:  "
+msgstr ""
+
+#: ../../framework/sidebar-settings/admin-tabs-options.php:52
+msgid "Only show a link on the home page"
+msgstr ""
+
+#: ../../framework/sidebar-settings/admin-tabs-options.php:53
+msgid "Show everywhere <u>except</u> the home page"
+msgstr ""
+
+#: ../../framework/sidebar-settings/admin-tabs-options.php:54
+msgid "Only show a link on category pages"
+msgstr ""
+
+#: ../../framework/sidebar-settings/admin-tabs-options.php:55
+msgid "Only show a link on posts"
+msgstr ""
+
+#: ../../framework/sidebar-settings/admin-tabs-options.php:56
+msgid "Only show a link on sticky posts"
+msgstr ""
+
+#: ../../framework/sidebar-settings/admin-tabs-options.php:57
+msgid "Only show a link on pages"
+msgstr ""
+
+#: ../../framework/sidebar-settings/admin-tabs-options.php:58
+msgid "Only show on search results"
+msgstr ""
+
+#: ../../framework/sidebar-settings/admin-tabs-options.php:60
+msgid ""
+"You can hide a tab completely (turn it off) with the condition <code>-"
+"function-is-blog-installed</code>"
+msgstr ""
+
+#: ../../framework/sidebar-settings/admin-tabs-options.php:62
+msgid "Conditions"
+msgstr ""
+
+#: ../../framework/sidebar-settings/admin-tabs-options.php:73
+msgid "Save Tab"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-home.php:8
+msgid ""
+"Create and manage your slide shows. Below you can add, edit and delete slide "
+"shows from your site. Each slide show can be assigned to a <a href=\"themes."
+"php?page=layouts\">Layout Header</a> as the \"Primary Content\" or added to "
+"any content area using a slide show shortcode."
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-home.php:18
+msgid "Slideshow"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-home.php:58
+msgid "No slide shows created."
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-home.php:106
+msgid "Export Slide Shows"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-home.php:111
+msgid "FAQs"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-home.php:114
+msgid "How to override default slide shows"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-home.php:115
+msgid ""
+"You can edit a default slide show by clicking the \"Override\" link under "
+"the \"actions\" column. Once the edit screen opens and before making any "
+"changes, immediately click \"Save\" returning you to this page. Now you can "
+"re-open the edit screen and make any changes you need."
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-home.php:118
+msgid "Adding slide shows to headers"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-home.php:119
+msgid ""
+"You can add a slide show to any header by assigning it as \"Primary Content"
+"\" for that header. Headers can be edited from the <a href=\"themes.php?"
+"page=layouts\">Layouts</a> area."
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-home.php:122
+msgid "Adding images"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-home.php:123
+msgid ""
+"After creating a new slide show, click \"Edit\" and at the bottom of the "
+"edit page you will see the options to create slides. Add your images from an "
+"individual slide's edit screen."
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-home.php:126
+msgid "Image sizes"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-home.php:127
+msgid ""
+"The default slide show size is 972 * 325. If the width or height attributes "
+"are empty the defaults will be used. You should size your images to a "
+"maximum of 972px wide."
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:16
+msgid "Slide show"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:18
+msgid "Create a new slide show."
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:29
+msgid "Title of slide show"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:32
+msgid "This ID can be used to add the slide show with a shortcode."
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:34
+#, php-format
+msgid "For example, you can use %s to include the slide show into a page."
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:37
+msgid "ID (unique identifier)"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:42
+#: ../../framework/slideshow-settings/admin-settings.php:49
+msgid "Leave this field blank to use the default value."
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:44
+msgid "Width"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:51
+msgid "Height"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:54
+msgid "The number of seconds between slides."
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:56
+msgid "Timing"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:88
+msgid ""
+"Default transition used for slides. Can be set individually for each slide "
+"if desired."
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:90
+#: ../../framework/slideshow-settings/admin-settings.php:133
+#: ../../framework/slideshow-settings/admin-settings.php:321
+msgid "Transition"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:93
+msgid ""
+"Optional. Speed of the transition effect in milliseconds. For example, enter "
+"2000 for 2 seconds."
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:95
+msgid "Transition speed"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:98
+msgid "Only applies to 1 column slide shows. "
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:100
+msgid "Pause on hover"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:112
+msgid ""
+"The slide show supports multiple columns of images allowing you to select a "
+"different series of images for each column."
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:114
+msgid "Columns"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:131
+msgid "Slide"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:132
+#: ../../framework/slideshow-settings/admin-settings.php:245
+msgid "Media"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:137
+msgid "Slides"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:138
+msgid "The slides for this slide show."
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:165
+msgid "Video"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:167
+msgid "Other"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:185
+msgid "No slides added."
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:210
+msgid "After saving these settings you can edit the slide show to add slides."
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:217
+msgid "Save Slide Show"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:226
+msgid "Edit slide"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:227
+msgid "Create new slide"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:234
+msgid "Add a new slide."
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:243
+msgid ""
+"The full path to an image or video. Leave empty to custom define slide "
+"layout in content area."
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:248
+msgid "Optional. Make the slide link to a page, post or other website."
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:250
+msgid "Link URL"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:253
+msgid "Open the link in a new window."
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:255
+msgid "Open in new window"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:274
+msgid "Define the layout to use for displaying your slide."
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:276
+msgid "Slide format"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:284
+msgid "Only applies to slides using the framed media format."
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:286
+msgid "Media position"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:319
+msgid "Optional. Custom transition for this slide."
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:324
+msgid ""
+"Add your own content to the slide. This may include any text or images you "
+"choose. HTML and shortcodes are allowed."
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:325
+msgid "Create animated slide \"layers\" with the following shortcodes:"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:327
+msgid "[slide_right]&lt;img src=\"layer-1.jpg\"&gt;[/slide_right]"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:328
+msgid "[slide_left]&lt;img src=\"layer-1.jpg\"&gt;[/slide_left]"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:329
+msgid "[slide_up]&lt;img src=\"layer-1.jpg\"&gt;[/slide_up]"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:330
+msgid "[slide_down]&lt;img src=\"layer-1.jpg\"&gt;[/slide_down]"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:332
+msgid "Slide animation shortcode parameters:"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:334
+msgid "easing"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:334
+msgid ""
+"Values: stopSlow, stopMedium, stopFast, stopElastic, stopBack, stopBounce"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:335
+msgid "speed"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:335
+msgid ""
+"Time of transition from start to end in milliseconds, e.g. 1000 = 1 second"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:336
+msgid "delay"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:336
+msgid "Delay showing element in milliseconds. e.g. 1000 = 1 second"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:337
+msgid "css"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:337
+msgid "Any valid css styles to add. E.g. css=\"color: #F00;\" "
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:339
+msgid ""
+"NOTE: Be sure to set the \"Slide format\" in the options above to \"Content "
+"with background\" or another option that includes the content box when using "
+"animations."
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:342
+msgid "Slide content"
+msgstr ""
+
+#: ../../framework/slideshow-settings/admin-settings.php:352
+msgid "Save Slide"
+msgstr ""
+
+#: ../../framework/slideshow-settings/settings-object.php:30
+msgid "You must enter a name."
+msgstr ""
+
+#: ../../framework/theme-functions/buddypress.php:42
+msgid "My Favorites"
+msgstr ""
+
+#: ../../framework/theme-functions/buddypress.php:43
+msgid "Accepted"
+msgstr ""
+
+#: ../../framework/theme-functions/buddypress.php:44
+msgid "Rejected"
+msgstr ""
+
+#: ../../framework/theme-functions/buddypress.php:45
+msgid "Show all comments for this thread"
+msgstr ""
+
+#: ../../framework/theme-functions/buddypress.php:46
+msgid "Show all"
+msgstr ""
+
+#: ../../framework/theme-functions/buddypress.php:47
+msgid "comments"
+msgstr ""
+
+#: ../../framework/theme-functions/buddypress.php:48
+#: ../../members/single/profile/edit.php:128
+msgid "Close"
+msgstr ""
+
+#: ../../framework/theme-functions/buddypress.php:180
+msgid "Started topic:"
+msgstr ""
+
+#: ../../framework/theme-functions/buddypress.php:181
+msgid "Posted on:"
+msgstr ""
+
+#: ../../framework/theme-functions/buddypress.php:182
+msgid "Created"
+msgstr ""
+
+#: ../../framework/theme-functions/buddypress.php:183
+msgid "Posted"
+msgstr ""
+
+#: ../../framework/theme-functions/buddypress.php:184
+msgid "Started"
+msgstr ""
+
+#: ../../framework/theme-functions/buddypress.php:261
+msgid "Login"
+msgstr ""
+
+#: ../../framework/theme-functions/buddypress.php:266
+msgid "Logout"
+msgstr ""
+
+#: ../../framework/theme-functions/buddypress.php:314
+msgid "All Links"
+msgstr ""
+
+#: ../../framework/theme-functions/buddypress.php:356
+msgid "Select All"
+msgstr ""
+
+#: ../../framework/theme-functions/buddypress.php:374
+msgid "Special Functionality"
+msgstr ""
+
+#: ../../framework/theme-functions/filters-and-actions.php:238
+#, php-format
+msgid "Set %s in \"Appearance > Menus > Manage Locations\""
+msgstr ""
+
+#: ../../framework/theme-functions/layout-and-design.php:40
+msgid ""
+"No layouts defined for this theme. Please go to \"Appearance &gt; Layouts\" "
+"and ensure you have page layouts created and default layouts assigned for "
+"each post type at the bottom of the page."
+msgstr ""
+
+#: ../../framework/theme-functions/layout-and-design.php:214
+msgid ""
+"The selected layout contains no information. Please check your settings for "
+"the following layout: "
+msgstr ""
+
+#: ../../framework/theme-functions/layout-and-design.php:216
+msgid ""
+"The selected layout contains no information. Please check your design "
+"settings and ensure all layouts have containers and content blocks assigned."
+msgstr ""
+
+#: ../../framework/theme-functions/layout-and-design.php:281
+msgid "No content selected. "
+msgstr ""
+
+#: ../../framework/theme-functions/layout-and-design.php:595
+msgid ""
+"Error: No layouts found. Please make sure you have layouts in the design "
+"settings and assigned defaults for each content type."
+msgstr ""
+
+#: ../../framework/theme-functions/layout-and-design.php:607
+msgid "Error: Layout not found."
+msgstr ""
+
+#: ../../framework/theme-functions/layout-and-design.php:655
+msgid "Error: No headers found."
+msgstr ""
+
+#: ../../framework/theme-functions/layout-and-design.php:667
+msgid "Error: Header not found."
+msgstr ""
+
+#: ../../framework/theme-functions/layout-and-design.php:714
+msgid "Error: No footers found."
+msgstr ""
+
+#: ../../framework/theme-functions/layout-and-design.php:726
+msgid "Error: Footer not found."
+msgstr ""
+
+#: ../../framework/theme-functions/layout-and-design.php:878
+msgid "No slides."
+msgstr ""
+
+#: ../../framework/theme-functions/layout-and-design.php:965
+#: ../../framework/theme-functions/layout-and-design.php:1028
+msgid "Please enter a valid Youtube or Vimeo Url"
+msgstr ""
+
+#: ../../framework/theme-functions/layout-and-design.php:1353
+msgid "No form fields created. Go to: \"Settings > Contact Form\""
+msgstr ""
+
+#: ../../framework/theme-functions/layout-and-design.php:1413
+msgid "You must enter the verification code"
+msgstr ""
+
+#: ../../framework/theme-functions/layout-and-design.php:1532
+msgid "Image Verification"
+msgstr ""
+
+#: ../../framework/theme-functions/layout-and-design.php:1536
+msgid "Refresh image?"
+msgstr ""
+
+#: ../../framework/theme-functions/editor-button/popup-head.php:14
+msgid "You are not allowed to be here"
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:54
+msgid ""
+"Configure the options below to set the theme-specific functionality as "
+"needed for your site."
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:62
+msgid "Miscellaneous"
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:70
+msgid ""
+"Enter the full URL to your favorites (shortcut) icon file. For example: "
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:73
+msgid "Favorites Icon"
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:76
+msgid ""
+"This icon is used by Android (v2.1+) and iPhones to display home screen "
+"bookmarks.<br />Recommended image size <code>129 x 129</code>, saved in "
+"<code>PNG</code> format."
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:79
+msgid "Mobile Bookmark Icon"
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:82
+msgid ""
+"Optional text appended to browser titlebar. Should start with separator, e."
+"g., \" - My Site Name\".<br /><strong>Note:</strong> This text will only "
+"apear on sub-pages and not the home page of your site."
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:85
+msgid "Append to Browser Title"
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:88
+msgid ""
+"Show placeholder images for posts and portfolio items without images "
+"attached."
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:90
+msgid "Placeholder Images"
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:93
+msgid "Enter the full image URL, for example: "
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:96
+msgid "Custom Placeholder Image"
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:99
+msgid "Select the page to display for \"404\" or  \"Not Found\" errors."
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:102
+msgid "Error Page (404)"
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:105
+msgid ""
+"Enter your Google Analytics tracking ID. For example: <code>UA-XXXXX-X</code>"
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:106
+msgid "Where can I find my tracking code?"
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:107
+msgid "Don't have a Google Analytics account? "
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:107
+msgid "Sign up free"
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:109
+msgid "Google Analytics"
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:112
+#, php-format
+msgid ""
+"Enable auto paragraph and break tags on WordPress editor content (%swpautop"
+"%s). Turning this off may solve common layout and vertical spacing issues."
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:114
+msgid "Auto Paragraphs (wpautop)"
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:176
+msgid "Filters"
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:212
+msgid ""
+"The theme has optional settings for advanced functionality and effects. "
+"These can be configured as desired using the settings below."
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:229
+msgid "Page load effect. Not available on IE6-8."
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:231
+msgid "Fade In Page Content"
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:244
+msgid "Enable tool tips."
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:246
+msgid "Tool tips"
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:284
+msgid "Developer Features"
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:287
+msgid ""
+"The features below are provided for developers to customize the theme "
+"options panels as needed. This area can be hidden from users by setting "
+"<code>$developer_options = false;</code> in the file <code>function.php</"
+"code>."
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:294
+msgid "Developer"
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:295
+msgid ""
+"Advanced options for admin permissions and theme setup. After making changes "
+"to these settings it may require an additional refresh of the page before "
+"you see the changes."
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:305
+msgid ""
+"<strong>WARNING</strong>: These options are for advanced users only. Changes "
+"made using the features in this area, or the tools they enable are your "
+"responsability. If you experience problems <u>no support will be provided</"
+"u>."
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:307
+msgid "<strong>Developer Tools</strong>"
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:310
+msgid "Create and edit custom fields in posts and pages from your admin."
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:312
+msgid "Custom Fields Manager"
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:315
+msgid ""
+"Minimum access level required. All roles above selection will also have "
+"access to Custom Fields Manager."
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:341
+msgid "<strong>User Permissions</strong>"
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:350
+msgid ""
+"<code>Appearance &raquo; Design</code><br />Roles allowed to manage design "
+"and layout settings."
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:352
+msgid ""
+"Minimum access level required. All roles above selection will also have "
+"access."
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:354
+msgid "Design settings"
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:366
+msgid "Branding and Admin"
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:367
+msgid ""
+"Features to enable re-branding of theme options, help content, etc. After "
+"making changes to these settings it may require an additional refresh of the "
+"page before you see the changes."
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:370
+msgid "Branding Options"
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:374
+msgid "For branding the top right area of theme options pages."
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:376
+msgid "Theme Options Logo"
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:389
+msgid ""
+"The content of the \"Theme Help\" tab on the top right. HTML is allowed."
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:391
+msgid "Theme Help Tab - Content"
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:394
+msgid ""
+"The title for an optional custom right column container for you to add your "
+"own information."
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:396
+msgid "Right container title"
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:399
+msgid ""
+"The content for an optional custom right column container for you to add "
+"your own information. HTML is allowed."
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:401
+msgid "Right container content"
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:404
+msgid ""
+"Do you want the default theme settings container to show in the right column?"
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:406
+msgid "Show theme settings<br />(right column)"
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:409
+msgid ""
+"Do you want the default design settings container to show in the right "
+"column?"
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:411
+msgid "Show design settings<br />(right column)"
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:427
+msgid "Export Settings"
+msgstr ""
+
+#: ../../framework/theme-settings/admin.php:431
+msgid "Import Settings"
+msgstr ""
+
+#: ../../framework/theme-settings/settings-object.php:18
+msgid "Review the saved data and click \"Import\" or \"Save\" when done."
+msgstr ""
+
+#: ../../framework/utilities/breadcrumbs.php:67
+msgid "Home"
+msgstr ""
+
+#: ../../framework/utilities/breadcrumbs.php:72
+msgid "Archives:"
+msgstr ""
+
+#: ../../framework/utilities/breadcrumbs.php:73
+msgid "Search for: "
+msgstr ""
+
+#: ../../framework/utilities/email-functions.php:67
+msgid "Form Submission"
+msgstr ""
+
+#: ../../framework/utilities/email-functions.php:80
+#: ../../groups/single/admin.php:26 ../../registration/register.php:204
+msgid "Yes"
+msgstr ""
+
+#: ../../framework/utilities/email-functions.php:128
+msgid "Invalid image verification code"
+msgstr ""
+
+#: ../../framework/utilities/post-type-static-block.php:50
+msgid "Add New Block"
+msgstr ""
+
+#: ../../framework/utilities/post-type-static-block.php:51
+msgid "Edit Block"
+msgstr ""
+
+#: ../../framework/utilities/post-type-static-block.php:52
+msgid "New Block"
+msgstr ""
+
+#: ../../framework/utilities/post-type-static-block.php:53
+msgid "Static Blocks"
+msgstr ""
+
+#: ../../framework/utilities/post-type-static-block.php:54
+msgid "View Block"
+msgstr ""
+
+#: ../../framework/utilities/post-type-static-block.php:56
+msgid "No blocks found"
+msgstr ""
+
+#: ../../framework/utilities/post-type-static-block.php:57
+msgid "No blocks found in Trash"
+msgstr ""
+
+#: ../../groups/create.php:9 ../../groups/index.php:18
+msgid "Create a Group"
+msgstr ""
+
+#: ../../groups/create.php:12 ../../groups/index.php:13
+msgid "Groups Directory"
+msgstr ""
+
+#: ../../groups/create.php:34 ../../groups/single/admin.php:16
+msgid "Group Name (required)"
+msgstr ""
+
+#: ../../groups/create.php:37 ../../groups/single/admin.php:19
+msgid "Group Description (required)"
+msgstr ""
+
+#: ../../groups/create.php:57 ../../groups/single/admin.php:47
+msgid "Enable discussion forum"
+msgstr ""
+
+#: ../../groups/create.php:64
+#, php-format
+msgid ""
+"<strong>Attention Site Admin:</strong> Group forums require the <a href=\"%s"
+"\">correct setup and configuration</a> of a bbPress installation."
+msgstr ""
+
+#: ../../groups/create.php:73 ../../groups/single/admin.php:56
+msgid "Privacy Options"
+msgstr ""
+
+#: ../../groups/create.php:77 ../../groups/single/admin.php:61
+msgid "This is a public group"
+msgstr ""
+
+#: ../../groups/create.php:79 ../../groups/single/admin.php:63
+msgid "Any site member can join this group."
+msgstr ""
+
+#: ../../groups/create.php:80 ../../groups/create.php:89
+#: ../../groups/single/admin.php:64 ../../groups/single/admin.php:74
+msgid ""
+"This group will be listed in the groups directory and in search results."
+msgstr ""
+
+#: ../../groups/create.php:81 ../../groups/single/admin.php:65
+msgid "Group content and activity will be visible to any site member."
+msgstr ""
+
+#: ../../groups/create.php:86 ../../groups/single/admin.php:71
+msgid "This is a private group"
+msgstr ""
+
+#: ../../groups/create.php:88 ../../groups/single/admin.php:73
+msgid "Only users who request membership and are accepted can join the group."
+msgstr ""
+
+#: ../../groups/create.php:90 ../../groups/create.php:99
+#: ../../groups/single/admin.php:75 ../../groups/single/admin.php:85
+msgid ""
+"Group content and activity will only be visible to members of the group."
+msgstr ""
+
+#: ../../groups/create.php:95 ../../groups/single/admin.php:81
+msgid "This is a hidden group"
+msgstr ""
+
+#: ../../groups/create.php:97 ../../groups/single/admin.php:83
+msgid "Only users who are invited can join the group."
+msgstr ""
+
+#: ../../groups/create.php:98 ../../groups/single/admin.php:84
+msgid ""
+"This group will not be listed in the groups directory or search results."
+msgstr ""
+
+#: ../../groups/create.php:106 ../../groups/single/admin.php:92
+msgid "Group Invitations"
+msgstr ""
+
+#: ../../groups/create.php:108 ../../groups/single/admin.php:94
+msgid "Which members of this group are allowed to invite others?"
+msgstr ""
+
+#: ../../groups/create.php:113 ../../groups/single/admin.php:99
+msgid "All group members"
+msgstr ""
+
+#: ../../groups/create.php:118 ../../groups/single/admin.php:104
+msgid "Group admins and mods only"
+msgstr ""
+
+#: ../../groups/create.php:123 ../../groups/single/admin.php:109
+msgid "Group admins only"
+msgstr ""
+
+#: ../../groups/create.php:149 ../../groups/single/admin.php:127
+msgid ""
+"Upload an image to use as an avatar for this group. The image will be shown "
+"on the main group page, and in search results."
+msgstr ""
+
+#: ../../groups/create.php:153 ../../groups/single/admin.php:131
+#: ../../members/single/profile/change-avatar.php:17
+msgid "Upload Image"
+msgstr ""
+
+#: ../../groups/create.php:157
+msgid "To skip the avatar upload process, hit the \"Next Step\" button."
+msgstr ""
+
+#: ../../groups/create.php:164
+msgid "Crop Group Avatar"
+msgstr ""
+
+#: ../../groups/create.php:166 ../../groups/single/admin.php:151
+#: ../../members/single/profile/change-avatar.php:34
+msgid "Avatar to crop"
+msgstr ""
+
+#: ../../groups/create.php:169 ../../groups/single/admin.php:154
+#: ../../members/single/profile/change-avatar.php:37
+msgid "Avatar preview"
+msgstr ""
+
+#: ../../groups/create.php:172 ../../groups/single/admin.php:157
+#: ../../members/single/profile/change-avatar.php:40
+msgid "Crop Image"
+msgstr ""
+
+#: ../../groups/create.php:211 ../../groups/single/send-invites.php:22
+msgid "Select people to invite from your friends list."
+msgstr ""
+
+#: ../../groups/create.php:229 ../../groups/single/send-invites.php:42
+msgid "Remove Invite"
+msgstr ""
+
+#: ../../groups/create.php:246 ../../groups/single/send-invites.php:73
+msgid ""
+"Once you have built up friend connections you will be able to invite others "
+"to your group. You can send invites any time in the future by selecting the "
+"\"Send Invites\" option when viewing your new group."
+msgstr ""
+
+#: ../../groups/create.php:268
+msgid "Back to Previous Step"
+msgstr ""
+
+#: ../../groups/create.php:275
+msgid "Next Step"
+msgstr ""
+
+#: ../../groups/create.php:282
+msgid "Create Group and Continue"
+msgstr ""
+
+#: ../../groups/create.php:289
+msgid "Finish"
+msgstr ""
+
+#: ../../groups/groups-loop.php:75
+msgid "There were no groups found."
+msgstr ""
+
+#: ../../groups/index.php:31
+#, php-format
+msgid "All Groups <span>%s</span>"
+msgstr ""
+
+#: ../../groups/index.php:49 ../../members/single/groups.php:13
+msgid "Most Members"
+msgstr ""
+
+#: ../../groups/index.php:50 ../../members/single/groups.php:14
+msgid "Newly Created"
+msgstr ""
+
+#: ../../groups/single/activity.php:3
+msgid "RSS Feed"
+msgstr ""
+
+#: ../../groups/single/activity.php:8
+msgid "Show:"
+msgstr ""
+
+#: ../../groups/single/activity.php:10
+msgid "Everything"
+msgstr ""
+
+#: ../../groups/single/activity.php:11
+msgid "Updates"
+msgstr ""
+
+#: ../../groups/single/activity.php:14
+msgid "Forum Topics"
+msgstr ""
+
+#: ../../groups/single/activity.php:15
+msgid "Forum Replies"
+msgstr ""
+
+#: ../../groups/single/activity.php:18
+msgid "Group Memberships"
+msgstr ""
+
+#: ../../groups/single/admin.php:25
+msgid "Notify group members of changes via email"
+msgstr ""
+
+#: ../../groups/single/admin.php:27 ../../registration/register.php:205
+msgid "No"
+msgstr ""
+
+#: ../../groups/single/admin.php:137
+msgid ""
+"If you'd like to remove the existing avatar but not upload a new one, please "
+"use the delete avatar button."
+msgstr ""
+
+#: ../../groups/single/admin.php:139
+#: ../../members/single/profile/change-avatar.php:23
+msgid "Delete Avatar"
+msgstr ""
+
+#: ../../groups/single/admin.php:149
+msgid "Crop Avatar"
+msgstr ""
+
+#: ../../groups/single/admin.php:177
+msgid "Administrators"
+msgstr ""
+
+#: ../../groups/single/admin.php:185 ../../groups/single/admin.php:210
+#, php-format
+msgid "Profile picture of %s"
+msgstr ""
+
+#: ../../groups/single/admin.php:189 ../../groups/single/admin.php:215
+msgid "Demote to Member"
+msgstr ""
+
+#: ../../groups/single/admin.php:203
+msgid "Moderators"
+msgstr ""
+
+#: ../../groups/single/admin.php:214 ../../groups/single/admin.php:270
+msgid "Promote to Admin"
+msgstr ""
+
+#: ../../groups/single/admin.php:229
+msgid "Members"
+msgstr ""
+
+#: ../../groups/single/admin.php:258
+msgid "(banned)"
+msgstr ""
+
+#: ../../groups/single/admin.php:264
+msgid "Unban this member"
+msgstr ""
+
+#: ../../groups/single/admin.php:264
+msgid "Remove Ban"
+msgstr ""
+
+#: ../../groups/single/admin.php:268
+msgid "Kick and ban this member"
+msgstr ""
+
+#: ../../groups/single/admin.php:268
+msgid "Kick &amp; Ban"
+msgstr ""
+
+#: ../../groups/single/admin.php:269
+msgid "Promote to Mod"
+msgstr ""
+
+#: ../../groups/single/admin.php:274
+msgid "Remove this member"
+msgstr ""
+
+#: ../../groups/single/admin.php:274
+msgid "Remove from group"
+msgstr ""
+
+#: ../../groups/single/admin.php:288 ../../groups/single/members.php:87
+msgid "This group has no members."
+msgstr ""
+
+#: ../../groups/single/admin.php:318
+#: ../../members/single/friends/requests.php:17
+#: ../../members/single/groups/invites.php:28
+msgid "Accept"
+msgstr ""
+
+#: ../../groups/single/admin.php:320
+#: ../../members/single/friends/requests.php:18
+#: ../../members/single/groups/invites.php:29
+msgid "Reject"
+msgstr ""
+
+#: ../../groups/single/admin.php:333
+msgid "There are no pending membership requests."
+msgstr ""
+
+#: ../../groups/single/admin.php:350
+msgid ""
+"WARNING: Deleting this group will completely remove ALL content associated "
+"with it. There is no way back, please be careful with this option."
+msgstr ""
+
+#: ../../groups/single/admin.php:353
+msgid "I understand the consequences of deleting this group."
+msgstr ""
+
+#: ../../groups/single/admin.php:358
+msgid "Delete Group"
+msgstr ""
+
+#: ../../groups/single/forum.php:65
+msgid "You will auto join this group when you start a new topic."
+msgstr ""
+
+#: ../../groups/single/forum.php:69
+msgid "Post a New Topic:"
+msgstr ""
+
+#: ../../groups/single/group-header.php:5
+msgid "Group Admins"
+msgstr ""
+
+#: ../../groups/single/group-header.php:33
+msgid "No Admins"
+msgstr ""
+
+#: ../../groups/single/group-header.php:43
+msgid "Group Mods"
+msgstr ""
+
+#: ../../groups/single/group-header.php:70
+msgid "No Mods"
+msgstr ""
+
+#: ../../groups/single/group-header.php:99
+#, php-format
+msgid "active %s ago"
+msgstr ""
+
+#: ../../groups/single/request-membership.php:4
+#, php-format
+msgid "You are requesting to become a member of the group '%s'."
+msgstr ""
+
+#: ../../groups/single/request-membership.php:7
+msgid "Comments (optional)"
+msgstr ""
+
+#: ../../groups/single/request-membership.php:12
+msgid "Send Request"
+msgstr ""
+
+#: ../../groups/single/send-invites.php:60
+msgid "Send Invites"
+msgstr ""
+
+#: ../../groups/single/forum/topic.php:81
+msgid "Permanent link to this post."
+msgstr ""
+
+#: ../../groups/single/forum/topic.php:112
+msgid "Topic tags:"
+msgstr ""
+
+#: ../../groups/single/forum/topic.php:129
+msgid "You will auto join this group when you reply to this topic."
+msgstr ""
+
+#: ../../members/index.php:13
+msgid "Members Directory"
+msgstr ""
+
+#: ../../members/index.php:40 ../../members/single/friends.php:12
+msgid "Newest Registered"
+msgstr ""
+
+#: ../../members/members-loop.php:88
+msgid "Sorry, no members were found."
+msgstr ""
+
+#: ../../members/single/member-header.php:30
+msgid ""
+"Mention this user in a new public message, this will send the user a "
+"notification to get their attention."
+msgstr ""
+
+#: ../../members/single/member-header.php:30
+msgid "Mention this User"
+msgstr ""
+
+#: ../../members/single/member-header.php:36
+msgid "Send a private message to this user."
+msgstr ""
+
+#: ../../members/single/member-header.php:36
+msgid "Send Private Message"
+msgstr ""
+
+#: ../../members/single/friends/requests.php:43
+msgid "You have no pending friendship requests."
+msgstr ""
+
+#: ../../members/single/groups/invites.php:19
+#, php-format
+msgid "%s members"
+msgstr ""
+
+#: ../../members/single/groups/invites.php:45
+msgid "You have no outstanding group invites."
+msgstr ""
+
+#: ../../members/single/messages/compose.php:5
+msgid "Send To (Username or Friend's Name)"
+msgstr ""
+
+#: ../../members/single/messages/compose.php:14
+msgid "This is a notice to all users."
+msgstr ""
+
+#: ../../members/single/messages/compose.php:20
+msgid "Message"
+msgstr ""
+
+#: ../../members/single/messages/compose.php:28
+msgid "Send Message"
+msgstr ""
+
+#: ../../members/single/messages/messages-loop.php:34
+msgid "From:"
+msgstr ""
+
+#: ../../members/single/messages/messages-loop.php:39
+msgid "To:"
+msgstr ""
+
+#: ../../members/single/messages/messages-loop.php:45
+msgid "View Message"
+msgstr ""
+
+#: ../../members/single/messages/messages-loop.php:52
+#: ../../members/single/messages/notices-loop.php:36
+msgid "Delete Message"
+msgstr ""
+
+#: ../../members/single/messages/messages-loop.php:93
+msgid "Sorry, no messages were found."
+msgstr ""
+
+#: ../../members/single/messages/notices-loop.php:22
+msgid "Sent:"
+msgstr ""
+
+#: ../../members/single/messages/notices-loop.php:47
+msgid "Sorry, no notices were found."
+msgstr ""
+
+#: ../../members/single/messages/single.php:11
+#, php-format
+msgid "Sent between %s and %s"
+msgstr ""
+
+#: ../../members/single/messages/single.php:82
+msgid "Send a Reply"
+msgstr ""
+
+#: ../../members/single/messages/single.php:98
+msgid "Send Reply"
+msgstr ""
+
+#: ../../members/single/profile/change-avatar.php:1
+msgid "Change Avatar"
+msgstr ""
+
+#: ../../members/single/profile/change-avatar.php:7
+msgid ""
+"Your avatar will be used on your profile and throughout the site. If there "
+"is a <a href=\"http://gravatar.com\">Gravatar</a> associated with your "
+"account email we will use that, or you can upload an image from your "
+"computer."
+msgstr ""
+
+#: ../../members/single/profile/change-avatar.php:13
+msgid ""
+"Click below to select a JPG, GIF or PNG format photo from your computer and "
+"then click 'Upload Image' to proceed."
+msgstr ""
+
+#: ../../members/single/profile/change-avatar.php:22
+msgid ""
+"If you'd like to delete your current avatar but not upload a new one, please "
+"use the delete avatar button."
+msgstr ""
+
+#: ../../members/single/profile/change-avatar.php:23
+msgid "Delete My Avatar"
+msgstr ""
+
+#: ../../members/single/profile/change-avatar.php:32
+msgid "Crop Your New Avatar"
+msgstr ""
+
+#: ../../members/single/profile/change-avatar.php:56
+msgid ""
+"Your avatar will be used on your profile and throughout the site. To change "
+"your avatar, please create an account with <a href=\"http://gravatar.com"
+"\">Gravatar</a> using the same email address as you used to register with "
+"this site."
+msgstr ""
+
+#: ../../members/single/profile/edit.php:10
+#, php-format
+msgid "Editing '%s' Profile Group"
+msgstr ""
+
+#: ../../members/single/profile/edit.php:26
+#: ../../members/single/profile/edit.php:33
+#: ../../members/single/profile/edit.php:40
+#: ../../members/single/profile/edit.php:49
+#: ../../members/single/profile/edit.php:67
+#: ../../members/single/profile/edit.php:83
+#: ../../members/single/profile/edit.php:93 ../../registration/register.php:36
+#: ../../registration/register.php:40 ../../registration/register.php:44
+#: ../../registration/register.php:48 ../../registration/register.php:75
+#: ../../registration/register.php:83 ../../registration/register.php:91
+#: ../../registration/register.php:101 ../../registration/register.php:112
+#: ../../registration/register.php:127 ../../registration/register.php:138
+#: ../../registration/register.php:188 ../../registration/register.php:197
+msgid "(required)"
+msgstr ""
+
+#: ../../members/single/profile/edit.php:58
+#: ../../members/single/profile/edit.php:73
+#: ../../registration/register.php:118
+msgid "Clear"
+msgstr ""
+
+#: ../../members/single/profile/edit.php:118
+#: ../../members/single/profile/edit.php:132
+#, php-format
+msgid ""
+"This field can be seen by: <span class=\"current-visibility-level\">%s</span>"
+msgstr ""
+
+#: ../../members/single/profile/edit.php:118
+msgid "Change"
+msgstr ""
+
+#: ../../members/single/profile/edit.php:123
+msgid "Who can see this field?"
+msgstr ""
+
+#: ../../members/single/profile/profile-wp.php:8
+#, php-format
+msgid "%s's Profile"
+msgstr ""
+
+#: ../../members/single/profile/profile-wp.php:24
+msgid "About Me"
+msgstr ""
+
+#: ../../members/single/profile/profile-wp.php:42
+msgid "Jabber"
+msgstr ""
+
+#: ../../members/single/profile/profile-wp.php:51
+msgid "AOL Messenger"
+msgstr ""
+
+#: ../../members/single/profile/profile-wp.php:60
+msgid "Yahoo Messenger"
+msgstr ""
+
+#: ../../members/single/settings/capabilities.php:39
+msgid "Capabilities"
+msgstr ""
+
+#: ../../members/single/settings/capabilities.php:47
+msgid "This user is a spammer."
+msgstr ""
+
+#: ../../members/single/settings/delete-account.php:38
+msgid "Delete Account"
+msgstr ""
+
+#: ../../members/single/settings/delete-account.php:42
+msgid ""
+"WARNING: Deleting your account will completely remove ALL content associated "
+"with it. There is no way back, please be careful with this option."
+msgstr ""
+
+#: ../../members/single/settings/delete-account.php:45
+msgid "I understand the consequences of deleting my account."
+msgstr ""
+
+#: ../../members/single/settings/delete-account.php:50
+msgid "Delete My Account"
+msgstr ""
+
+#: ../../members/single/settings/general.php:38
+msgid "General Settings"
+msgstr ""
+
+#: ../../members/single/settings/general.php:44
+msgid ""
+"Current Password <span>(required to update email or change current password)"
+"</span>"
+msgstr ""
+
+#: ../../members/single/settings/general.php:45
+msgid "Password Lost and Found"
+msgstr ""
+
+#: ../../members/single/settings/general.php:45
+msgid "Lost your password?"
+msgstr ""
+
+#: ../../members/single/settings/general.php:47
+msgid "Account Email"
+msgstr ""
+
+#: ../../members/single/settings/general.php:50
+msgid "Change Password <span>(leave blank for no change)</span>"
+msgstr ""
+
+#: ../../members/single/settings/general.php:52
+msgid "Repeat New Password"
+msgstr ""
+
+#: ../../members/single/settings/notifications.php:38
+msgid "Email Notification"
+msgstr ""
+
+#: ../../members/single/settings/notifications.php:43
+msgid "Send a notification by email when:"
+msgstr ""
+
+#: ../../registration/activate.php:13
+msgid "Account Activated"
+msgstr ""
+
+#: ../../registration/activate.php:18
+msgid ""
+"Your account was activated successfully! Your account details have been sent "
+"to you in a separate email."
+msgstr ""
+
+#: ../../registration/activate.php:20
+msgid ""
+"Your account was activated successfully! You can now log in with the "
+"username and password you provided when you signed up."
+msgstr ""
+
+#: ../../registration/activate.php:25
+msgid "Activate your Account"
+msgstr ""
+
+#: ../../registration/activate.php:29
+msgid "Please provide a valid activation key."
+msgstr ""
+
+#: ../../registration/activate.php:33
+msgid "Activation Key:"
+msgstr ""
+
+#: ../../registration/activate.php:37
+msgid "Activate"
+msgstr ""
+
+#: ../../registration/register.php:15
+msgid "User registration is currently not allowed."
+msgstr ""
+
+#: ../../registration/register.php:26
+msgid ""
+"Registering for this site is easy, just fill in the fields below and we'll "
+"get a new account set up for you in no time."
+msgstr ""
+
+#: ../../registration/register.php:34
+msgid "Account Details"
+msgstr ""
+
+#: ../../registration/register.php:40
+msgid "Email Address"
+msgstr ""
+
+#: ../../registration/register.php:44
+msgid "Choose a Password"
+msgstr ""
+
+#: ../../registration/register.php:48
+msgid "Confirm Password"
+msgstr ""
+
+#: ../../registration/register.php:64
+msgid "Profile Details"
+msgstr ""
+
+#: ../../registration/register.php:182
+msgid "Blog Details"
+msgstr ""
+
+#: ../../registration/register.php:184
+msgid "Yes, I'd like to create a new site"
+msgstr ""
+
+#: ../../registration/register.php:188
+msgid "Blog URL"
+msgstr ""
+
+#: ../../registration/register.php:197
+msgid "Site Title"
+msgstr ""
+
+#: ../../registration/register.php:201
+msgid ""
+"I would like my site to appear in search engines, and in public listings "
+"around this network."
+msgstr ""
+
+#: ../../registration/register.php:218
+msgid "Complete Sign Up"
+msgstr ""
+
+#: ../../registration/register.php:229
+msgid "Sign Up Complete!"
+msgstr ""
+
+#: ../../registration/register.php:235
+msgid ""
+"You have successfully created your account! To begin using this site you "
+"will need to activate your account via the email we have just sent to your "
+"address."
+msgstr ""
+
+#: ../../registration/register.php:237
+msgid ""
+"You have successfully created your account! Please log in using the username "
+"and password you have just created."
+msgstr ""

@@ -1,0 +1,778 @@
+/*************************** iPad ***************************/
+
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+
+	
+	/********* Content Areas *********/
+		
+	/* Page Inner */
+	.page-inner {
+	width: 748px;
+	}
+	
+	/* Main Content */
+	#content {
+	width: 426px;
+	}
+	
+	/* Sidebar */
+	#sidebar {
+	width: 202px;
+	}
+
+
+	/********* Header *********/
+
+	/* Header Inner */
+	#header-left {
+	float: none;
+	text-align: center; 
+	}
+	#header-right {
+	width: 100%;
+	-webkit-animation: none;
+	}
+	
+	/* Logo */
+	#logo {
+	float: none;
+	}
+	
+	/* Contact Info */
+	#contact-info {
+	position: relative;
+	float: none;
+	width: 100%;
+	text-align: center;
+	font-size: 20px;
+	line-height: 20px;
+	margin: 0 0 20px 0;
+	-webkit-animation: none;
+	}
+
+	
+
+	/********* Navigation Menus *********/
+	
+	/* Nav Wrapper */
+	#nav {
+	float: none;
+	display: inline-block;
+	margin: 20px 0 20px 0;
+	width: 100%;
+	}
+
+	
+	/********* Shortcodes: Buttons *********/
+	
+	.sc-price-box .sc-button.small,
+	.sc-pricing-table .sc-button.small {
+	padding: 4px 6px;
+	}
+	.sc-price-box .sc-button.medium,
+	.sc-pricing-table .sc-button.medium {
+	padding: 6px 10px;
+	}
+	.sc-price-box .sc-button.large,
+	.sc-pricing-table .sc-button.large {
+	padding: 7.5px 30px;
+	}
+
+
+	/********* Shortcodes: Columns *********/
+
+	/* Joint Columns */
+	.columns.three.joint {
+	width: 250px;
+	}
+	.columns.middle.three.joint {
+	width: 248px;
+	}
+	
+	
+	/********* Shortcodes: Price Boxes *********/
+
+	.sc-price-box-title {
+	font-size: 20px;
+	line-height: 20px;
+	}
+	.sc-price-box-price {
+	font-size: 70px;
+	line-height: 70px;
+	}
+	.sc-price-box-unit {
+	font-size: 13px;
+	}	
+	.sc-price-box-content {
+	max-width: 100%;
+	width: auto !important;
+	}
+
+
+	/********* Shortcodes: Slider *********/
+	
+	/* Slide Caption */
+	.caption h2 {
+	font-size: 12px;
+	font-weight: bold;
+	}
+	.caption {
+	font-size: 10px;
+	}
+	
+	
+	/********* BuddyPress *********/
+
+	/* Navigation */
+	.sb-left.buddypress div.item-list-tabs,
+	.sb-right.buddypress div.item-list-tabs {
+	padding-top: 8px !important;	
+	padding-bottom: 8px !important;
+	border-bottom: 1px solid #ddd;
+	}
+	.frame.buddypress div.item-list-tabs {
+	border-color: #eee;
+	}
+	.sb-left.buddypress div.item-list-tabs ul li,
+	.sb-right.buddypress div.item-list-tabs ul li {
+	float: left;
+	clear: both;
+	border: 0;
+	}
+	.sb-left.buddypress div.item-list-tabs ul li a,
+	.sb-right.buddypress div.item-list-tabs ul li a {
+	padding: 8px 0 8px 0;
+	}	
+	.sb-left.buddypress div.item-list-tabs ul li a,
+	.sb-right.buddypress div.item-list-tabs ul li a,
+	.sb-left.buddypress #group-create-tabs.item-list-tabs ul li span,
+	.sb-right.buddypress #group-create-tabs.item-list-tabs ul li span {
+	padding-left: 0;
+	}	
+	.frame.sb-left.buddypress div.item-list-tabs#subnav,
+	.frame.sb-right.buddypress div.item-list-tabs#subnav {
+	border-color: #eee;
+	}
+	.buddypress div.item-list-tabs#subnav ul li {
+	clear: none;
+	}
+	.sb-left.buddypress div.item-list-tabs#subnav ul li.last,
+	.sb-right.buddypress div.item-list-tabs#subnav ul li.last {
+	width: 100%;
+	margin: 10px 0 0 0;
+	}	
+
+	/* Item Header */
+	.buddypress #item-header div#item-actions {
+	float: left;
+	width: 100%;
+	margin-left: 0;
+	text-align: left;
+	}
+	.buddypress #item-header ul li {
+	float: left;
+	}	
+	.buddypress #item-header div#item-actions {
+	float: left;
+	width: 100%;
+	}
+	.buddypress .dir-form div.dir-search {
+	float: left;
+	margin-top: 0;
+	}	
+	
+	/* Lists */
+	.buddypress ul.item-list div.action {
+	position: relative;
+	top: auto;
+	right: auto;
+	margin-top: 10px;
+	}	
+	.sb-left.buddypress .main-column  #item-header #item-header-content .activity,
+	.sb-right.buddypress .main-column  #item-header #item-header-content .activity,
+	.sb-left.buddypress .main-column span.activity,
+	.sb-right.buddypress .main-column span.activity {
+	display: inline;
+	padding: 0;
+	border: 0;
+	background: none;
+	-pie-background: none;
+	}	
+	.buddypress .main-column input[type="file"] {
+	width: 100%;
+	margin-bottom: 15px;
+	}	
+	.buddypress div.last.admin-links {
+	float: none;
+	}
+			
+		
+}
+
+
+/*************************** iPhone (Landscape) ***************************/
+
+@media only screen and (max-width: 767px) {
+
+	
+	/********* Content Areas *********/
+
+	/* Page Inner */	
+	.page-inner {
+	width: 90%;
+	}
+
+	/* Content Wrapper */
+	.padding #content-wrapper {
+	padding: 40px;
+	}
+
+	/* Main Content */	
+	#content {
+	width: 100%;
+	}
+
+	/* Sidebar */
+	#sidebar {
+	width: 100%;
+	margin: 40px 0 0;
+	}
+
+
+	/********* Header *********/
+
+	/* Header Inner */
+	#header-left {
+	float: none;
+	text-align: center; 
+	}
+	#header-right {
+	width: 100%;
+	-webkit-animation: none;
+	}
+	
+	/* Logo */
+	#logo {
+	float: none;
+	}
+	
+	/* Contact Info */
+	#contact-info {
+	position: relative;
+	float: none;
+	width: 100%;
+	text-align: center;
+	font-size: 20px;
+	line-height: 20px;
+	margin: 0 0 20px 0;
+	-webkit-animation: none;
+	}
+
+
+	/********* Navigation Menus *********/
+	
+	/* Nav Wrapper */
+	#nav {
+	width: 100%;
+	height: auto;
+	padding: 0 20px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box; 
+	}	
+	#nav ul {
+	display: none;
+	}
+	.mobile-menu {
+	display: inline-block;
+	height: 30px;
+	padding: 6px;
+	margin: 20px 0;
+	width: 100%;
+	font-size: 12px;
+	border-width: 1px;
+	border-style: solid;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box; 
+	}
+	
+	
+	/********* Social Icons *********/
+
+	#social-icons {
+	height: auto;
+	float: none;
+	width: 100%;
+	padding: 15px 0 13px 0;
+	margin: 0;
+	border-width: 1px 0 0 0;
+	text-align: center;
+	}
+	
+
+	/********* Top Content *********/
+
+	/* Top Content */
+	#top-content {
+	padding: 30px;
+	}
+	#top-content .left {
+	width: 100% !important;
+	margin-bottom: 20px;
+	}
+	#top-content .right {
+	width: 100% !important;
+	}
+
+	/* Breadcrumbs */
+	#breadcrumbs {
+	float: left;
+	width: 100%;
+	}
+
+	/* Search Form */
+	#top-content #searchform {
+	width: 100%;
+	margin: 0 0 10px 0;
+	}
+	
+		
+	/********* Page/Post Styling *********/
+	
+	/* Posts */
+	.post-loop {
+	width: 100% !important;
+	margin: 40px 0 0 0 !important;
+	}
+	.post-loop:first-child {
+	margin-top: 0 !important;
+	}
+	.spacing-small .post-loop {
+	margin: 20px 0 0 0 !important;
+	}
+	.post-text {
+	margin: 0 !important;
+	width: 100%;
+	}
+	
+	/* Post Thumbnail */
+	.post-thumbnail.wrap {
+	margin-bottom: 10px;
+	}
+	
+
+	/********* Lightbox *********/
+
+	.pp_pic_holder.pp_default {
+	width: 95% !important; 
+	left: 5% !important;
+	}
+	.pp_content {
+	width: 98% !important;
+	height: auto !important;
+	}
+	.pp_fade {
+	width: 100% !important;
+	height: 100% !important;
+	padding-bottom: 40px;
+	}
+	#pp_full_res img,
+	#pp_full_res iframe,
+	#pp_full_res video {
+	width: 100% !important;
+	height: auto !important;
+	max-width: none !important;
+	}
+	.pp_details {
+	width: 100% !important;
+	}
+	.ppt {
+	width: 100% !important;
+	margin-left: 0 !important;
+	}
+	
+		
+	/********* Shortcodes: Author Info *********/
+
+	.frame .author-info {
+	margin-left: -48px;
+	}
+	.author-info .author-name,
+	.author-info .author-links {
+	float: none;
+	}
+	.author-info .author-links a {
+	margin: 0;
+	line-height: 14px;
+	}
+
+	
+	/********* Shortcodes: Blockquotes *********/
+	
+	blockquote,
+	.blockquote-left,
+	.blockquote-right {
+	width: 100%;
+	margin: 0 0 12px 0;
+	padding: 0;
+	}
+	
+	
+	/********* Shortcodes: Columns *********/
+
+	/* General */
+	.columns {
+	width: 100% !important;
+	margin: 0 0 20px 0;
+	}
+	.columns > div {
+	height: auto !important;
+	}
+	.columns .sc-image {
+	position: relative !important;
+	}
+	
+	/* Joint Columns */
+	.columns.joint > div {
+	border-left-width: 0;
+	}
+	.columns.three.first.joint > div,
+	.columns.three.middle.joint > div {
+	border-bottom-width: 1px;
+	}
+	.columns.columns .three.joint,
+	.padding .columns.three.joint {
+	width: 100% !important;
+	}
+	
+
+	/********* Shortcodes: Images *********/
+	
+	/* Image */
+	.sc-image img {
+	height: auto !important;
+	}
+
+	
+	/********* Shortcodes: Price Box *********/
+	
+	.sc-price-box-inner {
+	padding: 20px;
+	}
+	.sc-price-box-price {
+	font-size: 20px;
+	line-height: 20px;
+	}
+
+
+	/********* Shortcodes: Pricing Table *********/
+	
+	.sc-pricing-table {
+	-webkit-text-size-adjust:none;
+	}
+	.sc-pricing-table thead th {
+	font-size: 12px;
+	}
+	.sc-pricing-table thead th span {
+	font-size: 10px;
+	}	
+	.sc-pricing-table .price {
+	font-size: 12px;
+	}
+	.sc-pricing-table .sc-button,
+	.sc-pricing-table .sc-button:hover {
+	background: none;
+	-pie-background: none;
+	padding: 0;
+	border: 0;
+	color: #333;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+	}
+	.sc-pricing-table .sc-button:hover {
+	color: #888;
+	}	
+
+
+	/********* Shortcodes: Slider *********/
+	
+	/* Slide Caption */
+	.caption h2 {
+	font-size: 12px;
+	font-weight: bold;
+	}
+	.caption {
+	padding: 10px 10px 0 10px;
+	font-size: 10px;
+	}
+			
+		
+	/********* Shortcodes: Tabs *********/
+	
+	.ui-tabs .ui-tabs-nav li { 
+	width: 100%;
+	border-bottom-width: 1px !important;
+	}
+	.ui-tabs .ui-tabs-nav li.ui-tabs-selected { 
+	border-bottom-color: #eee;
+	}
+	.ui-tabs .ui-tabs-nav li.ui-state-active {
+	border-bottom-color: #eee;
+	}
+
+
+	/********* Footer *********/
+	
+	/* Footer Container */
+	#footer-widgets > div {
+	width: 100%;
+	margin: 0;
+	}
+	
+	
+	/********* Comments Section *********/
+	
+	/* Comment Box */
+	.comment-avatar {
+	display: none;
+	}
+	.comment-body {
+	margin-left: 0;
+	}
+	
+	/* Child Comments */
+	#commentlist .children .comment-body {
+	margin-left: 10px;
+	}
+	
+	
+	/********* BuddyPress *********/
+	
+	/* Navigation */
+	.buddypress ul.item-list div.action {
+	position: relative;
+	top: auto;
+	right: auto;
+	margin-top: 10px;
+	}
+	.buddypress div.item-list-tabs {
+	margin-left: -40px;
+	padding-top: 8px !important;
+	padding-right: 40px;	
+	padding-bottom: 8px !important;
+	border-bottom: 1px solid #ddd;
+	}
+	.buddypress.fullwidth div.item-list-tabs {
+	padding: 0 40px;
+	}
+	.buddypress div.item-list-tabs ul li {
+	float: left;
+	clear: both;
+	border: 0;
+	}
+	.buddypress div.item-list-tabs ul li a {
+	padding: 8px 0 8px 0;
+	}
+	.buddypress div.item-list-tabs ul li a,
+	.buddypress #group-create-tabs.item-list-tabs ul li span {
+	padding-left: 0;
+	}	
+	.buddypress div.item-list-tabs#subnav ul li.last {
+	width: 100%;
+	margin: 10px 0 0 0;
+	}
+	
+	/* Item Header */	
+	.buddypress #item-header #item-header-content {
+	margin: 0;
+	clear: both;
+	}
+	.buddypress #item-header div#item-actions {
+	float: left;
+	width: 100%;
+	margin-left: 0;
+	text-align: left;
+	}
+	.buddypress #item-header ul li {
+	float: left;
+	}	
+	.buddypress .dir-form div.dir-search {
+	float: left;
+	margin-top: 0;
+	}	
+	
+	/* Lists */	
+	.buddypress ul.item-list div.action {
+	position: relative;
+	top: auto;
+	right: auto;
+	margin-top: 10px;	
+	}
+	.buddypress .main-column ul.item-list li {
+	line-height: 15px;
+	}
+	.buddypress .main-column ul.item-list li div.item-title,
+	.buddypress .main-column ul.item-list li h4 {
+	width: 100%;
+	}	
+	.buddypress .main-column  #item-header #item-header-content .activity,
+	.buddypress .main-column span.activity {
+	display: inline;
+	padding: 0;
+	border: 0;
+	background: none;
+	-pie-background: none;
+	}
+	.buddypress .main-column input[type="file"] {
+	width: 100%;
+	margin-bottom: 15px;
+	}	
+	.buddypress div.last.admin-links {
+	float: none;
+	}
+	
+	/* bbPress */
+	#content fieldset.bbp-form .quicktags-toolbar input,
+	#content #container fieldset.bbp-form .quicktags-toolbar input,
+	#content #wrapper fieldset.bbp-form .quicktags-toolbar input {
+	width: 100%;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box; 
+	}
+	#content .bbp-admin-links {
+	width: 100%;
+	margin-top: 10px;
+	}
+	#content li.bbp-forum-info,
+	#content li.bbp-topic-title {
+	display: block;
+	float: left;
+	clear: left;
+	width: 100%;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	}
+	#content #bbpress-forums li.bbp-header .bbp-topic-author,
+	#content #bbpress-forums li.bbp-footer .bbp-topic-author,
+	#content #bbpress-forums li.bbp-header .bbp-reply-author,
+	#content #bbpress-forums li.bbp-footer .bbp-reply-author {
+	display: none;
+	}
+	#content .bbp-reply-content span {
+	font-size: 10px;
+	}
+	.buddypress #topic-post-list .avatar,
+	#content .bbp-forum-topic-count,
+	#content .bbp-forum-reply-count,
+	#content .bbp-topic-voice-count,
+	#content .bbp-topic-reply-count,
+	#content .bbp-reply-author .avatar,
+	#content .bbp-reply-ip,
+	#content li.bbp-forum-freshness,
+	#content li.bbp-topic-freshness {
+	display: none;
+	}
+	.buddypress #topic-post-list li,
+	#content .bbp-form {
+	padding: 10px;
+	}
+	.buddypress .topic-meta,
+	#content .bbp-topic-meta {
+	display: inline;
+	}
+	.buddypress .td-title .topic-meta,
+	#content .bbp-topic-title .bbp-topic-meta {
+	display: block;
+	}
+	.buddypress #topic-post-list .post-content,
+	.buddypress #topic-post-list .admin-links,
+	#content #bbpress-forums div.bbp-topic-content,
+	#content #bbpress-forums div.bbp-reply-content,
+	#content #bbpress-forums li.bbp-header .bbp-topic-content,
+	#content #bbpress-forums li.bbp-footer .bbp-topic-content,
+	#content #bbpress-forums li.bbp-header .bbp-reply-content,
+	#content #bbpress-forums li.bbp-footer .bbp-reply-content {
+	margin-left: 0;
+	}
+	#content #bbpress-forums div.bbp-topic-author, 
+	#content #bbpress-forums div.bbp-reply-author {
+	width: 100%;
+	text-align: left;
+	float: none;
+	}
+	#content #bbpress-forums div.bbp-topic-author a.bbp-author-name,
+	#content #bbpress-forums div.bbp-reply-author a.bbp-author-name {
+	margin: 0;
+	display: inline;
+	}
+	#content #bbpress-forums div.bbp-topic-author br,
+	#content #bbpress-forums div.bbp-reply-author br {
+	display: none;
+	}
+	.buddypress #topic-post-list .admin-links {
+	margin-bottom: 0;
+	}
+	#content .bbp-author-name {
+	text-align: left;
+	}
+	#content #bbpress-forums div.bbp-the-content-wrapper {
+	float: left;
+	width: 100%;
+	}
+	
+	/* Search Form */
+	#top-content #searchform.bp-searchform {
+	width: 60%;
+	float: left;
+	}
+	
+}
+
+
+/******************************************  iPhone (Portrait)  ******************************************/
+
+@media only screen and (max-width: 480px) {
+
+
+	/********* Content Areas *********/
+
+	/* Content Wrapper */
+	.padding #content-wrapper {
+	padding: 20px;
+	}
+
+
+	/********* Top Content *********/
+
+	/* Top Content */
+	#top-content {
+	padding: 20px;
+	}
+	
+	
+	/********* Shortcodes: Author Info *********/
+
+	.frame .author-info {
+	margin-left: -28px;
+	}
+	
+	
+	/********* BuddyPress *********/
+
+	.buddypress div.item-list-tabs {
+	margin-left: -20px;
+	}
+	.buddypress.fullwidth div.item-list-tabs {
+	padding: 0 20px;
+	}
+	#bbpress-forums .bbp-body div.bbp-reply-author {
+	margin: 0 !important;
+	min-height: 0 !important;
+	padding: 0 !important;
+	}	
+	
+}

@@ -1,0 +1,3451 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Shortcodes Ultimate\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-05-05 22:01+0100\n"
+"PO-Revision-Date: 2014-05-05 22:01+0100\n"
+"Last-Translator: punc00 <punc00@hotmail.com>\n"
+"Language-Team: punC111999 <punc00@hotmail.com>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.4\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/vendor/sunrise.php:90 inc/vendor/sunrise.php:91
+#: inc/vendor/sunrise.php:122 inc/vendor/sunrise.php:123
+msgid "Plugin Settings"
+msgstr "Nastavení pluginu"
+
+#: inc/vendor/sunrise.php:178 inc/core/assets.php:92
+msgid "Choose file"
+msgstr "Vybrat soubor"
+
+#: inc/vendor/sunrise.php:179
+msgid "Use selected file"
+msgstr "Použít vybraný soubor"
+
+#: inc/vendor/sunrise.php:369
+msgid "Save changes"
+msgstr "Uložit změny"
+
+#: inc/vendor/sunrise.php:369
+msgid "Saving"
+msgstr "Ukládá se"
+
+#: inc/vendor/sunrise.php:369
+msgid "Saved"
+msgstr "Uloženo"
+
+#: inc/vendor/sunrise.php:369
+msgid ""
+"This action will delete all your settings. Are you sure? This action cannot "
+"be undone!"
+msgstr ""
+"Tato akce smaže všechna vaše nastavení. Jste si jistý/á. Tato akce je "
+"nevratná! "
+
+#: inc/vendor/sunrise.php:369
+msgid "Restore default settings"
+msgstr "Obnovit základní nastavení pluginu."
+
+#: inc/vendor/sunrise.php:376 inc/vendor/sunrise.php:385
+#: inc/vendor/sunrise.php:435
+msgid "Text field"
+msgstr "Textový řádek"
+
+#: inc/vendor/sunrise.php:397
+msgid "Textarea field"
+msgstr "Textové pole"
+
+#: inc/vendor/sunrise.php:408 inc/vendor/sunrise.php:419
+msgid "Checkbox"
+msgstr "Zaškrtávací políčko"
+
+#: inc/vendor/sunrise.php:409 inc/core/data.php:419 inc/core/data.php:443
+msgid "Label"
+msgstr "Nálepka"
+
+#: inc/vendor/sunrise.php:440 inc/core/generator-views.php:50
+#: inc/core/generator-views.php:55
+msgid "Media manager"
+msgstr "Správce médií"
+
+#: inc/vendor/sunrise.php:445
+msgid "Color picker"
+msgstr "Výběr barev"
+
+#: inc/vendor/sunrise.php:453
+msgid "Pick a color"
+msgstr "Vybrat barvu"
+
+#: inc/vendor/sunrise.php:477
+msgid ""
+"For full functionality of this page it is reccomended to enable javascript."
+msgstr "Pro plnou funkčnost této stránky je doporučeno aktivovat javaskript."
+
+#: inc/vendor/sunrise.php:478
+msgid "Settings saved successfully"
+msgstr "Nastavení úspěšně uloženo."
+
+#: inc/vendor/sunrise.php:479
+msgid "Settings reseted successfully"
+msgstr "Nastavení úspěšně resetováno."
+
+#: inc/vendor/sunrise.php:508
+#, php-format
+msgid "option type %s is not callable"
+msgstr "možnost typu %s není dosažitelná"
+
+#: inc/core/vote.php:42 inc/core/load.php:140
+msgid "Vladimir Anokhin"
+msgstr ""
+
+#: inc/core/vote.php:44
+msgid ""
+"Hello, my name is Vladimir Anokhin, and I am developer of plugin "
+"<b>Shortcodes Ultimate</b>.<br>If you like this plugin, please write a few "
+"words about it at the wordpress.org or twitter. It will help other people "
+"find this useful plugin more quickly.<br><b>Thank you!</b>"
+msgstr ""
+"Ahoj, jmenuji se Vladimir Anokhin a jsem autorem pluginu <b>Shortcodes "
+"Ultimate</b>.<br>Pokud se vám plugin líbí, prosím napište o něm pár slov na "
+"wordpress.org nebo twitter. Pomůže to najít tento užitečný plugin dalším "
+"lidem.<br><b>Děkuji!</b>"
+
+#: inc/core/vote.php:46
+msgid "Rate plugin"
+msgstr "Ohodnotit plugin"
+
+#: inc/core/vote.php:47
+msgid "Shortcodes Ultimate - must have WordPress plugin #shortcodesultimate"
+msgstr ""
+"Shortcodes Ultimate - WordPress plugin, který musíte mít #shortcodesultimate"
+
+#: inc/core/vote.php:47
+msgid "Tweet"
+msgstr ""
+
+#: inc/core/vote.php:48
+msgid "No, thanks"
+msgstr "Ne, děkuji"
+
+#: inc/core/vote.php:49
+msgid "or"
+msgstr "nebo"
+
+#: inc/core/vote.php:50
+msgid "Remind me later"
+msgstr "Připomenout později"
+
+#: inc/core/data.php:17
+msgid "All"
+msgstr "Vše"
+
+#: inc/core/data.php:18 inc/core/generator.php:177
+msgid "Content"
+msgstr "Obsah"
+
+#: inc/core/data.php:19 inc/core/data.php:827
+msgid "Box"
+msgstr ""
+
+#: inc/core/data.php:20
+msgid "Media"
+msgstr "Média"
+
+#: inc/core/data.php:21 inc/core/data.php:2097
+msgid "Gallery"
+msgstr "Galerie"
+
+#: inc/core/data.php:22
+msgid "Data"
+msgstr ""
+
+#: inc/core/data.php:23
+msgid "Other"
+msgstr "Jiné"
+
+#: inc/core/data.php:32 inc/core/data.php:1862 inc/core/data.php:1981
+#: inc/core/data.php:2119 inc/core/data.php:2263
+msgid "None"
+msgstr "Žádné"
+
+#: inc/core/data.php:33
+msgid "Solid"
+msgstr "Plná"
+
+#: inc/core/data.php:34
+msgid "Dotted"
+msgstr "Tečkovaná"
+
+#: inc/core/data.php:35
+msgid "Dashed"
+msgstr "Čárkovaná"
+
+#: inc/core/data.php:36
+msgid "Double"
+msgstr "Dvojitá"
+
+#: inc/core/data.php:37
+msgid "Groove"
+msgstr "Rýha"
+
+#: inc/core/data.php:38
+msgid "Ridge"
+msgstr "Hřeben"
+
+#: inc/core/data.php:62
+msgid "Basic examples"
+msgstr "Základní příklady"
+
+#: inc/core/data.php:65
+msgid "Accordions, spoilers, different styles, anchors"
+msgstr "Harmoniky, spoilery, různé styly, kotvy "
+
+#: inc/core/data.php:71
+msgid "Tabs, vertical tabs, tab anchors"
+msgstr "Záložky, vertiklní záložky, kotvy záložek"
+
+#: inc/core/data.php:77
+msgid "Column layouts"
+msgstr "Sloupcové layouty"
+
+#: inc/core/data.php:83
+msgid ""
+"Media elements, YouTube, Vimeo, Screenr and self-hosted videos, audio player"
+msgstr ""
+"Různé mediální prvky, YouTube, Vimeo, Screenr, videa na vlastním serveru i "
+"audiopřehrávač"
+
+#: inc/core/data.php:89
+msgid "Unlimited buttons"
+msgstr "Nekonečně mnoho tlačítek"
+
+#: inc/core/data.php:95
+msgid "Animations"
+msgstr "Animace"
+
+#: inc/core/data.php:103
+msgid "Advanced examples"
+msgstr "Pokročilé příklady"
+
+#: inc/core/data.php:106
+msgid "Interacting with posts shortcode"
+msgstr "Interakce s shortkódy pro články"
+
+#: inc/core/data.php:112
+msgid "Nested shortcodes, shortcodes inside of attributes"
+msgstr "Shortkódy uvnitř jiných shortkódů či atributů"
+
+#: inc/core/data.php:129
+msgid "Heading"
+msgstr "Nadpis"
+
+#: inc/core/data.php:136 inc/core/data.php:190 inc/core/data.php:274
+#: inc/core/data.php:426 inc/core/data.php:456 inc/core/data.php:517
+#: inc/core/data.php:684 inc/core/data.php:839 inc/core/data.php:1003
+#: inc/core/data.php:2466 inc/core/data.php:2518 inc/core/data.php:2581
+msgid "Default"
+msgstr "Základní"
+
+#: inc/core/data.php:139 inc/core/data.php:193 inc/core/data.php:279
+#: inc/core/data.php:459 inc/core/data.php:523 inc/core/data.php:695
+#: inc/core/data.php:846 inc/core/data.php:973
+msgid "Style"
+msgstr "Styl"
+
+#: inc/core/data.php:140
+msgid "Choose style for this heading"
+msgstr "Vybrat styl pro nadpis"
+
+#: inc/core/data.php:140 inc/core/data.php:194 inc/core/data.php:280
+#: inc/core/data.php:460
+msgid "Install additional styles"
+msgstr "Instalovat doplňkové styly"
+
+#: inc/core/data.php:148 inc/core/data.php:531 inc/core/data.php:610
+#: inc/core/data.php:716
+msgid "Size"
+msgstr "Velikost"
+
+#: inc/core/data.php:149
+msgid "Select heading size (pixels)"
+msgstr "Vybrat velikost nadpisu (v pixelech)"
+
+#: inc/core/data.php:154 inc/core/data.php:492 inc/core/data.php:553
+#: inc/core/data.php:981
+msgid "Left"
+msgstr "Nalevo"
+
+#: inc/core/data.php:155 inc/core/data.php:554 inc/core/data.php:1913
+#: inc/core/data.php:2051
+msgid "Center"
+msgstr "Uprostřed"
+
+#: inc/core/data.php:156 inc/core/data.php:493 inc/core/data.php:555
+#: inc/core/data.php:982
+msgid "Right"
+msgstr "napravo"
+
+#: inc/core/data.php:159 inc/core/data.php:496 inc/core/data.php:558
+msgid "Align"
+msgstr "zarovnání"
+
+#: inc/core/data.php:160
+msgid "Heading text alignment"
+msgstr "zarovnání textu nadpisu"
+
+#: inc/core/data.php:168
+msgid "Margin"
+msgstr "Okraj"
+
+#: inc/core/data.php:169
+msgid "Bottom margin (pixels)"
+msgstr "Spodní okraj (v pixelech)"
+
+#: inc/core/data.php:173 inc/core/data.php:213 inc/core/data.php:246
+#: inc/core/data.php:310 inc/core/data.php:328 inc/core/data.php:357
+#: inc/core/data.php:381 inc/core/data.php:409 inc/core/data.php:439
+#: inc/core/data.php:475 inc/core/data.php:500 inc/core/data.php:536
+#: inc/core/data.php:563 inc/core/data.php:579 inc/core/data.php:621
+#: inc/core/data.php:651 inc/core/data.php:773 inc/core/data.php:817
+#: inc/core/data.php:873 inc/core/data.php:910 inc/core/data.php:942
+#: inc/core/data.php:1044 inc/core/data.php:1060 inc/core/data.php:1112
+#: inc/core/data.php:1237 inc/core/data.php:1288 inc/core/data.php:1333
+#: inc/core/data.php:1432 inc/core/data.php:1471 inc/core/data.php:1541
+#: inc/core/data.php:1563 inc/core/data.php:1594 inc/core/data.php:1627
+#: inc/core/data.php:1643 inc/core/data.php:1673 inc/core/data.php:1693
+#: inc/core/data.php:1720 inc/core/data.php:1741 inc/core/data.php:1786
+#: inc/core/data.php:1831 inc/core/data.php:1950 inc/core/data.php:2088
+#: inc/core/data.php:2169 inc/core/data.php:2343 inc/core/data.php:2398
+#: inc/core/data.php:2444
+msgid "Class"
+msgstr "CSS třída"
+
+#: inc/core/data.php:174 inc/core/data.php:214 inc/core/data.php:247
+#: inc/core/data.php:311 inc/core/data.php:329 inc/core/data.php:358
+#: inc/core/data.php:382 inc/core/data.php:410 inc/core/data.php:440
+#: inc/core/data.php:476 inc/core/data.php:501 inc/core/data.php:537
+#: inc/core/data.php:564 inc/core/data.php:580 inc/core/data.php:622
+#: inc/core/data.php:652 inc/core/data.php:774 inc/core/data.php:818
+#: inc/core/data.php:874 inc/core/data.php:911 inc/core/data.php:943
+#: inc/core/data.php:1045 inc/core/data.php:1061 inc/core/data.php:1113
+#: inc/core/data.php:1238 inc/core/data.php:1289 inc/core/data.php:1334
+#: inc/core/data.php:1433 inc/core/data.php:1472 inc/core/data.php:1542
+#: inc/core/data.php:1564 inc/core/data.php:1595 inc/core/data.php:1628
+#: inc/core/data.php:1644 inc/core/data.php:1674 inc/core/data.php:1694
+#: inc/core/data.php:1721 inc/core/data.php:1742 inc/core/data.php:1787
+#: inc/core/data.php:1832 inc/core/data.php:1951 inc/core/data.php:2089
+#: inc/core/data.php:2170 inc/core/data.php:2344 inc/core/data.php:2399
+#: inc/core/data.php:2445
+msgid "Extra CSS class"
+msgstr "Speciální CSS třída"
+
+#: inc/core/data.php:177
+msgid "Heading text"
+msgstr "Text nadpisu"
+
+#: inc/core/data.php:178
+msgid "Styled heading"
+msgstr "Stylovaný nadpis"
+
+#: inc/core/data.php:183
+msgid "Tabs"
+msgstr "Záložky"
+
+#: inc/core/data.php:194
+msgid "Choose style for this tabs"
+msgstr "Vybrat styl pro tyto záložky"
+
+#: inc/core/data.php:202
+msgid "Active tab"
+msgstr "Aktivní záložka"
+
+#: inc/core/data.php:203
+msgid "Select which tab is open by default"
+msgstr "vyberte, která záložka bude otevřena defaultně"
+
+#: inc/core/data.php:208
+msgid "Vertical"
+msgstr "Vertikálně"
+
+#: inc/core/data.php:209
+msgid "Show tabs vertically"
+msgstr "Ukázat záložky vertikálně"
+
+#: inc/core/data.php:217
+msgid ""
+"[%prefix_tab title=\"Title 1\"]Content 1[/%prefix_tab]\n"
+"[%prefix_tab title=\"Title 2\"]Content 2[/%prefix_tab]\n"
+"[%prefix_tab title=\"Title 3\"]Content 3[/%prefix_tab]"
+msgstr ""
+"[%prefix_tab title=\"Nadpis 1\"]Obsah 1[/%prefix_tab]\n"
+"[%prefix_tab title=\"Nadpis 2\"]Obsah 2[/%prefix_tab]\n"
+"[%prefix_tab title=\"Nadpis 3\"]Obsah 3[/%prefix_tab]"
+
+#: inc/core/data.php:218
+msgid "Tabs container"
+msgstr "Tělo záložek"
+
+#: inc/core/data.php:224
+msgid "Tab"
+msgstr "Záložka"
+
+#: inc/core/data.php:229
+msgid "Tab name"
+msgstr "Název záložky"
+
+#: inc/core/data.php:230 inc/core/data.php:263 inc/core/data.php:791
+#: inc/core/data.php:834 inc/core/data.php:1500
+msgid "Title"
+msgstr "Název"
+
+#: inc/core/data.php:231
+msgid "Enter tab name"
+msgstr "Vložte jméno záložky"
+
+#: inc/core/data.php:236
+msgid "Disabled"
+msgstr "Vypnuto"
+
+#: inc/core/data.php:237
+msgid "Is this tab disabled"
+msgstr "Je tato záložka vypnuta"
+
+#: inc/core/data.php:241 inc/core/data.php:305
+msgid "Anchor"
+msgstr "Kotva"
+
+#: inc/core/data.php:242
+msgid ""
+"You can use unique anchor for this tab to access it with hash in page url. "
+"For example: type here <b%value>Hello</b> and then use url like http://"
+"example.com/page-url#Hello. This tab will be activated and scrolled in"
+msgstr ""
+"V této záložce můžete použít unikátní kotvu, k níž bude odkázáno kódem v "
+"URL. Např. sem napište <b%value>Ahoj</b> a potom použijte URL ve tvaru "
+"http://example.com/page-url#Ahoj. Tato záložka bude aktivována a skrolována "
+"na kotvu."
+
+#: inc/core/data.php:250
+msgid "Tab content"
+msgstr "Obsah záložky"
+
+#: inc/core/data.php:251
+msgid "Single tab"
+msgstr "Jednotlivá záložka"
+
+#: inc/core/data.php:257
+msgid "Spoiler"
+msgstr "Spoiler"
+
+#: inc/core/data.php:262 inc/core/shortcodes.php:72
+msgid "Spoiler title"
+msgstr "Název spoileru"
+
+#: inc/core/data.php:263
+msgid "Text in spoiler title"
+msgstr "Text v nadpisu spoileru"
+
+#: inc/core/data.php:268
+msgid "Open"
+msgstr "Otevřít"
+
+#: inc/core/data.php:269
+msgid "Is spoiler content visible by default"
+msgstr "Je obsah spoileru viditelný v základu"
+
+#: inc/core/data.php:275
+msgid "Fancy"
+msgstr "Elegantní"
+
+#: inc/core/data.php:276 inc/core/data.php:520
+msgid "Simple"
+msgstr "Jednoduché"
+
+#: inc/core/data.php:280
+msgid "Choose style for this spoiler"
+msgstr "Vybrat styl pro tento spoiler"
+
+#: inc/core/data.php:285
+msgid "Plus"
+msgstr "Plus"
+
+#: inc/core/data.php:286
+msgid "Plus circle"
+msgstr "Plus oblé"
+
+#: inc/core/data.php:287
+msgid "Plus square 1"
+msgstr "Plus hranaté 1"
+
+#: inc/core/data.php:288
+msgid "Plus square 2"
+msgstr "Plus hranaté 2"
+
+#: inc/core/data.php:289
+msgid "Arrow"
+msgstr "Šipka"
+
+#: inc/core/data.php:290
+msgid "Arrow circle 1"
+msgstr "Šipka oblá 1"
+
+#: inc/core/data.php:291
+msgid "Arrow circle 2"
+msgstr "Šipka oblá 2"
+
+#: inc/core/data.php:292
+msgid "Chevron"
+msgstr "Šipka dolů"
+
+#: inc/core/data.php:293
+msgid "Chevron circle"
+msgstr "Šipka dolů oblá"
+
+#: inc/core/data.php:294
+msgid "Caret"
+msgstr "Trojúhelník"
+
+#: inc/core/data.php:295
+msgid "Caret square"
+msgstr "Trojúhelník hranatý"
+
+#: inc/core/data.php:296
+msgid "Folder 1"
+msgstr "Složka 1"
+
+#: inc/core/data.php:297
+msgid "Folder 2"
+msgstr "Složka 2"
+
+#: inc/core/data.php:300 inc/core/data.php:640 inc/core/data.php:746
+#: inc/core/data.php:797
+msgid "Icon"
+msgstr "Ikonka"
+
+#: inc/core/data.php:301
+msgid "Icons for spoiler"
+msgstr "ikony pro spoiler"
+
+#: inc/core/data.php:306
+msgid ""
+"You can use unique anchor for this spoiler to access it with hash in page "
+"url. For example: type here <b%value>Hello</b> and then use url like http://"
+"example.com/page-url#Hello. This spoiler will be open and scrolled in"
+msgstr ""
+"V tomto spoileru můžete použít unikátní kotvu, k níž bude odkázáno kódem v "
+"URL. Např. sem napište <b%value>Ahoj</b> a potom použijte URL ve tvaru "
+"http://example.com/page-url#Ahoj. Tento spoiler bude aktivován a skrolován "
+"na kotvu."
+
+#: inc/core/data.php:314
+msgid "Hidden content"
+msgstr "Skrytý obsah"
+
+#: inc/core/data.php:315
+msgid "Spoiler with hidden content"
+msgstr "Spoiler se skrytým obsahem"
+
+#: inc/core/data.php:316 inc/core/data.php:334
+msgid ""
+"Did you know that you can wrap multiple spoilers with [accordion] shortcode "
+"to create accordion effect?"
+msgstr ""
+"Věděli jste, že můžete uzavřít několik spoilerů do shortkódu [accordion], "
+"abyste dosáhli efektu harmoniky?"
+
+#: inc/core/data.php:322
+msgid "Accordion"
+msgstr "Harmonika"
+
+#: inc/core/data.php:332
+msgid ""
+"[%prefix_spoiler]Content[/%prefix_spoiler]\n"
+"[%prefix_spoiler]Content[/%prefix_spoiler]\n"
+"[%prefix_spoiler]Content[/%prefix_spoiler]"
+msgstr ""
+"[%prefix_spoiler]Obsah[/%prefix_spoiler]\n"
+"[%prefix_spoiler]Obsah[/%prefix_spoiler]\n"
+"[%prefix_spoiler]Obsah[/%prefix_spoiler]"
+
+#: inc/core/data.php:333
+msgid "Accordion with spoilers"
+msgstr "Harmonika se spoilery"
+
+#: inc/core/data.php:340
+msgid "Divider"
+msgstr "Oddělovač"
+
+#: inc/core/data.php:347
+msgid "Show TOP link"
+msgstr "Ukázat odkaz \"JÍT NAHORU\""
+
+#: inc/core/data.php:348
+msgid "Show link to top of the page or not"
+msgstr "Ukázat odkaz na vršek stránek nebo ne"
+
+#: inc/core/data.php:352 inc/core/shortcodes.php:99
+msgid "Go to top"
+msgstr "Jít nahoru"
+
+#: inc/core/data.php:353
+msgid "Link text"
+msgstr "Text odkazu"
+
+#: inc/core/data.php:353
+msgid "Text for the GO TOP link"
+msgstr "Text pro odkaz \"JÍT NAHORU\""
+
+#: inc/core/data.php:361
+msgid "Content divider with optional TOP link"
+msgstr "Oddělovač obsahu s potenciálním odkazem \"JÍT NAHORU\""
+
+#: inc/core/data.php:366
+msgid "Spacer"
+msgstr "Místo"
+
+#: inc/core/data.php:376 inc/core/data.php:1095 inc/core/data.php:1152
+#: inc/core/data.php:1271 inc/core/data.php:1322 inc/core/data.php:1366
+#: inc/core/data.php:1518 inc/core/data.php:1775 inc/core/data.php:1814
+#: inc/core/data.php:1897 inc/core/data.php:2017 inc/core/data.php:2154
+#: inc/core/data.php:2371
+msgid "Height"
+msgstr "Výška"
+
+#: inc/core/data.php:377
+msgid "Height of the spacer in pixels"
+msgstr "Výška v pixelech"
+
+#: inc/core/data.php:385
+msgid "Empty space with adjustable height"
+msgstr "prázdné místo s nastavitelnou výškou"
+
+#: inc/core/data.php:390
+msgid "Highlight"
+msgstr "Zvýraznění"
+
+#: inc/core/data.php:398 inc/core/data.php:701 inc/core/data.php:891
+msgid "Background"
+msgstr "Pozadí"
+
+#: inc/core/data.php:399
+msgid "Highlighted text background color"
+msgstr "Barva pozadí zvýrazněného textu"
+
+#: inc/core/data.php:405 inc/core/data.php:707 inc/core/data.php:897
+msgid "Text color"
+msgstr "Barva textu"
+
+#: inc/core/data.php:405
+msgid "Highlighted text color"
+msgstr "Barva zvýraznéného textu"
+
+#: inc/core/data.php:413 inc/core/data.php:414
+msgid "Highlighted text"
+msgstr "Zvýrazněný text"
+
+#: inc/core/data.php:427
+msgid "Success"
+msgstr "Úspěch"
+
+#: inc/core/data.php:428
+msgid "Warning"
+msgstr "Varování"
+
+#: inc/core/data.php:429
+msgid "Important"
+msgstr "Důležité"
+
+#: inc/core/data.php:430
+msgid "Black"
+msgstr "Černý"
+
+#: inc/core/data.php:431
+msgid "Info"
+msgstr ""
+
+#: inc/core/data.php:434
+msgid "Type"
+msgstr "typ"
+
+#: inc/core/data.php:435
+msgid "Style of the label"
+msgstr "Styl nálepky"
+
+#: inc/core/data.php:444
+msgid "Styled label"
+msgstr "Stylovaná nálepka"
+
+#: inc/core/data.php:449 inc/core/data.php:479
+msgid "Quote"
+msgstr "Citát"
+
+#: inc/core/data.php:460
+msgid "Choose style for this quote"
+msgstr "vybete styl pro tento citát"
+
+#: inc/core/data.php:464
+msgid "Cite"
+msgstr "Citovat"
+
+#: inc/core/data.php:465
+msgid "Quote author name"
+msgstr "Jméno autora citace"
+
+#: inc/core/data.php:470
+msgid "Cite url"
+msgstr "URL citace"
+
+#: inc/core/data.php:471
+msgid "Url of the quote author. Leave empty to disable link"
+msgstr "URL autora citace. Nechcete-li uvádět, nechte prázdné"
+
+#: inc/core/data.php:480
+msgid "Blockquote alternative"
+msgstr "Citační alternativy"
+
+#: inc/core/data.php:485 inc/core/data.php:504 inc/core/data.php:505
+msgid "Pullquote"
+msgstr "Zvýrazněná citace"
+
+#: inc/core/data.php:496
+msgid "Pullquote alignment (float)"
+msgstr "Zarovnání zvýrazněné citace (float)"
+
+#: inc/core/data.php:510 inc/core/data.php:541
+msgid "Dropcap"
+msgstr "Iniciála"
+
+#: inc/core/data.php:518 inc/core/data.php:685
+msgid "Flat"
+msgstr "Plochý"
+
+#: inc/core/data.php:519
+msgid "Light"
+msgstr "Světlý"
+
+#: inc/core/data.php:523
+msgid "Dropcap style preset"
+msgstr "Styl iniciály"
+
+#: inc/core/data.php:532
+msgid "Choose dropcap size"
+msgstr "Vybrat velikost iniciály."
+
+#: inc/core/data.php:540
+msgid "D"
+msgstr ""
+
+#: inc/core/data.php:546
+msgid "Frame"
+msgstr "Obrázek"
+
+#: inc/core/data.php:559
+msgid "Frame alignment"
+msgstr "Zarovnání obrázku"
+
+#: inc/core/data.php:568
+msgid "Styled image frame"
+msgstr "Stylovaný obrázek"
+
+#: inc/core/data.php:573
+msgid "Row"
+msgstr "Řádek"
+
+#: inc/core/data.php:583
+msgid ""
+"[%prefix_column size=\"1/3\"]Content[/%prefix_column]\n"
+"[%prefix_column size=\"1/3\"]Content[/%prefix_column]\n"
+"[%prefix_column size=\"1/3\"]Content[/%prefix_column]"
+msgstr ""
+"[%prefix_column size=\"1/3\"]Obsah[/%prefix_column]\n"
+"[%prefix_column size=\"1/3\"]Obsah[/%prefix_column]\n"
+"[%prefix_column size=\"1/3\"]Obsah[/%prefix_column]"
+
+#: inc/core/data.php:584
+msgid "Row for flexible columns"
+msgstr "Řádek pro flexibilní sloupce"
+
+#: inc/core/data.php:589
+msgid "Column"
+msgstr "Sloupec"
+
+#: inc/core/data.php:596
+msgid "Full width"
+msgstr "Plná šířka"
+
+#: inc/core/data.php:597
+msgid "One half"
+msgstr "Jedna polovina"
+
+#: inc/core/data.php:598
+msgid "One third"
+msgstr "Jedna třetina"
+
+#: inc/core/data.php:599
+msgid "Two third"
+msgstr "Dvě třetiny"
+
+#: inc/core/data.php:600
+msgid "One fourth"
+msgstr "Jedna čtvrtina"
+
+#: inc/core/data.php:601
+msgid "Three fourth"
+msgstr "Tři čtvrtiny"
+
+#: inc/core/data.php:602
+msgid "One fifth"
+msgstr "Jedna pětina"
+
+#: inc/core/data.php:603
+msgid "Two fifth"
+msgstr "Dvě pětiny"
+
+#: inc/core/data.php:604
+msgid "Three fifth"
+msgstr "Tři pětiny"
+
+#: inc/core/data.php:605
+msgid "Four fifth"
+msgstr "Čtyři pětiny"
+
+#: inc/core/data.php:606
+msgid "One sixth"
+msgstr "jedna šestina"
+
+#: inc/core/data.php:607
+msgid "Five sixth"
+msgstr "Pět šestin"
+
+#: inc/core/data.php:611
+msgid "Select column width. This width will be calculated depend page width"
+msgstr ""
+"Vyberte šířku sloupce. tato šířka bude počítána v závislosti na šířce stránky"
+
+#: inc/core/data.php:616 inc/core/data.php:727
+msgid "Centered"
+msgstr "Centrováno"
+
+#: inc/core/data.php:617
+msgid "Is this column centered on the page"
+msgstr "Je tento sloupec centrovaný na stránce"
+
+#: inc/core/data.php:625
+msgid "Column content"
+msgstr "Obsah sloupce"
+
+#: inc/core/data.php:626
+msgid "Flexible and responsive columns"
+msgstr "Flexibilní a responzivní sloupce"
+
+#: inc/core/data.php:627
+msgid "Did you know that you need to wrap columns with [row] shortcode?"
+msgstr "Věděli jste, že musíte zabalit sloupce do [row] shortkódu?"
+
+#: inc/core/data.php:633
+msgid "List"
+msgstr "Seznam"
+
+#: inc/core/data.php:641
+msgid "You can upload custom icon for this list or pick a built-in icon"
+msgstr ""
+"Můete nahrát vlastní ikonu pro tento seznam nebo vybrat některou z "
+"nabízených ikon"
+
+#: inc/core/data.php:646 inc/core/data.php:752 inc/core/data.php:803
+msgid "Icon color"
+msgstr "Barva ikony"
+
+#: inc/core/data.php:647 inc/core/data.php:753 inc/core/data.php:804
+msgid ""
+"This color will be applied to the selected icon. Does not works with "
+"uploaded icons"
+msgstr ""
+"tato barva bude aplikována na vybranou ikonu. nebude fungovat na vámi "
+"uploadované ikony"
+
+#: inc/core/data.php:655
+msgid ""
+"<ul>\n"
+"<li>List item</li>\n"
+"<li>List item</li>\n"
+"<li>List item</li>\n"
+"</ul>"
+msgstr ""
+"<ul>\n"
+"<li>Položka seznamu</li>\n"
+"<li>Položka seznamu</li>\n"
+"<li>Položka seznamu</li>\n"
+"</ul>"
+
+#: inc/core/data.php:656
+msgid "Styled unordered list"
+msgstr "Stylovaný nečíslovaný seznm"
+
+#: inc/core/data.php:661
+msgid "Button"
+msgstr "Tlačítko"
+
+#: inc/core/data.php:668
+msgid "Link"
+msgstr "Odkaz"
+
+#: inc/core/data.php:669
+msgid "Button link"
+msgstr "Odkaz tlačítka"
+
+#: inc/core/data.php:674 inc/core/data.php:1585
+msgid "Same tab"
+msgstr "Stejná záložka"
+
+#: inc/core/data.php:675 inc/core/data.php:1586
+msgid "New tab"
+msgstr "Nová záložka"
+
+#: inc/core/data.php:678 inc/core/data.php:1589
+msgid "Target"
+msgstr "Otevřít v"
+
+#: inc/core/data.php:679
+msgid "Button link target"
+msgstr "Cíl odkazu tlačítka"
+
+#: inc/core/data.php:686
+msgid "Ghost"
+msgstr "Duch"
+
+#: inc/core/data.php:687 inc/core/data.php:840
+msgid "Soft"
+msgstr "Měkké"
+
+#: inc/core/data.php:688 inc/core/data.php:841
+msgid "Glass"
+msgstr "Sklo"
+
+#: inc/core/data.php:689 inc/core/data.php:842
+msgid "Bubbles"
+msgstr "Bubliny"
+
+#: inc/core/data.php:690 inc/core/data.php:843
+msgid "Noise"
+msgstr "Hluk"
+
+#: inc/core/data.php:691
+msgid "Stroked"
+msgstr "Údery štětcem"
+
+#: inc/core/data.php:692
+msgid "3D"
+msgstr ""
+
+#: inc/core/data.php:695
+msgid "Button background style preset"
+msgstr "Vzor stylu pozadí tlačítka"
+
+#: inc/core/data.php:701
+msgid "Button background color"
+msgstr "Barva pozadí Tlačítka"
+
+#: inc/core/data.php:708
+msgid "Button text color"
+msgstr "Barva textu tlačítka"
+
+#: inc/core/data.php:717
+msgid "Button size"
+msgstr "Velikost tlačítka"
+
+#: inc/core/data.php:722
+msgid "Fluid"
+msgstr "Proměnlivý"
+
+#: inc/core/data.php:722
+msgid "Fluid buttons has 100% width"
+msgstr "Proměnlivá tlačítka ma jí 100% šířku"
+
+#: inc/core/data.php:727
+msgid "Is button centered on the page"
+msgstr "Je tlačítko centrováno na stránce"
+
+#: inc/core/data.php:732
+msgid "Auto"
+msgstr ""
+
+#: inc/core/data.php:733
+msgid "Round"
+msgstr "Zaoblený"
+
+#: inc/core/data.php:734
+msgid "Square"
+msgstr "Hranatý"
+
+#: inc/core/data.php:740 inc/core/data.php:868 inc/core/data.php:906
+msgid "Radius"
+msgstr "Úhel"
+
+#: inc/core/data.php:741
+msgid "Radius of button corners. Auto-radius calculation based on button size"
+msgstr ""
+"Úhel zaoblení rohů tlačítka. Automatické zaoblení odvisí od velikosti "
+"tlačítka "
+
+#: inc/core/data.php:747
+msgid "You can upload custom icon for this button or pick a built-in icon"
+msgstr ""
+"Můžete nahrát vlastní ikonu pro toto tlačítko anebo použít jednu z "
+"nabízených ikon "
+
+#: inc/core/data.php:758
+msgid "Text shadow"
+msgstr "Stín textu"
+
+#: inc/core/data.php:759
+msgid "Button text shadow"
+msgstr "Stín textu tlačítka"
+
+#: inc/core/data.php:763
+msgid "Description"
+msgstr "Popis"
+
+#: inc/core/data.php:764
+msgid ""
+"Small description under button text. This option is incompatible with icon."
+msgstr ""
+"Drobný popis pod textem tlačítka. Tato možnost není kompatibilní s ikonou."
+
+#: inc/core/data.php:768
+msgid "onClick"
+msgstr ""
+
+#: inc/core/data.php:769
+msgid "Advanced JavaScript code for onClick action"
+msgstr "Pokročilý javaskriptový kód pro onClick"
+
+#: inc/core/data.php:777
+msgid "Button text"
+msgstr "Text tlačítka"
+
+#: inc/core/data.php:778
+msgid "Styled button"
+msgstr "Stylované tlačítko"
+
+#: inc/core/data.php:784
+msgid "Service"
+msgstr "Služba"
+
+#: inc/core/data.php:790 inc/core/shortcodes.php:430
+msgid "Service title"
+msgstr "Název služby"
+
+#: inc/core/data.php:792
+msgid "Service name"
+msgstr "Název služby"
+
+#: inc/core/data.php:798
+msgid "You can upload custom icon for this box"
+msgstr "Můžete uploadovat vlastní ikonu pro tento box"
+
+#: inc/core/data.php:812
+msgid "Icon size"
+msgstr "Velikost ikony"
+
+#: inc/core/data.php:813
+msgid "Size of the uploaded icon in pixels"
+msgstr "Velikost uploadované ikony v pixelech"
+
+#: inc/core/data.php:821
+msgid "Service description"
+msgstr "Popis služby"
+
+#: inc/core/data.php:822
+msgid "Service box with title"
+msgstr "Box služeb s nadpisem"
+
+#: inc/core/data.php:833
+msgid "Box title"
+msgstr "Název boxu"
+
+#: inc/core/data.php:834
+msgid "Text for the box title"
+msgstr "Text pro název boxu"
+
+#: inc/core/data.php:847
+msgid "Box style preset"
+msgstr "Vzor stylu boxu"
+
+#: inc/core/data.php:853 inc/core/generator-views.php:99
+msgid "Color"
+msgstr "Barva"
+
+#: inc/core/data.php:854
+msgid "Color for the box title and borders"
+msgstr "Barva pro název boxu a okraje"
+
+#: inc/core/data.php:860
+msgid "Title text color"
+msgstr "Barva názvu boxu"
+
+#: inc/core/data.php:860
+msgid "Color for the box title text"
+msgstr "Barva textu názvu boxu"
+
+#: inc/core/data.php:869
+msgid "Box corners radius"
+msgstr "Zaoblení rohů boxu"
+
+#: inc/core/data.php:877
+msgid "Box content"
+msgstr "Obsah boxu"
+
+#: inc/core/data.php:878
+msgid "Colored box with caption"
+msgstr "Barevný box s nadpisem"
+
+#: inc/core/data.php:883
+msgid "Note"
+msgstr "Poznámka"
+
+#: inc/core/data.php:891
+msgid "Note background color"
+msgstr "Barva pozadí poznámky"
+
+#: inc/core/data.php:898
+msgid "Note text color"
+msgstr "Barva textu poznámky"
+
+#: inc/core/data.php:906
+msgid "Note corners radius"
+msgstr "Úhel zaoblení poznámky"
+
+#: inc/core/data.php:914
+msgid "Note text"
+msgstr "Text poznámky"
+
+#: inc/core/data.php:915
+msgid "Colored box"
+msgstr "Barevný box"
+
+#: inc/core/data.php:920 inc/core/data.php:1864 inc/core/data.php:1983
+#: inc/core/data.php:2121
+msgid "Lightbox"
+msgstr ""
+
+#: inc/core/data.php:927
+msgid "Iframe"
+msgstr ""
+
+#: inc/core/data.php:928
+msgid "Image"
+msgstr "Obrázek"
+
+#: inc/core/data.php:929
+msgid "Inline (html content)"
+msgstr "Inline (html obsah)"
+
+#: inc/core/data.php:932
+msgid "Content type"
+msgstr "Typ obsahu"
+
+#: inc/core/data.php:933
+msgid "Select type of the lightbox window content"
+msgstr "Vybrat typ obsahu lightboxového okna"
+
+#: inc/core/data.php:937
+msgid "Content source"
+msgstr "Zdroj obsahu"
+
+#: inc/core/data.php:938
+msgid ""
+"Insert here URL or CSS selector. Use URL for Iframe and Image content types. "
+"Use CSS selector for Inline content type.<br />Example values:<br /><b"
+"%value>http://www.youtube.com/watch?v=XXXXXXXXX</b> - YouTube video "
+"(iframe)<br /><b%value>http://example.com/wp-content/uploads/image.jpg</b> - "
+"uploaded image (image)<br /><b%value>http://example.com/</b> - any web page "
+"(iframe)<br /><b%value>#contact-form</b> - any HTML content (inline)"
+msgstr ""
+"Vložte sem URLnebo CSS selektor. použijte URL pro takové typy obsahu jako "
+"Iframe nebo obrázek. Použijte CSS selektor pro Inline typy obsahu.<br /"
+">Příklady hodnot:<br /><b%value>http://www.youtube.com/watch?v=XXXXXXXXX</b> "
+"- YouTube video (iframe)<br /><b%value>http://example.com/wp-content/uploads/"
+"image.jpg</b> - Nahraný obrázek (obrázek)<br /><b%value>http://example.com/</"
+"b> - any web page (iframe)<br /><b%value>#contact-form</b> - jakýkoliv HTML "
+"obsah (inline)"
+
+#: inc/core/data.php:946
+msgid "[%prefix_button] Click Here to Watch the Video [/%prefix_button]"
+msgstr "[%prefix_button] Pro prohlížení videa klikněte zde [/%prefix_button]"
+
+#: inc/core/data.php:947
+msgid "Lightbox window with custom content"
+msgstr "Okno lightboxu s vlastním obsahem"
+
+#: inc/core/data.php:952
+msgid "Tooltip"
+msgstr "Vyskakovací tip"
+
+#: inc/core/data.php:959
+msgid "Basic: Light"
+msgstr "Základní: světlý"
+
+#: inc/core/data.php:960
+msgid "Basic: Dark"
+msgstr "Základní: tmavý"
+
+#: inc/core/data.php:961
+msgid "Basic: Yellow"
+msgstr "Základní: žlutý"
+
+#: inc/core/data.php:962
+msgid "Basic: Green"
+msgstr "Základní: zelený"
+
+#: inc/core/data.php:963
+msgid "Basic: Red"
+msgstr "Základní: červený"
+
+#: inc/core/data.php:964
+msgid "Basic: Blue"
+msgstr "Základní: modrý"
+
+#: inc/core/data.php:965
+msgid "Youtube"
+msgstr ""
+
+#: inc/core/data.php:966
+msgid "Tipsy"
+msgstr ""
+
+#: inc/core/data.php:967
+msgid "Bootstrap"
+msgstr ""
+
+#: inc/core/data.php:968
+msgid "jTools"
+msgstr ""
+
+#: inc/core/data.php:969
+msgid "Tipped"
+msgstr ""
+
+#: inc/core/data.php:970
+msgid "Cluetip"
+msgstr ""
+
+#: inc/core/data.php:974
+msgid "Tooltip window style"
+msgstr "Styl vyskakovacího okna"
+
+#: inc/core/data.php:979
+msgid "Top"
+msgstr "Nahoře"
+
+#: inc/core/data.php:980
+msgid "Bottom"
+msgstr "Dole"
+
+#: inc/core/data.php:985
+msgid "Position"
+msgstr "Umístění"
+
+#: inc/core/data.php:986
+msgid "Tooltip position"
+msgstr "Umístění tipu"
+
+#: inc/core/data.php:991
+msgid "Shadow"
+msgstr "Stín"
+
+#: inc/core/data.php:992
+msgid ""
+"Add shadow to tooltip. This option is only works with basic styes, e.g. "
+"blue, green etc."
+msgstr ""
+"Přidat stín k vyskakovacímu tipu. tato možnost je dotupná pouze pro základní "
+"styly, např. modrý, zelený apod."
+
+#: inc/core/data.php:997
+msgid "Rounded corners"
+msgstr "Zaoblené rohy"
+
+#: inc/core/data.php:998
+msgid ""
+"Use rounded for tooltip. This option is only works with basic styes, e.g. "
+"blue, green etc."
+msgstr ""
+"Použít zaoblené vyskakovací okno. Tato možnost je funkční pouze pro základní "
+"styly, např. modrý, zelený apod."
+
+#: inc/core/data.php:1012
+msgid "Font size"
+msgstr "Velikost písma"
+
+#: inc/core/data.php:1013
+msgid "Tooltip font size"
+msgstr "velikost písma vyskakovacího tipu"
+
+#: inc/core/data.php:1017
+msgid "Tooltip title"
+msgstr "Název vyskakovacího tipu"
+
+#: inc/core/data.php:1018
+msgid ""
+"Enter title for tooltip window. Leave this field empty to hide the title"
+msgstr ""
+"Vloži název pro vyskakovací okno s tipem. Nechte prázdné, pokud nechcete "
+"zobrazit název"
+
+#: inc/core/data.php:1021 inc/core/shortcodes.php:508
+msgid "Tooltip text"
+msgstr "Text tipu"
+
+#: inc/core/data.php:1022
+msgid "Tooltip content"
+msgstr "Obsah tipu"
+
+#: inc/core/data.php:1023
+msgid "Enter tooltip content here"
+msgstr "Vložte obsah tipu zde"
+
+#: inc/core/data.php:1028
+msgid "Show and hide on mouse hover"
+msgstr "Ukázat a schovat při přejetí myši"
+
+#: inc/core/data.php:1029
+msgid "Show and hide by mouse click"
+msgstr "Ukázat a schovat při kliknutí myši"
+
+#: inc/core/data.php:1030
+msgid "Always visible"
+msgstr "Vždy viditelné"
+
+#: inc/core/data.php:1033
+msgid "Behavior"
+msgstr "Chování"
+
+#: inc/core/data.php:1034
+msgid "Select tooltip behavior"
+msgstr "Vyber chování vyskakovacího tipu"
+
+#: inc/core/data.php:1039
+msgid "Close button"
+msgstr "Zavřít tlačítko"
+
+#: inc/core/data.php:1040
+msgid "Show close button"
+msgstr "Ukázat tlačítko \"Zavřít\""
+
+#: inc/core/data.php:1048
+msgid "[%prefix_button] Hover me to open tooltip [/%prefix_button]"
+msgstr "[%prefix_button] Přejeď mě myší, aby se ukázal tip [/%prefix_button]"
+
+#: inc/core/data.php:1049
+msgid "Tooltip window with custom content"
+msgstr "Okno tipu s vlastním obsahem"
+
+#: inc/core/data.php:1054
+msgid "Private"
+msgstr "Soukromý"
+
+#: inc/core/data.php:1064
+msgid "Private note text"
+msgstr "Text soukromé poznámky"
+
+#: inc/core/data.php:1065
+msgid "Private note for post authors"
+msgstr "Soukromá poznámka pro autory článku"
+
+#: inc/core/data.php:1070
+msgid "YouTube"
+msgstr ""
+
+#: inc/core/data.php:1077 inc/core/data.php:1129 inc/core/data.php:1254
+#: inc/core/data.php:1304 inc/core/data.php:1348 inc/core/data.php:1660
+#: inc/core/data.php:1757
+msgid "Url"
+msgstr ""
+
+#: inc/core/data.php:1078 inc/core/data.php:1130
+msgid "Url of YouTube page with video. Ex: http://youtube.com/watch?v=XXXXXX"
+msgstr ""
+"URL YouTube stránky, z níž je video. Např: http://youtube.com/watch?v=XXXXXX"
+
+#: inc/core/data.php:1086 inc/core/data.php:1143 inc/core/data.php:1262
+#: inc/core/data.php:1313 inc/core/data.php:1357 inc/core/data.php:1454
+#: inc/core/data.php:1509 inc/core/data.php:1766 inc/core/data.php:1805
+#: inc/core/data.php:1889 inc/core/data.php:2008 inc/core/data.php:2146
+#: inc/core/data.php:2362
+msgid "Width"
+msgstr "Šířka"
+
+#: inc/core/data.php:1087 inc/core/data.php:1144 inc/core/data.php:1263
+#: inc/core/data.php:1314 inc/core/data.php:1358 inc/core/data.php:1510
+msgid "Player width"
+msgstr "Šířka přehrávače"
+
+#: inc/core/data.php:1096 inc/core/data.php:1153 inc/core/data.php:1272
+#: inc/core/data.php:1323 inc/core/data.php:1367 inc/core/data.php:1519
+msgid "Player height"
+msgstr "Výška přehrávače"
+
+#: inc/core/data.php:1101 inc/core/data.php:1158 inc/core/data.php:1277
+#: inc/core/data.php:1328 inc/core/data.php:1372 inc/core/data.php:1781
+#: inc/core/data.php:1820 inc/core/data.php:1902 inc/core/data.php:2023
+msgid "Responsive"
+msgstr "Responzivní"
+
+#: inc/core/data.php:1102 inc/core/data.php:1159 inc/core/data.php:1278
+#: inc/core/data.php:1329 inc/core/data.php:1373
+msgid "Ignore width and height parameters and make player responsive"
+msgstr "Nezadávat pevnou výšku a šířku - přehrávač bude responzivní "
+
+#: inc/core/data.php:1107 inc/core/data.php:1192 inc/core/data.php:1283
+#: inc/core/data.php:1378 inc/core/data.php:1460 inc/core/data.php:1530
+#: inc/core/data.php:1937 inc/core/data.php:2075
+msgid "Autoplay"
+msgstr "Automaticky začít hrát"
+
+#: inc/core/data.php:1108 inc/core/data.php:1193 inc/core/data.php:1284
+msgid "Play video automatically when page is loaded"
+msgstr "Video se přehraje automaticky po načtení stránky "
+
+#: inc/core/data.php:1116
+msgid "YouTube video"
+msgstr ""
+
+#: inc/core/data.php:1122
+msgid "YouTube Advanced"
+msgstr "YouTube pokročilé"
+
+#: inc/core/data.php:1134
+msgid "Playlist"
+msgstr ""
+
+#: inc/core/data.php:1135
+msgid ""
+"Value is a comma-separated list of video IDs to play. If you specify a "
+"value, the first video that plays will be the VIDEO_ID specified in the URL "
+"path, and the videos specified in the playlist parameter will play thereafter"
+msgstr ""
+"Hodnota je seznam ID videí oddělených čárkou. Pokud specifikujete hodnotu, "
+"první video, které se přehraje, bude VIDEO_ID specifikováno URL adresou, "
+"ostatní videa specifikovaná v playlistu budou přehrána potom"
+
+#: inc/core/data.php:1164
+msgid "0 - Hide controls"
+msgstr "0 - Schovat ovládací tlačítka"
+
+#: inc/core/data.php:1165
+msgid "1 - Show controls"
+msgstr "1 - Ukázat ovládací tlačítka"
+
+#: inc/core/data.php:1166
+msgid "2 - Show controls when playback is started"
+msgstr "2 - Ukázat ovládací tlačítka na začátku přehrávání"
+
+#: inc/core/data.php:1169 inc/core/data.php:1524
+msgid "Controls"
+msgstr "Ovládací tlačítka"
+
+#: inc/core/data.php:1170
+msgid "This parameter indicates whether the video player controls will display"
+msgstr ""
+"Tento parametr určuje, zda se budou zobrazovat ovládací tlačítka "
+"videopřehrávače"
+
+#: inc/core/data.php:1175
+msgid "0 - Do not hide controls"
+msgstr "0 - neschovávat ovládací tlačítka"
+
+#: inc/core/data.php:1176
+msgid "1 - Hide all controls on mouse out"
+msgstr "1 - Skrýt všechna tlačítka po přejetí myší"
+
+#: inc/core/data.php:1177
+msgid "2 - Hide progress bar on mouse out"
+msgstr "2 - Skrýt ukazatel průběhu videa po přejetí myší"
+
+#: inc/core/data.php:1180
+msgid "Autohide"
+msgstr "Automatické skrytí"
+
+#: inc/core/data.php:1181
+msgid ""
+"This parameter indicates whether the video controls will automatically hide "
+"after a video begins playing"
+msgstr ""
+"Tento parametr ukazuje, zda se budou ovládací tlačítka videopřehrávače "
+"automaticky skrývat po startu videa"
+
+#: inc/core/data.php:1186
+msgid "Show title bar"
+msgstr "Ukázat lištu s názvem"
+
+#: inc/core/data.php:1187
+msgid ""
+"If you set the parameter value to NO, then the player will not display "
+"information like the video title and uploader before the video starts "
+"playing."
+msgstr ""
+"Pokud nastavíte hodnotu parametru na NE, potom videopřehrávač nebude "
+"ukazovat informace jako název videa předtím, než se video spustí"
+
+#: inc/core/data.php:1198 inc/core/data.php:1466 inc/core/data.php:1536
+msgid "Loop"
+msgstr "Smyčka"
+
+#: inc/core/data.php:1199
+msgid ""
+"Setting of YES will cause the player to play the initial video again and "
+"again"
+msgstr ""
+"Nastavení hodnoty ANO způsobí, že přehrávač bude bude hrát počáteční video "
+"znovu a znovu"
+
+#: inc/core/data.php:1204
+msgid "Related videos"
+msgstr "Související videa"
+
+#: inc/core/data.php:1205
+msgid ""
+"This parameter indicates whether the player should show related videos when "
+"playback of the initial video ends"
+msgstr ""
+"Tento parametr ukazuje, zda bude přehrávač ukazovat související videa po "
+"skončení počátečního videa"
+
+#: inc/core/data.php:1210
+msgid "Show full-screen button"
+msgstr "Ukázat tlačítko pro přehrávání videa na celou obrazovku"
+
+#: inc/core/data.php:1211
+msgid ""
+"Setting this parameter to NO prevents the fullscreen button from displaying"
+msgstr ""
+"Nastavení hodnoty NE způsobí, že se nebude zobrazovat tlačítko \"Přehrávat "
+"na celou obrazovku\""
+
+#: inc/core/data.php:1217
+msgid ""
+"This parameter lets you use a YouTube player that does not show a YouTube "
+"logo. Set the parameter value to YES to prevent the YouTube logo from "
+"displaying in the control bar. Note that a small YouTube text label will "
+"still display in the upper-right corner of a paused video when the user's "
+"mouse pointer hovers over the player"
+msgstr ""
+"Tento parametr dokáže přehrávat YouTube video bez YouTube loga. Nastavte "
+"hodnotu ANO a zabráníte tak zobrazování loga YouTube na ovládací liště. Malé "
+"YouTube textové logo se bude i přes to zobrazovat v pravém horním rohu při "
+"pauze, když uživatel přejede myší přes přehrávač"
+
+#: inc/core/data.php:1222
+msgid "Dark theme"
+msgstr "Tmavý vzhled"
+
+#: inc/core/data.php:1223
+msgid "Light theme"
+msgstr "Světlý vzhled"
+
+#: inc/core/data.php:1226 inc/core/data.php:2393
+msgid "Theme"
+msgstr "Vzhled"
+
+#: inc/core/data.php:1227
+msgid ""
+"This parameter indicates whether the embedded player will display player "
+"controls (like a play button or volume control) within a dark or light "
+"control bar"
+msgstr ""
+"Tento parametr označuje, zda bude přehrávač zobrazovat ovládací tlačítka "
+"(jako \"přehrát\" nebo ovládání hlasitosti) v tmavé nebo světlé ovládací "
+"liště"
+
+#: inc/core/data.php:1232
+msgid "Force HTTPS"
+msgstr "Vnutit HTTPS"
+
+#: inc/core/data.php:1233
+msgid "Use HTTPS in player iframe"
+msgstr "Použít HTTPS v iframe přehrávače"
+
+#: inc/core/data.php:1241
+msgid "YouTube video player with advanced settings"
+msgstr "YouTube přehrávač s pokročilým nastavením"
+
+#: inc/core/data.php:1247
+msgid "Vimeo"
+msgstr ""
+
+#: inc/core/data.php:1254
+msgid "Url of Vimeo page with video"
+msgstr "URL Vimeo stránky s videem"
+
+#: inc/core/data.php:1292
+msgid "Vimeo video"
+msgstr "Video Vimeo"
+
+#: inc/core/data.php:1298
+msgid "Screenr"
+msgstr ""
+
+#: inc/core/data.php:1305
+msgid "Url of Screenr page with video"
+msgstr "URL Screenr stránky s videem"
+
+#: inc/core/data.php:1337
+msgid "Screenr video"
+msgstr "Video Screenr"
+
+#: inc/core/data.php:1342
+msgid "Dailymotion"
+msgstr ""
+
+#: inc/core/data.php:1349
+msgid "Url of Dailymotion page with video"
+msgstr "URL Dailymotion stránky s videem"
+
+#: inc/core/data.php:1379
+msgid ""
+"Start the playback of the video automatically after the player load. May not "
+"work on some mobile OS versions"
+msgstr ""
+"Začít přehrávat video automaticky. Nemusí fungovat ve všech mobilních OS. "
+
+#: inc/core/data.php:1384
+msgid "Background color"
+msgstr "Barva pozadí"
+
+#: inc/core/data.php:1385
+msgid "HTML color of the background of controls elements"
+msgstr "HTML barva pozadí ovládacích prvků"
+
+#: inc/core/data.php:1390
+msgid "Foreground color"
+msgstr "Barva popředí"
+
+#: inc/core/data.php:1391
+msgid "HTML color of the foreground of controls elements"
+msgstr "HTML barva popředí ovládacích prvků"
+
+#: inc/core/data.php:1396
+msgid "Highlight color"
+msgstr "Barva zvýraznění"
+
+#: inc/core/data.php:1397
+msgid "HTML color of the controls elements' highlights"
+msgstr "HTML barva zvýrazněných ovládacích prvků"
+
+#: inc/core/data.php:1402
+msgid "Show logo"
+msgstr "Ukázat logo"
+
+#: inc/core/data.php:1403
+msgid "Allows to hide or show the Dailymotion logo"
+msgstr "Umožňuje skrýt či ukázat logo Dailymotion"
+
+#: inc/core/data.php:1415
+msgid "Quality"
+msgstr "Kvalita"
+
+#: inc/core/data.php:1416
+msgid "Determines the quality that must be played by default if available"
+msgstr "Určuje kvalitu, která bude automaticky zvolena, pokud je dostupná."
+
+#: inc/core/data.php:1421
+msgid "Show related videos"
+msgstr "Ukázat související videa"
+
+#: inc/core/data.php:1422
+msgid "Show related videos at the end of the video"
+msgstr "ukázat související videa na konci videa"
+
+#: inc/core/data.php:1427
+msgid "Show video info"
+msgstr "Ukázat info k videu"
+
+#: inc/core/data.php:1428
+msgid "Show videos info (title/author) on the start screen"
+msgstr "Ukázat info k videu (název/autor) hned na počáteční obrazovce"
+
+#: inc/core/data.php:1436
+msgid "Dailymotion video"
+msgstr "Video Dailymotion"
+
+#: inc/core/data.php:1441
+msgid "Audio"
+msgstr ""
+
+#: inc/core/data.php:1448 inc/core/data.php:1488
+msgid "File"
+msgstr "Soubor"
+
+#: inc/core/data.php:1449
+msgid "Audio file url. Supported formats: mp3, ogg"
+msgstr "URL audio-souboru. Podporované formáty: mp3, ogg"
+
+#: inc/core/data.php:1455
+msgid ""
+"Player width. You can specify width in percents and player will be "
+"responsive. Example values: <b%value>200px</b>, <b%value>100&#37;</b>"
+msgstr ""
+"Šířka přehrávače. Můžete specifikovat v procentech a přehrávač bude "
+"responzivní. Např.: <b%value>200px</b>, <b%value>100&#37;</b>"
+
+#: inc/core/data.php:1461 inc/core/data.php:1531
+msgid "Play file automatically when page is loaded"
+msgstr "Hrát soubor automaticky poté, co je stránka načtena"
+
+#: inc/core/data.php:1467 inc/core/data.php:1537
+msgid "Repeat when playback is ended"
+msgstr "Opakovat automaticky znovu"
+
+#: inc/core/data.php:1475
+msgid "Custom audio player"
+msgstr "Vlastní audiopřehrávač"
+
+#: inc/core/data.php:1481
+msgid "Video"
+msgstr ""
+
+#: inc/core/data.php:1489
+msgid "Url to mp4/flv video-file"
+msgstr "URL mp4/flv video-souboru"
+
+#: inc/core/data.php:1494
+msgid "Poster"
+msgstr "Poster"
+
+#: inc/core/data.php:1495
+msgid "Url to poster image, that will be shown before playback"
+msgstr "URL obrázku posteru, který se zobrazí před přehráním videa"
+
+#: inc/core/data.php:1501
+msgid "Player title"
+msgstr "Název přehrávače"
+
+#: inc/core/data.php:1525
+msgid "Show player controls (play/pause etc.) or not"
+msgstr "Ukázat ovládací tlačítka přehrávače (hrát/pauza apod.) nebo ne"
+
+#: inc/core/data.php:1545
+msgid "Custom video player"
+msgstr "Vlastní videopřehrávač"
+
+#: inc/core/data.php:1551
+msgid "Table"
+msgstr "Tabulka"
+
+#: inc/core/data.php:1558
+msgid "CSV file"
+msgstr "CSV soubor"
+
+#: inc/core/data.php:1559
+msgid "Upload CSV file if you want to create HTML-table from file"
+msgstr "Nahrajte CSV soubor, abyste vytvořili HTML tabulku ze souboru"
+
+#: inc/core/data.php:1567
+msgid ""
+"<table>\n"
+"<tr>\n"
+"\t<td>Table</td>\n"
+"\t<td>Table</td>\n"
+"</tr>\n"
+"<tr>\n"
+"\t<td>Table</td>\n"
+"\t<td>Table</td>\n"
+"</tr>\n"
+"</table>"
+msgstr ""
+"<table>\n"
+"<tr>\n"
+"\t<td>Tabulka</td>\n"
+"\t<td>Tabulka</td>\n"
+"</tr>\n"
+"<tr>\n"
+"\t<td>Tabulka</td>\n"
+"\t<td>Tabulka</td>\n"
+"</tr>\n"
+"</table>"
+
+#: inc/core/data.php:1568
+msgid "Styled table from HTML or CSV file"
+msgstr "Stylovaná tabulka z HTML nebo CSV souboru"
+
+#: inc/core/data.php:1573
+msgid "Permalink"
+msgstr "Odkaz"
+
+#: inc/core/data.php:1579 inc/core/data.php:2503
+msgid "ID"
+msgstr ""
+
+#: inc/core/data.php:1580
+msgid "Post or page ID"
+msgstr "ID článku či stránky"
+
+#: inc/core/data.php:1590
+msgid "Link target. blank - link will be opened in new window/tab"
+msgstr "Cíl odkazu .blank - odkaz bude otevřen v novém okně"
+
+#: inc/core/data.php:1599
+msgid "Permalink to specified post/page"
+msgstr "Odkaz na specifickou stránku/článek"
+
+#: inc/core/data.php:1604
+msgid "Members"
+msgstr "Členové"
+
+#: inc/core/data.php:1609 inc/core/shortcodes.php:794
+msgid "This content is for registered users only. Please %login%."
+msgstr ""
+"Tento obsah je určen pouze registrovaným uživatelům. Prosíme přihlašte se: "
+"%login%."
+
+#: inc/core/data.php:1610
+msgid "Message"
+msgstr "Zpráva"
+
+#: inc/core/data.php:1610
+msgid "Message for not logged users"
+msgstr "Zpráva pro nepřihlášené návštěvníky"
+
+#: inc/core/data.php:1615
+msgid "Box color"
+msgstr "Barva boxu"
+
+#: inc/core/data.php:1615
+msgid "This color will applied only to box for not logged users"
+msgstr "Tato barva boxu se zobrazí pouze nepřihlášeným uživatelům"
+
+#: inc/core/data.php:1618 inc/core/shortcodes.php:797
+msgid "login"
+msgstr "přihlášení"
+
+#: inc/core/data.php:1619
+msgid "Login link text"
+msgstr "Text odkazu přihlášení"
+
+#: inc/core/data.php:1619
+msgid "Text for the login link"
+msgstr "Text odkazu pro přihlášení "
+
+#: inc/core/data.php:1623
+msgid "Login link url"
+msgstr "URL přihlášení"
+
+#: inc/core/data.php:1631
+msgid "Content for logged members"
+msgstr "Obsah pro přihlášené návštěvníky"
+
+#: inc/core/data.php:1632
+msgid "Content for logged in members only"
+msgstr "Obsah jenom pro přihlášené návštěvníky"
+
+#: inc/core/data.php:1637
+msgid "Guests"
+msgstr "Hosté"
+
+#: inc/core/data.php:1647
+msgid "Content for guests"
+msgstr "Obsah pro hosty"
+
+#: inc/core/data.php:1648
+msgid "Content for guests only"
+msgstr "Obsah jenom pro hosty"
+
+#: inc/core/data.php:1653
+msgid "RSS Feed"
+msgstr "RSS kanál"
+
+#: inc/core/data.php:1661
+msgid "Url to RSS-feed"
+msgstr "URL RSS kanálu"
+
+#: inc/core/data.php:1669 inc/core/data.php:1856 inc/core/data.php:1975
+#: inc/core/data.php:2113
+msgid "Limit"
+msgstr ""
+
+#: inc/core/data.php:1669
+msgid "Number of items to show"
+msgstr "Počet položek, které se ukážou"
+
+#: inc/core/data.php:1677
+msgid "Feed grabber"
+msgstr ""
+
+#: inc/core/data.php:1682
+msgid "Menu"
+msgstr ""
+
+#: inc/core/data.php:1689
+msgid "Menu name"
+msgstr "Jméno menu"
+
+#: inc/core/data.php:1689
+msgid "Custom menu name. Ex: Main menu"
+msgstr "Vlastní název menu. Např. Hlavní menu"
+
+#: inc/core/data.php:1697
+msgid "Custom menu by name"
+msgstr "Vlastní menu pode jména"
+
+#: inc/core/data.php:1702
+msgid "Sub pages"
+msgstr "Podstránky"
+
+#: inc/core/data.php:1709 inc/core/data.php:1736
+msgid "Depth"
+msgstr "Hloubka"
+
+#: inc/core/data.php:1710
+msgid "Max depth level of children pages"
+msgstr "Maximální hloubk úrovní podstránek"
+
+#: inc/core/data.php:1715
+msgid "Parent ID"
+msgstr "ID nadřazené stránky"
+
+#: inc/core/data.php:1716
+msgid "ID of the parent page. Leave blank to use current page"
+msgstr "ID nadřazené stránky. Pro zobrazení aktuální stránky nechte prázdné"
+
+#: inc/core/data.php:1724
+msgid "List of sub pages"
+msgstr "Seznam podstránek"
+
+#: inc/core/data.php:1729
+msgid "Siblings"
+msgstr "Stránky stejné úrovně"
+
+#: inc/core/data.php:1737
+msgid "Max depth level"
+msgstr "Úroveň max. hloubky"
+
+#: inc/core/data.php:1745
+msgid "List of cureent page siblings"
+msgstr "Seznam aktuálních stránek stejné úrovně"
+
+#: inc/core/data.php:1750
+msgid "Document"
+msgstr "Dokument"
+
+#: inc/core/data.php:1758
+msgid "Url to uploaded document. Supported formats: doc, xls, pdf etc."
+msgstr "URL uploadovaného dokumentu. podporované formáty: doc, xls, pdf apod."
+
+#: inc/core/data.php:1767
+msgid "Viewer width"
+msgstr "Šířka prohlížeče"
+
+#: inc/core/data.php:1776
+msgid "Viewer height"
+msgstr "Výška prohlížeče"
+
+#: inc/core/data.php:1782
+msgid "Ignore width and height parameters and make viewer responsive"
+msgstr "Ignorovat parametry výšky a šířky - prohlížeč bude responzivní"
+
+#: inc/core/data.php:1790
+msgid "Document viewer by Google"
+msgstr "Prohlížeč dokumentů od Googlu"
+
+#: inc/core/data.php:1795
+msgid "Gmap"
+msgstr "Gmapa"
+
+#: inc/core/data.php:1806
+msgid "Map width"
+msgstr "Šířka mapy"
+
+#: inc/core/data.php:1815
+msgid "Map height"
+msgstr "Výška mapy"
+
+#: inc/core/data.php:1821
+msgid "Ignore width and height parameters and make map responsive"
+msgstr "Ignorovat  šířku a výšku mapy a učinit tak mapu responzivní"
+
+#: inc/core/data.php:1826
+msgid "Marker"
+msgstr "Značka"
+
+#: inc/core/data.php:1827
+msgid "Address for the marker. You can type it in any language"
+msgstr "Adresa značky (může být v kterémkoli jazyce)."
+
+#: inc/core/data.php:1835
+msgid "Maps by Google"
+msgstr "Google mapy"
+
+#: inc/core/data.php:1840
+msgid "Slider"
+msgstr "Prezentace"
+
+#: inc/core/data.php:1847 inc/core/data.php:1966 inc/core/data.php:2104
+msgid "Source"
+msgstr "Zdroj"
+
+#: inc/core/data.php:1848 inc/core/data.php:1967 inc/core/data.php:2105
+msgid ""
+"Choose images source. You can use images from Media library or retrieve it "
+"from posts (thumbnails) posted under specified blog category. You can also "
+"pick any custom taxonomy"
+msgstr ""
+"Vyberte zdroj obrázků. Můžete použí obrázky ze Správce médií nebo je získat "
+"z článků (náhledové obr.) publikovaných pod určitou kategorií. Můžete také "
+"vybrat jakoukoli vlastní taxonomii"
+
+#: inc/core/data.php:1857 inc/core/data.php:1976 inc/core/data.php:2114
+msgid ""
+"Maximum number of image source posts (for recent posts, category and custom "
+"taxonomy)"
+msgstr ""
+"Maximální počet obrázků z článků (pro nejnovější články, kategorii a vlastní "
+"taxonomii)"
+
+#: inc/core/data.php:1863 inc/core/data.php:1982 inc/core/data.php:2120
+msgid "Full-size image"
+msgstr "Obrázek v plné velikosti"
+
+#: inc/core/data.php:1865 inc/core/data.php:1984 inc/core/data.php:2122
+msgid "Slide link (added in media editor)"
+msgstr "Odkaz slidu (přidán ve správci médií)"
+
+#: inc/core/data.php:1866 inc/core/data.php:1985 inc/core/data.php:2123
+msgid "Attachment page"
+msgstr "Stránka přílohy"
+
+#: inc/core/data.php:1867 inc/core/data.php:1986 inc/core/data.php:2124
+msgid "Post permalink"
+msgstr "URL článku"
+
+#: inc/core/data.php:1870 inc/core/data.php:1989 inc/core/data.php:2127
+msgid "Links"
+msgstr "Odkazy"
+
+#: inc/core/data.php:1871 inc/core/data.php:1990 inc/core/data.php:2128
+msgid "Select which links will be used for images in this gallery"
+msgstr "Vyberte, jaké odkazy  budou použity pro obrázky v této galerii"
+
+#: inc/core/data.php:1876 inc/core/data.php:1995 inc/core/data.php:2133
+msgid "Same window"
+msgstr "v tom samém okně"
+
+#: inc/core/data.php:1877 inc/core/data.php:1996 inc/core/data.php:2134
+msgid "New window"
+msgstr "V novém okně"
+
+#: inc/core/data.php:1880 inc/core/data.php:1999 inc/core/data.php:2137
+msgid "Links target"
+msgstr "Jak se mají odkazy otevírat"
+
+#: inc/core/data.php:1881 inc/core/data.php:2000 inc/core/data.php:2138
+msgid "Open links in"
+msgstr "Otevřít odkazy v"
+
+#: inc/core/data.php:1889
+msgid "Slider width (in pixels)"
+msgstr "Šířka slideru (v pixelech)"
+
+#: inc/core/data.php:1897
+msgid "Slider height (in pixels)"
+msgstr "Výška slideru (v pixelech)"
+
+#: inc/core/data.php:1903
+msgid "Ignore width and height parameters and make slider responsive"
+msgstr "Ignorovat parametry šířky a výšky a učinit tak slider responzivní"
+
+#: inc/core/data.php:1908 inc/core/data.php:2046 inc/core/data.php:2164
+msgid "Show titles"
+msgstr "Ukázat nadpisy"
+
+#: inc/core/data.php:1908
+msgid "Display slide titles"
+msgstr "Zobrazit postranní názvy"
+
+#: inc/core/data.php:1913
+msgid "Is slider centered on the page"
+msgstr "Je slider na stránce centrován "
+
+#: inc/core/data.php:1918 inc/core/data.php:2056
+msgid "Arrows"
+msgstr "Šipky"
+
+#: inc/core/data.php:1918 inc/core/data.php:2056
+msgid "Show left and right arrows"
+msgstr "Ukázat levou a pravou šipku"
+
+#: inc/core/data.php:1923 inc/core/data.php:2061
+msgid "Pagination"
+msgstr "Stránkování"
+
+#: inc/core/data.php:1924 inc/core/data.php:2062
+msgid "Show pagination"
+msgstr "Ukázat stránkování"
+
+#: inc/core/data.php:1928 inc/core/data.php:2066
+msgid "Mouse wheel control"
+msgstr "Ovládání kolečkem myši"
+
+#: inc/core/data.php:1929
+msgid "Allow to change slides with mouse wheel"
+msgstr "Povolit posouvat snímky kolečkem myši"
+
+#: inc/core/data.php:1938
+msgid "Choose interval between slide animations. Set to 0 to disable autoplay"
+msgstr ""
+"Vybrat interval mezi přechodovou animací jednotlivých snímků. Nastavte 0 pro "
+"vypnutí autopřehrávání"
+
+#: inc/core/data.php:1946 inc/core/data.php:2084
+msgid "Speed"
+msgstr "Rychlost"
+
+#: inc/core/data.php:1946 inc/core/data.php:2084
+msgid "Specify animation speed"
+msgstr "Specifikujte rychlost animace"
+
+#: inc/core/data.php:1954
+msgid "Customizable image slider"
+msgstr "Editovatelný slider obrázků"
+
+#: inc/core/data.php:1959
+msgid "Carousel"
+msgstr "Karusel"
+
+#: inc/core/data.php:2009
+msgid "Carousel width (in pixels)"
+msgstr "Šířka karuselu (v pixelech)"
+
+#: inc/core/data.php:2018
+msgid "Carousel height (in pixels)"
+msgstr "Výška karuseu (v pixelech)"
+
+#: inc/core/data.php:2024
+msgid "Ignore width and height parameters and make carousel responsive"
+msgstr "Ignorovat parametry šířky a výšky a učinit tak karusel responzivní"
+
+#: inc/core/data.php:2032
+msgid "Items to show"
+msgstr "Položky"
+
+#: inc/core/data.php:2033
+msgid "How much carousel items is visible"
+msgstr "Kolik položek karuselu bude viditelných"
+
+#: inc/core/data.php:2040
+msgid "Scroll number"
+msgstr "Počet skrolovaných"
+
+#: inc/core/data.php:2041
+msgid "How much items are scrolled in one transition"
+msgstr "kolik položek bude skrolováno v jednom přechodu"
+
+#: inc/core/data.php:2046
+msgid "Display titles for each item"
+msgstr "Zobrazit název pro každou položku"
+
+#: inc/core/data.php:2051
+msgid "Is carousel centered on the page"
+msgstr "je karusel centrován na stránce"
+
+#: inc/core/data.php:2067
+msgid "Allow to rotate carousel with mouse wheel"
+msgstr "Povolit ovládat rotaci karuselu kolečkem myši"
+
+#: inc/core/data.php:2076
+msgid "Choose interval between auto animations. Set to 0 to disable autoplay"
+msgstr ""
+"Vybrat interval mezi přechodovou animací jednotlivých snímků. Nastavte 0 pro "
+"vypnutí autopřehrávání"
+
+#: inc/core/data.php:2092
+msgid "Customizable image carousel"
+msgstr "Editovatelný karusel obrázků"
+
+#: inc/core/data.php:2146
+msgid "Single item width (in pixels)"
+msgstr "Šířka jednotlivé položky (v pixelech)"
+
+#: inc/core/data.php:2154
+msgid "Single item height (in pixels)"
+msgstr "Výška jednotlivé položky (v pixelech)"
+
+#: inc/core/data.php:2159
+msgid "Never"
+msgstr "Nikdy"
+
+#: inc/core/data.php:2160
+msgid "On mouse over"
+msgstr "Na přejetí myší"
+
+#: inc/core/data.php:2161
+msgid "Always"
+msgstr "Vždy"
+
+#: inc/core/data.php:2165
+msgid "Title display mode"
+msgstr "Způsob zobrazení nadpisu"
+
+#: inc/core/data.php:2173
+msgid "Customizable image gallery"
+msgstr "Upravitelná galerie obrázků"
+
+#: inc/core/data.php:2178
+msgid "Posts"
+msgstr "Články"
+
+#: inc/core/data.php:2183 inc/core/data.php:2610
+msgid "Template"
+msgstr "Šablona"
+
+#: inc/core/data.php:2184
+msgid ""
+"<b>Do not change this field value if you do not understand description below."
+"</b><br/>Relative path to the template file. Default templates is placed "
+"under the plugin directory (templates folder). You can copy it under your "
+"theme directory and modify as you want. You can use following default "
+"templates that already available in the plugin directory:<br/><b"
+"%value>templates/default-loop.php</b> - posts loop<br/><b%value>templates/"
+"teaser-loop.php</b> - posts loop with thumbnail and title<br/><b"
+"%value>templates/single-post.php</b> - single post template<br/><b"
+"%value>templates/list-loop.php</b> - unordered list with posts titles"
+msgstr ""
+"<b>Neměňte hodnotu tohoto pole, pokud nerozumíte popisu níže.</b><br/"
+">Relativní cesta k souboru šablony. Základní šablony jsou umístěny v "
+"adresáři pluginu (složka templates). Můžete ji zkopírovat do adresáře své "
+"šablony a jakkoliv ji změnit. Můžete použít následující šablony, které jsou "
+"již dostupné v adresáři pluginu:<br/><b%value>templates/default-loop.php</b> "
+"- články<br/><b%value>templates/teaser-loop.php</b> - články s náhled. "
+"obrázkem a nadpisem<br/><b%value>templates/single-post.php</b> - šablon "
+"jednotlivého článku<br/><b%value>templates/list-loop.php</b> - nečíslovaný "
+"seznam názvů článků"
+
+#: inc/core/data.php:2188
+msgid "Post ID's"
+msgstr "ID článku"
+
+#: inc/core/data.php:2189
+msgid "Enter comma separated ID's of the posts that you want to show"
+msgstr "Vložte seznam čárkou oddělených ID článků, které chcete zobrazit"
+
+#: inc/core/data.php:2197
+msgid "Posts per page"
+msgstr "Článků na stránku"
+
+#: inc/core/data.php:2198
+msgid ""
+"Specify number of posts that you want to show. Enter -1 to get all posts"
+msgstr ""
+"Určete počet článků, které se budou zobrazovat. Vložte - 1 pro zobrazování "
+"všech článků"
+
+#: inc/core/data.php:2205
+msgid "Post types"
+msgstr "Typy článků"
+
+#: inc/core/data.php:2206
+msgid "Select post types. Hold Ctrl key to select multiple post types"
+msgstr ""
+"Vybrat typy článků. Podržet klávesu Ctrl pro výběr několika typů zároveň"
+
+#: inc/core/data.php:2212 inc/core/generator-views.php:123
+msgid "Taxonomy"
+msgstr "Taxonomie"
+
+#: inc/core/data.php:2213
+msgid "Select taxonomy to show posts from"
+msgstr "Vyberte taxonomii, z níž budou články zobrazovány"
+
+#: inc/core/data.php:2220
+msgid "Terms"
+msgstr "Činitelé"
+
+#: inc/core/data.php:2221
+msgid "Select terms to show posts from"
+msgstr "Vyberte činitele, z nichž budou generovány články"
+
+#: inc/core/data.php:2226
+msgid "Taxonomy term operator"
+msgstr "Operátor činitele taxonomie"
+
+#: inc/core/data.php:2227
+msgid ""
+"IN - posts that have any of selected categories terms<br/>NOT IN - posts "
+"that is does not have any of selected terms<br/>AND - posts that have all "
+"selected terms"
+msgstr ""
+"IN - články, které mají některý z vybraných činitelů<br/>NOT IN - články, "
+"které nemají žádný z vybraných činitelů<br/>AND - články, které mají všechny "
+"vybrané činitele"
+
+#: inc/core/data.php:2234
+msgid "Authors"
+msgstr "Autoři"
+
+#: inc/core/data.php:2235
+msgid "Choose the authors whose posts you want to show"
+msgstr "Vyberte autory, jejichž články chcete ukázat"
+
+#: inc/core/data.php:2239
+msgid "Meta key"
+msgstr "Meta klíč"
+
+#: inc/core/data.php:2240
+msgid "Enter meta key name to show posts that have this key"
+msgstr "Vložte meta klíč pro zobrazení článků s tímto klíčem"
+
+#: inc/core/data.php:2247
+msgid "Offset"
+msgstr "Ofset"
+
+#: inc/core/data.php:2248
+msgid "Specify offset to start posts loop not from first post"
+msgstr "Specifikovat ofset, aby by smyčka článků nezačala u prvního"
+
+#: inc/core/data.php:2253
+msgid "Descending"
+msgstr "Sestupný"
+
+#: inc/core/data.php:2254
+msgid "Ascending"
+msgstr "Vzestupný"
+
+#: inc/core/data.php:2257
+msgid "Order"
+msgstr "Pořadí"
+
+#: inc/core/data.php:2258
+msgid "Posts order"
+msgstr "Pořadí článků"
+
+#: inc/core/data.php:2264 inc/core/data.php:2481 inc/core/data.php:2554
+#: inc/core/data.php:2596
+msgid "Post ID"
+msgstr "ID článku"
+
+#: inc/core/data.php:2265 inc/core/data.php:2555
+msgid "Post author"
+msgstr "Autor článku"
+
+#: inc/core/data.php:2266 inc/core/data.php:2559
+msgid "Post title"
+msgstr "Název článku"
+
+#: inc/core/data.php:2267
+msgid "Post slug"
+msgstr "Adresa článku"
+
+#: inc/core/data.php:2268
+msgid "Date"
+msgstr "Datum"
+
+#: inc/core/data.php:2268
+msgid "Last modified date"
+msgstr "Poslední změna"
+
+#: inc/core/data.php:2269 inc/core/data.php:2279 inc/core/data.php:2568
+msgid "Post parent"
+msgstr "Nadřazená stránka"
+
+#: inc/core/data.php:2270
+msgid "Random"
+msgstr "Náhodný"
+
+#: inc/core/data.php:2270
+msgid "Comments number"
+msgstr "Počet komentářů"
+
+#: inc/core/data.php:2271 inc/core/data.php:2570
+msgid "Menu order"
+msgstr "Pořadí v menu"
+
+#: inc/core/data.php:2271
+msgid "Meta key values"
+msgstr "Hodnoty meta klíče"
+
+#: inc/core/data.php:2274
+msgid "Order by"
+msgstr "Pořadí podle"
+
+#: inc/core/data.php:2275
+msgid "Order posts by"
+msgstr "Pořadí článků podle"
+
+#: inc/core/data.php:2280
+msgid "Show childrens of entered post (enter post ID)"
+msgstr "Ukázat podřazené stránky vloženého článku (vložte ID článku)"
+
+#: inc/core/data.php:2285
+msgid "Published"
+msgstr "Publikováno"
+
+#: inc/core/data.php:2286
+msgid "Pending"
+msgstr "Čekající"
+
+#: inc/core/data.php:2287
+msgid "Draft"
+msgstr "Náčrt"
+
+#: inc/core/data.php:2288
+msgid "Auto-draft"
+msgstr "Auto-náčrt"
+
+#: inc/core/data.php:2289
+msgid "Future post"
+msgstr "Budoucí článek"
+
+#: inc/core/data.php:2290
+msgid "Private post"
+msgstr "Soukromý článek"
+
+#: inc/core/data.php:2291
+msgid "Inherit"
+msgstr ""
+
+#: inc/core/data.php:2292
+msgid "Trashed"
+msgstr "vyhozený do koše"
+
+#: inc/core/data.php:2293 inc/core/data.php:2377
+msgid "Any"
+msgstr "Každý"
+
+#: inc/core/data.php:2296 inc/core/data.php:2561
+msgid "Post status"
+msgstr "Status článku"
+
+#: inc/core/data.php:2297
+msgid "Show only posts with selected status"
+msgstr "Ukázat pouze články s vybraným statusem"
+
+#: inc/core/data.php:2302
+msgid "Ignore sticky"
+msgstr "Ignorovat zvýrazněné"
+
+#: inc/core/data.php:2303
+msgid "Select Yes to ignore posts that is sticked"
+msgstr "Vybrerte Ano a zvýrazněné články budou ignorovány "
+
+#: inc/core/data.php:2306
+msgid "Custom posts query with customizable template"
+msgstr "Vlastní výpis článků s upravitelnou šablonou"
+
+#: inc/core/data.php:2311
+msgid "Dummy text"
+msgstr "Ukázkový text"
+
+#: inc/core/data.php:2318
+msgid "Paragraphs"
+msgstr "Paragrafy"
+
+#: inc/core/data.php:2319
+msgid "Words"
+msgstr "Slova"
+
+#: inc/core/data.php:2320
+msgid "Bytes"
+msgstr "Byty"
+
+#: inc/core/data.php:2323
+msgid "What"
+msgstr "Co"
+
+#: inc/core/data.php:2324
+msgid "What to generate"
+msgstr "Co generovat"
+
+#: inc/core/data.php:2332
+msgid "Amount"
+msgstr "Množství"
+
+#: inc/core/data.php:2333
+msgid ""
+"How many items (paragraphs or words) to generate. Minimum words amount is 5"
+msgstr ""
+"Kolik jednotek (odstavců či slov) generovat. Minimální počet slov je 5 "
+
+#: inc/core/data.php:2338
+msgid "Cache"
+msgstr "Koš"
+
+#: inc/core/data.php:2339
+msgid ""
+"Generated text will be cached. Be careful with this option. If you disable "
+"it and insert many dummy_text shortcodes the page load time will be highly "
+"increased"
+msgstr ""
+"Generovaný text bude cachován. Buďte opatrní s touto možností. Pokud ji "
+"vypnete a vložíte mnoho shortkódů s ukázkovým textem, doba načítání stránky "
+"se výrazně zvýší! "
+
+#: inc/core/data.php:2347
+msgid "Text placeholder"
+msgstr "Textová výplň"
+
+#: inc/core/data.php:2352 inc/core/shortcodes.php:1302
+msgid "Dummy image"
+msgstr "Ukázkový obrázek"
+
+#: inc/core/data.php:2363
+msgid "Image width"
+msgstr "Šířka obrázku"
+
+#: inc/core/data.php:2372
+msgid "Image height"
+msgstr "Výška obrázku"
+
+#: inc/core/data.php:2378
+msgid "Abstract"
+msgstr "Abstraktní"
+
+#: inc/core/data.php:2379
+msgid "Animals"
+msgstr "Zvířata"
+
+#: inc/core/data.php:2380
+msgid "Business"
+msgstr "Obchod"
+
+#: inc/core/data.php:2381
+msgid "Cats"
+msgstr "Kočky"
+
+#: inc/core/data.php:2382
+msgid "City"
+msgstr "Město"
+
+#: inc/core/data.php:2383
+msgid "Food"
+msgstr "Jídlo"
+
+#: inc/core/data.php:2384
+msgid "Night life"
+msgstr "Noční život"
+
+#: inc/core/data.php:2385
+msgid "Fashion"
+msgstr "Móda"
+
+#: inc/core/data.php:2386
+msgid "People"
+msgstr "Lidé"
+
+#: inc/core/data.php:2387
+msgid "Nature"
+msgstr "Příroda"
+
+#: inc/core/data.php:2388
+msgid "Sports"
+msgstr "Sport"
+
+#: inc/core/data.php:2389
+msgid "Technics"
+msgstr "Technika"
+
+#: inc/core/data.php:2390
+msgid "Transport"
+msgstr "Transport"
+
+#: inc/core/data.php:2394
+msgid "Select the theme for this image"
+msgstr "Vyberte vzhled pro tento obrázek"
+
+#: inc/core/data.php:2402
+msgid "Image placeholder with random image"
+msgstr "Místo pro obrázek s náhodným obrázkem"
+
+#: inc/core/data.php:2407 inc/core/data.php:2415
+msgid "Animation"
+msgstr "Animace"
+
+#: inc/core/data.php:2416
+msgid "Select animation type"
+msgstr "Vybra typ animace"
+
+#: inc/core/data.php:2424
+msgid "Duration"
+msgstr "Trvání"
+
+#: inc/core/data.php:2425
+msgid "Animation duration (seconds)"
+msgstr "Trvání animace (v sekundách)"
+
+#: inc/core/data.php:2433
+msgid "Delay"
+msgstr "Zpoždění"
+
+#: inc/core/data.php:2434
+msgid "Animation delay (seconds)"
+msgstr "Zpoždění animace (v sekundách)"
+
+#: inc/core/data.php:2439
+msgid "Inline"
+msgstr ""
+
+#: inc/core/data.php:2440
+msgid ""
+"This parameter determines what HTML tag will be used for animation wrapper. "
+"Turn this option to YES and animated element will be wrapped in SPAN instead "
+"of DIV. Useful for inline animations, like buttons"
+msgstr ""
+"Tento parametr určuje, jaký HTML tag bude použit pro uzavření animace. "
+"Nastavte ANO a animovaný element  bude uzavřen do tagu SPAN namísto DIVu. "
+"Užitečné pro inline animace (např. tlačítka)"
+
+#: inc/core/data.php:2448
+msgid "Animated content"
+msgstr "Animovaný obsah"
+
+#: inc/core/data.php:2449
+msgid "Wrapper for animation. Any nested element will be animated"
+msgstr "Uzavření animace. "
+
+#: inc/core/data.php:2455
+msgid "Meta"
+msgstr ""
+
+#: inc/core/data.php:2461
+msgid "Key"
+msgstr "Klíč"
+
+#: inc/core/data.php:2462
+msgid "Meta key name"
+msgstr "Jméno meta klíče"
+
+#: inc/core/data.php:2467 inc/core/data.php:2519 inc/core/data.php:2582
+msgid "This text will be shown if data is not found"
+msgstr "Tento text se ukáže, pokud nebude možné načíst data"
+
+#: inc/core/data.php:2471 inc/core/data.php:2523 inc/core/data.php:2586
+msgid "Before"
+msgstr "Před"
+
+#: inc/core/data.php:2472 inc/core/data.php:2524 inc/core/data.php:2587
+msgid "This content will be shown before the value"
+msgstr "Tento obsah se zobrazí před hodnotou"
+
+#: inc/core/data.php:2476 inc/core/data.php:2528 inc/core/data.php:2591
+msgid "After"
+msgstr "Po"
+
+#: inc/core/data.php:2477 inc/core/data.php:2529 inc/core/data.php:2592
+msgid "This content will be shown after the value"
+msgstr "Tento obsah se ukáže po hodnotě"
+
+#: inc/core/data.php:2482 inc/core/data.php:2597
+msgid ""
+"You can specify custom post ID. Leave this field empty to use an ID of the "
+"current post. Current post ID may not work in Live Preview mode"
+msgstr ""
+"Můžet specifikovat vlastní ID článku. Nechte pole prázdné a bude použito ID "
+"aktuálního článku. Upozornění: Pro ID aktuálního článku nemusí fungovat "
+"náhled (nutno vyzkoušet naživo na webu)"
+
+#: inc/core/data.php:2486 inc/core/data.php:2538 inc/core/data.php:2601
+msgid "Filter"
+msgstr "Filtr"
+
+#: inc/core/data.php:2487 inc/core/data.php:2539 inc/core/data.php:2602
+msgid ""
+"You can apply custom filter to the retrieved value. Enter here function "
+"name. Your function must accept one argument and return modified value. "
+"Example function: "
+msgstr ""
+"Můžete uplatnit vlastní filtr. Vložte sem název funkce. Vaše funkce musí "
+"akceptovat jeden argument a vracet modifikovanou hodnotu. Příklad funkce:"
+
+#: inc/core/data.php:2490
+msgid "Post meta"
+msgstr "Meta informace o článku"
+
+#: inc/core/data.php:2495
+msgid "User"
+msgstr "Uživatel"
+
+#: inc/core/data.php:2502
+msgid "Display name"
+msgstr "Zobrazit jméno"
+
+#: inc/core/data.php:2504
+msgid "Login"
+msgstr ""
+
+#: inc/core/data.php:2505
+msgid "Nice name"
+msgstr "Hezké jméno"
+
+#: inc/core/data.php:2506
+msgid "Email"
+msgstr ""
+
+#: inc/core/data.php:2507
+msgid "URL"
+msgstr ""
+
+#: inc/core/data.php:2508
+msgid "Registered"
+msgstr "registrovaný"
+
+#: inc/core/data.php:2509
+msgid "Activation key"
+msgstr "Aktivační klíč"
+
+#: inc/core/data.php:2510
+msgid "Status"
+msgstr ""
+
+#: inc/core/data.php:2513 inc/core/data.php:2576
+msgid "Field"
+msgstr "Pole"
+
+#: inc/core/data.php:2514
+msgid "User data field name"
+msgstr "Název pole pro data uživatele"
+
+#: inc/core/data.php:2533
+msgid "User ID"
+msgstr "ID uživatele"
+
+#: inc/core/data.php:2534
+msgid ""
+"You can specify custom user ID. Leave this field empty to use an ID of the "
+"current user"
+msgstr ""
+"Můžete specifikovat ID uživatele. Nechte prázdné a bude použito ID "
+"aktuálního uživatele"
+
+#: inc/core/data.php:2542
+msgid "User data"
+msgstr "Dat uživatele"
+
+#: inc/core/data.php:2547
+msgid "Post"
+msgstr "Článek"
+
+#: inc/core/data.php:2556 inc/core/data.php:2557
+msgid "Post date"
+msgstr "Datum uveřejnění článku"
+
+#: inc/core/data.php:2558
+msgid "Post content"
+msgstr "Obsah článku"
+
+#: inc/core/data.php:2560
+msgid "Post excerpt"
+msgstr "Úryvek z článku"
+
+#: inc/core/data.php:2562
+msgid "Comment status"
+msgstr "Stav komentářů"
+
+#: inc/core/data.php:2563
+msgid "Ping status"
+msgstr "Stav pingů"
+
+#: inc/core/data.php:2564
+msgid "Post name"
+msgstr "Název článku"
+
+#: inc/core/data.php:2565 inc/core/data.php:2566
+msgid "Post modified"
+msgstr ""
+
+#: inc/core/data.php:2567
+msgid "Filtered post content"
+msgstr "Filtrovaný obsah článku"
+
+#: inc/core/data.php:2569
+msgid "GUID"
+msgstr ""
+
+#: inc/core/data.php:2571
+msgid "Post type"
+msgstr "Typ článku"
+
+#: inc/core/data.php:2572
+msgid "Post mime type"
+msgstr "Typ přílohy článku"
+
+#: inc/core/data.php:2573
+msgid "Comment count"
+msgstr "Počet komentářů"
+
+#: inc/core/data.php:2577
+msgid "Post data field name"
+msgstr "Název pole pro data článku"
+
+#: inc/core/data.php:2605
+msgid "Post data"
+msgstr "Data článku"
+
+#: inc/core/data.php:2616
+msgid "Template name"
+msgstr "Název šablony"
+
+#: inc/core/data.php:2617
+#, php-format
+msgid ""
+"Use template file name (with optional .php extension). If you need to use "
+"templates from theme sub-folder, use relative path. Example values: %s, %s, "
+"%s"
+msgstr ""
+"Použijte název souboru šablony (s možnou .php koncovkou). Pokud potřebujete "
+"použít šablony z adresáře vašeho vzhledu webu (obvykle /wp-content/"
+"themes/...), použijte relativní cestu. Např.: %s, %s, %s"
+
+#: inc/core/data.php:2620
+msgid "Theme template"
+msgstr "Šablona vzhledu"
+
+#: inc/core/counters.php:29
+msgid "1 new add-on for Shortcodes Ultimate"
+msgstr "1 nový doplněk pro Shortcodes Ultimate"
+
+#: inc/core/shortcodes.php:53
+msgid "Tab title"
+msgstr "Název záložky"
+
+#: inc/core/shortcodes.php:451
+msgid "This is box title"
+msgstr "Toto je název boxu"
+
+#: inc/core/shortcodes.php:492
+msgid "please specify correct source"
+msgstr "prosím upřesněte správný zdroj"
+
+#: inc/core/shortcodes.php:561 inc/core/shortcodes.php:565
+#: inc/core/shortcodes.php:599 inc/core/shortcodes.php:603
+#: inc/core/shortcodes.php:632 inc/core/shortcodes.php:636
+#: inc/core/shortcodes.php:660 inc/core/shortcodes.php:664
+#: inc/core/shortcodes.php:692 inc/core/shortcodes.php:696
+#: inc/core/shortcodes.php:719 inc/core/shortcodes.php:726
+#: inc/core/shortcodes.php:748 inc/core/shortcodes.php:753
+msgid "please specify correct url"
+msgstr "prosím upřesněte správné URL"
+
+#: inc/core/shortcodes.php:884
+msgid "This menu doesn't exists, or has no elements"
+msgstr "Toto menu neexistuje nebo nemá žádné prvky"
+
+#: inc/core/shortcodes.php:990 inc/core/shortcodes.php:1073
+#: inc/core/shortcodes.php:1128
+msgid "images not found"
+msgstr "obrázky nenalezeny"
+
+#: inc/core/shortcodes.php:1264
+msgid "template not found"
+msgstr "šablona nenalezena"
+
+#: inc/core/shortcodes.php:1342 inc/core/shortcodes.php:1392
+msgid "post ID is incorrect"
+msgstr "ID článku je nesprávné"
+
+#: inc/core/shortcodes.php:1344
+msgid "please specify meta key name"
+msgstr "prosíme upřesněte název meta klíče"
+
+#: inc/core/shortcodes.php:1365
+msgid "password field is not allowed"
+msgstr "pole heslo není povoleno"
+
+#: inc/core/shortcodes.php:1369
+msgid "user ID is incorrect"
+msgstr "ID uživatele není správné"
+
+#: inc/core/shortcodes.php:1408
+msgid "please specify template name"
+msgstr "prosím upřesněte jméno šablony"
+
+#: inc/core/generator-views.php:45
+msgid "Yes"
+msgstr "Ano"
+
+#: inc/core/generator-views.php:45
+msgid "No"
+msgstr "Ne"
+
+#: inc/core/generator-views.php:55
+msgid "Icon picker"
+msgstr "Výběr ikony"
+
+#: inc/core/generator-views.php:55
+msgid "Filter icons"
+msgstr "Filtrovat ikony"
+
+#: inc/core/generator-views.php:69
+msgid "Please wait"
+msgstr "Prosím počkejte"
+
+#: inc/core/generator-views.php:76
+msgid "Untitled gallery"
+msgstr "Galerie bez jména"
+
+#: inc/core/generator-views.php:82
+msgid "Galleries not found"
+msgstr "galerie nenalezeny"
+
+#: inc/core/generator-views.php:83
+msgid "Manage galleries"
+msgstr "Spravovat galerie"
+
+#: inc/core/generator-views.php:83
+msgid "Reload galleries"
+msgstr "Znovu nahrát galerie"
+
+#: inc/core/generator-views.php:99
+msgid "Horizontal offset"
+msgstr "Horizontální ofset"
+
+#: inc/core/generator-views.php:99
+msgid "Vertical offset"
+msgstr "Vertikální ofset"
+
+#: inc/core/generator-views.php:99
+msgid "Blur"
+msgstr "Rozmazat"
+
+#: inc/core/generator-views.php:110
+msgid "Border width"
+msgstr "Šířka okraje"
+
+#: inc/core/generator-views.php:110
+msgid "Border style"
+msgstr "Styl okraje"
+
+#: inc/core/generator-views.php:110
+msgid "Border color"
+msgstr "Barva okraje"
+
+#: inc/core/generator-views.php:120
+msgid "Media library"
+msgstr "Knihovna médií"
+
+#: inc/core/generator-views.php:121
+msgid "Recent posts"
+msgstr "Nejnovější články"
+
+#: inc/core/generator-views.php:122
+msgid "Category"
+msgstr "Kategorie"
+
+#: inc/core/generator-views.php:126
+msgid "Select images source"
+msgstr "Vyberte zdroj obrázků"
+
+#: inc/core/generator-views.php:137
+msgid "Select taxonomy"
+msgstr "Vyberte taxonomii"
+
+#: inc/core/generator-views.php:148
+msgid "Add images"
+msgstr "přidat obrázky"
+
+#: inc/core/generator-views.php:148
+msgid ""
+"Click the button above and select images.<br>You can select multimple images "
+"with Ctrl (Cmd) key"
+msgstr ""
+"Klikněte na tlačítko nahoře a vyberte obrázky.<br>S použitím klávesy Ctrl "
+"(Cmd) můžete vybrat více obrázků najednou"
+
+#: inc/core/generator-views.php:148
+msgid ""
+"Select categories to retrieve posts from.<br>You can select multiple "
+"categories with Ctrl (Cmd) key"
+msgstr ""
+"Vyberte kategorie, z nichž budou generovány články.<br>S použitím klávesy "
+"Ctrl (Cmd) můžete vybrat více kategorií najednou"
+
+#: inc/core/generator-views.php:148
+msgid ""
+"Select taxonomy and it's terms.<br>You can select multiple terms with Ctrl "
+"(Cmd) key"
+msgstr ""
+"Vyberte taxonomii a její činitele.<br>S použitím klávesy Ctrl (Cmd) můžete "
+"vybrat více činitelů najednou"
+
+#: inc/core/load.php:30 inc/core/load.php:51 inc/core/load.php:104
+#: inc/core/load.php:105 inc/core/generator.php:84
+msgid "Settings"
+msgstr "Nastavení"
+
+#: inc/core/load.php:30 inc/core/load.php:104 inc/core/load.php:113
+#: inc/core/load.php:127 inc/core/load.php:139 inc/core/widget.php:14
+#: inc/core/widget.php:40 inc/core/tools.php:895
+msgid "Shortcodes Ultimate"
+msgstr ""
+
+#: inc/core/load.php:31
+msgid "Shortcodes"
+msgstr "Shortkódy"
+
+#: inc/core/load.php:39
+msgid "About"
+msgstr "O projektu"
+
+#: inc/core/load.php:56
+msgid "Custom formatting"
+msgstr "Vlastní formátování"
+
+#: inc/core/load.php:57
+msgid ""
+"Disable this option if you have some problems with other plugins or content "
+"formatting"
+msgstr ""
+"Zrušte tuto možnost, pokud máte problémy s jinými pluginy či formátováním "
+"obsahu"
+
+#: inc/core/load.php:57
+msgid "Documentation article"
+msgstr "Dokumentace"
+
+#: inc/core/load.php:59 inc/core/load.php:67
+msgid "Enabled"
+msgstr "Umožněno"
+
+#: inc/core/load.php:64
+msgid "Skip default values"
+msgstr "Přeskočit základní hodnoty"
+
+#: inc/core/load.php:65
+msgid ""
+"Enable this option and the generator will insert a shortcode without default "
+"attribute values that you have not changed. As a result, the generated code "
+"will be shorter."
+msgstr ""
+"Povolením této možnosti budou generovány shortkódy bez základních "
+"atribučních hodnot, které jste nezměnili. Výsledkem bude kratší shortkód."
+
+#: inc/core/load.php:72
+msgid "Shortcodes prefix"
+msgstr "Předpona shortkódů"
+
+#: inc/core/load.php:73
+#, php-format
+msgid ""
+"This prefix will be added to all shortcodes by this plugin. For example, "
+"type here %s and you'll get shortcodes like %s and %s. Please keep in mind: "
+"this option is not affects your already inserted shortcodes and if you'll "
+"change this value your old shortcodes will be broken"
+msgstr ""
+"Tato předpona bude přidána ke všem shortkódům tohoto pluginu. Například sem "
+"napište %s a shortkódy budou mít předponu %s a %s. Prosím mějte na paměti, "
+"že tato volba neovlivní již předtím generované kódy a když změníte tuto "
+"hodnotu, vaše shortkódy nebudou funkční."
+
+#: inc/core/load.php:79
+msgid "Skin"
+msgstr "Vzhled"
+
+#: inc/core/load.php:80
+msgid "Choose global skin for shortcodes"
+msgstr "Vyberte obecný skin pro shortkódy"
+
+#: inc/core/load.php:88
+msgid "Custom CSS"
+msgstr "Vlastní CSS"
+
+#: inc/core/load.php:113 inc/core/load.php:114 inc/core/load.php:217
+msgid "Examples"
+msgstr "Příklady"
+
+#: inc/core/load.php:127 inc/core/load.php:128
+msgid "Add-ons"
+msgstr "Doplňky"
+
+#: inc/core/load.php:141
+msgid "Supercharge your WordPress theme with mega pack of shortcodes"
+msgstr "Nabije vaši Wordpress šablonu megabalíkem speciálních shortkódů."
+
+#: inc/core/load.php:218
+msgid "Where to start?"
+msgstr "Kde začít?"
+
+#: inc/core/load.php:229 inc/core/admin-views.php:11
+msgid "Project homepage"
+msgstr "Domovská stránka projketu"
+
+#: inc/core/load.php:230 inc/core/admin-views.php:13
+msgid "Support forum"
+msgstr "Fórum podpory"
+
+#: inc/core/load.php:231 inc/core/admin-views.php:14
+msgid "Changelog"
+msgstr ""
+
+#: inc/core/generator.php:41 inc/core/generator.php:142
+msgid "Insert shortcode"
+msgstr "Vložit shortkód"
+
+#: inc/core/generator.php:84
+msgid "Plugin settings"
+msgstr "nastavení pluginu"
+
+#: inc/core/generator.php:85
+msgid "Plugin homepage"
+msgstr "Domovská stránka pluginu"
+
+#: inc/core/generator.php:86
+msgid "Support forums"
+msgstr "Forum podpory"
+
+#: inc/core/generator.php:93
+msgid "Search for shortcodes"
+msgstr "Hledat v shortkódech"
+
+#: inc/core/generator.php:95
+msgid "Filter by type"
+msgstr "Filtrovat podle typu"
+
+#: inc/core/generator.php:130
+msgid "Shortcode not specified"
+msgstr "Nespecifikovaný shortcode"
+
+#: inc/core/generator.php:143
+msgid "Live preview"
+msgstr "Náhled"
+
+#: inc/core/generator.php:147
+msgid "Click to return to the shortcodes list"
+msgstr "Klikněte pro návrat na seznam shortkódů"
+
+#: inc/core/generator.php:147
+msgid "All shortcodes"
+msgstr "Všechny shortkódy"
+
+#: inc/core/generator.php:153
+msgid "Examples of use"
+msgstr "Příklady použití"
+
+#: inc/core/generator.php:170
+msgid "Click to set this value"
+msgstr "Klikněte pro nastavení této hodnoty"
+
+#: inc/core/generator.php:194
+msgid "Preview"
+msgstr "Náhled"
+
+#: inc/core/generator.php:203 inc/core/tools.php:883
+msgid "Access denied"
+msgstr "Přístup odepřen"
+
+#: inc/core/generator.php:238
+msgid "Presets"
+msgstr "Vzory"
+
+#: inc/core/generator.php:241
+msgid "Save current settings as preset"
+msgstr "Uložit současné nastavení jako vzor"
+
+#: inc/core/generator.php:270 inc/core/generator.php:273
+msgid "Presets not found"
+msgstr "Vzory nenalezeny"
+
+#: inc/core/assets.php:67
+msgid "Close (Esc)"
+msgstr "Zavřít (Esc)"
+
+#: inc/core/assets.php:68
+msgid "Loading..."
+msgstr "Nahrávání"
+
+#: inc/core/assets.php:69
+msgid "Previous (Left arrow key)"
+msgstr "Předchozí (klávesa - šipka vlevo)"
+
+#: inc/core/assets.php:70
+msgid "Next (Right arrow key)"
+msgstr "Následující (klávesa - šipka vpravo)"
+
+#: inc/core/assets.php:71
+#, php-format
+msgid "%s of %s"
+msgstr "%s z %s"
+
+#: inc/core/assets.php:72
+#, php-format
+msgid "Failed to load this link. %sOpen link%s."
+msgstr "Nepodařilo se načíst tento odkaz. %sOtevřít odkaz%s."
+
+#: inc/core/assets.php:84
+msgid "Choose files"
+msgstr "Vybrat soubory"
+
+#: inc/core/assets.php:85
+msgid "Add selected files"
+msgstr "Přidat vybrané soubory"
+
+#: inc/core/assets.php:86
+msgid "This button is not clickable"
+msgstr "Tototlačítko není klikací"
+
+#: inc/core/assets.php:93
+msgid "Insert"
+msgstr "Vložit"
+
+#: inc/core/assets.php:94
+msgid "Select images"
+msgstr "Vybrat obrázky"
+
+#: inc/core/assets.php:95
+msgid "Add selected images"
+msgstr "Přidat vybrané obrázky "
+
+#: inc/core/assets.php:96
+msgid "Please enter a name for new preset"
+msgstr "Prosím vložte jméno pro nový vzor"
+
+#: inc/core/assets.php:97
+msgid "New preset"
+msgstr "Nový vzor"
+
+#: inc/core/assets.php:98
+msgid "Last used settings"
+msgstr "Naposledy použité nastavení"
+
+#: inc/core/assets.php:111
+msgid ""
+"This shortcode doesn't work in live preview. Please insert it into editor "
+"and preview on the site."
+msgstr ""
+"Tento shortkód nefunguje v náhledu. prosm vložte ho do editoru a vyzkoušejte "
+"naživo na webu."
+
+#: inc/core/widget.php:7
+msgid "Special Shortcodes Ultimate widget"
+msgstr "Speciální widget Shortcodes Ultimate"
+
+#: inc/core/widget.php:46
+msgid "Title:"
+msgstr "Nadpis:"
+
+#: inc/core/admin-views.php:9
+msgid "Welcome to Shortcodes Ultimate"
+msgstr "Vítejte v Shortcodes Ultimate"
+
+#: inc/core/admin-views.php:9
+msgid "A real swiss army knife for WordPress"
+msgstr "Nepostradatelný nástroj pro Wordpress"
+
+#: inc/core/admin-views.php:12
+msgid "Documentation"
+msgstr "Dokumentace"
+
+#: inc/core/admin-views.php:15
+msgid "Fork on GitHub"
+msgstr "Forkněte na GitHub"
+
+#: inc/core/admin-views.php:19
+msgid "Plugin features"
+msgstr "Charakteristiky pluginu"
+
+#: inc/core/admin-views.php:21
+msgid "40+ amazing shortcodes"
+msgstr "40+ úžasných shortkódů"
+
+#: inc/core/admin-views.php:22
+msgid "Power of CSS3 transitions"
+msgstr "Síla CSS3 animací"
+
+#: inc/core/admin-views.php:23
+msgid "Handy shortcodes generator"
+msgstr "Užitečný generátor shortkódů"
+
+#: inc/core/admin-views.php:24
+msgid "International"
+msgstr "Mezinárodní"
+
+#: inc/core/admin-views.php:25
+msgid "Documented API"
+msgstr "Dokumentace API"
+
+#: inc/core/admin-views.php:29
+msgid "What is a shortcode?"
+msgstr "Co je shortkód?"
+
+#: inc/core/admin-views.php:30
+msgid ""
+"<strong>Shortcode</strong> is a WordPress-specific code that lets you do "
+"nifty things with very little effort."
+msgstr ""
+"<strong>Shortkód</strong> je specifický Wordpress kód, která vám umožní "
+"usnadnit spiustu věcí s minimem úsilí."
+
+#: inc/core/admin-views.php:31
+msgid ""
+"Shortcodes can embed files or create objects that would normally require "
+"lots of complicated, ugly code in just one line. Shortcode = shortcut."
+msgstr ""
+"Shortkódy mohou vkládat soubory nebo vytvářet objekty (které by normálně "
+"vyžadovaly mnoho komplikovaného kódování) v pouhém jednom řádku. Shortkódy = "
+"zkratky."
+
+#: inc/core/admin-views.php:36
+msgid "How does it works"
+msgstr "Jak to funguje"
+
+#: inc/core/admin-views.php:40
+msgid "More videos"
+msgstr "Více videí"
+
+#: inc/core/admin-views.php:42
+msgid "Shortcodes Ultimate Tutorial"
+msgstr "Návod k Shortcodes Ultimate"
+
+#: inc/core/admin-views.php:43
+msgid "How to use special widget"
+msgstr "Jak používat speciální widget"
+
+#: inc/core/admin-views.php:44
+msgid "How to create Carousel"
+msgstr "Jak vytvořit karusel"
+
+#: inc/core/admin-views.php:45
+msgid "How to create image gallery"
+msgstr "Jak vytvořit obrázkovou galerii"
+
+#: inc/core/admin-views.php:63
+msgid "You can overview the original styles to override it"
+msgstr "Můžete zkontrolovat originální styly a pak je přepsat"
+
+#: inc/core/admin-views.php:75
+msgid "You can use next variables in your custom CSS"
+msgstr "Můžete použít další hodnoty ve vašem vlastním CSS"
+
+#: inc/core/admin-views.php:76
+msgid "home url"
+msgstr "domovská URL"
+
+#: inc/core/admin-views.php:77
+msgid "theme url"
+msgstr "URL šablony"
+
+#: inc/core/admin-views.php:78
+msgid "plugin url"
+msgstr "URL pluginu"
+
+#: inc/core/admin-views.php:117
+msgid "New Shortcodes"
+msgstr "Nové shortkódy"
+
+#: inc/core/admin-views.php:118
+msgid ""
+"Parallax sections, responsive content slider, pricing tables, vector icons, "
+"testimonials, progress bars and even more"
+msgstr ""
+"Oddíly s použitím parallaxu, responzivní slider, ceníky, vektorové ikony, "
+"recenze, lišty průběhu a další"
+
+#: inc/core/admin-views.php:123
+msgid "Maker"
+msgstr "Vytvářeč"
+
+#: inc/core/admin-views.php:124
+msgid ""
+"This add-on allows you to create custom shortcodes. You can easily create "
+"any shortcode with different parameters or even override default shortcodes"
+msgstr ""
+"Tento doplněk vám umožní vytvářet vlastní shortkódy. Můžete jednoduše "
+"vytvořit kterýkoliv shortkód s různými parametry nebo dokonce přepsat "
+"základní shortkódy"
+
+#: inc/core/admin-views.php:129
+msgid "Skins"
+msgstr "Skiny"
+
+#: inc/core/admin-views.php:130
+msgid ""
+"Set of additional skins for Shortcodes Ultimate. It includes skins for "
+"accordeons/spoilers, tabs and some other shortcodes"
+msgstr ""
+"Sada doplňkových skinů pro Shortcodes Ultimate. Obsahuje skiny pro harmoniky/"
+"spoilery, záložky a několik dalších shortkódů"
+
+#: inc/core/admin-views.php:136
+msgid "Shortcodes Ultimate Add-ons"
+msgstr "Doplňky Shortcodes Ultimate"
+
+#: inc/core/admin-views.php:139 inc/core/admin-views.php:146
+msgid "Learn more"
+msgstr "Dozvědět se více"
+
+#: inc/core/admin-views.php:143
+msgid "Other WordPress Plugins"
+msgstr "Další Wordpress pluginy"
+
+#: inc/core/requirements.php:23
+#, php-format
+msgid ""
+"<h1>Oops! Plugin not activated&hellip;</h1> <p>Shortcodes Ultimate is not "
+"fully compatible with your PHP version (%s).<br />Reccomended PHP version "
+"&ndash; %s (or higher).</p><a href=\"%s\">&larr; Return to the plugins "
+"screen</a> <a href=\"%s\"%s>Continue and activate anyway &rarr;</a>"
+msgstr ""
+"<h1>Ouha! Plugin nebyl aktivován&hellip;</h1> <p>Shortcodes Ultimate není "
+"plně kompatibilní s vaší verzí PHP (%s).<br />Doporučená verze PHP &ndash; "
+"%s (nebo vyšší).</p><a href=\"%s\">&larr; Návrat na stránku pluginů</a> <a "
+"href=\"%s\"%s>Pokračovat a přesto aktivovat &rarr;</a>"
+
+#: inc/core/requirements.php:39
+#, php-format
+msgid ""
+"<h1>Oops! Plugin not activated&hellip;</h1> <p>Shortcodes Ultimate is not "
+"fully compatible with your version of WordPress (%s).<br />Reccomended "
+"WordPress version &ndash; %s (or higher).</p><a href=\"%s\">&larr; Return to "
+"the plugins screen</a> <a href=\"%s\"%s>Continue and activate anyway &rarr;</"
+"a>"
+msgstr ""
+"<h1>Ouha! Plugin nebyl aktivován&hellip;</h1> <p>Shortcodes Ultimate není "
+"plně kompatibilní s vaší verzí WordPressu (%s).<br />Doporučená verze "
+"Wordpressu &ndash; %s (nebo vyšší).</p><a href=\"%s\">&larr; Návrat na "
+"stránku pluginů</a> <a href=\"%s\"%s>Pokračovat a přesto aktivovat &rarr;</a>"
+
+#: inc/core/tools.php:802
+msgid "Example code does not found, please check it later"
+msgstr "Ukázkový kód nenalezen, prosím zkontrolujte to později"
+
+#: inc/core/tools.php:818
+msgid "Get the code"
+msgstr "Získat kód"
+
+#: inc/core/tools.php:892
+msgid "Slide link"
+msgstr "Odkaz snímku"
+
+#: inc/core/tools.php:895
+msgid ""
+"Use this field to add custom links to slides used with Slider, Carousel and "
+"Custom Gallery shortcodes"
+msgstr ""
+"Použijte toto pole k přidání vlastních odkazů k snímkům v shortkódech "
+"slideru, karuselu a vlastní galerii"
+
+#: templates/single-post.php:17 templates/default-loop.php:15
+msgid "Posted"
+msgstr "Publikováno"
+
+#: templates/single-post.php:17 templates/default-loop.php:19
+msgid "0 comments"
+msgstr "Žádný komentář"
+
+#: templates/single-post.php:17 templates/default-loop.php:19
+msgid "1 comment"
+msgstr "1 komentář"
+
+#: templates/single-post.php:17 templates/default-loop.php:19
+msgid "%n comments"
+msgstr "%n komentáře"
+
+#: templates/single-post.php:28 templates/list-loop.php:16
+#: templates/default-loop.php:27 templates/teaser-loop.php:20
+msgid "Posts not found"
+msgstr "Články nenalezeny"

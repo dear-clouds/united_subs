@@ -1,0 +1,139 @@
+.mask, .mask-icons {
+	position:absolute;
+	z-index:9000;
+	background-color:#000;
+	display:none;
+}
+.mask-icons {
+	z-index:10001;
+}
+.ui-dialog.shortcodes-dialog {
+	position:fixed;
+	z-index:100000;
+	background:#fff;
+	width:488px;
+	height:488px;
+	overflow-x:hidden;
+    top: 100px !important;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+}
+.ui-dialog.shortcode{
+	z-index:9999;
+	width:733px;
+	height:500px;
+}
+
+#shortcode_panel {
+    display: none;
+}
+
+.ui-dialog.shortcodes-dialog #shortcode_panel {
+    display: block;
+    width: 733px;
+    box-sizing: border-box;
+}
+
+.ui-dialog.shortcodes-dialog #shortcode_panel h3 {
+    margin-left: 15px;
+} 
+
+.ui-dialog.shortcodes-dialog #shortcode_panel .option {
+    padding: 15px;
+    border-bottom: 1px solid #EBEBEC;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+
+.shortcodes-dialog .ui-dialog-titlebar {
+    color: #ccc;
+    cursor: pointer;
+    font-size: 20px;
+    padding: 10px 10px 10px 10px;
+    text-align: right;
+    background-color: #666;
+}
+
+/* .shortcodes_dialog  */
+
+.ui-dialog.shortcodes-dialog .ui-dialog-titlebar .ui-button-text {
+    display: none;
+}
+
+.ui-dialog.shortcodes-dialog .ui-dialog-titlebar .ui-icon-closethick:before {
+    content: "\f158";
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    font-size: 17px;
+    line-height: 24px;
+    font-family: dashicons;
+    text-decoration: inherit;
+    font-weight: 400;
+    font-style: normal;
+    vertical-align: top;
+    text-align: center;
+    -webkit-transition: color .1s ease-in 0;
+    transition: color .1s ease-in 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.ui-dialog.shortcodes-dialog .ui-dialog-titlebar .ui-button {
+    height: 20px;
+    width: 30px;
+    padding: 2px 0;
+    cursor: pointer;
+    line-height: 29px;
+    top: 2px;
+    color: #fff;
+    appearance: none;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    background: none;
+    border: none;
+    padding: 0;
+}
+
+.ui-dialog.shortcodes-dialog .ui-dialog-titlebar .ui-dialog-title {
+    float: left;
+    line-height: 1.2;
+    text-align: left;
+}
+
+#shortcode_panel {
+    height: 500px;
+    overflow-y: auto;
+}
+
+#shortcode_wrap .buttons {
+    margin: 15px;
+}
+
+.title-description {
+    display: inline-block;
+    padding-right: 10px;
+    width: 265px;
+    float: left;
+}
+
+.title-description h4, .title-description-editor h4 {
+    margin: 0;
+}
+
+.title-description .title div, .title-description-editor .title div {
+    font-style: italic;
+    color: #666;
+}
+
+.with-desc {
+    padding-left: 10px;
+    width: 383px;
+    margin-left: -1px;
+    float: right;
+}
+
+.with-desc textarea,
+.with-desc select,
+.with-desc input {
+    width: 340px;
+}

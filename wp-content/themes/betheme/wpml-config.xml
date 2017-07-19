@@ -1,0 +1,85 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">client</custom-type>
+		<custom-type translate="1">offer</custom-type>
+		<custom-type translate="1">portfolio</custom-type>
+		<custom-type translate="1">slide</custom-type>
+		<custom-type translate="1">testimonial</custom-type>
+	</custom-types>
+	<taxonomies>
+		<taxonomy translate="1">portfolio-types</taxonomy>
+	</taxonomies>
+	<admin-texts>
+		<key name="betheme">
+			<key name="meta-description" />
+			<key name="meta-keywords" />
+			<key name="single-sidebar" />
+			<key name="blog-page" />
+			<key name="portfolio-page" />
+			<key name="portfolio-slug" />
+			<key name="construction-title" />
+			<key name="construction-text" />
+			<key name="construction-date" />
+			<key name="construction-offset" />
+			<key name="construction-contact" />
+			<key name="footer-call-to-action" />
+			<key name="footer-copy" />
+			<key name="header-action-title" />
+			<key name="header-action-link" />
+			<key name="header-banner" />
+			<key name="header-slogan" />
+			<key name="header-phone" />
+			<key name="header-phone-2" />
+			<key name="header-email" />
+			<key name="popup-contact-form" />
+			<key name="social-skype" />
+			<key name="social-facebook" />
+			<key name="social-googleplus" />
+			<key name="social-twitter" />
+			<key name="social-vimeo" />
+			<key name="social-youtube" />
+			<key name="social-flickr" />
+			<key name="social-linkedin" />
+			<key name="social-pinterest" />
+			<key name="social-dribbble" />
+			<key name="social-instagram" />
+			<key name="social-behance" />
+			<key name="social-vkontakte" />
+			<key name="translate-search-placeholder" />
+			<key name="translate-search-results" />
+			<key name="translate-home" />
+			<key name="translate-prev" />
+			<key name="translate-next" />
+			<key name="translate-load-more" />
+			<key name="translate-wpml-no" />
+			<key name="translate-before" />
+			<key name="translate-after" />
+			<key name="translate-days" />
+			<key name="translate-hours" />
+			<key name="translate-minutes" />
+			<key name="translate-seconds" />
+			<key name="translate-filter" />
+			<key name="translate-tags" />
+			<key name="translate-authors" />
+			<key name="translate-all" />
+			<key name="translate-published" />
+			<key name="translate-at" />
+			<key name="translate-categories" />
+			<key name="translate-tags" />
+			<key name="translate-readmore" />
+			<key name="translate-like" />
+			<key name="translate-related" />
+			<key name="translate-client" />
+			<key name="translate-date" />
+			<key name="translate-website" />
+			<key name="translate-view" />
+			<key name="translate-task" />
+			<key name="translate-404-title" />
+			<key name="translate-404-subtitle" />
+			<key name="translate-404-text" />
+			<key name="translate-404-btn" />
+			<key name="translate-search-title" />
+			<key name="translate-search-subtitle" />
+		</key>
+	</admin-texts>
+</wpml-config>

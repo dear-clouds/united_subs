@@ -1,0 +1,54 @@
+	.sc-admin-notice {
+    background: #fff;
+    border-top: 4px;
+    display: block;
+    min-height: 68px;
+    padding: 10px 40px 10px 125px;
+    position: relative;
+}
+.sc-admin-notice a {
+    color: #10738B;
+}
+.sc-notice-logo {
+    clear: both;
+    content: "";
+    display: block;
+    background-image: url("../images/plugins/spider.calendar.png");
+    background-size: 108px 107px;
+    background-repeat: no-repeat;
+    background-position: 0 45%;
+    width: 125px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 5px;
+}
+.sc-admin-notice > .dashicons {
+    color: #424242;
+    position: absolute;
+    right: 20px;
+    top: 40%;
+}
+.sc-notice-title {
+    font-size: 24px;
+    margin: 0;
+}
+.sc-notice-body {
+    font-weight: normal;
+    margin: 5px 0;
+}
+.sc-notice-body:after {
+    clear: both;
+    content: "";
+    display: block;
+}
+.sc-notice-body li {
+    float: left;
+    margin-right: 20px;
+}
+.sc-notice-body .dashicons {
+    font-size: 17px;
+}
+.sc-blue {
+    color: #10738B;
+}

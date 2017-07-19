@@ -1,0 +1,40 @@
+/*--------------------------------------------------------------
+BUDDYPRESS TEMPLATE INFO
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
+How the theme works with BuddyPress
+--------------------------------------------------------------*/
+
+The BuddyPress plugin comes pre-packaged with templates that are automatically
+loaded for each component (Members, Groups, etc.). Boss acts much like a
+child theme to the BuddyPress plugin. If we copy any template file from the
+BuddyPress plugin into the Boss theme, the version in the Boss
+theme will override the corresponding file from the BuddyPress plugin.
+
+We only added the templates that we needed to edit specifically for the
+Boss theme. The reason we do not include all BuddyPress template files in
+the theme is to make BuddyPress plugin updates easier, requiring us to patch
+less files if they change something that needs to be updated in the theme
+to maintain compatibility.
+
+/*--------------------------------------------------------------
+How to add missing BuddyPress template files
+--------------------------------------------------------------*/
+
+If you want to edit a template file that does not yet exist in the Boss
+theme, you will need to copy that file from the plugin and add it into your
+Boss theme in the /buddypress/ directory, ideally in a child theme for
+best practice.
+
+Assuming you have the BuddyPress plugin correctly installed, the core
+template files will be located on your server at:
+/wp-content/plugins/buddypress/bp-templates/bp-legacy/buddypress/
+
+We have duplicated the /buddypress/ file structure in Boss, but only with
+the specific templates we edited added into the folder. Just copy the
+template files you need to add into your theme, making sure to follow the
+folder structure exactly. Again, please do this in a child theme. It will
+make your life so much easier when you need to update the Boss theme
+later on, as your edits will be cleanly separated from the parent theme.
+
+Read about child themes here: https://www.buddyboss.com/child-themes/

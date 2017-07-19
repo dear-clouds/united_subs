@@ -1,0 +1,97 @@
+.slideMenu{
+	line-height: 1;
+}
+
+.slideMenu ul{
+	z-index: 100;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+/*Top level list items*/
+.slideMenu ul li{
+	position: relative;
+	display: inline;
+	float: left;
+}
+
+/*Top level menu link items style*/
+.slideMenu ul li a {
+	display: block;
+	padding: 8px 10px 10px;
+	margin: 0 1px 0 0;
+	line-height: 1;
+}
+
+* html .slideMenu ul li a{ 
+	/*IE6 hack to get sub menu links to behave correctly*/
+	display: inline-block;
+}
+
+/* Menu items - hover state (all levels)*/
+.slideMenu ul li a:hover, .slideMenu ul li a.hover {
+	background: transparent;
+}
+
+/* Menu items - hover state (top level only)*/
+.slideMenu > ul > li > a:hover, .slideMenu > ul > li > a.hover {
+	background: #fff;
+}
+	
+/*Sub-menu container */
+.slideMenu ul li ul.sub-menu {
+	position: absolute;
+	left: 0;
+	display: none; /*collapse all sub menus to begin with*/
+	visibility: hidden;
+	background: #fff;
+	padding: 5px 0;
+}
+
+/*Sub-menu links */
+.slideMenu ul li ul.sub-menu li a {
+	padding: 8px 1px 10px;
+	margin: 0 10px;
+	min-width: 160px;
+	white-space: nowrap;
+}
+
+/*All subsequent sub menu levels vertical offset after 1st level sub menu */
+.slideMenu ul li ul li ul{
+	top: 0;
+}
+
+/* Holly Hack for IE \*/
+* html .slideMenu {height: 1%;} /*Holly Hack for IE7 and below*/
+
+
+/* ######### CSS classes applied to down and right arrow images  ######### */
+
+
+.subDown, .subRight {}
+	
+a:hover .subDown, a.hover .subDown, a.hover .subRight, a:hover .subRight { }
+
+.csstransitions a:hover .subDown, .csstransitions a.hover .subDown { top: 16px; }
+.subRight, a.hover .subRight, a:hover .subRight { top: 13px; right: 10px; }
+
+/* active top level link */
+.slideMenu ul li.current-menu-item > a .subDown,
+.slideMenu ul li.current-menu-ancestor > a .subDown { top: 17px; }
+
+
+/* ######### CSS for shadow added to sub menus  ######### */
+
+.ddshadow{ /*shadow for NON CSS3 capable browsers*/
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 0;
+	height: 0;
+	background: silver;
+}
+
+.toplevelshadow{ /*shadow opacity for NON CSS3 capable browsers. Doesn't work in IE*/
+	opacity: 0.8;
+}

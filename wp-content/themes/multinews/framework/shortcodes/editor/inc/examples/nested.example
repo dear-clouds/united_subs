@@ -1,0 +1,37 @@
+<h2>Basic example</h2>
+
+[%mom_su_box title="This is a box with nested spoilers"]
+	[%mom_su_spoiler title="Spoiler title"] Spoiler content [/%mom_su_spoiler]
+	[%mom_su_spoiler title="Spoiler title"] Spoiler content [/%mom_su_spoiler]
+	[%mom_su_spoiler title="Spoiler title"] Spoiler content [/%mom_su_spoiler]
+[/%mom_su_box]
+
+-----
+
+<h2>The same nested shortcodes</h2>
+
+[%mom_su_spoiler title="Click me to see nested spoilers" style="fancy"]
+	[_%mom_su_spoiler title="Spoiler title"] Spoiler content [_/%mom_su_spoiler]
+	[_%mom_su_spoiler title="Spoiler title"] Spoiler content [_/%mom_su_spoiler]
+	[_%mom_su_spoiler title="Spoiler title"] Spoiler content [_/%mom_su_spoiler]
+[/%mom_su_spoiler]
+
+-----
+
+<h2>The same nested shortcodes mixed with other shortcodes</h2>
+
+[%mom_su_spoiler title="Click me to see nested accordion" style="fancy"]
+	[%mom_su_accordion]
+		[_%mom_su_spoiler title="Spoiler title"] Spoiler content [_/%mom_su_spoiler]
+		[_%mom_su_spoiler title="Spoiler title"] Spoiler content [_/%mom_su_spoiler]
+		[_%mom_su_spoiler title="Spoiler title"] Spoiler content [_/%mom_su_spoiler]
+	[/%mom_su_accordion]
+[/%mom_su_spoiler]
+
+-----
+
+<h2>Shortcodes inside of attributes</h2>
+
+To use shortcodes inside of attributes you need to replace square brackets with <code>{</code> and <code>}</code>. Open code to see example
+
+[%mom_su_button url="{shortcode attribute='value'}"] Button [/%mom_su_button]

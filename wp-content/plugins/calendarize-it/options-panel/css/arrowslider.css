@@ -1,0 +1,37 @@
+.arrow-slider-holder {
+	display:block;
+	height:32px;
+}
+.arrow-slider-holder input.arrow-slider {
+	display:block;
+	float:left;
+}
+.arrow-slider-controls {
+	display:block;
+	height:32px;
+	width:16px;
+	margin:0;
+	padding:0;
+	float:left;
+}
+.arrow-slider-increase {
+	background-color:red;
+	width:16px;
+	height:12px;
+	margin:0;
+	padding:0;
+}
+.arrow-slider-decrease {
+	background-color:blue;
+	width:16px;
+	height:12px;
+	margin:0;
+	padding:0;
+}
+
+.arrow-slider-medium {
+	width:50px
+}
+.arrow-slider {
+	width:32px
+}

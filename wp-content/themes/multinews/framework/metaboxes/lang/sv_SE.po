@@ -1,0 +1,691 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Meta Box Script For WordPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-07 10:06+0200\n"
+"PO-Revision-Date: 2014-08-07 10:06+0200\n"
+"Last-Translator: \n"
+"Language-Team: Rilwis <rilwis@gmail.com>\n"
+"Language: en_VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_x:2c,1;_n:1,2;_n_noop:1,2;_nx:1,2;"
+"_nx_noop:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: ../inc/fields\n"
+
+#: ../theme.php:53 ../theme.php:68
+msgid "Page Layout"
+msgstr ""
+
+#: ../theme.php:59
+msgid "Custom Page"
+msgstr ""
+
+#: ../theme.php:61
+msgid "if you want build fully customizable page, Enable this option"
+msgstr ""
+
+#: ../theme.php:70
+msgid ""
+"Select page layout, none mean you will use the default layout or what you "
+"set by theme options -> General Settings -> Theme layout"
+msgstr ""
+
+#: ../theme.php:86
+msgid "Main Sidebar"
+msgstr ""
+
+#: ../theme.php:88
+msgid "Select main sidebar"
+msgstr ""
+
+#: ../theme.php:94
+msgid "Secondary Sidebar"
+msgstr ""
+
+#: ../theme.php:96
+msgid "Select secondary sidebar"
+msgstr ""
+
+#: ../theme.php:114
+msgid "Page Settings"
+msgstr ""
+
+#: ../theme.php:121
+msgid "Page color"
+msgstr ""
+
+#: ../theme.php:129
+msgid "Disable Breadcrumb"
+msgstr ""
+
+#: ../theme.php:136
+msgid "Page Icon"
+msgstr ""
+
+#: ../theme.php:142
+msgid "Enable Share icons"
+msgstr ""
+
+#: ../theme.php:149
+msgid "Enable Comments"
+msgstr ""
+
+#: ../theme.php:158
+msgid "City Name"
+msgstr ""
+
+#: ../theme.php:160 ../theme.php:189
+msgid "Enter default city name"
+msgstr ""
+
+#: ../theme.php:167
+msgid "Custom city title"
+msgstr ""
+
+#: ../theme.php:169
+msgid ""
+"by leave this empty, the title will be the city name if you customize this "
+"insert custom title here"
+msgstr ""
+
+#: ../theme.php:176
+msgid "Default Unit"
+msgstr ""
+
+#: ../theme.php:187
+msgid "Display language"
+msgstr ""
+
+#: ../theme.php:220
+msgid "Weather Background Image"
+msgstr ""
+
+#: ../theme.php:229
+msgid "Magazine Page logo"
+msgstr ""
+
+#: ../theme.php:237
+msgid "Magazine Display"
+msgstr ""
+
+#: ../theme.php:242
+msgid "Latest News"
+msgstr ""
+
+#: ../theme.php:243
+msgid "Category"
+msgstr ""
+
+#: ../theme.php:248 ../theme.php:282
+msgid "Categories"
+msgstr ""
+
+#: ../theme.php:256
+#, fuzzy
+msgid "Order By"
+msgstr "Ordning sparad"
+
+#: ../theme.php:261
+msgid "Recent"
+msgstr ""
+
+#: ../theme.php:262
+msgid "Popular"
+msgstr ""
+
+#: ../theme.php:263
+msgid "Random"
+msgstr ""
+
+#: ../theme.php:268
+msgid "Number of posts"
+msgstr ""
+
+#: ../theme.php:277
+msgid "-1 for all posts"
+msgstr ""
+
+#: ../theme.php:301 ../theme.php:307 ../theme.php:331
+msgid "Story highlights"
+msgstr ""
+
+#: ../theme.php:310
+msgid "each Heading in new line"
+msgstr ""
+
+#: ../theme.php:318
+msgid "Post Settings"
+msgstr ""
+
+#: ../theme.php:324
+msgid "Hide Feature Image"
+msgstr ""
+
+#: ../theme.php:328
+msgid "by default you will see the feature image at the top of post"
+msgstr ""
+
+#: ../theme.php:338
+msgid "As Review"
+msgstr ""
+
+#: ../theme.php:342
+msgid "this must be enable if you want use this post as review"
+msgstr ""
+
+#: ../theme.php:346
+msgid "Disable posts share"
+msgstr ""
+
+#: ../theme.php:352
+msgid "Disable Next post and prev post links"
+msgstr ""
+
+#: ../theme.php:358
+msgid "Disable author box"
+msgstr ""
+
+#: ../theme.php:364
+msgid "Disable Related posts"
+msgstr ""
+
+#: ../theme.php:370
+msgid "Disable comments"
+msgstr ""
+
+#: ../theme.php:382
+msgid "Page Background"
+msgstr ""
+
+#: ../theme.php:389
+msgid "Background color"
+msgstr ""
+
+#: ../theme.php:395
+msgid "Background Image"
+msgstr ""
+
+#: ../theme.php:401
+msgid "Background Position"
+msgstr ""
+
+#: ../theme.php:406
+msgid "Top Left"
+msgstr ""
+
+#: ../theme.php:407
+msgid "Top Center"
+msgstr ""
+
+#: ../theme.php:408
+msgid "Top Right"
+msgstr ""
+
+#: ../theme.php:409
+msgid "Middle Left"
+msgstr ""
+
+#: ../theme.php:410
+msgid "Middle Center"
+msgstr ""
+
+#: ../theme.php:411
+msgid "Middle Right"
+msgstr ""
+
+#: ../theme.php:412
+msgid "Bottom Left"
+msgstr ""
+
+#: ../theme.php:413
+msgid "Bottom Center"
+msgstr ""
+
+#: ../theme.php:414
+msgid "Bottom Right"
+msgstr ""
+
+#: ../theme.php:421
+msgid "Background Repeat"
+msgstr ""
+
+#: ../theme.php:426
+msgid "Tile"
+msgstr ""
+
+#: ../theme.php:427
+msgid "No Repeat"
+msgstr ""
+
+#: ../theme.php:428
+msgid "Tile Horizontally"
+msgstr ""
+
+#: ../theme.php:429
+msgid "Tile Vertically"
+msgstr ""
+
+#: ../theme.php:433
+msgid "Background Attachment"
+msgstr ""
+
+#: ../theme.php:438
+msgid "Scroll"
+msgstr ""
+
+#: ../theme.php:439
+msgid "Fixed"
+msgstr ""
+
+#: ../theme.php:444
+msgid "Background size"
+msgstr ""
+
+#: ../theme.php:449
+msgid "inherit"
+msgstr ""
+
+#: ../theme.php:450
+msgid "cover"
+msgstr ""
+
+#: ../theme.php:451
+msgid "contain"
+msgstr ""
+
+#: ../theme.php:462
+msgid "Content Ads"
+msgstr ""
+
+#: ../theme.php:469
+msgid "Fixed On Scroll"
+msgstr ""
+
+#: ../theme.php:476
+msgid "Right Banner"
+msgstr ""
+
+#: ../theme.php:484
+msgid "Left Banner"
+msgstr ""
+
+#: ../inc/classes/meta-box.php:254
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: ../inc/classes/meta-box.php:428
+msgid "+"
+msgstr ""
+
+#: ../inc/classes/meta-box.php:450
+msgid "&#8211;"
+msgstr ""
+
+#: ../inc/fields/button.php:36
+msgid "Click me"
+msgstr ""
+
+#: ../inc/fields/file-advanced.php:23
+#, fuzzy
+msgid "Select Files"
+msgstr "Välj filer"
+
+#: ../inc/fields/file-advanced.php:66
+#, fuzzy
+msgctxt "file upload"
+msgid "Select or Upload Files"
+msgstr "Välj filer"
+
+#: ../inc/fields/file-advanced.php:102 ../inc/fields/file.php:138
+msgctxt "file upload"
+msgid "Delete"
+msgstr "Radera"
+
+#: ../inc/fields/file-advanced.php:103 ../inc/fields/file.php:139
+#, fuzzy
+msgctxt "file upload"
+msgid "Edit"
+msgstr "Redigera"
+
+#: ../inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: ../inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: ../inc/fields/file.php:70
+msgid "Error: Cannot delete file"
+msgstr "Fel: Kan inte radera filen"
+
+#: ../inc/fields/file.php:84
+#, fuzzy
+msgctxt "file upload"
+msgid "Upload Files"
+msgstr "Ladda upp"
+
+#: ../inc/fields/file.php:85
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr "+ Lägg till ny fil"
+
+#: ../inc/fields/icon.php:22
+#, fuzzy
+msgid "Select Icon"
+msgstr "Välj filer"
+
+#: ../inc/fields/icon.php:25
+msgid "select category icon"
+msgstr ""
+
+#: ../inc/fields/image-advanced.php:22
+#, fuzzy
+msgid "Select Images"
+msgstr "Välj filer"
+
+#: ../inc/fields/image-advanced.php:71
+#, fuzzy
+msgctxt "image upload"
+msgid "Select or Upload Images"
+msgstr "Ladda upp bild"
+
+#: ../inc/fields/image-advanced.php:107 ../inc/fields/image.php:144
+msgctxt "image upload"
+msgid "Delete"
+msgstr "Radera"
+
+#: ../inc/fields/image-advanced.php:108 ../inc/fields/image.php:145
+msgctxt "image upload"
+msgid "Edit"
+msgstr "Redigera"
+
+#: ../inc/fields/image.php:64
+msgid "Order saved"
+msgstr "Ordning sparad"
+
+#: ../inc/fields/image.php:78 ../inc/fields/thickbox-image.php:35
+#, fuzzy
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr "Ladda upp bild"
+
+#: ../inc/fields/image.php:79
+msgctxt "image upload"
+msgid "+ Add new image"
+msgstr "+ Lägg till ny bild"
+
+#: ../inc/fields/map.php:48
+msgid "Find Address"
+msgstr ""
+
+#: ../inc/fields/plupload-image.php:104
+msgctxt "image upload"
+msgid "Drop images here"
+msgstr "Släpp bilder här"
+
+#: ../inc/fields/plupload-image.php:105
+msgctxt "image upload"
+msgid "or"
+msgstr "eller"
+
+#: ../inc/fields/plupload-image.php:106
+msgctxt "image upload"
+msgid "Select Files"
+msgstr "Välj filer"
+
+#: ../inc/fields/plupload-image.php:181
+msgctxt "image upload"
+msgid "Allowed Image Files"
+msgstr "Tillåtna bildformat"
+
+#: ../inc/fields/post.php:54
+msgid "Post"
+msgstr ""
+
+#: ../inc/fields/post.php:68 ../inc/fields/taxonomy.php:40
+#, fuzzy, php-format
+msgid "Select a %s"
+msgstr "Välj filer"
+
+#: ../inc/fields/select-advanced.php:71
+#, fuzzy
+msgid "Select a value"
+msgstr "Välj filer"
+
+#: ../momizat-class/posts-spec.php:6
+msgid "Posts Extra"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:4
+msgid "This boxes show only if you select post format need extra options"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:10
+msgid "Remove <img src=\""
+msgstr ""
+
+#: ../momizat-class/posts-st.php:13
+#, fuzzy
+msgid "upload Image"
+msgstr "Ladda upp bild"
+
+#: ../momizat-class/posts-st.php:24
+msgid "Caption"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:27
+msgid "Link"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:29
+msgid "leave blank and the image will open in lightbox"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:32
+msgid "Link Target"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:35
+msgid "Open link in the same window"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:36
+msgid "Open link in new window"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:43
+msgid "Add Slide <img src=\""
+msgstr ""
+
+#: ../momizat-class/posts-st.php:49 ../momizat-class/posts-st.php:156
+msgid "Type"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:51
+msgid "Youtube"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:52
+msgid "Vimeo"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:53
+msgid "Dailymotion"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:54
+msgid "Facebook"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:55
+msgid "Self Hosted Video"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:57
+msgid ""
+"you can upload only one video but the unsupported Browsers/Devices will play "
+"video in flash for more information <a href=\"http://mediaelementjs.com/"
+"#devices\" target=\"_blank\">click here</a>"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:61
+msgid "Video ID"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:63
+msgid ""
+"the id is the bold text  eg. http://vimeo.com/<strong>27299211</strong>, "
+"https://www.youtube.com/watch?v=<strong>1LzRIhUAilk</strong>"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:67
+msgid "Video Height"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:74
+msgid "Poster Image"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:81
+msgid "the image of the video, you see it before playing the video"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:86
+msgid "Mp4 video"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:95
+msgid "M4V video"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:105
+msgid "WEBM video"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:115
+msgid "OGV video"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:125
+msgid "WMV video"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:135
+msgid "FLV video"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:145
+msgid "Video Duration"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:148
+msgid "if you want see the duration of video in the image thumbnail"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:158 ../momizat-class/posts-st.php:166
+msgid "SoundCloud"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:159
+msgid "Self Hosted Audio"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:161
+msgid ""
+"you can upload only one audio but the unsupported Browsers/Devices will play "
+"audio in flash for more information <a href=\"http://mediaelementjs.com/"
+"#devices\" target=\"_blank\">click here</a>"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:168
+msgid "Soundcolud Track link"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:175
+msgid "MP3"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:182
+msgid "OGG"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:189
+msgid "M4A"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:196
+msgid "WAV"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:203
+msgid "WMA"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:211
+msgid "Audio Duration"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:214
+msgid "if you want see the duration of Audio in the image thumbnail"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:223
+msgid "Aside embed"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:225
+msgid "for example it can be facebook post or anything you want"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:232
+msgid "status embed"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:234
+msgid "for example it can be twitter tweet or anything you want"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:242
+msgid "Link URL"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:250
+msgid "First Speaker Avatar"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:258 ../momizat-class/posts-st.php:272
+msgid "size is 50x50 for retina devices double this size it will be 100x100"
+msgstr ""
+
+#: ../momizat-class/posts-st.php:263
+msgid "Second Speaker Avatar"
+msgstr ""
+
+#~ msgctxt "file upload"
+#~ msgid "Uploaded files"
+#~ msgstr "Uppladdade filer"
+
+#~ msgctxt "file upload"
+#~ msgid "Delete this file"
+#~ msgstr "Radera den här filen"
+
+#~ msgctxt "image upload"
+#~ msgid "Uploaded files"
+#~ msgstr "Uppladdade filer"
+
+#~ msgctxt "image upload"
+#~ msgid "Delete this file"
+#~ msgstr "Radera den här filen"
+
+#~ msgctxt "image upload"
+#~ msgid "Upload files"
+#~ msgstr "Ladda upp filer"

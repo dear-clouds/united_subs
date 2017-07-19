@@ -1,0 +1,5343 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UserPro v1.0.74\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-30 17:37+0200\n"
+"PO-Revision-Date: 2014-04-30 17:37+0200\n"
+"Last-Translator: www.concursuricupremii.ro\n"
+"Language-Team: \n"
+"Language: ro_RO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: userpro-bookmarks/admin/admin.php:27 userpro-bookmarks/admin/admin.php:47
+msgid "User Bookmarks"
+msgstr ""
+
+# @ userpro
+#: userpro-bookmarks/admin/admin.php:97 userpro-messaging/admin/admin.php:104
+#: userpro-vk/admin/admin.php:104 userpro/addons/badges/admin/admin.php:108
+#: userpro/addons/emd/admin/admin.php:102
+#: userpro/addons/multiforms/admin/admin.php:103
+#: userpro/addons/redirects/admin/admin.php:110
+#: userpro/addons/social/admin/admin.php:103 userpro/admin/admin.php:294
+msgid "Settings saved."
+msgstr "Setari salvate."
+
+# @ userpro
+#: userpro-bookmarks/admin/admin.php:103 userpro-messaging/admin/admin.php:110
+#: userpro-vk/admin/admin.php:110 userpro/addons/badges/admin/admin.php:114
+#: userpro/addons/emd/admin/admin.php:108
+#: userpro/addons/multiforms/admin/admin.php:109
+#: userpro/addons/redirects/admin/admin.php:116
+#: userpro/addons/social/admin/admin.php:109 userpro/admin/admin.php:300
+msgid "Settings are reset to default."
+msgstr "Setarile sunt resetate la valorile implicite."
+
+# @ userpro
+#: userpro-bookmarks/admin/panels/settings.php:3
+#, fuzzy
+msgid "General Settings"
+msgstr "Setari Envato"
+
+#: userpro-bookmarks/admin/panels/settings.php:7
+msgid "Automatically add bookmark widget after post content"
+msgstr ""
+
+# @ userpro
+#: userpro-bookmarks/admin/panels/settings.php:10
+#: userpro-bookmarks/admin/panels/settings.php:63
+#: userpro-bookmarks/admin/panels/settings.php:83
+#: userpro-bookmarks/admin/panels/settings.php:93
+#: userpro-bookmarks/admin/panels/settings.php:103
+#: userpro-vk/admin/panels/setup.php:10
+#: userpro/addons/social/admin/panels/settings.php:10
+#: userpro/addons/social/admin/panels/settings.php:40
+#: userpro/addons/social/admin/panels/settings.php:50
+#: userpro/admin/admin-functions.php:374 userpro/admin/admin-functions.php:472
+#: userpro/admin/panels/mail.php:27 userpro/admin/panels/mail.php:37
+#: userpro/admin/panels/mail.php:47 userpro/admin/panels/mail.php:57
+#: userpro/admin/panels/restrict.php:10 userpro/admin/panels/settings.php:64
+#: userpro/admin/panels/settings.php:80 userpro/admin/panels/settings.php:90
+#: userpro/admin/panels/settings.php:208 userpro/admin/panels/settings.php:218
+#: userpro/admin/panels/settings.php:318 userpro/admin/panels/settings.php:338
+#: userpro/admin/panels/settings.php:348 userpro/admin/panels/settings.php:379
+#: userpro/admin/panels/settings.php:426 userpro/admin/panels/settings.php:436
+#: userpro/admin/panels/settings.php:464 userpro/admin/panels/settings.php:474
+#: userpro/admin/panels/settings.php:484 userpro/admin/panels/settings.php:494
+#: userpro/admin/panels/settings.php:505 userpro/admin/panels/settings.php:515
+#: userpro/admin/panels/settings.php:525 userpro/admin/panels/settings.php:535
+#: userpro/admin/panels/settings.php:566 userpro/admin/panels/settings.php:631
+#: userpro/admin/panels/settings.php:652 userpro/admin/panels/settings.php:667
+#: userpro/admin/panels/settings.php:677 userpro/admin/panels/settings.php:731
+#: userpro/admin/panels/settings.php:774 userpro/admin/panels/settings.php:789
+#: userpro/admin/panels/settings.php:807 userpro/admin/panels/settings.php:863
+#: userpro/admin/panels/settings.php:888 userpro/admin/panels/settings.php:912
+#: userpro/admin/panels/settings.php:962 userpro/admin/panels/settings.php:972
+#: userpro/admin/panels/settings.php:982
+msgid "Yes"
+msgstr "Da"
+
+# @ userpro
+#: userpro-bookmarks/admin/panels/settings.php:11
+#: userpro-bookmarks/admin/panels/settings.php:64
+#: userpro-bookmarks/admin/panels/settings.php:84
+#: userpro-bookmarks/admin/panels/settings.php:94
+#: userpro-bookmarks/admin/panels/settings.php:104
+#: userpro-vk/admin/panels/setup.php:11
+#: userpro/addons/social/admin/panels/settings.php:11
+#: userpro/addons/social/admin/panels/settings.php:41
+#: userpro/addons/social/admin/panels/settings.php:51
+#: userpro/admin/admin-functions.php:375 userpro/admin/admin-functions.php:473
+#: userpro/admin/panels/mail.php:28 userpro/admin/panels/mail.php:38
+#: userpro/admin/panels/mail.php:48 userpro/admin/panels/mail.php:58
+#: userpro/admin/panels/restrict.php:11 userpro/admin/panels/settings.php:65
+#: userpro/admin/panels/settings.php:79 userpro/admin/panels/settings.php:91
+#: userpro/admin/panels/settings.php:209 userpro/admin/panels/settings.php:219
+#: userpro/admin/panels/settings.php:319 userpro/admin/panels/settings.php:339
+#: userpro/admin/panels/settings.php:349 userpro/admin/panels/settings.php:380
+#: userpro/admin/panels/settings.php:427 userpro/admin/panels/settings.php:437
+#: userpro/admin/panels/settings.php:465 userpro/admin/panels/settings.php:475
+#: userpro/admin/panels/settings.php:485 userpro/admin/panels/settings.php:495
+#: userpro/admin/panels/settings.php:506 userpro/admin/panels/settings.php:516
+#: userpro/admin/panels/settings.php:526 userpro/admin/panels/settings.php:536
+#: userpro/admin/panels/settings.php:567 userpro/admin/panels/settings.php:632
+#: userpro/admin/panels/settings.php:653 userpro/admin/panels/settings.php:668
+#: userpro/admin/panels/settings.php:678 userpro/admin/panels/settings.php:732
+#: userpro/admin/panels/settings.php:775 userpro/admin/panels/settings.php:790
+#: userpro/admin/panels/settings.php:808 userpro/admin/panels/settings.php:864
+#: userpro/admin/panels/settings.php:889 userpro/admin/panels/settings.php:913
+#: userpro/admin/panels/settings.php:963 userpro/admin/panels/settings.php:973
+#: userpro/admin/panels/settings.php:983
+msgid "No"
+msgstr "Nu"
+
+# @ userpro
+#: userpro-bookmarks/admin/panels/settings.php:17
+#, fuzzy
+msgid "Enable these post types"
+msgstr "Excludeti aceste tipuri de postari de activitate"
+
+# @ userpro
+#: userpro-bookmarks/admin/panels/settings.php:19
+#, fuzzy
+msgid "Choose post types"
+msgstr "Postari (orice tip de postare)"
+
+#: userpro-bookmarks/admin/panels/settings.php:27
+msgid ""
+"Select here the post types that can be bookmarked (If you enable auto "
+"insertion of bookmark widget)"
+msgstr ""
+
+#: userpro-bookmarks/admin/panels/settings.php:32
+msgid "Exclude these IDs"
+msgstr ""
+
+#: userpro-bookmarks/admin/panels/settings.php:35
+msgid ""
+"For automatic widget insertion, this can exclude the post IDs you specify "
+"here (seperated by comma) regardless of any other settings."
+msgstr ""
+
+# @ userpro
+#: userpro-bookmarks/admin/panels/settings.php:42
+#: userpro-bookmarks/admin/panels/settings.php:184
+#: userpro-messaging/admin/panels/options.php:74
+#: userpro-vk/admin/panels/setup.php:33
+#: userpro/addons/emd/admin/panels/settings.php:44
+#: userpro/addons/multiforms/admin/panels/settings.php:22
+#: userpro/addons/social/admin/panels/pages.php:23
+#: userpro/addons/social/admin/panels/settings.php:75
+#: userpro/admin/panels/css.php:17 userpro/admin/panels/fieldroles.php:29
+#: userpro/admin/panels/licensing.php:18 userpro/admin/panels/mail.php:231
+#: userpro/admin/panels/pages.php:41 userpro/admin/panels/restrict.php:73
+#: userpro/admin/panels/settings.php:1010
+#: userpro/functions/shortcode-main.php:108
+#: userpro/functions/shortcode-private-content.php:105
+msgid "Save Changes"
+msgstr "Salveaza modificarile"
+
+# @ userpro
+#: userpro-bookmarks/admin/panels/settings.php:43
+#: userpro-bookmarks/admin/panels/settings.php:185
+#: userpro-messaging/admin/panels/options.php:75
+#: userpro-vk/admin/panels/setup.php:34
+#: userpro/addons/emd/admin/panels/settings.php:45
+#: userpro/addons/multiforms/admin/panels/settings.php:23
+#: userpro/addons/social/admin/panels/pages.php:24
+#: userpro/addons/social/admin/panels/settings.php:76
+#: userpro/admin/panels/css.php:18 userpro/admin/panels/fieldroles.php:30
+#: userpro/admin/panels/mail.php:232 userpro/admin/panels/pages.php:42
+#: userpro/admin/panels/restrict.php:74 userpro/admin/panels/settings.php:1011
+msgid "Reset Options"
+msgstr "Reseteaza optiunile"
+
+#: userpro-bookmarks/admin/panels/settings.php:46
+msgid ""
+"These settings can be overridden by shortcode options. They are for general "
+"bookmark template that appears on your content. The bookmark sidebar widget "
+"may override some settings to make it look perfect in sidebar."
+msgstr ""
+
+# @ userpro
+#: userpro-bookmarks/admin/panels/settings.php:48
+#, fuzzy
+msgid "Bookmark Shortcode Settings"
+msgstr "Setari import"
+
+#: userpro-bookmarks/admin/panels/settings.php:52
+msgid "Bookmark Widget Width"
+msgstr ""
+
+#: userpro-bookmarks/admin/panels/settings.php:55
+msgid "e.g. 250px, 50%, 300px, etc."
+msgstr ""
+
+#: userpro-bookmarks/admin/panels/settings.php:60
+msgid "Widgetized Look"
+msgstr ""
+
+# @ userpro
+#: userpro-bookmarks/admin/panels/settings.php:70
+#, fuzzy
+msgid "Default Alignment"
+msgstr "Skin implicit"
+
+#: userpro-bookmarks/admin/panels/settings.php:73
+msgid "Left"
+msgstr ""
+
+#: userpro-bookmarks/admin/panels/settings.php:74
+msgid "Right"
+msgstr ""
+
+#: userpro-bookmarks/admin/panels/settings.php:80
+msgid "Inline Display"
+msgstr ""
+
+# @ userpro
+#: userpro-bookmarks/admin/panels/settings.php:90
+#, fuzzy
+msgid "Disable top margin"
+msgstr "Dezactivati inregistrarea"
+
+#: userpro-bookmarks/admin/panels/settings.php:100
+msgid "Disable bottom margin"
+msgstr ""
+
+#: userpro-bookmarks/admin/panels/settings.php:110
+msgid "Gap between buttons (%)"
+msgstr ""
+
+#: userpro-bookmarks/admin/panels/settings.php:113
+msgid "This is used if your bookmark widget width is fluid using percentages."
+msgstr ""
+
+#: userpro-bookmarks/admin/panels/settings.php:118
+msgid "Gap between buttons (px)"
+msgstr ""
+
+#: userpro-bookmarks/admin/panels/settings.php:121
+msgid "This is used if your bookmark widget width is fixed using pixels."
+msgstr ""
+
+#: userpro-bookmarks/admin/panels/settings.php:126
+msgid "Text for \"Remove Bookmark\""
+msgstr ""
+
+#: userpro-bookmarks/admin/panels/settings.php:133
+msgid "Text for \"Bookmark has been added\""
+msgstr ""
+
+# @ userpro
+#: userpro-bookmarks/admin/panels/settings.php:140
+#, fuzzy
+msgid "Text for \"Bookmark has been removed\""
+msgstr "Profilul dvs. a fost eliminat!"
+
+#: userpro-bookmarks/admin/panels/settings.php:147
+msgid "Text for \"Default Collection\""
+msgstr ""
+
+#: userpro-bookmarks/admin/panels/settings.php:154
+msgid "Text for \"Add to Collection\""
+msgstr ""
+
+#: userpro-bookmarks/admin/panels/settings.php:161
+msgid "Text for \"New Collection\""
+msgstr ""
+
+#: userpro-bookmarks/admin/panels/settings.php:168
+msgid "Text for \"New Collection Placeholder\""
+msgstr ""
+
+#: userpro-bookmarks/admin/panels/settings.php:175
+msgid "Text for \"Submit New Collection\""
+msgstr ""
+
+#: userpro-bookmarks/functions/api.php:90
+#, php-format
+msgid "%s Bookmarks in Collection"
+msgstr ""
+
+#: userpro-bookmarks/functions/api.php:93
+msgid "Undo"
+msgstr ""
+
+# @ userpro
+#: userpro-bookmarks/functions/api.php:93
+#, fuzzy
+msgid "Remove Collection"
+msgstr "Eliminati regula"
+
+#: userpro-bookmarks/functions/api.php:97
+msgid ""
+"Choose how do you want to remove this collection. This action cannot be "
+"undone!"
+msgstr ""
+
+#: userpro-bookmarks/functions/api.php:100
+msgid "Remove collection and all bookmarks in it"
+msgstr ""
+
+#: userpro-bookmarks/functions/api.php:101
+msgid "Remove collection only"
+msgstr ""
+
+# @ userpro
+#: userpro-bookmarks/functions/api.php:103
+#, fuzzy
+msgid "Remove collection"
+msgstr "Eliminati regula"
+
+# @ userpro
+#: userpro-bookmarks/functions/api.php:122
+#: userpro-bookmarks/functions/api.php:136
+#: userpro/addons/badges/admin/panels/achievement.php:44
+#: userpro/addons/badges/admin/panels/achievement.php:56
+#: userpro/addons/redirects/admin/admin-functions.php:72
+#: userpro/addons/redirects/admin/admin-functions.php:82
+#: userpro/functions/fields-functions.php:275
+#: userpro/functions/fields-functions.php:278
+#: userpro/functions/fields-functions.php:285
+#: userpro/functions/fields-functions.php:288
+#: userpro/functions/frontend-publisher-functions.php:133
+msgid "Remove"
+msgstr "Elimina"
+
+#: userpro-bookmarks/functions/api.php:141
+msgid "Content Removed"
+msgstr ""
+
+# @ userpro
+#: userpro-bookmarks/functions/api.php:155
+#, fuzzy
+msgid "You did not add any content to this collection yet."
+msgstr "Inca nu aveti pe nimeni care a inceput sa va urmareasca."
+
+#: userpro-bookmarks/functions/api.php:296
+#, php-format
+msgid ""
+"You need to <a href=\"%s\">login</a> or <a href=\"%s\">register</a> to view "
+"and manage your bookmarks."
+msgstr ""
+
+#: userpro-bookmarks/functions/api.php:387
+#, php-format
+msgid ""
+"You need to <a href=\"%s\">login</a> or <a href=\"%s\">register</a> to "
+"bookmark/favorite this content."
+msgstr ""
+
+#: userpro-bookmarks/functions/defaults.php:39
+msgid "Remove Bookmark"
+msgstr ""
+
+#: userpro-bookmarks/functions/defaults.php:40
+msgid "Thanks for bookmarking this content!"
+msgstr ""
+
+#: userpro-bookmarks/functions/defaults.php:41
+msgid "This content is no longer in your bookmarks."
+msgstr ""
+
+# @ userpro
+#: userpro-bookmarks/functions/defaults.php:42
+#, fuzzy
+msgid "Default Collection"
+msgstr "Skin implicit"
+
+# @ userpro
+#: userpro-bookmarks/functions/defaults.php:43
+#, fuzzy
+msgid "Add to Collection"
+msgstr "Adauga separator/sectiune"
+
+# @ userpro
+#: userpro-bookmarks/functions/defaults.php:44
+#, fuzzy
+msgid "New Collection"
+msgstr "Sectiune pliabila"
+
+#: userpro-bookmarks/functions/defaults.php:45
+msgid "Enter collection name..."
+msgstr ""
+
+# @ userpro
+#: userpro-bookmarks/functions/defaults.php:46
+#, fuzzy
+msgid "Add New Collection"
+msgstr "Adauga o noua regula de redirectionare"
+
+#: userpro-bookmarks/functions/widgets.php:13
+msgid "Show the bookmark widget in your sidebar"
+msgstr ""
+
+#: userpro-bookmarks/functions/widgets.php:17
+msgid "UserPro - Bookmark Widget"
+msgstr ""
+
+#: userpro-bookmarks/functions/widgets.php:63
+msgid "Bookmark Me"
+msgstr ""
+
+#: userpro-bookmarks/functions/widgets.php:67
+msgid "Title:"
+msgstr ""
+
+#: userpro-messaging/admin/admin.php:27 userpro-messaging/admin/admin.php:56
+msgid "Private Messaging"
+msgstr ""
+
+# @ userpro
+#: userpro-messaging/admin/admin.php:115 userpro-vk/admin/admin.php:115
+#: userpro/addons/emd/admin/admin.php:113
+#: userpro/addons/multiforms/admin/admin.php:114
+#: userpro/addons/redirects/admin/admin.php:121
+#: userpro/addons/social/admin/admin.php:114 userpro/admin/admin.php:305
+msgid "Your plugin pages have been rebuilt successfully."
+msgstr "Paginile pluginului tau au fost reconstruite cu succes."
+
+# @ userpro
+#: userpro-messaging/admin/panels/options.php:3
+#, fuzzy
+msgid "Appearance"
+msgstr "Aspect si infatisare"
+
+# @ userpro
+#: userpro-messaging/admin/panels/options.php:7
+#, fuzzy
+msgid "New Message Notification"
+msgstr "Notificari e-mail"
+
+#: userpro-messaging/admin/panels/options.php:10
+msgid "Show at bottom right"
+msgstr ""
+
+#: userpro-messaging/admin/panels/options.php:11
+msgid "Show at bottom left"
+msgstr ""
+
+# @ userpro
+#: userpro-messaging/admin/panels/options.php:18
+#, fuzzy
+msgid "Messaging Options"
+msgstr "Reseteaza optiunile"
+
+#: userpro-messaging/admin/panels/options.php:22
+msgid "Global Messaging Privacy"
+msgstr ""
+
+#: userpro-messaging/admin/panels/options.php:25
+msgid "Open to all"
+msgstr ""
+
+# @ userpro
+#: userpro-messaging/admin/panels/options.php:26
+#, fuzzy
+msgid "Mutual Followers"
+msgstr "Followers"
+
+# @ userpro
+#: userpro-messaging/admin/panels/options.php:27
+#, fuzzy
+msgid "Disable Messaging"
+msgstr "Dezactivati inregistrarea"
+
+# @ userpro
+#: userpro-messaging/admin/panels/options.php:33
+#, fuzzy
+msgid "Turn on e-mail notifications"
+msgstr "Notificari prin e-mail"
+
+# @ userpro
+#: userpro-messaging/admin/panels/options.php:36
+#: userpro-messaging/admin/panels/options.php:52
+#, fuzzy
+msgid "Enabled"
+msgstr "RTL activat"
+
+# @ userpro
+#: userpro-messaging/admin/panels/options.php:37
+#: userpro-messaging/admin/panels/options.php:53
+#, fuzzy
+msgid "Disabled"
+msgstr "Dezactivati"
+
+#: userpro-messaging/admin/panels/options.php:39
+msgid ""
+"Send an e-mail notification when someone receives a new message. This is a "
+"global option, so be careful. Privacy settings are still under development."
+msgstr ""
+
+#: userpro-messaging/admin/panels/options.php:45
+msgid "Automated Welcome Message"
+msgstr ""
+
+#: userpro-messaging/admin/panels/options.php:49
+msgid "Send an automated message to new users"
+msgstr ""
+
+# @ userpro
+#: userpro-messaging/admin/panels/options.php:59
+#, fuzzy
+msgid "Admin User ID"
+msgstr "ID utilizator"
+
+#: userpro-messaging/admin/panels/options.php:62
+msgid ""
+"This is used to tell the user who has sent them the message. e.g. Enter user "
+"ID for the account who welcome users, like your own (admin) user ID."
+msgstr ""
+
+#: userpro-messaging/admin/panels/options.php:67
+msgid "Message Body"
+msgstr ""
+
+# @ userpro
+#: userpro-messaging/functions/ajax.php:110
+#, fuzzy
+msgid "Your message has been sent successfully."
+msgstr "Un cod secret a fost trimis cu succes."
+
+#: userpro-messaging/functions/api.php:44
+#, php-format
+msgid "%s has messaged you!"
+msgstr ""
+
+# @ userpro
+# @ default
+#: userpro-messaging/functions/api.php:48
+#: userpro/addons/social/functions/defaults.php:32
+#: userpro/functions/defaults.php:48 userpro/functions/defaults.php:55
+#: userpro/functions/defaults.php:62 userpro/functions/defaults.php:72
+#: userpro/functions/defaults.php:80 userpro/functions/defaults.php:85
+#: userpro/functions/defaults.php:90 userpro/functions/defaults.php:95
+#: userpro/functions/defaults.php:101 userpro/functions/defaults.php:107
+#: userpro/functions/defaults.php:111
+msgid "Hi there,"
+msgstr "Salut,"
+
+#: userpro-messaging/functions/api.php:49
+#, php-format
+msgid "You have received a new message on %s from %s"
+msgstr ""
+
+#: userpro-messaging/functions/api.php:50
+msgid "Here is the message body:"
+msgstr ""
+
+#: userpro-messaging/functions/api.php:54
+msgid ""
+"To reply to this conversation or read more messages, please view your "
+"messages by logging to your profile:"
+msgstr ""
+
+#: userpro-messaging/functions/api.php:85
+msgid "Type your message here..."
+msgstr ""
+
+#: userpro-messaging/functions/api.php:88
+#: userpro-messaging/functions/hooks-actions.php:58
+#: userpro/functions/api.php:111 userpro/functions/api.php:182
+msgid "Send Message"
+msgstr ""
+
+# @ userpro
+#: userpro-messaging/functions/api.php:89 userpro/admin/panels/fields.php:125
+msgid "Cancel"
+msgstr "Renunta"
+
+#: userpro-messaging/functions/api.php:285
+#: userpro-messaging/functions/api.php:321
+msgid "read conversation"
+msgstr ""
+
+#: userpro-messaging/functions/api.php:294
+#: userpro-messaging/functions/api.php:330
+msgid "quick reply"
+msgstr ""
+
+#: userpro-messaging/functions/api.php:300
+#, php-format
+msgid "%s unread"
+msgstr ""
+
+# @ userpro
+#: userpro-messaging/functions/api.php:307
+#: userpro-messaging/functions/api.php:343
+#, fuzzy
+msgid "Delete Conversation"
+msgstr "Sterge utilizator"
+
+#: userpro-messaging/functions/api.php:472
+#, php-format
+msgid "%s Unread Message"
+msgstr ""
+
+#: userpro-messaging/functions/api.php:474
+#, php-format
+msgid "%s Unread Messages"
+msgstr ""
+
+#: userpro-messaging/functions/hooks-actions.php:64
+msgid "My Messages"
+msgstr ""
+
+#: userpro-messaging/functions/hooks-actions.php:86
+msgid "Send a message"
+msgstr ""
+#: functions/hooks-actions.php:266 functions/hooks-actions.php:270 functions/hooks-actions.php:246 functions/hooks-actions.php:248
+msgid "'s Profile"
+msgstr "Profilul lui"
+
+#: userpro-messaging/templates/conversation.php:28
+msgid "You!"
+msgstr ""
+
+#: userpro-messaging/templates/conversation.php:30
+#, php-format
+msgid "%s %s"
+msgstr ""
+
+# @ userpro
+#: userpro-messaging/templates/messages.php:3
+#: userpro-messaging/templates/new-message.php:3
+#: userpro/addons/social/templates/activity.php:3
+#: userpro/addons/social/templates/followers.php:3
+#: userpro/addons/social/templates/following.php:3
+#: userpro/templates/card.php:3 userpro/templates/change.php:3
+#: userpro/templates/delete.php:3 userpro/templates/edit.php:3
+#: userpro/templates/list.php:3 userpro/templates/login.php:3
+#: userpro/templates/logout.php:3 userpro/templates/online.php:3
+#: userpro/templates/publish.php:3 userpro/templates/register.php:3
+#: userpro/templates/registration_closed.php:3
+#: userpro/templates/request_verify.php:3 userpro/templates/reset.php:3
+#: userpro/templates/view.php:3
+msgid "Close"
+msgstr "Inchide"
+
+#: userpro-messaging/templates/messages.php:14
+msgid "Message History"
+msgstr ""
+
+#: userpro-messaging/templates/messages.php:17
+msgid "Back"
+msgstr ""
+
+# @ userpro
+#: userpro-messaging/templates/new-message.php:14
+#: userpro/addons/badges/admin/panels/envato.php:27
+#: userpro/addons/social/functions/api.php:53
+#: userpro/addons/social/functions/api.php:63
+#: userpro/addons/social/functions/api.php:79
+#: userpro/addons/social/functions/api.php:95
+#: userpro/addons/social/functions/api.php:108
+#: userpro/addons/social/functions/api.php:126
+#: userpro/addons/social/functions/api.php:136
+#: userpro/addons/social/templates/followers.php:15
+#: userpro/addons/social/templates/followers.php:55
+#: userpro/addons/social/templates/following.php:15
+#: userpro/addons/social/templates/following.php:55
+#: userpro/admin/admin-users.php:24 userpro/templates/edit.php:10
+#: userpro/templates/edit.php:19 userpro/templates/edit.php:21
+#: userpro/templates/list.php:28 userpro/templates/logout.php:16
+#: userpro/templates/memberlist_v2.php:59 userpro/templates/online.php:32
+#: userpro/templates/online.php:55 userpro/templates/view.php:10
+msgid "View Profile"
+msgstr "Vedeti profilul"
+
+# @ userpro
+#: userpro-vk/admin/admin.php:27
+#, fuzzy
+msgid "VK.com Social Integration"
+msgstr "Integrare Google"
+
+#: userpro-vk/admin/admin.php:56
+msgid "VK.com"
+msgstr ""
+
+#: userpro-vk/admin/panels/setup.php:3
+msgid "Setup Credentials"
+msgstr ""
+
+#: userpro-vk/admin/panels/setup.php:7
+msgid "Enable VK.com connect"
+msgstr ""
+
+#: userpro-vk/admin/panels/setup.php:17
+msgid "Application ID"
+msgstr ""
+
+# @ userpro
+#: userpro-vk/admin/panels/setup.php:24
+#, fuzzy
+msgid "Secure Key"
+msgstr "Codul dvs. secret"
+
+# @ userpro
+#: userpro-vk/functions/api.php:135
+#, fuzzy
+msgid "Login with VK.com"
+msgstr "Autentifica-te cu Facebook"
+
+# @ userpro
+#: userpro-vk/functions/api.php:244
+#, fuzzy
+msgid "VK.com Linked"
+msgstr "Legatura Facebook"
+
+# @ userpro
+#: userpro/addons/badges/admin/admin-functions.php:28
+msgid "Add a New Badge"
+msgstr "Adauga o noua insigna"
+
+# @ userpro
+#: userpro/addons/badges/admin/admin-functions.php:30
+msgid "Editing a Badge"
+msgstr "Editare insigna"
+
+# @ userpro
+#: userpro/addons/badges/admin/admin.php:27
+msgid "Add Badges"
+msgstr "Adauga insigne"
+
+# @ userpro
+#: userpro/addons/badges/admin/admin.php:28
+msgid "Edit User Badges"
+msgstr "Editeaza insignele utilizatorului"
+
+# @ userpro
+#: userpro/addons/badges/admin/admin.php:29
+msgid "Edit Achievement Badges"
+msgstr "Editeaza insignele realizate"
+
+# @ userpro
+#: userpro/addons/badges/admin/admin.php:30
+msgid "Envato Customers"
+msgstr "Clienti Envato"
+
+# @ userpro
+#: userpro/addons/badges/admin/admin.php:58
+msgid "Badges and Achievements"
+msgstr "Insigne si realizari"
+
+# @ userpro
+#: userpro/addons/badges/admin/panels/achievement.php:3
+msgid ""
+"You can find the achievement badges that you have created and edit the rules "
+"of achievement from this page."
+msgstr ""
+"In acasta pagina, puteti gasi arhiva insignelor create de dvs. si edita "
+"regulile de obtinere a lor."
+
+# @ userpro
+#: userpro/addons/badges/admin/panels/achievement.php:9
+#: userpro/addons/badges/admin/panels/achievement.php:18
+msgid "Achievement Type"
+msgstr "Tip realizare"
+
+# @ userpro
+#: userpro/addons/badges/admin/panels/achievement.php:10
+#: userpro/addons/badges/admin/panels/achievement.php:19
+msgid "Required"
+msgstr "Necesar"
+
+# @ userpro
+#: userpro/addons/badges/admin/panels/achievement.php:11
+#: userpro/addons/badges/admin/panels/achievement.php:20
+#: userpro/addons/badges/admin/panels/manage.php:24
+msgid "Badge Title"
+msgstr "Titlu insigna"
+
+# @ userpro
+#: userpro/addons/badges/admin/panels/achievement.php:12
+#: userpro/addons/badges/admin/panels/achievement.php:21
+msgid "Badge"
+msgstr "Insigna"
+
+# @ userpro
+#: userpro/addons/badges/admin/panels/achievement.php:13
+#: userpro/addons/badges/admin/panels/achievement.php:22
+msgid "Actions"
+msgstr "Actiuni"
+
+# @ userpro
+#: userpro/addons/badges/admin/panels/achievement.php:44
+#: userpro/addons/badges/admin/panels/achievement.php:56
+msgid "Edit"
+msgstr "Editeaza"
+
+# @ userpro
+#: userpro/addons/badges/admin/panels/envato.php:13
+#, php-format
+msgid "%s Customers verified their purchase"
+msgstr "%s (de) clienti care au verificat achizitia"
+
+# @ userpro
+#: userpro/addons/badges/admin/panels/manage.php:3
+#, php-format
+msgid ""
+"If you want to add more badges, please put your badges as PNG in <code>%s</"
+"code>. To give a new badge, or assign a new achievement, click on a badge "
+"below to start."
+msgstr ""
+"Daca doriti sa adaugati mai multe insigne, va rugam sa le puneti ca PNG in "
+"<code>%s</code>. Pentru a acorda o insigna, sau pentru a atribui o noua "
+"norma, faceti click pe o insigna de mai jos pentru a incepe."
+
+# @ userpro
+#: userpro/addons/badges/admin/panels/manage.php:27
+msgid ""
+"The title of badge will appear when user hovers over the badge e.g. Featured "
+"User, User of the Year, etc."
+msgstr ""
+"Titlul insignei va aparea atunci cand utilizatorul trece peste insigna. Ex: "
+"top comentatori, tehnic, etc."
+
+# @ userpro
+#: userpro/addons/badges/admin/panels/manage.php:32
+msgid "How users can get this badge?"
+msgstr "Cum pot obtine utilizatorii aceasta insigna?"
+
+# @ userpro
+#: userpro/addons/badges/admin/panels/manage.php:35
+msgid "Give this badge to users (manual)"
+msgstr "Da aceasta insigna utilizatorilor (manual)"
+
+# @ userpro
+#: userpro/addons/badges/admin/panels/manage.php:36
+msgid "Require achievement (automatic)"
+msgstr "In functie de realizari (automat)"
+
+# @ userpro
+#: userpro/addons/badges/admin/panels/manage.php:47
+msgid "Choose which users receive this badge"
+msgstr "Alegeti care utilizatori primesc aceasta insigna"
+
+# @ userpro
+#: userpro/addons/badges/admin/panels/manage.php:49
+msgid "Choose..."
+msgstr "Alegeti..."
+
+# @ userpro
+#: userpro/addons/badges/admin/panels/manage.php:57
+msgid ""
+"You can assign this badge to specific to the users you want by choosing them "
+"here."
+msgstr ""
+"Puteti atribui aceasta insigna utilizatorilor pe care ii doriti, prin "
+"alegerea lor de aici."
+
+# @ userpro
+#: userpro/addons/badges/admin/panels/manage.php:64
+msgid "Setup Achievement"
+msgstr "Configurare norma"
+
+# @ userpro
+#: userpro/addons/badges/admin/panels/manage.php:66
+msgid "User has completed"
+msgstr "Utilizatorul a finalizat"
+
+# @ userpro
+#: userpro/addons/badges/admin/panels/manage.php:69
+msgid "Posts (Any post type)"
+msgstr "Postari (orice tip de postare)"
+
+# @ userpro
+#: userpro/addons/badges/admin/panels/manage.php:70
+msgid "Comments"
+msgstr "Comentarii"
+
+# @ userpro
+#: userpro/addons/badges/admin/panels/manage.php:78
+msgid "Submit"
+msgstr "Trimite"
+
+# @ userpro
+#: userpro/addons/badges/admin/panels/user_badges.php:5
+msgid "Edit/Delete User Badges"
+msgstr "Editeaza/Sterge insigne utilizator"
+
+# @ userpro
+#: userpro/addons/badges/admin/panels/user_badges.php:8
+msgid "Select a user"
+msgstr "Selectati un utilizator"
+
+# @ userpro
+#: userpro/addons/badges/admin/panels/user_badges.php:11
+msgid "Select a user..."
+msgstr "Selectati un utilizator..."
+
+# @ userpro
+#: userpro/addons/badges/admin/panels/user_badges.php:24
+msgid "Find User Badges"
+msgstr "Gasiti insigne utilizator"
+
+# @ userpro
+#: userpro/addons/badges/admin/panels/user_badges.php:35
+#, php-format
+msgid "%s's Given Badges"
+msgstr "Insignele lui %s"
+
+# @ userpro
+#: userpro/addons/badges/admin/panels/user_badges.php:41
+msgid "Delete Badge"
+msgstr "Sterge insigna"
+
+# @ userpro
+#: userpro/addons/badges/admin/panels/user_badges.php:48
+msgid "This user does not have any manually assigned badges."
+msgstr "Acest utilizator nu are insigne atribuite manual."
+
+# @ userpro
+#: userpro/addons/badges/functions/api.php:56
+msgid "You did not choose any user."
+msgstr "Nu ati selectat niciun utilizator."
+
+# @ userpro
+#: userpro/addons/badges/functions/api.php:70
+#: userpro/addons/badges/functions/api.php:86
+#: userpro/addons/badges/functions/api.php:102
+msgid "You must choose a badge first."
+msgstr "Mai intai, trebuie sa alegeti o insigna."
+
+# @ userpro
+#: userpro/addons/badges/functions/api.php:72
+#: userpro/addons/badges/functions/api.php:88
+#: userpro/addons/badges/functions/api.php:104
+msgid "You must enter a title for the badge."
+msgstr "Trebuie sa introduceti un nume pentru insigna."
+
+# @ userpro
+#: userpro/addons/badges/functions/api.php:77
+#: userpro/addons/badges/functions/api.php:94
+msgid "Badges have been assigned."
+msgstr "Insignele au fost atribuite."
+
+# @ userpro
+#: userpro/addons/badges/functions/api.php:90
+msgid "You did not select any number for this achievement."
+msgstr "Nu ati selectat niciun numar pentru aceasta norma."
+
+# @ userpro
+#: userpro/addons/badges/functions/api.php:106
+msgid "You must enter a required number of points for this badge."
+msgstr ""
+"Trebuie sa introduceti un numar necesar de puncte pentru aceasta insigna."
+
+# @ userpro
+#: userpro/addons/emd/admin/admin.php:27
+msgid "EMD Settings"
+msgstr "Setari EMD"
+
+# @ userpro
+#: userpro/addons/emd/admin/admin.php:54
+msgid "Enhanced Member Directory"
+msgstr "Imbunatatire director membri"
+
+# @ userpro
+#: userpro/addons/emd/admin/panels/settings.php:3
+msgid "All settings can be overriden using shortcode options."
+msgstr "Toate setarile pot fi suprascrise folosind optiunile shortcode."
+
+# @ userpro
+#: userpro/addons/emd/admin/panels/settings.php:5
+msgid "Global Layout Settings"
+msgstr "Setari globale aspect"
+
+# @ userpro
+#: userpro/addons/emd/admin/panels/settings.php:9
+msgid "Number of results per page"
+msgstr "Numarul de rezultate pe pagina"
+
+# @ userpro
+#: userpro/addons/emd/admin/panels/settings.php:16
+msgid "Result Column Width"
+msgstr "Latimea coloanei de rezultate"
+
+# @ userpro
+#: userpro/addons/emd/admin/panels/settings.php:19
+msgid ""
+"A percentage (%) or pixel value. This decides how many columns the plugin "
+"will attempt to display relative to 100% width. Example: 30% means there "
+"will be max of 3 users per column."
+msgstr ""
+"Valoarea in procente (%) sau pixeli. Aceasta decide cat de multe coloane vor "
+"fi afisate pe pagina in raport cu o latime de 100%. Exemplu: la o valoare de "
+"30% vor fi afisati maxim 3 utilizatori pe coloana."
+
+# @ userpro
+#: userpro/addons/emd/admin/panels/settings.php:24
+msgid "Result Column Margin"
+msgstr "Marginea coloanei de rezultate"
+
+# @ userpro
+#: userpro/addons/emd/admin/panels/settings.php:27
+msgid ""
+"Left margin applied to the result column, which leaves a gap so that whole "
+"width is close to 100% including the column widths."
+msgstr ""
+"Marginea stanga aplicata pe coloana de rezultate, care lasa un spatiu, "
+"astfel incat latimea intreaga este de aproape 100%, inclusiv latimile "
+"coloanelor."
+
+# @ userpro
+#: userpro/addons/emd/admin/panels/settings.php:32
+msgid "Results Layout"
+msgstr "Aspect rezultate"
+
+# @ userpro
+#: userpro/addons/emd/admin/panels/settings.php:35
+msgid "Masonry"
+msgstr "Zid"
+
+# @ userpro
+#: userpro/addons/emd/admin/panels/settings.php:36
+msgid "Grid / Fit Columns"
+msgstr "Grila / Coloane"
+
+# @ userpro
+#: userpro/addons/emd/functions/api.php:186
+msgid "Previous"
+msgstr "Anterior"
+
+# @ userpro
+#: userpro/addons/emd/functions/api.php:187
+msgid "Next"
+msgstr "Urmator"
+
+# @ userpro
+#: userpro/addons/emd/functions/api.php:345
+msgid "No preference"
+msgstr "Nicio preferinta"
+
+# @ userpro
+#: userpro/addons/emd/functions/api.php:346
+msgid "Only members with photo"
+msgstr "Doar utilizatori cu fotografie"
+
+# @ userpro
+#: userpro/addons/emd/functions/api.php:347
+msgid "Only members without photo"
+msgstr "Numai utilizatorii fara fotografii"
+
+# @ userpro
+#: userpro/addons/emd/functions/api.php:352
+msgid "All accounts"
+msgstr "Toate conturile"
+
+# @ userpro
+#: userpro/addons/emd/functions/api.php:353
+msgid "Only verified accounts"
+msgstr "Doar conturile verificate"
+
+# @ userpro
+#: userpro/addons/emd/functions/api.php:394
+#: userpro/addons/emd/functions/api.php:424
+msgid "All"
+msgstr "Toate"
+
+# @ userpro
+#: userpro/addons/emd/functions/api.php:443
+#, php-format
+msgid "Select %s"
+msgstr "Slectat %s"
+
+# @ userpro
+#: userpro/addons/emd/templates/emd.php:9
+msgid "Customize your Search"
+msgstr "Particularizati cautarea dvs."
+
+# @ userpro
+#: userpro/addons/emd/templates/emd.php:13
+msgid "Filter Search"
+msgstr "Filtru cautare"
+
+# @ userpro
+#: userpro/addons/emd/templates/emd.php:42 userpro/templates/card.php:12
+msgid "View Full Profile"
+msgstr "Vezi profilul complet"
+
+# @ userpro
+#: userpro/addons/emd/templates/emd.php:77
+msgid "No users are matching your search criteria."
+msgstr "Niciun utilizator nu se potriveste criteriilor tale."
+
+# @ userpro
+#: userpro/addons/multiforms/admin/admin-functions.php:23
+#, php-format
+msgid ""
+"Done. You can use this seperate registration form by adding this to your "
+"register shortcode: <code>type=%1$s</code> Example: <strong>[userpro "
+"template=register type=%1$s]</strong>"
+msgstr ""
+"Terminat. Puteti folosi acest formular de inregistrare separat prin "
+"adaugarea acestui cod scurt in registrul dvs.: <code>type=%1$s</code> "
+"Exemplu: <strong>[userpro template=register type=%1$s]</strong>"
+
+# @ userpro
+#: userpro/addons/multiforms/admin/admin-functions.php:41
+msgid ""
+"Now check all fields that you want to make available for this registration "
+"form. (Choose only these that apply)"
+msgstr ""
+"Acum verificati toate campurile pe care doriti sa le puneti la dispozitie "
+"pentru acest formular de inregistrare. (Alegeti doar cele care vreti sa "
+"apara)"
+
+# @ userpro
+#: userpro/addons/multiforms/admin/admin.php:27
+msgid "Setup Multiple Forms"
+msgstr "Configurare formulare multiple"
+
+# @ userpro
+#: userpro/addons/multiforms/admin/admin.php:55
+msgid "Multiple Registration Forms"
+msgstr "Formulare multiple de inregistrare"
+
+# @ userpro
+#: userpro/addons/multiforms/admin/panels/settings.php:5
+msgid "Default Registration Form to Use"
+msgstr "Formular de inregistrare implicit"
+
+# @ userpro
+#: userpro/addons/multiforms/admin/panels/settings.php:9
+msgid "Choose your default form"
+msgstr "Alegeti formularul implicit"
+
+# @ userpro
+#: userpro/addons/multiforms/admin/panels/settings.php:31
+msgid "Setup Multiple Register Forms"
+msgstr "Configurare formulare multiple de inregistrare"
+
+# @ userpro
+#: userpro/addons/multiforms/admin/panels/settings.php:33
+msgid ""
+"This feature helps you setup multiple or seperate registration forms. For "
+"example, If you want to have two seperate forms or more e.g. Customer, "
+"Seller, etc. This tool helps you create conditional forms, just follow the "
+"simple steps."
+msgstr ""
+"Aceasta optiune va ajuta sa configurati formulare de inregistrare multiple "
+"sau separate. De exemplu, daca doriti sa aveti doua sau mai multe formulare "
+"de inregistrare separate (de exemplu, client, vanzator, etc), acest "
+"instrument va ajuta sa creeati aceste formulare doar urmand niste pasi "
+"simpli descrisi mai jos."
+
+# @ userpro
+#: userpro/addons/multiforms/admin/panels/settings.php:35
+msgid "Quick Setup Guide"
+msgstr "Ghid de instalare si configurare rapid"
+
+# @ userpro
+#: userpro/addons/multiforms/admin/panels/settings.php:38
+#, php-format
+msgid ""
+"First, setup all form fields including the multiple forms fields at the "
+"field customizer (Registration Fields) <a href=\"%s\">here</a>"
+msgstr ""
+"In primul rand, setati toate campurile formularului, inclusiv campurile "
+"formularelor multiple personalizate (campuri de inregistrare) <a href=\"%s"
+"\">aici</a>"
+
+# @ userpro
+#: userpro/addons/multiforms/admin/panels/settings.php:39
+msgid ""
+"Enter a unique name below for a seperate registration form below to start."
+msgstr ""
+"Introduceti un nume unic mai jos pentru un formular separat de inregistrare "
+"inainte de a incepe."
+
+# @ userpro
+#: userpro/addons/multiforms/admin/panels/settings.php:40
+msgid ""
+"Once entered a unique name (used to tell the plugin which fields/form group "
+"to display), you will be able to check all the fields that are available "
+"only in that specific registration form. Save and go!"
+msgstr ""
+"Odata ce ati introdus un nume unic (folosit pentru a spune pluginului care "
+"campuri/grupuri sa fie afisate), va fi capabil sa afiseze toate campurile "
+"care sunt disponibile numai in aceasta forma de inregistrare specificata. "
+"Salveaza si du-te!"
+
+# @ userpro
+#: userpro/addons/multiforms/admin/panels/settings.php:43
+msgid "Enter a unique name to start"
+msgstr "Introduceti un nume unic pentru a incepe"
+
+# @ userpro
+#: userpro/addons/multiforms/admin/panels/settings.php:44
+msgid "example: customer_form"
+msgstr "exemplu: customer_form"
+
+# @ userpro
+#: userpro/addons/multiforms/admin/panels/settings.php:49
+msgid "Done! Create another?"
+msgstr "Terminat! Creeati altul?"
+
+# @ userpro
+#: userpro/addons/multiforms/admin/panels/settings.php:49
+msgid "Ready"
+msgstr "Gata"
+
+# @ userpro
+#: userpro/addons/multiforms/admin/panels/settings.php:49
+msgid "Start"
+msgstr "Start"
+
+# @ userpro
+#: userpro/addons/redirects/admin/admin-functions.php:18
+msgid "Map All Users"
+msgstr "Toti utilizatorii"
+
+# @ userpro
+#: userpro/addons/redirects/admin/admin-functions.php:67
+#: userpro/addons/redirects/admin/admin-functions.php:77
+#: userpro/admin/admin-users.php:8 userpro/admin/panels/settings.php:170
+#: userpro/functions/api.php:162
+msgid "Username"
+msgstr "Utilizator"
+
+# @ userpro
+#: userpro/addons/redirects/admin/admin-functions.php:68
+#: userpro/addons/redirects/admin/admin-functions.php:78
+#: userpro/functions/api.php:174
+msgid "Role"
+msgstr "Rol"
+
+# @ userpro
+#: userpro/addons/redirects/admin/admin-functions.php:69
+#: userpro/addons/redirects/admin/admin-functions.php:79
+msgid "Custom Field"
+msgstr "Camp personalizat"
+
+# @ userpro
+#: userpro/addons/redirects/admin/admin-functions.php:70
+#: userpro/addons/redirects/admin/admin-functions.php:80
+msgid "Field Value"
+msgstr "Valoare camp"
+
+# @ userpro
+#: userpro/addons/redirects/admin/admin-functions.php:71
+#: userpro/addons/redirects/admin/admin-functions.php:81
+#: userpro/addons/redirects/admin/panels/login_redirects.php:30
+#: userpro/addons/redirects/admin/panels/register_redirects.php:30
+msgid "Redirection URL"
+msgstr "URL redirectionare"
+
+# @ userpro
+#: userpro/addons/redirects/admin/admin-functions.php:98
+msgid "Remove Rule"
+msgstr "Eliminati regula"
+
+# @ userpro
+#: userpro/addons/redirects/admin/admin-functions.php:113
+msgid "You did not specify a redirection URL."
+msgstr "Nu ati specificat o adresa URL de redirectionare."
+
+# @ userpro
+#: userpro/addons/redirects/admin/admin-functions.php:115
+msgid ""
+"You did not specify any custom condition (e.g. specific user) for this "
+"redirection."
+msgstr ""
+"Nu ati specificat nicio optiune personalizata (de exemplu, un anume "
+"utilizator) pentru aceasta redirectionare."
+
+# @ userpro
+#: userpro/addons/redirects/admin/admin.php:27
+msgid "Login Redirects"
+msgstr "Redirectionari autentificare"
+
+# @ userpro
+#: userpro/addons/redirects/admin/admin.php:28
+msgid "Registration Redirects"
+msgstr "Redirectionari inregistrare"
+
+# @ userpro
+#: userpro/addons/redirects/admin/admin.php:29
+msgid "Help"
+msgstr "Ajutor"
+
+# @ userpro
+#: userpro/addons/redirects/admin/admin.php:62
+msgid "Custom Redirects"
+msgstr "Redirectionari personalizate"
+
+# @ userpro
+#: userpro/addons/redirects/admin/panels/login_redirects.php:3
+#: userpro/addons/redirects/admin/panels/register_redirects.php:3
+#, fuzzy
+msgid ""
+"The top rules always have higher priority. So any new rule you add will be "
+"higher in priority and checked first in the redirection rules during login "
+"or registering (depending on where you set the redirection). You can setup a "
+"rule for a specific role, or a specific user, or perhaps redirect all users "
+"who choose United States as country to be redirected to a custom page. This "
+"addon also supports automatic mapping. Please check the help tab for "
+"examples and help."
+msgstr ""
+"Puteti seta o regula pentru un rol specific, sau un anumit utilizator, sau "
+"puteti redirectiona toti utilizatorii care aleg Statele Unite ale Americii "
+"in calitate de tara catre o pagina personalizata. Acest addon sprijina, de "
+"asemenea, cartografierea automata. Va rugam sa verificati sectiunea de "
+"ajutor pentru exemple si ajutor."
+
+# @ userpro
+#: userpro/addons/redirects/admin/panels/login_redirects.php:5
+#: userpro/addons/redirects/admin/panels/register_redirects.php:5
+msgid "Add New Redirection Rule"
+msgstr "Adauga o noua regula de redirectionare"
+
+# @ userpro
+#: userpro/addons/redirects/admin/panels/login_redirects.php:11
+#: userpro/addons/redirects/admin/panels/register_redirects.php:11
+msgid "&mdash; For a specific role &mdash;"
+msgstr "&mdash; Pentru un anumit rol &mdash;"
+
+# @ userpro
+#: userpro/addons/redirects/admin/panels/login_redirects.php:16
+#: userpro/addons/redirects/admin/panels/register_redirects.php:16
+msgid "&mdash; For a user / all users &mdash;"
+msgstr "&mdash; Pentru un utilizator/toti utilizatorii &mdash;"
+
+# @ userpro
+#: userpro/addons/redirects/admin/panels/login_redirects.php:21
+#: userpro/addons/redirects/admin/panels/register_redirects.php:21
+msgid "&mdash; For a custom field &mdash;"
+msgstr "&mdash; Pentru un camp particularizat &mdash;"
+
+# @ userpro
+#: userpro/addons/redirects/admin/panels/login_redirects.php:26
+#: userpro/addons/redirects/admin/panels/register_redirects.php:26
+msgid ""
+"If you want redirection based on specific <strong>custom field value</"
+"strong> enter the value here: (e.g. country or city) This is helpful if you "
+"wish to redirect users who have a specific city in profile, be redirected to "
+"a custom page after their login. If you wish to <strong>auto-map</strong> or "
+"redirect users automatically based on the custom field value you could use "
+"wildcards like this: <strong>{your_custom_field}</strong> in the redirection "
+"URL. The wildcard will also work on {username}"
+msgstr ""
+"Daca doriti redirectionarea pe baza <strong>valoarii specifice a campului "
+"personalizat </strong>, introduceti valoarea aici: (de exemplu, tara sau "
+"oras). Acest lucru este util daca doriti sa redirectionati utilizatorii care "
+"au un anumit oras in profil catre o pagina personalizata dupa autentificarea "
+"lor. Daca doriti sa  <strong>auto-cartografiati</strong> sau sa "
+"redirectionati utilizatorii automat, pe baza valorii campului personalizat, "
+"puteti utiliza metacaractere, cum ar fi aceasta <strong>{your_custom_field}</"
+"strong> in URL-ul de redirectionare. Metacaracterele vor lucra, de asemenea, "
+"si pe {username}"
+
+# @ userpro
+#: userpro/addons/redirects/admin/panels/login_redirects.php:27
+#: userpro/addons/redirects/admin/panels/register_redirects.php:27
+msgid "Enter field value"
+msgstr "Introduceti valoare camp"
+
+# @ userpro
+#: userpro/addons/redirects/admin/panels/login_redirects.php:31
+#: userpro/addons/redirects/admin/panels/register_redirects.php:31
+msgid ""
+"You can use wildcards for automated mapping. For example, if you enter "
+"{username} that will be replaced automatically by the username in "
+"redirection url. If you want to map a custom field <strong>country</strong> "
+"then use the wildcart {country} to map the user to his country "
+"automatically. If you use wildcards, the field value is not required."
+msgstr ""
+"Aveti posibilitatea sa folositi metacaractere pentru maparea automata. De "
+"exemplu, daca introduceti {username} va fi inlocuita de numele de utilizator "
+"in URL-ul de redirectionare. Daca doriti un camp personalizat cu harta "
+"<strong>tarii</strong>, folositi {country} la harta tarii utilizatorului in "
+"mod automat. Daca utilizati metacaractere, nu este necesara valoarea "
+"campului."
+
+# @ userpro
+#: userpro/addons/redirects/admin/panels/login_redirects.php:32
+#: userpro/addons/redirects/admin/panels/register_redirects.php:32
+msgid "Enter redirection URL here."
+msgstr "Introduceti URL-ul pentru redirectionare aici."
+
+# @ userpro
+#: userpro/addons/redirects/admin/panels/login_redirects.php:34
+#: userpro/addons/redirects/admin/panels/register_redirects.php:34
+msgid "Submit New Rule"
+msgstr "Trimite noile reguli"
+
+# @ userpro
+#: userpro/addons/redirects/admin/panels/login_redirects.php:49
+msgid "Existing Login Redirects"
+msgstr "Redirectionari autentificare existente"
+
+# @ userpro
+#: userpro/addons/redirects/admin/panels/register_redirects.php:49
+msgid "Existing Register Redirects"
+msgstr "Redirectionari inregistrare existente"
+
+# @ userpro
+#: userpro/addons/social/admin/admin.php:27
+msgid "Social Extension Settings"
+msgstr "Setari retele sociale"
+
+# @ userpro
+#: userpro/addons/social/admin/admin.php:28
+msgid "Page Setup"
+msgstr "Configurare pagina"
+
+# @ userpro
+#: userpro/addons/social/admin/admin.php:55
+msgid "Social Extension"
+msgstr "Extensie retele sociale"
+
+# @ userpro
+#: userpro/addons/social/admin/panels/pages.php:3
+#: userpro/admin/panels/pages.php:3
+msgid ""
+"You must update your permalinks or Save Changes on your permalinks setup for "
+"the nice URLs to work fine."
+msgstr ""
+"Trebuie sa actualizati legaturile dvs. permanente sau sa salvati schimbarile "
+"pentru ca setarile legaturilor permanente sa functioneze corect."
+
+# @ userpro
+#: userpro/addons/social/admin/panels/pages.php:5
+msgid ""
+"For a better multi-language experience, UserPro allow you to edit the slugs "
+"of the official registration/profile pages here. You must rebuild pages If "
+"you changed your slugs for the new slugs to take effect."
+msgstr ""
+
+# @ userpro
+#: userpro/addons/social/admin/panels/pages.php:7
+#: userpro/admin/panels/pages.php:5
+msgid "Manage Page Slugs"
+msgstr "Gestionati pagina Slugs"
+
+# @ userpro
+#: userpro/addons/social/admin/panels/pages.php:11
+msgid "\"Following\" Slug"
+msgstr "\"Following\" Slug"
+
+# @ userpro
+#: userpro/addons/social/admin/panels/pages.php:16
+msgid "\"Followers\" Slug"
+msgstr "\"Followers\" Slug"
+
+# @ userpro
+#: userpro/addons/social/admin/panels/pages.php:27
+msgid ""
+"By default, the extension creates frontend pages automatically. However if "
+"for some reason, these pages were removed or deleted you can rebuild them "
+"here."
+msgstr ""
+"In mod implicit, extensia creeaza in mod automat paginile personale. Totusi, "
+"daca pentru un motiv oarecare aceste pagini au fost eliminate sau sterse, le "
+"puteti reconstrui aici."
+
+# @ userpro
+#: userpro/addons/social/admin/panels/pages.php:29
+msgid "Check / Rebuild Extension Pages"
+msgstr "Verificati / Reconstruiti pagini suplimentare"
+
+# @ userpro
+#: userpro/addons/social/admin/panels/pages.php:33
+msgid "Following Page"
+msgstr "Pagina Following"
+
+# @ userpro
+#: userpro/addons/social/admin/panels/pages.php:37
+#: userpro/addons/social/admin/panels/pages.php:50
+#: userpro/admin/admin-functions.php:280 userpro/admin/admin-functions.php:314
+#: userpro/admin/panels/pages.php:53 userpro/admin/panels/pages.php:66
+#: userpro/admin/panels/pages.php:79 userpro/admin/panels/pages.php:92
+#: userpro/admin/panels/pages.php:105 userpro/admin/panels/pages.php:118
+msgid "View Page"
+msgstr "Vezi pagina"
+
+# @ userpro
+#: userpro/addons/social/admin/panels/pages.php:46
+msgid "Followers Page"
+msgstr "Pagina Followers"
+
+# @ userpro
+#: userpro/addons/social/admin/panels/pages.php:61
+msgid "Rebuild Pages"
+msgstr "Reconstruiti paginile"
+
+# @ userpro
+#: userpro/addons/social/admin/panels/settings.php:3
+msgid "E-mail Notifications"
+msgstr "Notificari prin e-mail"
+
+# @ userpro
+#: userpro/addons/social/admin/panels/settings.php:7
+msgid "Send e-mail notification when someone follow another user"
+msgstr ""
+"Trimite notificare prin e-mail atunci cand cineva urmareste un alt utilizator"
+
+#: userpro/addons/social/admin/panels/settings.php:18
+msgid "New Follow E-mail Template"
+msgstr ""
+
+# @ userpro
+#: userpro/addons/social/admin/panels/settings.php:22
+#: userpro/admin/panels/mail.php:69 userpro/admin/panels/mail.php:84
+#: userpro/admin/panels/mail.php:99 userpro/admin/panels/mail.php:114
+#: userpro/admin/panels/mail.php:129 userpro/admin/panels/mail.php:144
+#: userpro/admin/panels/mail.php:159 userpro/admin/panels/mail.php:174
+#: userpro/admin/panels/mail.php:189 userpro/admin/panels/mail.php:204
+#: userpro/admin/panels/mail.php:219
+#, fuzzy
+msgid "Subject"
+msgstr "Respinge"
+
+# @ userpro
+#: userpro/addons/social/admin/panels/settings.php:27
+#: userpro/admin/panels/mail.php:74 userpro/admin/panels/mail.php:89
+#: userpro/admin/panels/mail.php:104 userpro/admin/panels/mail.php:119
+#: userpro/admin/panels/mail.php:134 userpro/admin/panels/mail.php:149
+#: userpro/admin/panels/mail.php:164 userpro/admin/panels/mail.php:179
+#: userpro/admin/panels/mail.php:194 userpro/admin/panels/mail.php:209
+#: userpro/admin/panels/mail.php:224
+msgid "Email Content"
+msgstr "Continut e-mail"
+
+# @ userpro
+#: userpro/addons/social/admin/panels/settings.php:33
+msgid "Activity Stream"
+msgstr "Flux activitate"
+
+# @ userpro
+#: userpro/addons/social/admin/panels/settings.php:37
+msgid "Make public activity visible to guests"
+msgstr "Faceti activitatea publica vizibila tuturor vizitatorilor"
+
+# @ userpro
+#: userpro/addons/social/admin/panels/settings.php:47
+msgid "Exclude admin activity from wall"
+msgstr "Excludeti activitatea administratorului de pe perete"
+
+# @ userpro
+#: userpro/addons/social/admin/panels/settings.php:57
+msgid "No. of activities per page"
+msgstr "Nr. activitatilor pe pagina"
+
+# @ userpro
+#: userpro/addons/social/admin/panels/settings.php:60
+msgid "The number of items in activity stream to load per page."
+msgstr "Numarul de articole in fluxul de activitate pe pagina."
+
+# @ userpro
+#: userpro/addons/social/admin/panels/settings.php:65
+msgid "Exclude these post types from activity"
+msgstr "Excludeti aceste tipuri de postari de activitate"
+
+# @ userpro
+#: userpro/addons/social/admin/panels/settings.php:68
+msgid "A comma seperated list of post types to hide from activity."
+msgstr "Separati prin virgula tipurile de postari ascunse din activitate."
+
+# @ userpro
+#: userpro/addons/social/functions/api.php:55
+msgid "is now a verified account."
+msgstr "este acum un cont verificat."
+
+# @ userpro
+#: userpro/addons/social/functions/api.php:66
+#, php-format
+msgid "has published a <a href=\"%s\">new %s</a>."
+msgstr "a publicat un <a href=\"%s\">nou %s</a>."
+
+# @ userpro
+#: userpro/addons/social/functions/api.php:82
+#, php-format
+msgid "has updated a <a href=\"%s\">%s</a>."
+msgstr "a actualizat un <a href=\"%s\">%s</a>."
+
+# @ userpro
+#: userpro/addons/social/functions/api.php:97
+msgid "has posted a new comment on:"
+msgstr "a postat un nou comentariu la:"
+
+# @ userpro
+#: userpro/addons/social/functions/api.php:110
+#, php-format
+msgid "has started following <a href=\"%s\">%s</a>"
+msgstr "a inceput sa urmareasca pe <a href=\"%s\">%s</a>"
+
+# @ userpro
+#: userpro/addons/social/functions/api.php:128
+#, php-format
+msgid "has stopped following <a href=\"%s\">%s</a>"
+msgstr "a incetat urmarirea lui  <a href=\"%s\">%s</a>"
+
+# @ userpro
+#: userpro/addons/social/functions/api.php:138
+msgid "has just registered!"
+msgstr "tocmai a inregistrat!"
+
+# @ userpro
+#: userpro/addons/social/functions/api.php:168
+#: userpro/addons/social/functions/api.php:190
+msgid "you"
+msgstr "tu"
+
+# @ userpro
+#: userpro/addons/social/functions/api.php:235
+#, php-format
+msgid "<span>%s</span> following"
+msgstr "<span>%s</span> following"
+
+# @ userpro
+#: userpro/addons/social/functions/api.php:266
+#, php-format
+msgid "<span>%s</span> followers"
+msgstr "<span>%s</span> followers"
+
+# @ userpro
+#: userpro/addons/social/functions/api.php:334
+#: userpro/addons/social/functions/api.php:336
+msgid "Follow"
+msgstr "Urmareste"
+
+# @ userpro
+#: userpro/addons/social/functions/api.php:334
+#: userpro/addons/social/functions/api.php:336
+msgid "Unfollow"
+msgstr "Nu mai urmari"
+
+# @ userpro
+#: userpro/addons/social/functions/api.php:334
+#: userpro/addons/social/functions/api.php:336
+#: userpro/addons/social/functions/initial-setup.php:33
+#: userpro/addons/social/functions/shortcode-main.php:6
+msgid "Following"
+msgstr "Following"
+
+# @ userpro
+#: userpro/addons/social/functions/defaults.php:33
+#, fuzzy
+msgid ""
+"{USERPRO_FOLLOWER_NAME} is now following you on {USERPRO_BLOG_NAME}! You can "
+"click the following link to view his/her profile:"
+msgstr ""
+"%s va urmareste acum pe %s! Aveti posibilitatea de a face click pe urmatorul "
+"link pentru a vedea profilul lui/ei:"
+
+# @ userpro
+#: userpro/addons/social/functions/defaults.php:35
+msgid "Or view your profile at:"
+msgstr "Sau vedeti profilul dvs. la:"
+
+# @ userpro
+#: userpro/addons/social/functions/defaults.php:37
+#: userpro/functions/defaults.php:99 userpro/functions/defaults.php:105
+#: userpro/functions/defaults.php:109 userpro/functions/defaults.php:115
+msgid ""
+"This is an automated notification that was sent to you by UserPro. No "
+"further action is needed."
+msgstr ""
+"Aceasta este o notificare automata trimisa catre tine de UserPro. Nu este "
+"nevoie de masuri suplimentare."
+
+# @ userpro
+#: userpro/addons/social/functions/defaults.php:39
+#, fuzzy
+msgid "{USERPRO_FOLLOWER_NAME} is now following you!"
+msgstr "%s va urmareste acum!"
+
+# @ userpro
+#: userpro/addons/social/functions/initial-setup.php:47
+#: userpro/addons/social/functions/shortcode-main.php:7
+msgid "Followers"
+msgstr "Followers"
+
+# @ userpro
+#: userpro/addons/social/functions/shortcode-main.php:8
+msgid "Recent Activity"
+msgstr "Activitate recenta"
+
+# @ userpro
+#: userpro/addons/social/templates/activity.php:9
+msgid "Refresh"
+msgstr "Reimprospateaza"
+
+# @ userpro
+#: userpro/addons/social/templates/activity.php:45
+msgid "View more activity"
+msgstr "Vezi mai multa activitate"
+
+# @ userpro
+#: userpro/addons/social/templates/activity.php:55
+msgid "There is no recent activity from the users you follow yet."
+msgstr ""
+"Nu exista inca nicio activitate recenta a utilizatorilor pe care ii urmariti."
+
+# @ userpro
+#: userpro/addons/social/templates/activity.php:57
+msgid "There is no public activity to display yet."
+msgstr "Nu exista nicio activitate publica de afisat inca."
+
+# @ userpro
+#: userpro/addons/social/templates/followers.php:75
+msgid "You do not have anyone who started following you yet."
+msgstr "Inca nu aveti pe nimeni care a inceput sa va urmareasca."
+
+# @ userpro
+#: userpro/addons/social/templates/followers.php:77
+msgid "This user does not have anyone who started following him/her yet."
+msgstr "Acest utilizator nu are pe nimeni care sa il/o urmareasca inca."
+
+# @ userpro
+#: userpro/addons/social/templates/following.php:75
+msgid "You have not started following anyone yet."
+msgstr "Inca nu ati inceput sa urmariti pe nimeni."
+
+# @ userpro
+#: userpro/addons/social/templates/following.php:77
+msgid "This user have not started following anyone yet."
+msgstr "Acest utilizator nu a inceput sa urmareasca pe nimeni inca."
+
+# @ userpro
+#: userpro/admin/admin-functions.php:11
+#, fuzzy
+msgid "Thank you for activating UserPro!"
+msgstr "Multumim pentru activarea UserPro!"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:11
+msgid "This copy is unlicensed. Please activate your copy."
+msgstr "Acest exemplar este fara licenta. Va rugam sa va activati licenta."
+
+# @ userpro
+#: userpro/admin/admin-functions.php:14
+msgid "Check for updates"
+msgstr "Verificati pentru actualizari"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:15
+msgid "Need Support?"
+msgstr "Aveti nevoie de ajutor?"
+
+#: admin/admin-functions.php:16
+msgid "User Manual"
+msgstr "Manual de utilizare"
+
+#: admin/admin-functions.php:15
+msgid "Support UserPro with your 5-star rating"
+msgstr "Sprijini UserPro cu rating de 5 stele"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:16
+msgid "Download Latest"
+msgstr "Descarcati ultima varianta"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:54
+msgid ""
+"Displays the admin email that users can contact you at. You can configure it "
+"under Mail settings."
+msgstr ""
+"Afisati adresa de e-mail a administratorului pentru ca utilizatorii sa va "
+"poata contacta. Puteti sa o configurati in setarile de mail."
+
+# @ userpro
+#: userpro/admin/admin-functions.php:55
+msgid "Displays blog name"
+msgstr "Afiseaza numele site-ului"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:56
+#, fuzzy
+msgid "Displays blog URL"
+msgstr "Afiseaza numele site-ului"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:57
+#, fuzzy
+msgid "Displays blog WP-admin URL"
+msgstr "Afiseaza numele site-ului"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:58
+msgid "Displays the UserPro login page"
+msgstr "Afiseaza pagina de autentificare UserPro"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:59
+msgid "Displays the Username of user"
+msgstr "Afiseaza numele de utilizator al utilizatorului"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:60
+msgid "Displays the user first name"
+msgstr "Afiseaza prenumele utilizatorului"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:61
+msgid "Displays the user last name"
+msgstr "Afiseaza numele utilizatorului"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:62
+#, fuzzy
+msgid "Displays the user display name or public name"
+msgstr "Afiseaza numele utilizatorului"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:63
+msgid "Displays the E-mail address of user"
+msgstr "Afiseaza adresa de e-mail a utilizatorului"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:64
+msgid "Displays the User Profile address"
+msgstr "Afiseaza adresa de profil a utilizatorului"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:65
+msgid "Outputs all profile fields in the e-mail"
+msgstr "Puneti toate campurile din profil in e-mail"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:66
+msgid ""
+"The account validation URL that user receives after signing up (If you "
+"enable e-mail validation feature)"
+msgstr ""
+"URL-ul pe care utilizatorii il primesc pentru activarea contului dupa "
+"inregistrare (daca activati verificarea email-ului)"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:67
+msgid ""
+"Gives a link to the admin to manage his pending user requests and "
+"registrations."
+msgstr ""
+"Ofera o legatura de administrare pentru a gestiona cererile sale de "
+"utilizatori in asteptare si inregistrare."
+
+# @ userpro
+#: userpro/admin/admin-functions.php:68
+msgid ""
+"This is an automatic generated URL that user will click to become verified "
+"after an invitation to get verified is sent to him."
+msgstr ""
+"Aceasta este o adresa URL generata automat pe care utilizatorul va da click "
+"pentru a obtine verificarea, dupa ce a fost trimisa o invitatie catre el."
+
+# @ userpro
+#: userpro/admin/admin-functions.php:72
+msgid "Custom Variable 1"
+msgstr "Variabila personalizata 1"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:85
+#, php-format
+msgid "%s fields available"
+msgstr "%s (de) campuri disponibile"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:118
+msgid "Edit Field"
+msgstr "Editare camp"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:120
+msgid "Delete Field"
+msgstr "Sterge camp"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:258 userpro/admin/admin-functions.php:300
+msgid "Registration Fields"
+msgstr "Campuri inregistrare"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:259 userpro/admin/admin-functions.php:301
+msgid "Edit Profile Fields"
+msgstr "Editare campuri profil"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:260 userpro/admin/admin-functions.php:302
+msgid "Login Fields"
+msgstr "Campuri autentificare"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:261 userpro/admin/admin-functions.php:303
+msgid "Social Fields"
+msgstr "Campuri retele sociale"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:282 userpro/admin/admin-functions.php:317
+msgid "Reset"
+msgstr "Restabiliti"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:283 userpro/admin/admin-functions.php:318
+#: userpro/functions/custom-alerts.php:24
+#: userpro/functions/custom-alerts.php:33
+msgid "Save"
+msgstr "Salveaza"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:335
+msgid "Label"
+msgstr "Eticheta"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:336 userpro/admin/panels/fields.php:97
+msgid "Help Text"
+msgstr "Text ajutor"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:337
+msgid "Placeholder"
+msgstr "Operatiune necesara"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:338
+msgid "Ajax Check Callback (advanced)"
+msgstr "Ajax Check Callback (advanced)"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:339
+msgid "Heading Text"
+msgstr "Rubrica text"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:340
+msgid "Collapsible Section"
+msgstr "Sectiune pliabila"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:341
+msgid "Collapsed"
+msgstr "Prabusit"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:342
+msgid "Upload Button Text"
+msgstr "Text buton incarcare"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:343
+msgid "MailChimp List ID"
+msgstr "Lista ID-uri MailChimp"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:344
+msgid "MailChimp Subscribe Text"
+msgstr "Text abonare MailChimp"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:345
+msgid "Font Icon Code"
+msgstr "Cod font imagine"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:353
+msgid "Drag fields / sections into this area"
+msgstr "Trage campurile / sectiunile in aceasta zona"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:455
+msgid "Add Seperator / Section"
+msgstr "Adauga separator/sectiune"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:458
+msgid "My Custom Heading"
+msgstr "Rubrica mea personalizata"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:508
+msgid "Broken page. Please rebuild plugin pages."
+msgstr "Pagina distrusa. Va rugam sa reconstruti paginile pluginului."
+
+# @ userpro
+#: userpro/admin/admin-functions.php:514
+msgid "Text Input"
+msgstr "Intrare text"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:515
+msgid "Photo Upload"
+msgstr "Incarcare imagine"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:516
+msgid "File Upload"
+msgstr "Incarcare fisier"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:517
+msgid "Textarea"
+msgstr "Zona text"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:518
+msgid "Select Dropdown"
+msgstr "Selecteaza optiune"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:519
+msgid "Multiselect Box"
+msgstr "Caseta de selectare multipla"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:520
+msgid "Checkbox (floating)"
+msgstr "Casuta de selectare (flotant)"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:521
+msgid "Checkbox (full width)"
+msgstr "Casuta de selectare (latime completa)"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:522
+msgid "Radio Choice (floating)"
+msgstr "Casuta selectie (flotant)"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:523
+msgid "Radio Choice (full width)"
+msgstr "Casuta selectie (latime completa)"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:524
+msgid "Date Picker"
+msgstr ""
+
+# @ userpro
+#: userpro/admin/admin-functions.php:525
+msgid "MailChimp Newsletter Subscription"
+msgstr "Abonare newsletter MailChimp"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:526
+msgid "Password Field"
+msgstr "Camp parola"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:527
+msgid "Password Strength Meter"
+msgstr "Contor putere parola"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:584
+msgid "Each field must have a title."
+msgstr "Fiecare camp trebuie sa aiba un titlu."
+
+# @ userpro
+#: userpro/admin/admin-functions.php:586
+msgid "Please enter a unique key or choose an existing usermeta."
+msgstr ""
+"Va rugam sa introduceti o cheie unica sau sa alegeti un usermeta existent."
+
+# @ userpro
+#: userpro/admin/admin-functions.php:598
+msgid "This existing usermeta already exists in your fields list below."
+msgstr "Acest usermeta exista deja in lista campurilor de mai jos."
+
+# @ userpro
+#: userpro/admin/admin-functions.php:600
+msgid "This unique key already exists in your fields list below."
+msgstr "Aceasta cheie unica exista deja in lista campurilor de mai jos."
+
+# @ userpro
+#: userpro/admin/admin-functions.php:822 userpro/admin/admin-functions.php:850
+#: userpro/admin/admin-users.php:51
+msgid "Verified Invite"
+msgstr "Invitatie verificare"
+
+# @ userpro
+#: userpro/admin/admin-functions.php:876 userpro/admin/admin-users.php:49
+msgid "Invitation sent!"
+msgstr "Invitatie trimisa!"
+
+# @ userpro
+#: userpro/admin/admin-metabox.php:11
+#, fuzzy
+msgid "No restriction"
+msgstr "Descriere articol"
+
+# @ userpro
+#: userpro/admin/admin-metabox.php:12
+#, fuzzy
+msgid "Restricted to logged in members only"
+msgstr "Continut restrictionat / Doar membrii"
+
+# @ userpro
+#: userpro/admin/admin-notices.php:18 userpro/functions/_trial.php:6
+#, php-format
+msgid ""
+"You are using a trial version of UserPro plugin. If you have purchased the "
+"plugin, please enter your purchase code to enable the full version. You can "
+"enter your <a href=\"%s\">purchase code here</a>."
+msgstr ""
+"Versiunea pe care o utilizati a pluginului UserPro este una de incercare. "
+"Daca ati achizitionat pluginul, va rugam sa introduceti codul dvs. de "
+"achizitie pentru a activa versiunea completa. Puteti introduce <a href=\"%s"
+"\">codul dvs. de achizitie aici</a>."
+
+# @ userpro
+#: userpro/admin/admin-users.php:11
+msgid "Badges"
+msgstr "Insigne"
+
+# @ userpro
+#: userpro/admin/admin-users.php:12
+msgid "Verified"
+msgstr "Verificat"
+
+# @ userpro
+#: userpro/admin/admin-users.php:26 userpro/functions/initial-setup.php:76
+#: userpro/templates/view.php:20 userpro/templates/view.php:22
+msgid "Edit Profile"
+msgstr "Editare profil"
+
+# @ userpro
+#: userpro/admin/admin.php:32 userpro/admin/admin.php:35
+msgid "Download Export"
+msgstr "Descarcati exportul"
+
+# @ userpro
+#: userpro/admin/admin.php:41
+#, fuzzy
+msgid "Settings"
+msgstr "Setari EMD"
+
+# @ userpro
+#: userpro/admin/admin.php:42
+#, fuzzy
+msgid "Fields"
+msgstr "Campuri autentificare"
+
+# @ userpro
+#: userpro/admin/admin.php:43
+#, fuzzy, php-format
+msgid "%s Requests"
+msgstr "%s Cereri in asteptare"
+
+# @ userpro
+#: userpro/admin/admin.php:44 userpro/admin/panels/css.php:3
+#, fuzzy
+msgid "Custom CSS"
+msgstr "Camp personalizat"
+
+# @ userpro
+#: userpro/admin/admin.php:45 userpro/admin/panels/mail.php:20
+msgid "Email Notifications"
+msgstr "Notificari e-mail"
+
+# @ userpro
+#: userpro/admin/admin.php:46
+msgid "Restrict Content"
+msgstr "Continut restrictionat"
+
+# @ userpro
+#: userpro/admin/admin.php:47
+#, fuzzy
+msgid "Setup Pages"
+msgstr "Reconstruiti paginile"
+
+# @ userpro
+#: userpro/admin/admin.php:48
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+# @ userpro
+#: userpro/admin/admin.php:49
+msgid "Role-based Fields"
+msgstr "Campuri bazate pe roluri"
+
+#: admin/admin.php:50
+msgid "Export Users"
+msgstr "export Utilizatori"
+
+# @ userpro
+#: userpro/admin/admin.php:51
+msgid "Import/Export"
+msgstr "Import/Export"
+
+# @ userpro
+#: userpro/admin/admin.php:52
+msgid "Licensing"
+msgstr "Licenta"
+
+# @ userpro
+#: userpro/admin/admin.php:182
+#, php-format
+msgid "%d new verification requests"
+msgstr "%d (de) noi cereri de verificare"
+
+# @ userpro
+#: userpro/admin/admin.php:184
+#, php-format
+msgid "UserPro %s"
+msgstr "UserPro %s"
+
+# @ userpro
+#: userpro/admin/admin.php:186 userpro/admin/admin.php:189
+msgid "UserPro"
+msgstr "UserPro"
+
+# @ userpro
+#: userpro/admin/admin.php:237
+#, php-format
+msgid "%s files deleted."
+msgstr "%s fisiere sterse"
+
+# @ userpro
+#: userpro/admin/admin.php:250
+#, php-format
+msgid "%s unused folders deleted."
+msgstr "%s foldere neutilizate sterse"
+
+# @ userpro
+#: userpro/admin/admin.php:254
+msgid "Online users data is reset."
+msgstr "Datele utilizatorilor online sunt resetate."
+
+# @ userpro
+#: userpro/admin/admin.php:258
+msgid "Activity stream has been reset."
+msgstr "Fluxul de activitate a fost resetat."
+
+# @ userpro
+#: userpro/admin/admin.php:312
+msgid "You did not specify a group name."
+msgstr "Nu ati specificat un nume de grup."
+
+# @ userpro
+#: userpro/admin/admin.php:319
+msgid "This group exists already."
+msgstr "Acest grup exista deja."
+
+# @ userpro
+#: userpro/admin/admin.php:323
+msgid "Group created."
+msgstr "Grup creat"
+
+# @ userpro
+#: userpro/admin/admin.php:331
+msgid "WooCommerce fields have been added."
+msgstr "Campurile WooCommerce au fost adaugate."
+
+# @ userpro
+#: userpro/admin/admin.php:336
+msgid "WooCommerce fields have been removed."
+msgstr "Campurile WooCommerce au fost eliminate."
+
+# @ userpro
+#: userpro/admin/admin.php:373
+#, fuzzy
+msgid "UserPro has been reset to factory settings."
+msgstr ""
+"UserPro a fost resetat la setarile initiale. REFRESH la aceasta pagina de "
+"doua ori!"
+
+# @ userpro
+#: userpro/admin/admin.php:380
+msgid "Please enter a purchase code."
+msgstr "Va rugam sa introduceti un cod de cumparare."
+
+# @ userpro
+#: userpro/admin/admin.php:384
+msgid "Thanks for activating UserPro!"
+msgstr "Multumim pentru activarea UserPro!"
+
+# @ userpro
+#: userpro/admin/admin.php:387
+msgid ""
+"You have entered an invalid purchase code or the Envato API could be down at "
+"the moment."
+msgstr ""
+"Ati introdus un cod de cumparare invalid sau API-ul  Envato ar putea fi "
+"cazut in acest moment."
+
+# @ userpro
+#: userpro/admin/admin.php:399
+msgid "Your UserPro field groups have been imported."
+msgstr "Campurile grupurilor dvs. UserPro au fost importate."
+
+# @ userpro
+#: userpro/admin/admin.php:401 userpro/admin/admin.php:415
+#: userpro/admin/admin.php:429
+msgid "This is not a valid import file."
+msgstr "Acesta nu este un fisier valid de importat."
+
+# @ userpro
+#: userpro/admin/admin.php:413
+msgid "Your UserPro fields have been imported."
+msgstr "Campurile UserPro au fost importate."
+
+# @ userpro
+#: userpro/admin/admin.php:427
+msgid "Your UserPro settings have been imported."
+msgstr "Setarile dvs. UserPro au fost importate."
+
+#: userpro/admin/panels/css.php:7
+msgid "Custom CSS Styles"
+msgstr ""
+
+#: userpro/admin/panels/css.php:10
+msgid ""
+"If you want to override existing styles, or add some specific CSS rules, put "
+"them here. They will survive the updates."
+msgstr ""
+
+# @ userpro
+#: userpro/admin/panels/fieldroles.php:3
+msgid ""
+"Here you can set fields to be available for certain role(s) only. For "
+"example, If you wish to make a set of fields not visible to Subscriber role, "
+"or want to make other fields available only to a Customer role. This does "
+"the job for you."
+msgstr ""
+"Aici puteti seta campuri pentru a fi disponibile numai pentru anumite "
+"roluri. De exemplu, daca doriti sa faceti un set de campuri care nu sunt "
+"vizibile simplilor abonati, sau daca doriti sa faceti alte campuri "
+"disponibile doar pentru un rol de client."
+
+#: userpro/admin/panels/fieldroles.php:5
+msgid "Setup Field / Role Relationships"
+msgstr ""
+
+# @ userpro
+#: userpro/admin/panels/fields.php:6
+msgid "How to edit the field settings?"
+msgstr "Cum editezi setarile campului?"
+
+# @ userpro
+#: userpro/admin/panels/fields.php:7
+msgid ""
+"This plugin uses small icons for quick ajax editing for a field. Each icon "
+"means something, this little guide will show you how to control each field "
+"quickly and instantly."
+msgstr ""
+"Acest plugin foloseste pictograme mici pentru editarea rapida a unui camp. "
+"Fiecare pictograma inseamna ceva, acest mic ghid va va arata cum sa "
+"controlati rapid fiecare camp."
+
+# @ userpro
+#: userpro/admin/panels/fields.php:8
+msgid ""
+"A transparent icon means the setting is turned off. A full-color icon means "
+"the setting is turned on. Click on any icon to switch the state of it on and "
+"off."
+msgstr ""
+"O pictograma transparenta inseamna ca setarea este oprita. O pictograma full-"
+"color inseamna ca setarea este pornita. Faceti click pe orice pictograma "
+"pentru a-i schimba starea."
+
+# @ userpro
+#: userpro/admin/panels/fields.php:11
+msgid "This removes the field from a selected group"
+msgstr "Acesta elimina campul din grupul selectat"
+
+# @ userpro
+#: userpro/admin/panels/fields.php:12
+msgid "Click that icon to edit field label and help text or other misc options"
+msgstr ""
+"Faceti click pe pictograma pentru a edita eticheta campului si textul de "
+"ajutor sau alte optiuni"
+
+# @ userpro
+#: userpro/admin/panels/fields.php:13
+msgid "Make a field hideable from public by user"
+msgstr "Face un camp ascuns de public din profilul utilizatorului"
+
+# @ userpro
+#: userpro/admin/panels/fields.php:14
+msgid "Make a field hidden from public by default if field is hideable"
+msgstr "Face un camp ascuns de la public daca respectivul camp este bifabil"
+
+# @ userpro
+#: userpro/admin/panels/fields.php:15
+msgid ""
+"Lock a field so that user cannot edit, but admins can still edit all fields"
+msgstr ""
+"Blocheaza un camp astfel incat utilizatorii sa nu il poata edita, dar "
+"administratorii sa il poata edita in continuare"
+
+# @ userpro
+#: userpro/admin/panels/fields.php:16
+msgid ""
+"Make a field private so that users cannot view or edit it, but admins will "
+"be able to view it"
+msgstr ""
+"Face un camp privat pe care utilizatorii nu il pot vedea sau edita, dar "
+"administratorii sa il poata vedea"
+
+# @ userpro
+#: userpro/admin/panels/fields.php:17
+msgid "Make a field required"
+msgstr "Face un camp obligatoriu"
+
+# @ userpro
+#: userpro/admin/panels/fields.php:18
+msgid "Allow HTML in a field. e.g. If the field is textarea"
+msgstr ""
+"Permite introducere continut HTML intr-un camp. ex. in cazul zonei text"
+
+# @ userpro
+#: userpro/admin/panels/fields.php:28
+msgid "Before resetting, please remove all UserPro pages from your Pages."
+msgstr ""
+"Inainte de a reseta, va rugam sa eliminati toate paginile UserPro din "
+"paginile dvs."
+
+# @ userpro
+#: userpro/admin/panels/fields.php:29
+msgid "Re-Install UserPro (Warning: This will reset all fields and settings)"
+msgstr ""
+"Reinstalare UserPro (Atentie: Aceasta va reseta toate campurile si setarile)"
+
+# @ userpro
+#: userpro/admin/panels/fields.php:35
+msgid "Groups & Fields"
+msgstr "Grupuri si campuri"
+
+# @ userpro
+#: userpro/admin/panels/fields.php:35
+msgid "Reset All Groups"
+msgstr "Reseteaza toate grupurile"
+
+# @ userpro
+#: userpro/admin/panels/fields.php:47
+msgid "Drag & Drop your fields into Forms"
+msgstr "Trageti si eliberati campurile in formulare"
+
+# @ userpro
+#: userpro/admin/panels/fields.php:48
+msgid ""
+"Each field presents a bit of data or a meta key about the user. This allow "
+"you to drag any field to any form you want but be careful, not every field "
+"is suitable for any form. e.g. It makes no sense to add Country to your "
+"login shortcode."
+msgstr ""
+"Fiecare camp prezinta putine informatii sau o cheie meta utilizatorului. "
+"Acest lucru va permite sa glisati orice camp  de orice forma dorit, dar fiti "
+"atenti, nu orice camp se potriveste cu orice formular. De exemplu, nu are "
+"niciun sens sa adaugati la tara o legatura catre autentificare."
+
+# @ userpro
+#: userpro/admin/panels/fields.php:53
+msgid "Add New Field / Add or Sync Existing Data"
+msgstr "Adaugati camp nou / Adaugati sau sincronizati datele existente"
+
+# @ userpro
+#: userpro/admin/panels/fields.php:54
+msgid ""
+"You can add any field to your forms such as City, Address, or anything else "
+"by clicking on <strong>Add New Field</strong> The plugin will automatically "
+"sync/recognize any meta key stored in your user database, so you could "
+"display the value of any existing meta data."
+msgstr ""
+"Puteti adauga orice camp in formularul dvs., cum ar fi Oras, Adresa, sau "
+"orice altceva facand click pe <strong>Adaugare camp nou</strong>. Pluginul "
+"va recunoaste/sincroniza automat orice cheie meta stocata in baza de date a "
+"utilizatorului, astfel incat sa poti afisa orice valoare meta existenta."
+
+# @ userpro
+#: userpro/admin/panels/fields.php:55
+msgid "Add New Field"
+msgstr "Adaugare camp nou"
+
+# @ userpro
+#: userpro/admin/panels/fields.php:64
+msgid "Field Title"
+msgstr "Titlu camp"
+
+# @ userpro
+#: userpro/admin/panels/fields.php:66
+msgid ""
+"Enter title for this data. example: City, How did you hear about us, "
+"Twitter, Personal Website, etc."
+msgstr ""
+"Introduceti titlul pentru aceste date. exemplu: oras, cum ati auzit de noi, "
+"Twitter, site personal, etc."
+
+# @ userpro
+#: userpro/admin/panels/fields.php:70
+msgid "Field Type"
+msgstr "Tip camp"
+
+# @ userpro
+#: userpro/admin/panels/fields.php:72
+msgid ""
+"The type of field or how a user is going to enter this data (via text, "
+"selecting a choice from dropdown, etc)"
+msgstr ""
+"Tipul de camp sau modul in care un utilizator va introduce aceste date (prin "
+"text, selectand o optiune, etc)"
+
+# @ userpro
+#: userpro/admin/panels/fields.php:76
+msgid "Allowed file extensions"
+msgstr "Extensii de fisiere permise"
+
+# @ userpro
+#: userpro/admin/panels/fields.php:78
+msgid ""
+"A comma seperated list of allowed file types. If blank, default will be to "
+"zip, pdf, txt."
+msgstr ""
+"Separa prin virgula tipurile de fisiere permise. Daca ramane gol, implicit "
+"vor fi permise fisiere zip, pdf, txt."
+
+# @ userpro
+#: userpro/admin/panels/fields.php:82
+msgid "Builtin Choice List"
+msgstr "Schimba lista predefinita"
+
+# @ userpro
+#: userpro/admin/panels/fields.php:85
+msgid "Countries List"
+msgstr "Lista tari"
+
+# @ userpro
+#: userpro/admin/panels/fields.php:86
+msgid "Roles"
+msgstr "Roluri"
+
+# @ userpro
+#: userpro/admin/panels/fields.php:87
+msgid "You can also enter choices for this field manually below."
+msgstr ""
+"De asemenea, puteti introduce optiuni pentru acest camp manual, mai jos."
+
+# @ userpro
+#: userpro/admin/panels/fields.php:91
+msgid "Manual Choices / Options"
+msgstr "Preferinte manuale / Optiuni"
+
+# @ userpro
+#: userpro/admin/panels/fields.php:93
+msgid "Please enter one choice per line!"
+msgstr "Va rugam sa introduceti o preferinta pe linie!"
+
+# @ userpro
+#: userpro/admin/panels/fields.php:99
+msgid ""
+"Help text will be displayed below field to guide users what to put in that "
+"field or show any relevant info."
+msgstr ""
+"Acest text de ajutor va fi afisat in campul de mai jos pentru a indica "
+"utilizatorilor ce sa puna in acest camp sau pentru a prezenta orice "
+"informatii relevante."
+
+# @ userpro
+#: userpro/admin/panels/fields.php:103
+msgid "Custom Placeholder"
+msgstr "Operatiune necesara personalizata"
+
+# @ userpro
+#: userpro/admin/panels/fields.php:109
+msgid "Setting up the user meta key"
+msgstr "Configurare cheie meta utilizator"
+
+# @ userpro
+#: userpro/admin/panels/fields.php:112
+msgid "Unique Field Key"
+msgstr "Camp cheie unica"
+
+# @ userpro
+#: userpro/admin/panels/fields.php:114
+msgid ""
+"Your field key must be unique for each field. It must be letters only with "
+"only underscore allowd between them."
+msgstr ""
+"Cheia de camp trebuie sa fie unica pentru fiecare camp. Aceasta trebuie sa "
+"fie formata din litere si cuvintele despartite prin liniuta de jos."
+
+# @ userpro
+#: userpro/admin/panels/fields.php:117
+msgid "Or select/sync an existing meta field key"
+msgstr "Sau selectati/sincronizati o cheie meta de camp existenta"
+
+# @ userpro
+#: userpro/admin/panels/fields.php:119
+msgid ""
+"You can sync or use user meta from any other plugin directly and integrate "
+"it with UserPro. Unique key is not needed If you sync with existing field."
+msgstr ""
+"Puteti sincroniza sau utiliza meta utilizator de la orice alt plugin direct "
+"si integrarea acesteia cu UserPro. Cheia unica nu este necesara, daca "
+"sincronizati un camp existent."
+
+# @ userpro
+#: userpro/admin/panels/fields.php:124
+#: userpro/functions/shortcode-main.php:176
+#: userpro/functions/shortcode-private-content.php:161
+msgid "Publish"
+msgstr "Publica"
+
+# @ userpro
+#: userpro/admin/panels/fields.php:138
+msgid "Restore Default Fields"
+msgstr "Restaurati campurile implicite"
+
+# @ userpro
+#: userpro/admin/panels/import_export.php:3
+msgid "Import / Export (Settings only)"
+msgstr "Import / Export (doar setari)"
+
+# @ userpro
+#: userpro/admin/panels/import_export.php:8
+msgid "Export Settings"
+msgstr "Setari export"
+
+# @ userpro
+#: userpro/admin/panels/import_export.php:15
+msgid "Import Settings"
+msgstr "Setari import"
+
+# @ userpro
+#: userpro/admin/panels/import_export.php:18
+#: userpro/admin/panels/import_export.php:39
+#: userpro/admin/panels/import_export.php:60
+msgid "Import"
+msgstr "Import"
+
+# @ userpro
+#: userpro/admin/panels/import_export.php:24
+msgid "Import / Export Fields"
+msgstr "Import / Export campuri"
+
+# @ userpro
+#: userpro/admin/panels/import_export.php:29
+msgid "Export Fields"
+msgstr "Exporta campuri"
+
+# @ userpro
+#: userpro/admin/panels/import_export.php:36
+msgid "Import Fields"
+msgstr "Importa campuri"
+
+# @ userpro
+#: userpro/admin/panels/import_export.php:45
+msgid "Import / Export Field Groups"
+msgstr "Import / Export camp grupuri"
+
+# @ userpro
+#: userpro/admin/panels/import_export.php:50
+msgid "Export Field Groups"
+msgstr "Export camp grupuri"
+
+# @ userpro
+#: userpro/admin/panels/import_export.php:57
+msgid "Import Field Groups"
+msgstr "Import camp grupuri"
+
+#: userpro/admin/panels/licensing.php:3
+msgid ""
+"Please note: <strong>cURL must be enabled</strong> to successfully activate "
+"your license. If you want to find your purchase code, please look <a href="
+"\"http://userproplugin.com/userpro/docs/#install\">here</a>. If you cannot "
+"enable cURL or getting another error, please use the support forum link and "
+"we will activate your license manually."
+msgstr ""
+
+# @ userpro
+#: userpro/admin/panels/licensing.php:5
+msgid "Activate UserPro"
+msgstr "Activati  UserPro"
+
+# @ userpro
+#: userpro/admin/panels/licensing.php:9
+msgid "Enter your Item Purchase Code"
+msgstr "Introduceti codul articolului cumparat"
+
+# @ userpro
+#: userpro/admin/panels/mail.php:3
+msgid ""
+"The variables in {CURLY BRACKETS} are used to present data and info in "
+"email. You can use them to customize your email template."
+msgstr ""
+"Variabilele din {CURLY BRACKETS} sunt utilizate pentru a prezenta date si "
+"informatii in e-mail. Aveti posibilitatea de a le utiliza pentru a "
+"personaliza modelul de email."
+
+# @ userpro
+#: userpro/admin/panels/mail.php:5
+msgid "Outgoing Mail Settings"
+msgstr "Setari expediere mail"
+
+# @ userpro
+#: userpro/admin/panels/mail.php:9
+msgid "The name that appears on mails sent by UserPro"
+msgstr "Numele care apare in mail-urile expediate de  UserPro"
+
+# @ userpro
+#: userpro/admin/panels/mail.php:14
+msgid "The address that appears on mails sent by UserPro"
+msgstr "Adresa care apare in mail-urile trimise de UserPro"
+
+# @ userpro
+#: userpro/admin/panels/mail.php:24
+msgid "Send an e-mail when user is verified"
+msgstr "Trimite un e-mail atunci cand utilizatorul este verificat"
+
+# @ userpro
+#: userpro/admin/panels/mail.php:34
+msgid "Send an e-mail when user is unverified"
+msgstr "Trimite un e-mail atunci cand utilizatorul nu este verificat"
+
+# @ userpro
+#: userpro/admin/panels/mail.php:44
+msgid "Send admin an e-mail when user updates profile"
+msgstr ""
+"Trimite un e-mail catre administrator atunci cand un utilizator isi "
+"actualizeaza profilul"
+
+# @ userpro
+#: userpro/admin/panels/mail.php:54
+msgid "Send admin an e-mail when profile gets removed"
+msgstr "Trimite un e-mail administratorului atunci cand un profil este sters"
+
+# @ userpro
+#: userpro/admin/panels/mail.php:65
+msgid "User Awaiting Manual Review Template (Admin Notification)"
+msgstr ""
+"Sablon utilizatorul asteapta verificarea manuala (notificare administrator)"
+
+# @ userpro
+#: userpro/admin/panels/mail.php:80
+msgid "New Registration Template (Admin Notification)"
+msgstr "Format inregistrare noua (notificare administrator)"
+
+# @ userpro
+#: userpro/admin/panels/mail.php:95
+#, fuzzy
+msgid "Profile Updated (Admin Notification)"
+msgstr "Format inregistrare noua (notificare administrator)"
+
+# @ userpro
+#: userpro/admin/panels/mail.php:110
+#, fuzzy
+msgid "Profile Deleted (Admin Notification)"
+msgstr "Format inregistrare noua (notificare administrator)"
+
+# @ userpro
+#: userpro/admin/panels/mail.php:125
+msgid "Customize \"Email Validation\" Mail"
+msgstr "Personalizare notificare  \"validare e-mail\""
+
+# @ userpro
+#: userpro/admin/panels/mail.php:140
+msgid "Customize \"New Account/Welcome\" Mail"
+msgstr "Personalizare notificare \"Cont nou/Bun venit\""
+
+# @ userpro
+#: userpro/admin/panels/mail.php:155
+msgid "Customize \"Reset Password\" Mail"
+msgstr "Personalizare notificare  \"Reseteaza parola\""
+
+# @ userpro
+#: userpro/admin/panels/mail.php:170
+msgid "Customize \"Account Removal\" Mail"
+msgstr "Personalizare notificare \"Eliminare cont\""
+
+# @ userpro
+#: userpro/admin/panels/mail.php:185
+msgid "Customize \"Account Verified\" Mail"
+msgstr "Personalizare notificare  \"Cont verificat\""
+
+# @ userpro
+#: userpro/admin/panels/mail.php:200
+msgid "Customize \"Account Un-verified\" Mail"
+msgstr "Personalizare notificare \"Cont neverificat\""
+
+# @ userpro
+#: userpro/admin/panels/mail.php:215
+msgid "Customize \"Invitation to Get Verified\" Mail"
+msgstr "Personalizare notificare  \"Invitatie de a obtine verificarea\""
+
+# @ userpro
+#: userpro/admin/panels/pages.php:9
+msgid "\"Profile\" Slug"
+msgstr "\"Profil\" Slug"
+
+# @ userpro
+#: userpro/admin/panels/pages.php:14
+msgid "\"Register\" Slug"
+msgstr "\"Inregistrare\" Slug"
+
+# @ userpro
+#: userpro/admin/panels/pages.php:19
+msgid "\"Edit Profile\" Slug"
+msgstr "\"Editare Profil\" Slug"
+
+# @ userpro
+#: userpro/admin/panels/pages.php:24
+msgid "\"Login\" Slug"
+msgstr "\"Autentificare\" Slug"
+
+# @ userpro
+#: userpro/admin/panels/pages.php:29
+msgid "\"Member Directory\" Slug"
+msgstr "\"Director utilizatori\" Slug"
+
+# @ userpro
+#: userpro/admin/panels/pages.php:34
+msgid "\"Logout\" Slug"
+msgstr "\"Deautentificare\" Slug"
+
+# @ userpro
+#: userpro/admin/panels/pages.php:45
+msgid "Check / Rebuild Profile Pages"
+msgstr "Verificati / Reconstruiti paginile de profil"
+
+# @ userpro
+#: userpro/admin/panels/pages.php:49
+msgid "Profile Page"
+msgstr "Pagina profil"
+
+# @ userpro
+#: userpro/admin/panels/pages.php:62
+msgid "Registration Page"
+msgstr "Pagina inregistrare"
+
+# @ userpro
+#: userpro/admin/panels/pages.php:75
+msgid "Edit Profile Page"
+msgstr "Pagina editare profil"
+
+# @ userpro
+#: userpro/admin/panels/pages.php:88
+msgid "Login Page"
+msgstr "Pagina autentificare"
+
+# @ userpro
+#: userpro/admin/panels/pages.php:101
+msgid "Member Directory Page"
+msgstr "Pagina utilizatori"
+
+# @ userpro
+#: userpro/admin/panels/pages.php:114
+msgid "Logout Page"
+msgstr "Pagina deautentificare"
+
+# @ userpro
+#: userpro/admin/panels/pages.php:129
+msgid "Rebuild UserPro Pages"
+msgstr "Reconstruiti paginile UserPro"
+
+# @ userpro
+#: userpro/admin/panels/requests.php:11
+#, fuzzy
+msgid "Users Requesting Verified Status"
+msgstr "Utilizatorii care solicita statutul de verificat"
+
+# @ userpro
+#: userpro/admin/panels/requests.php:25
+msgid "Verify"
+msgstr "Verifica"
+
+# @ userpro
+#: userpro/admin/panels/requests.php:26
+msgid "Reject"
+msgstr "Respinge"
+
+# @ userpro
+#: userpro/admin/panels/requests.php:42
+#, fuzzy
+msgid "Users Awaiting Manual Approval"
+msgstr "Utilizatori care asteapta aprobarea manuala"
+
+# @ userpro
+#: userpro/admin/panels/requests.php:57
+msgid "Approve"
+msgstr "Aproba"
+
+# @ userpro
+#: userpro/admin/panels/requests.php:58 userpro/admin/panels/requests.php:91
+msgid "Delete user"
+msgstr "Sterge utilizator"
+
+# @ userpro
+#: userpro/admin/panels/requests.php:75
+#, fuzzy
+msgid "Users Awaiting E-mail Validation"
+msgstr "Utilizatori care asteapta aprobarea manuala"
+
+# @ userpro
+#: userpro/admin/panels/requests.php:90 userpro/admin/panels/settings.php:44
+#: userpro/admin/panels/settings.php:54 userpro/admin/panels/settings.php:111
+msgid "Activate"
+msgstr "Activeaza"
+
+# @ userpro
+#: userpro/admin/panels/restrict.php:3
+msgid "Global Restrict/Lock Settings"
+msgstr "Limitare globala/Setari blocare"
+
+# @ userpro
+#: userpro/admin/panels/restrict.php:7
+msgid "Do you want to lock entire site for guests?"
+msgstr "Vreti sa blocati intregul site pentru vizitatori?"
+
+# @ userpro
+#: userpro/admin/panels/restrict.php:17
+#, fuzzy
+msgid ""
+"Page ID that guests will be redirected to (If you locked the entire site "
+"above)"
+msgstr ""
+"ID-ul paginii catre care vor fi redirectionati toti vizitatorii (in cazul in "
+"care ati blocat tot site-ul)"
+
+# @ userpro
+#: userpro/admin/panels/restrict.php:20
+#, fuzzy
+msgid ""
+"This is typically your custom login page. Guests will be automatically "
+"redirected to this page If you block entire site for guests."
+msgstr ""
+"Aceasta este pagina de autentificare. Singura pagina pe care o pot accesa "
+"vizitatorii in cazul in care blocati tot site-ul."
+
+# @ userpro
+#: userpro/admin/panels/restrict.php:25
+#, fuzzy
+msgid ""
+"Page IDs (seperated by comma) that guests can view If you block the entire "
+"site for guests"
+msgstr ""
+"ID-ul paginii catre care vor fi redirectionati toti vizitatorii (in cazul in "
+"care ati blocat tot site-ul)"
+
+# @ userpro
+#: userpro/admin/panels/restrict.php:32
+msgid "Redirect guests from homepage to custom URL"
+msgstr "Redirectioneaza vizitatorii catre un URL personalizat"
+
+# @ userpro
+#: userpro/admin/panels/restrict.php:35
+msgid ""
+"This option allow you to lock the homepage completely for guests and auto-"
+"redirect them to any page you want."
+msgstr ""
+"Aceasta optiune va permite sa blocati complet pagina principala a site-ului "
+"pentru vizitatori si sa ii redirectionati catre orice alta pagina dorita."
+
+# @ userpro
+#: userpro/admin/panels/restrict.php:40
+msgid "Redirect members from homepage to custom URL"
+msgstr "Redirectioneaza utilizatorii catre un URL personalizat"
+
+# @ userpro
+#: userpro/admin/panels/restrict.php:43
+msgid ""
+"This option allow you to lock the homepage completely for members and auto-"
+"redirect them to any page you want."
+msgstr ""
+"Aceasta optiune va permite sa blocati pagina principala a site-ului pentru "
+"utilizatori si redirectionarea acestora catre orice pagina dorita."
+
+# @ userpro
+#: userpro/admin/panels/restrict.php:49
+#, fuzzy
+msgid "Specific Restrict/Lock Settings"
+msgstr "Limitare globala/Setari blocare"
+
+# @ userpro
+#: userpro/admin/panels/restrict.php:53
+msgid "Make Restricted Content Available To"
+msgstr "Faceti continutul restrictionat accesibil pentru"
+
+# @ userpro
+#: userpro/admin/panels/restrict.php:56
+msgid "Only Verified Members"
+msgstr "Doar utilizatorii verificati"
+
+# @ userpro
+#: userpro/admin/panels/restrict.php:57
+msgid "All Registered Members"
+msgstr "Toti utilizatorii inregistrati"
+
+#: userpro/admin/panels/restrict.php:63
+msgid "Redirect URL (If a whole page is locked/restricted)"
+msgstr ""
+
+#: userpro/admin/panels/restrict.php:66
+msgid ""
+"Please enter full web address to send users who access a restricted page. "
+"You can restrict any page/post by visiting it in post editor."
+msgstr ""
+
+# @ userpro
+#: userpro/admin/panels/settings.php:3
+msgid "Quick Maintenance"
+msgstr "Intretinere rapida"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:7
+msgid "Clear unused Junk"
+msgstr "Sterge vechiturile neutilizate"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:9
+msgid "Clear un-used uploads"
+msgstr "Sterge incarcarile neutilizate"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:14 userpro/admin/panels/settings.php:16
+msgid "Clear deleted users stuff"
+msgstr "Elimina materialele utilizatorilor"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:21
+msgid "Purge online users data"
+msgstr "Curata datele utilizatorilor online"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:23
+msgid "Reset online users"
+msgstr "Reseteaza utilizatorii online"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:24
+msgid "Online"
+msgstr "Online"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:29
+msgid "Clear activity stream"
+msgstr "Sterge fluxul de activitate"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:31
+msgid "Delete all activity"
+msgstr "Stergeti toata activitatea"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:37
+msgid "Module Settings"
+msgstr "Setari modul"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:41
+msgid "Social Features"
+msgstr "Caracteristici retele sociale"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:45 userpro/admin/panels/settings.php:55
+msgid "Deactivate"
+msgstr "Dezactivati"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:51
+msgid "Online/Offline Status"
+msgstr "Stare Online/Offline"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:61
+msgid "Show Offline Icon"
+msgstr "Arata imagine offline"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:72
+msgid "Compatibility Settings"
+msgstr "Setari de compatibilitate"
+
+#: userpro/admin/panels/settings.php:76
+msgid "Disable Activity Log"
+msgstr ""
+
+#: userpro/admin/panels/settings.php:82
+msgid ""
+"Please switch off logging activity If you have host problems, your site "
+"crashes or cannot save a post, etc."
+msgstr ""
+
+# @ userpro
+#: userpro/admin/panels/settings.php:87
+msgid "Allow Dash for Display Names"
+msgstr "Permite liniuta pentru afisarea numelor"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:97
+msgid "Path Compatibility"
+msgstr "Cale de compatibilitate"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:100
+msgid "Use Relative URIs"
+msgstr "Folositi URL-uri relative"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:101
+msgid "Use Full Paths (including domain)"
+msgstr "Utilizati cai complete (inclusiv domeniu)"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:103 userpro/admin/panels/settings.php:114
+msgid ""
+"If you use CDN or have a problem with thumbnails, try switching this option."
+msgstr ""
+"Daca utilizati CDN sau aveti probleme cu miniaturile, incercati sa schimbati "
+"aceasta optiune."
+
+# @ userpro
+#: userpro/admin/panels/settings.php:108
+msgid "URL Encoding"
+msgstr "Codare URL"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:112
+msgid "Disable"
+msgstr "Dezactivati"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:119
+msgid "External Profile Pictures"
+msgstr "Poze de profil externe"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:122
+msgid "Save them to my server"
+msgstr "Salvati-le pe serverul meu"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:123
+msgid "Use the external source"
+msgstr "Utilizati sursa externa"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:125
+msgid ""
+"If your host experience some problems when saving an external picture to "
+"your uploads directory, try to use the external method."
+msgstr ""
+"Daca stiti din experienta cu gazda dvs.  ca apar unele probleme atunci cand "
+"incarcati o imagine externa in directorul uploads, incercati sa folositi "
+"metoda externa."
+
+# @ userpro
+#: userpro/admin/panels/settings.php:131
+msgid "General"
+msgstr "General"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:135
+msgid "Activate RTL Stylesheet"
+msgstr "Activati foaia de stil RTL"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:138
+msgid "RTL Enabled"
+msgstr "RTL activat"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:139
+msgid "RTL Disabled"
+msgstr "RTL dezactivat"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:145
+msgid "Membership"
+msgstr "Comunitate"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:148
+msgid "Anyone can register"
+msgstr "Oricine se poate inregistra"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:149
+msgid "Disable registration"
+msgstr "Dezactivati inregistrarea"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:155
+msgid "New User Approval"
+msgstr "Aprobare utilizator nou"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:158
+msgid "Auto Approve"
+msgstr "Autoaprobare"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:159
+msgid "Require E-mail Activation"
+msgstr "Necesita activarea adresei de e-mail"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:160
+msgid "Require Admin Approval"
+msgstr "Necesita aprobarea administratorului"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:166
+msgid "Profile Permalink Structure"
+msgstr "Structura legatura permanenta profil"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:169
+msgid "User ID"
+msgstr "ID utilizator"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:171 userpro/admin/panels/settings.php:183
+msgid "Full Name"
+msgstr "Numele complet"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:172
+msgid "Display Name"
+msgstr "Nume afisat"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:174
+msgid ""
+"User profiles permalink structure setting e.g. /profile/34 or /profile/"
+"Username or /profile/FirstName+LastName If you have a problem with permalink "
+"structure, you can try to change this setting."
+msgstr ""
+"Setari structura legaturi permanente profil utilizator. De exemplu,  /"
+"profile/34 sau  /profile/Username sau /profile/FirstName+LastName.  Daca "
+"aveti probleme cu structura legaturilor permanente, puteti incerca sa "
+"schimbati aceasta setare."
+
+# @ userpro
+#: userpro/admin/panels/settings.php:179
+msgid "User Display Name Field"
+msgstr "Campul de afisare al numelui utilizatorului"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:182
+msgid "Default (Display Name)"
+msgstr "Implicit (nume afisat)"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:189
+msgid "Replace Display Name with custom field"
+msgstr "Inlocuiti numele de afisare cu un camp personalizat"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:192
+msgid ""
+"Enter custom field key to override default display name on profiles with "
+"this custom field value."
+msgstr ""
+"Introduceti cheia campului personalizat pentru a trece peste numele afisat "
+"implicit cu aceasta valoare a campului personalizat."
+
+# @ userpro
+#: userpro/admin/panels/settings.php:197
+msgid "Fields to hide completely from profile view"
+msgstr "Campuri ascunse complet din vizualizarea profilului"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:200
+msgid ""
+"A comma seperated list of custom fields to hide from profile view anyway."
+msgstr ""
+"Separati prin virgula campurile care doriti sa fie ascunse de la "
+"vizualizarea profilului."
+
+# @ userpro
+#: userpro/admin/panels/settings.php:205
+msgid "Unverify Verified accounts automatically if they change display name"
+msgstr ""
+"Eliminati confirmarea de conturi verificate, in mod automat, in cazul in "
+"care isi schimba numele de afisare"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:215
+msgid "Display verified account badge beside name"
+msgstr "Afisati insigna cont verificat langa nume"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:221
+msgid ""
+"Should the verified account badge display beside name, or as a standard "
+"badge in badges."
+msgstr ""
+
+# @ userpro
+#: userpro/admin/panels/settings.php:226
+msgid "Verified Badge Link"
+msgstr "Link insigna verificat"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:229
+msgid "Should the verified badge link to a specific page?"
+msgstr ""
+"Doriti sa inlocuiti link-ul insignei verificat catre o pagina personalizata?"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:234
+#, fuzzy
+msgid "User Roles that can publish immediately"
+msgstr "Roluri de utilizator pentru publicare instanta"
+
+# @ default
+#: userpro/admin/panels/settings.php:237
+msgid ""
+"Enter comma seperated list of user roles to publish automatically using the "
+"frontend publisher without waiting admin approval. e.g. author,subscriber,"
+"etc."
+msgstr ""
+
+#: userpro/admin/panels/settings.php:242
+msgid "Photo Lightbox"
+msgstr ""
+
+# @ userpro
+#: userpro/admin/panels/settings.php:245
+#, fuzzy
+msgid "Active"
+msgstr "Activeaza"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:246
+#, fuzzy
+msgid "Inactive"
+msgstr "Dezactivati"
+
+#: userpro/admin/panels/settings.php:248
+msgid ""
+"Lightbox for profile photos and other photo uploads. Turn on / off lightbox "
+"globally."
+msgstr ""
+
+#: userpro/admin/panels/settings.php:253
+msgid "Maximum file size for uploads"
+msgstr ""
+
+#: userpro/admin/panels/settings.php:256
+msgid ""
+"The maximum file size that user can upload whether it is a file, or a photo. "
+"e.g. <code>8388608 bytes = 8MB</code>"
+msgstr ""
+
+# @ userpro
+#: userpro/admin/panels/settings.php:262
+msgid "Appearance and Look"
+msgstr "Aspect si infatisare"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:266
+msgid "Use a Google Web Font"
+msgstr "Utilizati Google Web Font"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:269
+msgid ""
+"To use a Google Web Font for UserPro plugin, enter the font family name here."
+msgstr ""
+"Pentru a utiliza Google Web Font  pentru pluginul UserPro, introduceti "
+"numele de fasmilie al fontului aici."
+
+# @ userpro
+#: userpro/admin/panels/settings.php:274
+msgid "Use an installed font"
+msgstr "Utilizati un font instalat"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:277
+msgid ""
+"To override Google font and force plugin to use theme font, or another built "
+"in font please enter font face here (e.g. Open Sans, Arial, etc)"
+msgstr ""
+"Pentru a trece peste Google font si pentru a forta pluginul sa foloseasca "
+"fontul tema sau unul construit, va rugam sa introduceti fontul aici (de "
+"exemplu, Open Sans, Arial, etc)"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:282
+msgid "Plugin Default Width"
+msgstr "Latime implicita plugin"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:285
+msgid ""
+"A pixel or % width. If you want to make the plugin default width take 100% "
+"of its parent, just change this setting to 100% (It will take as much space "
+"as possible from the parent element). This option can be customized also via "
+"shortcode option <code>max_width</code>."
+msgstr ""
+"Latimea in pixeli sau %. Daca doriti sa faceti latimea implicita a "
+"pluginului de 100% din parinte, doar schimbati aceasta setare la 100% (se va "
+"lua cat mai mult din spatiul de la elementul parinte). Aceasta optiune poate "
+"fi personalizata, de asemenea, prin optiunea shortcode <code>max_width</"
+"code>."
+
+# @ userpro
+#: userpro/admin/panels/settings.php:290
+msgid "Default Skin"
+msgstr "Skin implicit"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:302
+msgid "Thumbnail Style"
+msgstr "Stil miniatura"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:305
+msgid "Default"
+msgstr "Standard"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:306
+msgid "Rounded"
+msgstr "Rotunjite"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:307
+msgid "A bit rounded"
+msgstr "Un pic rotunjite"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:308
+msgid "Square"
+msgstr "Patrat"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:310
+msgid ""
+"This controls the style of your profile thumbnails globally. If you let it "
+"default, these settings will be taken from your active skin."
+msgstr ""
+"Aceasta controleaza stilul miniaturilor de profil la nivel global. Daca il "
+"lasati implicit, aceste setari vor fi luate de pe skin-ul activ."
+
+#: userpro/admin/panels/settings.php:315
+msgid "Profile Photo Lightbox"
+msgstr ""
+
+# @ userpro
+#: userpro/admin/panels/settings.php:325
+msgid "Fields Layout"
+msgstr "Amplasare campuri"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:328
+msgid "Float (field label on same line)"
+msgstr "Plutitor (eticheta de camp pe aceeasi linie)"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:329
+msgid "Block (field label on seperate line)"
+msgstr "Blocheaza (eticheta de camp pe linie separata)"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:335
+msgid "Enable Field Icons"
+msgstr "Activati campul imagini"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:345
+msgid "Hide Top Bar from Non-Admins"
+msgstr "Ascunde bara de administrare pentru cei care nu sunt administratori"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:355
+msgid "Light Heading Option"
+msgstr "Optiunea titlu luminos"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:358
+msgid ""
+"For translation compatibility, enter you \"Light\" heading color option here."
+msgstr ""
+"Pentru compatibilitarea translatiei, introduceti \"Light\" la optiunea de "
+"culoare de aici."
+
+#: userpro/admin/panels/settings.php:364
+msgid "Form Validation & Security"
+msgstr ""
+
+#: userpro/admin/panels/settings.php:368
+msgid "Blocked Usernames / Addresses"
+msgstr ""
+
+#: userpro/admin/panels/settings.php:371
+msgid ""
+"A list of usernames and/or emails to block from accessing or logging in the "
+"site. Enter one username or email per line."
+msgstr ""
+
+#: userpro/admin/panels/settings.php:376
+msgid "Maximum Field Length Validation"
+msgstr ""
+
+# @ userpro
+#: userpro/admin/panels/settings.php:386
+#, fuzzy
+msgid "Number of characters allowed"
+msgstr "Numarul de rezultate pe pagina"
+
+#: userpro/admin/panels/settings.php:389
+msgid "How many characters should be allowed if the above option is turned on."
+msgstr ""
+
+#: userpro/admin/panels/settings.php:394
+msgid "Fields that need to be validated for maximum length"
+msgstr ""
+
+# @ userpro
+#: userpro/admin/panels/settings.php:397
+#, fuzzy
+msgid ""
+"Enter a comma seperated list of field keys to include in the maximum field "
+"length validation."
+msgstr ""
+"Separati prin virgula campurile care doriti sa fie ascunse de la "
+"vizualizarea profilului."
+
+#: userpro/admin/panels/settings.php:402
+msgid "Fields that need to be validated as a phone number"
+msgstr ""
+
+#: userpro/admin/panels/settings.php:405
+msgid ""
+"Enter a comma seperated list of field keys to automatically validate as a "
+"phone number field."
+msgstr ""
+
+#: userpro/admin/panels/settings.php:410
+msgid "Phone Number Regular Expression"
+msgstr ""
+
+#: userpro/admin/panels/settings.php:413
+msgid ""
+"The regex used to validate the phone number fields specified above, please "
+"do not change this unless you know what you are doing."
+msgstr ""
+
+# @ userpro
+#: userpro/admin/panels/settings.php:419
+msgid "Profile Settings"
+msgstr "Setari profil"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:423
+msgid "Allow guests to view other profiles"
+msgstr "Permite utilizatorilor sa vada toate profilurile"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:433
+msgid "Allow members to view other member profiles"
+msgstr "Permite membrilor sa vada profilurile celorlalti membri"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:443
+#, fuzzy
+msgid "Roles that can view other profiles"
+msgstr "Permite utilizatorilor sa vada toate profilurile"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:445 userpro/admin/panels/settings.php:714
+msgid "Select roles"
+msgstr "Selectati roluri"
+
+#: userpro/admin/panels/settings.php:456
+msgid ""
+"For example, If you do not want users to view other profiles but want to "
+"allow these special roles to always view profiles, including administrators."
+msgstr ""
+
+# @ userpro
+#: userpro/admin/panels/settings.php:461
+msgid "Allow users to request verified status"
+msgstr "Permite utilizatorilor sa solicite statutul de verificat"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:471
+msgid "Allow users to delete their profiles"
+msgstr "Permite utilizatorilor sa isi stearga profilul lor"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:481
+msgid "Use default gravatars until users upload a custom avatar for this site"
+msgstr ""
+"Utilizati avatare implicite pana ce utilizatorii isi incarca un avatar "
+"personalizat pe site."
+
+# @ userpro
+#: userpro/admin/panels/settings.php:491
+msgid "Allow admins to set custom notice on user accounts"
+msgstr ""
+"Permite administratorilor sa adauge o notificare personalizata pe conturile "
+"utilizatorilor"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:497
+msgid ""
+"e.g. Set a custom warning to any user profile for example: This account is "
+"for test purposes only, etc."
+msgstr ""
+"ex. Setati un avertisment personalizat pentru orice profil de utilizator, de "
+"exemplu: Acest cont este doar pentru scopuri de testare, etc."
+
+# @ userpro
+#: userpro/admin/panels/settings.php:502
+msgid "Show custom user notice to the logged-in user"
+msgstr ""
+"Arata o notificare de utilizator personalizata pentru utilizatorul "
+"autentificat"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:512
+msgid "Show custom user notice to the public"
+msgstr "Arata o notificare de utilizator personalizata pentru toata lumea"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:522
+msgid "Display User Country Flag in Profile"
+msgstr "Afiseaza steagul tarii utilizatorului in profil"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:532
+msgid "Display User Country Flag in Badges"
+msgstr "Afiseaza steagul tarii utilizatorului in insigne"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:543
+msgid "Redirection & Backend Settings"
+msgstr "Setari redirectionare & revenire"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:547
+#, fuzzy
+msgid "Panic Key Setting"
+msgstr "Setari profil"
+
+#: userpro/admin/panels/settings.php:550
+#, php-format
+msgid ""
+"The panic key helps you access WP-admin screen If you enabled the hide "
+"backend setting below, and for some reason you cannot get back into your "
+"site. To enter your backend with the panic key use this URL: <strong>%s</"
+"strong>"
+msgstr ""
+
+# @ userpro
+#: userpro/admin/panels/settings.php:555
+msgid "Enable these roles to view the WP-admin (backend)"
+msgstr "Permite aceste roluri pentru a vizualiza WP-admin (backend)"
+
+# @ default
+#: userpro/admin/panels/settings.php:558
+msgid ""
+"By default, UserPro hides backend access from non-admins, however you can "
+"type a comma seperated list here of user roles to allow them to access the "
+"dashboard regardless of any other setting. example: author,editor"
+msgstr ""
+
+# @ userpro
+#: userpro/admin/panels/settings.php:563
+msgid "Make Users Backend link to frontend profiles"
+msgstr ""
+
+# @ userpro
+#: userpro/admin/panels/settings.php:569
+msgid ""
+"If set on, users backend will link to frontend profile view/edit. Turn off "
+"to allow backend user editing."
+msgstr ""
+
+# @ userpro
+#: userpro/admin/panels/settings.php:574
+msgid "Redirect backend to front-end"
+msgstr ""
+
+# @ userpro
+#: userpro/admin/panels/settings.php:577
+msgid "Redirect to front-end profile view"
+msgstr "Redirectionare catre interfata de vizualizare a profilului"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:578 userpro/admin/panels/settings.php:591
+#: userpro/admin/panels/settings.php:603 userpro/admin/panels/settings.php:615
+msgid "Redirect to custom URL"
+msgstr "Redirectionare catre un URL personalizat"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:579 userpro/admin/panels/settings.php:592
+#: userpro/admin/panels/settings.php:604 userpro/admin/panels/settings.php:616
+msgid "Do not redirect"
+msgstr "Nu redirectiona"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:581
+msgid "If you choose cutom URL for this redirect"
+msgstr "Daca doriti sa inlocuiti cu un URL personalizat aceasta redirectionare"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:582
+msgid ""
+"You can redirect users to the built-in front-end pages by the plugin to hide "
+"backend access from them."
+msgstr ""
+
+# @ userpro
+#: userpro/admin/panels/settings.php:587
+msgid "Redirect backend profile to front-end"
+msgstr ""
+
+# @ userpro
+#: userpro/admin/panels/settings.php:590
+msgid "Redirect to front-end profile edit"
+msgstr "Redirectionare catre interfata de editare a profilului"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:594 userpro/admin/panels/settings.php:606
+#: userpro/admin/panels/settings.php:618
+msgid "If you choose custom URL for this redirect"
+msgstr "Daca doriti sa inlocuiti cu un URL personalizat aceasta redirectionare"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:599
+msgid "Redirect backend registration to front-end"
+msgstr ""
+
+# @ userpro
+#: userpro/admin/panels/settings.php:602
+msgid "Redirect to front-end registration"
+msgstr "Redirectionare catre interfata de inregistrare"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:611
+msgid "Redirect backend login to front-end"
+msgstr ""
+
+# @ userpro
+#: userpro/admin/panels/settings.php:614
+msgid "Redirect to front-end login"
+msgstr "Redirectioneaza catre pagina de autentificare"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:624
+msgid "Login Settings"
+msgstr "Setari autentificare"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:628 userpro/admin/panels/settings.php:664
+msgid "Show logout If user is logged in already"
+msgstr "Arata butonul de deautentificare daca utilizatorul este autentificat"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:638
+msgid "After a successful login"
+msgstr "Dupa o autentificare reusita"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:641 userpro/admin/panels/settings.php:687
+msgid "Refresh page only"
+msgstr "Doar reimprospateaza pagina"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:642 userpro/admin/panels/settings.php:688
+msgid "Redirect user to front-end profile"
+msgstr "Redirectioneaza utilizatorul catre profilul sau"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:644
+msgid ""
+"You can also redirect users to custom URL by passing <code>login_redirect</"
+"code> valid URL in your shortcode."
+msgstr ""
+"Puteti, de asemenea, redirectiona utilizatorii la un URL personalizat prin "
+"trecerea URL-uli valid <code>login_redirect</code> codul scurt al dvs."
+
+# @ userpro
+#: userpro/admin/panels/settings.php:649
+msgid "Redirect admins to dashboard always"
+msgstr "Redirectioneaza administratorii la panoul de control tot timpul"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:660
+msgid "Registration Settings"
+msgstr "Setari inregistrare"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:674
+msgid "Auto-Login users after registration"
+msgstr "Autentificarea automata a utilizatorilor dupa inregistrare"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:684
+msgid "After a successful registration"
+msgstr "Dupa o inregistrare cu succes"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:690
+msgid ""
+"You can also redirect users to custom URL by passing "
+"<code>register_redirect</code> valid URL in your shortcode."
+msgstr ""
+"Puteti, de asemenea, redirectiona utilizatorii catre un URL personalizat "
+"prin trecerea unui URL valid in codul scurt al dvs.  "
+"<code>register_redirect</code>  ."
+
+# @ userpro
+#: userpro/admin/panels/settings.php:695
+msgid "Default Role for New Users"
+msgstr "Rolul implicit pentru utilizatorii noi"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:697 userpro/admin/panels/settings.php:698
+msgid "No Role"
+msgstr "Niciun rol"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:707
+msgid ""
+"New users will be assigned to this role automatically If you do not allow "
+"them to choose role."
+msgstr ""
+"Utilizatorii noi vor fi atribuiti acestui rol in mod implicit, daca nu le "
+"permiteti sa isi aleaga rolul."
+
+# @ userpro
+#: userpro/admin/panels/settings.php:712
+msgid "Allowed Roles during Registration"
+msgstr "Permiteti aceste roluri in timpul inregistrarii"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:723
+msgid ""
+"If you enable users to select their role, this option can limit allowed "
+"roles for user."
+msgstr ""
+"Daca permiteti utilizatorilor sa isi selecteze rolul, aceasta optiune poate "
+"limita rolurile permise utilizatorilor."
+
+# @ userpro
+#: userpro/admin/panels/settings.php:728
+msgid "Allow Terms & Conditions Text Before Registration"
+msgstr ""
+"Permite afisarea textului Termenii & Conditiile inainte de inregistrare"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:738
+msgid "Terms & Conditions Text/HTML"
+msgstr "Termeni si conditii Text/HTML"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:744
+msgid "Logout Page Settings"
+msgstr "Setari pagina deautentificare"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:748
+msgid "After User Logout"
+msgstr "Dupa deautentificarea utilizatorului"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:751
+msgid "Redirect to Homepage"
+msgstr "Redirectionare catre pagina principala"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:752
+msgid "Redirect to Login Page"
+msgstr "Redirectionare catre pagina de autentificare"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:753
+msgid "Redirect to Custom Page (enter below)"
+msgstr "Redirectionare catre o pagina personalizata (introduceti mai jos) "
+
+# @ userpro
+#: userpro/admin/panels/settings.php:759
+msgid "Custom Logout Redirect"
+msgstr "Redirectionare personalizata deautentificare"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:767
+msgid "Password Settings"
+msgstr "Setari parola"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:771
+msgid "Allow password to be reset for Admin Accounts"
+msgstr "Permiteti resetarea parolei pentru conturile de administrator"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:782
+msgid "Facebook Integration"
+msgstr "Integrare Facebook"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:786
+msgid "Allow Facebook Social Connect"
+msgstr "Permiteti conectarea cu contul de Facebook"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:796
+msgid "Facebook App ID"
+msgstr "Facebook App ID"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:799
+msgid ""
+"Open <a href=\"https://developers.facebook.com/apps\">https://developers."
+"facebook.com/apps</a> create a new app and edit its settings to make it work "
+"on your domain. In App Settings, please paste the App ID or API Key into "
+"this field."
+msgstr ""
+"Deschideti <a href=\"https://developers.facebook.com/apps\">https://"
+"developers.facebook.com/apps</a> pentru a crea o noua aplicatie si "
+"modificati setarile sale pentru a functiona cu domeniul dvs. In App "
+"Settings, va rugam sa inserati App ID sau API Key in acest camp."
+
+# @ userpro
+#: userpro/admin/panels/settings.php:804
+msgid "Auto Post on users Facebook wall"
+msgstr "Publica automat pe peretele de Facebook a utilizatorilor"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:810
+msgid ""
+"When a user connect via Facebook, a post can be added automatically to his "
+"wall."
+msgstr ""
+"Atunci cand un utilizator se conecteaza pe site cu contul de Facebook, un "
+"articol poate fi publicat in mod automat pe peretele acestuia."
+
+# @ userpro
+#: userpro/admin/panels/settings.php:815
+msgid "Post Name"
+msgstr "Nume articol"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:818
+msgid "e.g. Check out this website!, Welcome to XX website, etc."
+msgstr "De exemplu, Verifica acest site, Bine ai venit pe site-ul XX, etc."
+
+# @ userpro
+#: userpro/admin/panels/settings.php:823
+msgid "Post Caption"
+msgstr "Titlu articol"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:826
+msgid "e.g. URL or small text that appears below the post name."
+msgstr ""
+"De exemplu, URL-ul sau un text de mici dimensiuni care apare sub numele "
+"articolului."
+
+# @ userpro
+#: userpro/admin/panels/settings.php:831
+msgid "Post Body"
+msgstr "Continut articol"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:834
+msgid ""
+"e.g. This is the main body of post which is displayed before the description "
+"of the wall post. e.g. Check out this great item and save 50%"
+msgstr ""
+"De exemplu, Aceasta este principala parte de articol care este afisata "
+"inainte de descrierea articolului de pe perete. de exemplu, Verifica acest "
+"element si salvezi 50%"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:839
+msgid "Post Description"
+msgstr "Descriere articol"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:842
+msgid "This is the full description of the Facebook wall post."
+msgstr ""
+"Aceasta este descrierea completa a articolului pe peretele contului de "
+"Facebook."
+
+# @ userpro
+#: userpro/admin/panels/settings.php:847
+msgid "Post Link"
+msgstr "Link articol"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:850
+msgid ""
+"The user will be taken to that URL address when they click on that post."
+msgstr ""
+"Utilizatorul va fi trimis catre aceasta adresa URL, atunci cand da click pe "
+"acest articol."
+
+#: admin/panels/settings.php:853
+msgid "Linkedin Integration"
+msgstr "Integrarea linkedin"
+
+#: admin/panels/settings.php:857
+msgid "Allow linkedin Social Connect"
+msgstr "Permiteți linkedin Social Connect"
+
+
+#: admin/panels/settings.php:867
+msgid "linkedin App Key"
+msgstr "linkedin App cheie"
+
+#: admin/panels/settings.php:875
+msgid "linkedin Secret Key"
+msgstr "linkedin Secret Key"
+
+#: admin/panels/settings.php:882
+msgid "Instagram Integration"
+msgstr "integrare Instagram"
+
+#: admin/panels/settings.php:886
+msgid "Allow Instagram Social Connect"
+msgstr "Permiteți Instagram Social Connect"
+
+#: admin/panels/settings.php:896
+msgid "Instagram Client ID"
+msgstr "Instagram client ID"
+
+#: admin/panels/settings.php:904
+msgid "Instagram Client Secret"
+msgstr "Instagram client Secret"
+
+
+# @ userpro
+#: userpro/admin/panels/settings.php:856
+msgid "Twitter Integration"
+msgstr "Integrare Twitter"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:860
+msgid "Allow Twitter Social Connect"
+msgstr "Permite conectarea cu contul de Twitter "
+
+# @ userpro
+#: userpro/admin/panels/settings.php:870
+msgid "Consumer key"
+msgstr "Cheie abonat"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:873
+msgid ""
+"You must first create an app at <a href=\"https://dev.twitter.com/apps/"
+"\">https://dev.twitter.com/apps/</a> and enter your consumer keys to enable "
+"twitter connect."
+msgstr ""
+"Mai intai, trebuie sa creeati o aplicatie la <a href=\"https://dev.twitter."
+"com/apps/\">https://dev.twitter.com/apps/</a> si sa introduceti cheile de "
+"abonat pentru a activa conectarea cu contul de Twitter."
+
+# @ userpro
+#: userpro/admin/panels/settings.php:878
+msgid "Consumer secret"
+msgstr "Abonat secret"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:885
+msgid "Auto Post on users Twitter timeline"
+msgstr "Publica automat in cronologia profilului de Twitter a utilizatorilor"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:891
+msgid "When they first connect to your site."
+msgstr "Cand se conecteaza pe site pentru prima data."
+
+# @ userpro
+#: userpro/admin/panels/settings.php:896
+msgid "Twitter timeline message"
+msgstr "Mesaj cronologie Twitter"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:899
+msgid ""
+"If you enabled the above option to automatically post on users timeline."
+msgstr ""
+"Daca ati activat optiunea de mai sus pentru a posta automat in cronologia "
+"utilizatorilor."
+
+# @ userpro
+#: userpro/admin/panels/settings.php:905
+msgid "Google Integration"
+msgstr "Integrare Google"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:909
+msgid "Allow Google Social Connect"
+msgstr "Permiteti conectarea cu contul de Google"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:919
+msgid "Client ID"
+msgstr "ID client"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:926
+msgid "Client secret"
+msgstr "Client secret"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:933
+msgid "Callback / Redirect URL"
+msgstr "Callback / URL redirectionare"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:936
+msgid ""
+"This URL must be in the allowed Redirect URIs for this app in your Google "
+"Console."
+msgstr ""
+"Aceasta adresa URL trebuie sa fie permisa de redirectionarea URI pentru "
+"aceasta aplicatie din consola dvs. Google."
+
+# @ userpro
+#: userpro/admin/panels/settings.php:942
+msgid "MailChimp Settings"
+msgstr "Setari MailChimp"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:946
+msgid "MailChimp API Key"
+msgstr "API Key MailChimp "
+
+# @ userpro
+#: userpro/admin/panels/settings.php:949
+msgid ""
+"Enter your MailChimp API key here to allow integration with MailChimp "
+"subscription."
+msgstr ""
+"Introduceti API key  MailChimp aici pentru a permite integrarea "
+"abonamenentelor cu MailChimp."
+
+#: admin/panels/settings.php:1039
+msgid "Aweber Settings"
+msgstr "Setări AWeber"
+
+#: admin/panels/settings.php:1039
+msgid "Campaignmonitor Settings"
+msgstr "Setări Campaignmonitor"
+
+
+# @ userpro
+#: userpro/admin/panels/settings.php:955
+msgid "BuddyPress Compatibility"
+msgstr "Compatibilitate BuddyPress"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:959
+msgid "Sync UserPro profile links with BuddyPress"
+msgstr "Sincronizare link profil UserPro cu BuddyPress"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:969
+msgid "Sync UserPro avatars with BuddyPress"
+msgstr "Sincronizare avatare UserPro cu BuddyPress"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:979
+msgid "Sync UserPro display name with BuddyPress"
+msgstr "Sincronizare afisare nume UserPro cu BuddyPress"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:990
+msgid "Envato Settings"
+msgstr "Setari Envato"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:994
+msgid "Envato API Key"
+msgstr "API Key Envato"
+
+# @ userpro
+#: userpro/admin/panels/settings.php:1001
+msgid "Envato Username"
+msgstr "Utilizator Envato"
+
+# @ userpro
+#: userpro/admin/panels/woo.php:3
+msgid ""
+"Click on the next button to automatically add WooCommerce profile fields to "
+"UserPro fields and make users manage their WooCommerce profile data from one "
+"place, their UserPro profile!"
+msgstr ""
+"Faceti click pe butonul Next pentru a adauga automat campurile de profil "
+"WooCommerce la campurile UserPro si faceti ca utilizatorii sa isi gestioneze "
+"datele lor de profil dintr-un loc, profilul lor UserPro!"
+
+# @ userpro
+#: userpro/admin/panels/woo.php:9
+msgid "Rebuild WooCommerce Sync"
+msgstr "Reconstruiti sincronizarile WooCommerce "
+
+# @ userpro
+#: userpro/admin/panels/woo.php:10
+msgid "Remove WooCommerce Sync"
+msgstr "Eliminati sincronizarea WooCommerce"
+
+# @ userpro
+#: userpro/admin/panels/woo.php:14
+msgid "Start WooCommerce Sync"
+msgstr "Start WooCommerce Sync"
+
+# @ userpro
+#: userpro/functions/ajax.php:78
+#, php-format
+msgid "Your submission has been posted! You can view it %s."
+msgstr "Prezentarea dvs. a fost publicata! Puteti sa o vizualizati aici %s."
+
+# @ userpro
+#: userpro/functions/ajax.php:84
+msgid "Your submission has been sent. It will be reviewed shortly."
+msgstr ""
+"Prezentarea dvs. a fost trimisa. Aceasta va fi verificata in scurt timp."
+
+# @ userpro
+#: userpro/functions/ajax.php:154
+msgid "Nothing was deleted. You must choose yes to confirm deletion."
+msgstr ""
+"Nu a fost sters nimic. Trebuie sa alegeti Da pentru a confirma stergerea."
+
+# @ userpro
+#: userpro/functions/ajax.php:156
+msgid "For security reasons, admin accounts cannot be deleted."
+msgstr ""
+"Din motive de securitate, conturile administratorilor nu pot fi sterse."
+
+# @ userpro
+#: userpro/functions/ajax.php:158
+msgid "You cannot remove test accounts from frontend!"
+msgstr "Nu puteti elimina conturile de test de pe interfata!"
+
+# @ userpro
+#: userpro/functions/ajax.php:180
+msgid "This account has been deleted successfully."
+msgstr "Acest cont a fost sters cu succes."
+
+# @ userpro
+#: userpro/functions/ajax.php:192
+msgid "You did not provide a secret key."
+msgstr "Nu a furnizat un cod secret."
+
+# @ userpro
+#: userpro/functions/ajax.php:194 userpro/functions/ajax.php:555
+msgid "The secret key you entered is invalid."
+msgstr "Codul secret introdus nu este valid."
+
+# @ userpro
+#: userpro/functions/ajax.php:210 userpro/functions/ajax.php:563
+msgid "The secret key is invalid or expired."
+msgstr "Codul secret este invalid sau expirat."
+
+# @ userpro
+#: userpro/functions/ajax.php:232 userpro/functions/ajax.php:283
+msgid "You should provide your email or username."
+msgstr "Ar trebui sa oferi adresa de e-mail sau numele de utilizator."
+
+# @ userpro
+#: userpro/functions/ajax.php:241
+msgid "There is not such user in our system."
+msgstr "Nu exista un astfel de utilizator in sistemul nostru."
+
+# @ userpro
+#: userpro/functions/ajax.php:243
+msgid "Resetting admin password is not permitted!"
+msgstr "Resetarea parolei administratorului nu este permisa!"
+
+# @ userpro
+#: userpro/functions/ajax.php:286
+msgid "You should provide your password."
+msgstr "Ar trebui sa furnizati parola."
+
+# @ userpro
+#: userpro/functions/ajax.php:311
+msgid "Invalid email or username entered"
+msgstr "E-mail sau utilizator invalid"
+
+# @ userpro
+#: userpro/functions/ajax.php:313
+msgid "The password you entered is incorrect"
+msgstr "Parola introdusa este incorecta"
+
+# @ userpro
+#: userpro/functions/ajax.php:321 userpro/functions/msg-functions.php:20
+msgid "Your email is pending verification. Please activate your account."
+msgstr ""
+"Adresa dvs. de e-mail este in curs de verificare. Va rugam sa va activati "
+"contul."
+
+# @ userpro
+#: userpro/functions/ajax.php:323 userpro/functions/msg-functions.php:24
+msgid "Your account is currently being reviewed. Thanks for your patience."
+msgstr "Contul dvs. este in curs de verificare. Va multumim pentru rabdare."
+
+# @ userpro
+#: userpro/functions/ajax.php:525
+msgid "Invalid purchase code or Envato API is down."
+msgstr "Cod de cumparare gresit sau API-ul Envato este cazut."
+
+# @ userpro
+#: userpro/functions/ajax.php:533
+msgid "The display name is already in use."
+msgstr "Acest nume de afisare este deja in uz."
+
+# @ userpro
+#: userpro/functions/ajax.php:539
+msgid "Username already taken."
+msgstr "Nume de utilizator deja luat."
+
+# @ userpro
+#: userpro/functions/ajax.php:541
+msgid "Illegal characters are not allowed in username."
+msgstr "Caracterele ilegale nu sunt permise in numele de utilizator."
+
+# @ userpro
+#: userpro/functions/ajax.php:547
+msgid "Please enter a valid email."
+msgstr "Va rugam sa introduceti un e-mail valid."
+
+# @ userpro
+#: userpro/functions/ajax.php:549
+msgid ""
+"Email is taken. Is that you? Try to <a href=\"#\" data-template=\"login"
+"\">login</a>"
+msgstr ""
+"Aceasta adresa de e-mail este inregistrata. Este a ta? Incearca sa te <a "
+"href=\"#\" data-template=\"login\">autentifici</a>"
+
+# @ userpro
+#: userpro/functions/ajax.php:613
+msgid "No custom notice is set for this account."
+msgstr "Nu ati setat nicio descriere personalizata pentru acest cont."
+
+#: userpro/functions/api.php:104 userpro/functions/api.php:178
+msgid "Contact"
+msgstr ""
+
+#: userpro/functions/api.php:154
+msgid "ID"
+msgstr ""
+
+#: userpro/functions/api.php:158
+msgid "Photo"
+msgstr ""
+
+# @ userpro
+#: userpro/functions/api.php:166
+#, fuzzy
+msgid "Location"
+msgstr "Actiuni"
+
+#: userpro/functions/api.php:170
+msgid "Sex"
+msgstr ""
+
+#: userpro/functions/api.php:230 userpro/functions/api.php:233
+#, php-format
+msgid "%s's profile photo"
+msgstr ""
+
+# @ userpro
+#: userpro/functions/api.php:235
+#, fuzzy, php-format
+msgid "%s did not upload a photo yet."
+msgstr "Nu a furnizat un cod secret."
+
+#: userpro/functions/api.php:279
+msgid "now!"
+msgstr ""
+
+#: userpro/functions/api.php:282
+msgid "year"
+msgstr ""
+
+#: userpro/functions/api.php:283
+msgid "month"
+msgstr ""
+
+#: userpro/functions/api.php:284
+msgid "day"
+msgstr ""
+
+#: userpro/functions/api.php:285
+msgid "hour"
+msgstr ""
+
+#: userpro/functions/api.php:286
+msgid "minute"
+msgstr ""
+
+#: userpro/functions/api.php:287
+msgid "second"
+msgstr ""
+
+#: userpro/functions/api.php:296
+msgid " ago"
+msgstr ""
+
+# @ userpro
+#: userpro/functions/api.php:1248
+msgid "Found <span>1</span> Member"
+msgstr "<span>1</span> utilizator gasit"
+
+# @ userpro
+#: userpro/functions/api.php:1250
+#, php-format
+msgid "Found <span>%s</span> Members"
+msgstr "<span>%s</span> (de) utilizatori gasiti"
+
+# @ userpro
+#: userpro/functions/api.php:1949
+msgid "No available information"
+msgstr "Nu exista informatii disponibile"
+
+# @ userpro
+#: userpro/functions/api.php:2379
+#, php-format
+msgid "There are %s user online on the site."
+msgstr "Exista %s utilizator online pe site."
+
+# @ userpro
+#: userpro/functions/api.php:2381
+#, php-format
+msgid "There are %s users online on the site."
+msgstr "Exista %s utilizatori online pe site."
+
+# @ userpro
+#: userpro/functions/badge-functions.php:129
+msgid "User is online :)"
+msgstr "Utilizatorul este online :)"
+
+# @ userpro
+#: userpro/functions/badge-functions.php:133
+msgid "User is offline :("
+msgstr "Utilizatorul este offline :("
+
+# @ userpro
+#: userpro/functions/badge-functions.php:143
+#: userpro/functions/badge-functions.php:145
+msgid "Verified Account"
+msgstr "Cont verificat"
+
+# @ userpro
+#: userpro/functions/badge-functions.php:151
+#: userpro/functions/badge-functions.php:153
+msgid "Unverified Account"
+msgstr "Cont neverificat"
+
+# @ userpro
+#: userpro/functions/badge-functions.php:158
+msgid "Facebook Linked"
+msgstr "Legatura Facebook"
+
+# @ userpro
+#: userpro/functions/badge-functions.php:162
+msgid "Twitter Linked"
+msgstr "Legatura Twitter"
+
+# @ userpro
+#: userpro/functions/badge-functions.php:166
+msgid "Google Linked"
+msgstr "Legatura Google"
+
+# @ userpro
+#: userpro/functions/badge-functions.php:170
+msgid "Verified Customer"
+msgstr "Client verificat"
+
+# @ userpro
+#: userpro/functions/custom-alerts.php:23
+#: userpro/functions/custom-alerts.php:32
+msgid "Set custom note..."
+msgstr "Seteaza o descriere personalizata..."
+
+# @ userpro
+#: userpro/functions/defaults.php:49
+msgid "You or someone else has requested to change password for this account."
+msgstr "Dvs. sau altcineva ati cerut schimbarea parolei acestui cont."
+
+# @ userpro
+#: userpro/functions/defaults.php:50
+msgid ""
+"The following key was generated to you to be able to change your passsword. "
+"Login to our site and attempt to Change your Password and use that key to "
+"change your password successfully."
+msgstr ""
+"Urmatoarea cheie a fost generata pentru dvs. pentru a va schimba parola "
+"contului. Pentru a va schimba parola cu succes, accesati sectiunea de "
+"schimbare a parolei din pagina de autentificare si introduceti acest cod in "
+"campul special destinat si noua dvs. parola."
+
+# @ userpro
+#: userpro/functions/defaults.php:51
+msgid "Secret Key: {VAR1}"
+msgstr "Cod secret: {VAR1}"
+
+# @ userpro
+#: userpro/functions/defaults.php:52 userpro/functions/defaults.php:59
+#: userpro/functions/defaults.php:69
+msgid "If you have any problems, please contact us at {USERPRO_ADMIN_EMAIL}."
+msgstr ""
+"Daca aveti vreo problema, va rugam sa ne contactati la {USERPRO_ADMIN_EMAIL}."
+
+# @ userpro
+#: userpro/functions/defaults.php:53 userpro/functions/defaults.php:60
+#: userpro/functions/defaults.php:70 userpro/functions/defaults.php:78
+#: userpro/functions/defaults.php:83 userpro/functions/defaults.php:88
+#: userpro/functions/defaults.php:93
+msgid "Best Regards!"
+msgstr "O zi buna!"
+
+# @ userpro
+#: userpro/functions/defaults.php:56
+msgid ""
+"Thanks for signing up at {USERPRO_BLOGNAME}. You must confirm/validate your "
+"account before logging in."
+msgstr ""
+"Va multumim pentru ca v-ati inregistrat pe {USERPRO_BLOGNAME}. Trebuie sa va "
+"confirmati/validati contul inainte de a va autentifica."
+
+# @ userpro
+#: userpro/functions/defaults.php:57
+msgid ""
+"Please click on the following link to successfully activate your account:"
+msgstr "Va rugam sa faceti click pe urmatorul link pentru a va activa contul:"
+
+# @ userpro
+#: userpro/functions/defaults.php:63
+msgid "Thanks for registering. Your account is now active."
+msgstr "Va multumim pentru inregistrare. Contul dvs. este activ acum."
+
+# @ userpro
+#: userpro/functions/defaults.php:64
+msgid "To login please visit the following URL:"
+msgstr "Pentru autentificare, va rugam sa vizitati urmatoarea adresa URL:"
+
+# @ userpro
+#: userpro/functions/defaults.php:66
+msgid "Your account e-mail: {USERPRO_EMAIL}"
+msgstr "Adresa de e-mail a contului dvs.: {USERPRO_EMAIL}"
+
+# @ userpro
+#: userpro/functions/defaults.php:67
+msgid "Your account username: {USERPRO_USERNAME}"
+msgstr "Numele de utilizator al contului dvs.: {USERPRO_USERNAME}"
+
+# @ userpro
+#: userpro/functions/defaults.php:68
+msgid "Your account password: {VAR1}"
+msgstr "Parola contului dvs.: {VAR1}"
+
+# @ userpro
+#: userpro/functions/defaults.php:73
+msgid "This is an invitation to get verified at {USERPRO_BLOGNAME}."
+msgstr ""
+"Aceasta este o invitatie pentru a obtine verificarea la {USERPRO_BLOGNAME}."
+
+# @ userpro
+#: userpro/functions/defaults.php:74
+msgid ""
+"To accept this invitation and get verified instantly, please click the "
+"following link:"
+msgstr ""
+"Pentru a accepta aceasta invitatie si a obtine verificarea imediat, va rugam "
+"sa faceti click pe urmatorul link:"
+
+# @ userpro
+#: userpro/functions/defaults.php:76
+msgid ""
+"If you do not want to GET VERIFIED, please ignore this email. No further "
+"action is required."
+msgstr ""
+"Daca nu doriti verificarea, va rugam sa ignorati acest e-mail. Nu este "
+"necesara nicio actiune viitoare."
+
+# @ userpro
+#: userpro/functions/defaults.php:77 userpro/functions/defaults.php:82
+#: userpro/functions/defaults.php:87 userpro/functions/defaults.php:92
+msgid ""
+"If you have any further questions, please contact us at "
+"{USERPRO_ADMIN_EMAIL}."
+msgstr ""
+"Daca aveti orice intrebari suplimentare, va rugam sa ne contactati la "
+"{USERPRO_ADMIN_EMAIL}."
+
+# @ userpro
+#: userpro/functions/defaults.php:81
+msgid "Your account has been deleted from {USERPRO_BLOGNAME}."
+msgstr "Contul dvs. a fost sters de pe {USERPRO_BLOGNAME}."
+
+# @ userpro
+#: userpro/functions/defaults.php:86
+msgid "Your account is now verified at {USERPRO_BLOGNAME}."
+msgstr "Contul dvs. de pe {USERPRO_BLOGNAME} este verificat acum."
+
+# @ userpro
+#: userpro/functions/defaults.php:91
+msgid "We apologize. Your account is no longer verified at {USERPRO_BLOGNAME}."
+msgstr ""
+"Ne pare rau. Contul dvs. de pe {USERPRO_BLOGNAME} nu mai este verificat."
+
+# @ userpro
+#: userpro/functions/defaults.php:96
+msgid ""
+"{USERPRO_USERNAME} has just created a new account at {USERPRO_BLOGNAME}. The "
+"account is pending your manual review."
+msgstr ""
+"{USERPRO_USERNAME} tocmai a creeat un cont nou pe site-ul "
+"{USERPRO_BLOGNAME}. Contul este in curs de verificare manuala."
+
+# @ userpro
+#: userpro/functions/defaults.php:97
+msgid ""
+"To approve/reject new user registrations, please click the following link:"
+msgstr ""
+"Pentru a aproba/respinge noua inregistrare, va rugam sa faceti click pe "
+"urmatorul link:"
+
+# @ userpro
+#: userpro/functions/defaults.php:102
+msgid ""
+"{USERPRO_USERNAME} has just created a new account at {USERPRO_BLOGNAME}."
+msgstr "{USERPRO_USERNAME} tocmai a creeat un cont nou pe {USERPRO_BLOGNAME}."
+
+# @ userpro
+#: userpro/functions/defaults.php:103
+msgid "You can check his profile via the following link:"
+msgstr "Puteti verifica profilul prin link-ul urmator:"
+
+# @ userpro
+#: userpro/functions/defaults.php:108
+msgid ""
+"{USERPRO_USERNAME}'s profile has been just deleted from {USERPRO_BLOGNAME}."
+msgstr ""
+"{USERPRO_USERNAME} tocmai si-a sters profilul de pe {USERPRO_BLOGNAME}."
+
+# @ userpro
+#: userpro/functions/defaults.php:112
+msgid ""
+"{USERPRO_USERNAME} has just updated their profile at {USERPRO_BLOGNAME}."
+msgstr ""
+"{USERPRO_USERNAME} tocmai si-a actualizat profilul de pe {USERPRO_BLOGNAME}."
+
+# @ userpro
+#: userpro/functions/defaults.php:113
+msgid "To view his/her profile:"
+msgstr "Pentru a vedea profilul lui/ei:"
+
+# @ userpro
+#: userpro/functions/defaults.php:144
+msgid "Reset Your Password"
+msgstr "Schimbati-va parola"
+
+# @ userpro
+#: userpro/functions/defaults.php:147
+msgid "Verify your Account"
+msgstr "Verificati-va contul"
+
+# @ userpro
+#: userpro/functions/defaults.php:150
+#, php-format
+msgid "Welcome to %s!"
+msgstr "Bine ati venit la %s!"
+
+# @ userpro
+#: userpro/functions/defaults.php:153
+msgid "Your profile has been removed!"
+msgstr "Profilul dvs. a fost eliminat!"
+
+# @ userpro
+#: userpro/functions/defaults.php:156
+#, php-format
+msgid "Get Verified at %s!"
+msgstr "Obtineti verificarea pe %s!"
+
+# @ userpro
+#: userpro/functions/defaults.php:159
+msgid "Your account is now verified!"
+msgstr "Contul dvs. este verificat acum!"
+
+# @ userpro
+#: userpro/functions/defaults.php:162
+msgid "Your account is no longer verified!"
+msgstr "Contul dvs. nu mai este verificat!"
+
+# @ userpro
+#: userpro/functions/defaults.php:165
+msgid "[UserPro] User awaiting manual review"
+msgstr "[UserPro] Utilizatorul asteapta verificarea manuala"
+
+# @ userpro
+#: userpro/functions/defaults.php:168
+msgid "[UserPro] New User Registration"
+msgstr "[UserPro] Inregistrare utilizator nou"
+
+# @ userpro
+#: userpro/functions/defaults.php:171
+msgid "[UserPro] A profile has been removed!"
+msgstr "[UserPro] Un profil a fost eliminat!"
+
+# @ userpro
+#: userpro/functions/defaults.php:174
+msgid "[UserPro] A profile has been updated!"
+msgstr "[UserPro] Un profil a fost actualizat!"
+
+# @ userpro
+#: userpro/functions/defaults.php:224
+msgid ""
+"To complete registration, you must read and agree to our <a href=\"#\">terms "
+"and conditions</a>. This text can be custom."
+msgstr ""
+"Pentru a finaliza inregistrarea, trebuie sa fiti de acord cu <a href=\"#"
+"\">termenii si conditiile</a>. Acest text poate fi personalizat."
+
+# @ userpro
+#: userpro/functions/defaults.php:282
+msgid "&mdash; Select account role &mdash;"
+msgstr "&mdash; Selectati rolul contului &mdash;"
+
+# @ userpro
+#: userpro/functions/fields-filters.php:13
+#, fuzzy
+msgid "This account has been blocked"
+msgstr "Acest cont a fost sters cu succes."
+
+# @ userpro
+#: userpro/functions/fields-filters.php:61
+#, fuzzy
+msgid "Please enter a correct phone number"
+msgstr "Va rugam sa introduceti o preferinta pe linie!"
+
+#: userpro/functions/fields-filters.php:66
+#, php-format
+msgid "%s must not exceed %s characters"
+msgstr ""
+
+# @ userpro
+#: userpro/functions/fields-filters.php:84
+msgid "Incorrect answer. please try again."
+msgstr "Raspuns gresit, va rugam sa incercati din nou."
+
+# @ userpro
+#: userpro/functions/fields-functions.php:189
+#: userpro/functions/fields-functions.php:206
+msgid "No file has been uploaded."
+msgstr "Niciun fisier nu a fost incarcat."
+
+# @ userpro
+#: userpro/functions/fields-functions.php:274
+msgid "Upload photo"
+msgstr "Incarcati o fotografie"
+
+# @ userpro
+#: userpro/functions/fields-functions.php:284
+msgid "Upload file"
+msgstr "Incarcati un fisier"
+
+# @ userpro
+#: userpro/functions/fields-functions.php:302
+#: userpro/functions/fields-functions.php:317
+#: userpro/functions/fields-functions.php:346
+#: userpro/functions/fields-functions.php:402
+msgid "Make this field hidden from public"
+msgstr "Nu vreau ca acest camp sa fie facut public"
+
+# @ userpro
+#: userpro/functions/fields-functions.php:326
+#, php-format
+msgid "Answer: %s + %s"
+msgstr "Raspundeti: %s + %s"
+
+# @ userpro
+#: userpro/functions/fields-functions.php:356
+msgid "Password Strength"
+msgstr "Puterea parolei"
+
+# @ userpro
+#: userpro/functions/fields-functions.php:459
+msgid "Subscribe to our newsletter"
+msgstr "Abonati-va la newsletter-ul nostru"
+
+# @ userpro
+#: userpro/functions/fields-functions.php:465
+msgid "You are currently subscribed to this newsletter."
+msgstr "In prezent, sunteti abonat la acest newsletter."
+
+# @ userpro
+#: userpro/functions/fields-functions.php:468
+msgid "Unsubscribe from this newsletter"
+msgstr "Dezabonati-va de la acest newsletter"
+
+# @ userpro
+#: userpro/functions/fields-functions.php:667
+#, php-format
+msgid "(Your %s will not be visible to public)"
+msgstr "(%s dumneavoastra nu vor fi vizibile publicului)"
+
+#: userpro/functions/fields-hooks.php:20
+msgid "Remember me"
+msgstr ""
+
+# @ userpro
+#: userpro/functions/fields-hooks.php:53
+#, fuzzy, php-format
+msgid "%s's uploaded photo"
+msgstr "Incarcati o fotografie"
+
+# @ userpro
+#: userpro/functions/fields-hooks.php:102
+#, php-format
+msgid ""
+"<strong>Warning!</strong> Your account is %s verified. If you change your "
+"display name, <em>you will lose your verification status.</em>"
+msgstr ""
+"<strong>Atentie!</strong> Contul dvs. %s este verificat. Daca va schimbati "
+"numele de afisare, <em>va pierdeti statutul de verificat.</em>"
+
+# @ userpro
+#: userpro/functions/fields-setup.php:132
+#: userpro/functions/fields-setup.php:175
+msgid "Account Details"
+msgstr "Detalii cont"
+
+# @ userpro
+#: userpro/functions/fields-setup.php:139
+#: userpro/functions/fields-setup.php:160
+msgid "Profile Details"
+msgstr "Detalii profil"
+
+# @ userpro
+#: userpro/functions/fields-setup.php:145
+#: userpro/functions/fields-setup.php:169
+msgid "Social Profiles"
+msgstr "Profiluri retele sociale"
+
+# @ userpro
+#: userpro/functions/frontend-publisher-functions.php:59
+#, fuzzy
+msgid "Provide some content"
+msgstr "Trebuie sa introduceti o parte a continutului."
+
+# @ userpro
+#: userpro/functions/frontend-publisher-functions.php:59
+#, fuzzy
+msgid "Enter content here..."
+msgstr "Introduceti titlul postarii aici..."
+
+# @ userpro
+#: userpro/functions/frontend-publisher-functions.php:92
+#, fuzzy
+msgid "You must enter a post title"
+msgstr "Trebuie sa introduceti un titlu."
+
+# @ userpro
+#: userpro/functions/frontend-publisher-functions.php:134
+msgid "Set Featured Image"
+msgstr "Setati imagine de profil"
+
+#: userpro/functions/frontend-publisher-functions.php:135
+msgid "You must upload a featured image"
+msgstr ""
+
+# @ userpro
+#: userpro/functions/initial-setup.php:34
+#: userpro/functions/user-functions.php:26 userpro/templates/logout.php:17
+#: userpro/updates/userpro_1.0.24.php:15
+msgid "Logout"
+msgstr "Deautentificare"
+
+# @ userpro
+#: userpro/functions/initial-setup.php:48
+msgid "Member Directory"
+msgstr "Director utilizatori"
+
+# @ userpro
+#: userpro/functions/initial-setup.php:62
+msgid "My Profile"
+msgstr "Profilul meu"
+
+# @ userpro
+#: userpro/functions/initial-setup.php:91
+#: userpro/functions/shortcode-main.php:47
+#: userpro/functions/shortcode-private-content.php:45
+msgid "Register"
+msgstr "Inregistrare"
+
+# @ userpro
+#: userpro/functions/initial-setup.php:106
+#: userpro/functions/shortcode-main.php:48
+#: userpro/functions/shortcode-main.php:53
+#: userpro/functions/shortcode-main.php:57
+#: userpro/functions/shortcode-private-content.php:46
+#: userpro/functions/shortcode-private-content.php:51
+#: userpro/functions/shortcode-private-content.php:55
+msgid "Login"
+msgstr "Autentificare"
+
+# @ userpro
+#: userpro/functions/memberlist-functions.php:329
+msgid "« Previous"
+msgstr "« Precedenta"
+
+# @ userpro
+#: userpro/functions/memberlist-functions.php:330
+msgid "Next »"
+msgstr "Urmatoarea »"
+
+# @ userpro
+#: userpro/functions/msg-functions.php:4
+#, php-format
+msgid ""
+"Congratulations! Your account is now %s <strong>Verified</strong>. <i class="
+"\"userpro-icon-remove\"></i>"
+msgstr ""
+"Felicitari! Contul dvs. este acum %s <strong>Verificat</strong>. <i class="
+"\"userpro-icon-remove\"></i>"
+
+# @ userpro
+#: userpro/functions/msg-functions.php:8
+msgid ""
+"This invitation request is invalid or has expired! <i class=\"userpro-icon-"
+"remove\"></i>"
+msgstr ""
+"Aceasta invitatie este invalida sau expirata! <i class=\"userpro-icon-remove"
+"\"></i>"
+
+# @ userpro
+#: userpro/functions/msg-functions.php:12
+msgid "Please log in to publish a new post."
+msgstr "Conectati-va pentru a publica un nou articol."
+
+# @ userpro
+#: userpro/functions/msg-functions.php:16
+msgid "Your account has been successfully activated!"
+msgstr "Contul dvs. a fost activat cu succes!"
+
+# @ userpro
+#: userpro/functions/msg-functions.php:28
+msgid "Your profile has been saved."
+msgstr "Profilul dvs. a fost salvat cu succes."
+
+# @ userpro
+#: userpro/functions/msg-functions.php:32
+msgid "Thank you for registering. Please login to continue."
+msgstr ""
+"Multumim pentru inregistrare. Va rugam sa va autentificati pentru a continua."
+
+# @ userpro
+#: userpro/functions/msg-functions.php:36
+msgid "Please login to view and manage your profile."
+msgstr ""
+"Va rugam sa va autentificati pentru a vedea si a gestiona profilul dvs."
+
+# @ userpro
+#: userpro/functions/msg-functions.php:40
+msgid "Please login to view this user profile."
+msgstr ""
+"Va rugam sa va utentificati pentru a vedea profilul acestui utilizator."
+
+# @ userpro
+#: userpro/functions/msg-functions.php:44
+msgid ""
+"We'll email you a secret key. Once you obtain the key, you can use it to "
+"Change your Password."
+msgstr ""
+"Va vom trimite un cod secret. Odata ce ati obtinut codul secret, il puteti "
+"folosi pentru schimbarea parolei."
+
+# @ userpro
+#: userpro/functions/msg-functions.php:48
+msgid "A secret key has been sent successfully."
+msgstr "Un cod secret a fost trimis cu succes."
+
+# @ userpro
+#: userpro/functions/msg-functions.php:52
+msgid "Your password has been changed successfully. Please login."
+msgstr "Parola dvs. a fost schimbata cu succes. Va rugam sa va autentificati."
+
+# @ userpro
+#: userpro/functions/shortcode-main.php:21
+msgid "Your profile has been saved!"
+msgstr "Profilul dvs. a fost salvat!"
+
+# @ userpro
+#: userpro/functions/shortcode-main.php:33
+#: userpro/functions/shortcode-private-content.php:31
+msgid "This field is required"
+msgstr "Acest camp este obligatoriu"
+
+# @ userpro
+#: userpro/functions/shortcode-main.php:34
+#: userpro/functions/shortcode-private-content.php:32
+msgid "Your password is too short"
+msgstr "Parola dvs. este prea scurta"
+
+# @ userpro
+#: userpro/functions/shortcode-main.php:35
+#: userpro/functions/shortcode-private-content.php:33
+msgid "Passwords do not match"
+msgstr "Parolele nu se potrivesc"
+
+# @ userpro
+#: userpro/functions/shortcode-main.php:36
+#: userpro/functions/shortcode-private-content.php:34
+msgid "Password is not strong enough"
+msgstr "Parola nu este suficient de puternica"
+
+# @ userpro
+#: userpro/functions/shortcode-main.php:43
+#: userpro/functions/shortcode-private-content.php:41
+msgid "Register an Account"
+msgstr "Inregistrati un cont"
+
+# @ userpro
+#: userpro/functions/shortcode-main.php:44
+#: userpro/functions/shortcode-private-content.php:42
+msgid "Already a member?"
+msgstr "Sunteti membru deja?"
+
+# @ userpro
+#: userpro/functions/shortcode-main.php:54
+#: userpro/functions/shortcode-private-content.php:52
+msgid "Forgot your password?"
+msgstr "Ati uitat parola?"
+
+# @ userpro
+#: userpro/functions/shortcode-main.php:58
+#: userpro/functions/shortcode-private-content.php:56
+msgid "Create an Account"
+msgstr "Creati un cont"
+
+# @ userpro
+#: userpro/functions/shortcode-main.php:63
+#: userpro/functions/shortcode-private-content.php:60
+#: userpro/templates/edit.php:100 userpro/templates/view.php:94
+msgid "Delete Profile"
+msgstr "Sterge profilul"
+
+# @ userpro
+#: userpro/functions/shortcode-main.php:64
+#: userpro/functions/shortcode-private-content.php:61
+msgid "Undo, back to profile"
+msgstr "Anuleaza, inapoi la profil"
+
+# @ userpro
+#: userpro/functions/shortcode-main.php:67
+#: userpro/functions/shortcode-private-content.php:64
+#: userpro/templates/delete.php:29
+msgid "Confirm Deletion"
+msgstr "Confirmati stergerea"
+
+# @ userpro
+#: userpro/functions/shortcode-main.php:68
+#: userpro/functions/shortcode-private-content.php:65
+msgid "Back to Profile"
+msgstr "Inapoi la profil"
+
+# @ userpro
+#: userpro/functions/shortcode-main.php:71
+#: userpro/functions/shortcode-private-content.php:68
+msgid "Reset Password"
+msgstr "Resetati-va parola"
+
+# @ userpro
+#: userpro/functions/shortcode-main.php:72
+#: userpro/functions/shortcode-private-content.php:69
+msgid "Back to Login"
+msgstr "Inapoi la autentificare"
+
+# @ userpro
+#: userpro/functions/shortcode-main.php:75
+#: userpro/functions/shortcode-private-content.php:72
+msgid "Request Secret Key"
+msgstr "Solicita un cod secret"
+
+# @ userpro
+#: userpro/functions/shortcode-main.php:76
+#: userpro/functions/shortcode-main.php:79
+#: userpro/functions/shortcode-private-content.php:73
+#: userpro/functions/shortcode-private-content.php:76
+msgid "Change your Password"
+msgstr "Schimbati-va parola"
+
+# @ userpro
+#: userpro/functions/shortcode-main.php:80
+#: userpro/functions/shortcode-private-content.php:77
+msgid "Request New Key"
+msgstr "Solicita un nou cod secret"
+
+# @ userpro
+#: userpro/functions/shortcode-main.php:83
+#: userpro/functions/shortcode-private-content.php:80
+msgid "Change my Password"
+msgstr "Schimba parola"
+
+# @ userpro
+#: userpro/functions/shortcode-main.php:84
+#: userpro/functions/shortcode-private-content.php:81
+msgid "Do not have a secret key?"
+msgstr "Nu aveti un cod secret?"
+
+# @ userpro
+#: userpro/functions/shortcode-main.php:87
+#: userpro/functions/shortcode-private-content.php:84
+msgid "Latest Members"
+msgstr "Ultimii utilizatori"
+
+# @ userpro
+#: userpro/functions/shortcode-main.php:100
+#: userpro/functions/shortcode-private-content.php:97
+msgid "Who is online now"
+msgstr "Cine este online acum"
+
+# @ userpro
+#: userpro/functions/shortcode-main.php:123
+#: userpro/functions/shortcode-private-content.php:115
+msgid "An error has occured"
+msgstr "A aparut o eroare"
+
+# @ userpro
+#: userpro/functions/shortcode-main.php:160
+#: userpro/functions/shortcode-private-content.php:147
+msgid "Existing member? login"
+msgstr "Utilizator existent? autentificare"
+
+# @ userpro
+#: userpro/functions/shortcode-main.php:175
+#: userpro/functions/shortcode-private-content.php:160
+msgid "Add a New Post"
+msgstr "Adaugati un post nou"
+
+# @ userpro
+#: userpro/functions/social-connect.php:167
+msgid "Login with Facebook"
+msgstr "Autentifica-te cu Facebook"
+
+# @ userpro
+#: userpro/functions/social-connect.php:177
+msgid "Login with Twitter"
+msgstr "Autentifica-te cu Twitter"
+
+# @ userpro
+#: userpro/functions/social-connect.php:187
+msgid "Login with Google+"
+msgstr "Autentifica-te cu Google+"
+
+# @ userpro
+#: userpro/functions/terms-agreement.php:14
+msgid "You must accept our terms and conditions"
+msgstr "Trebuie sa acceptati termenii si conditiile"
+
+# @ userpro
+#: userpro/templates/change.php:27
+msgid "Your Secret Key"
+msgstr "Codul dvs. secret"
+
+# @ userpro
+#: userpro/templates/change.php:30
+msgid ""
+"You need a secret key to change your account password. Do not have one? "
+"Click <a href=\"#\" data-template=\"reset\">here</a> to obtain a new key."
+msgstr ""
+"Aveti nevoie de un cod secret pentru a va schimba parola contului. Nu aveti "
+"unul? Click <a href=\"#\" data-template=\"reset\">aici</a> pentru a obtine "
+"un nou cod."
+
+# @ userpro
+#: userpro/templates/delete.php:30
+msgid "No, do not delete"
+msgstr "Nu, nu sterge"
+
+# @ userpro
+#: userpro/templates/delete.php:30
+msgid "Yes, delete this profile!"
+msgstr "Da, sterge acest profil!"
+
+# @ userpro
+#: userpro/templates/delete.php:31
+msgid "This action cannot be UNDONE! It will delete all profile data."
+msgstr ""
+"Aceasta actiune NU POATE FI ANULATA! Aceasta va sterge toate datele "
+"profilului."
+
+# @ userpro
+#: userpro/templates/edit.php:8 userpro/templates/memberlist_v2.php:37
+#: userpro/templates/view.php:8
+#, fuzzy
+msgid "View member photo"
+msgstr "Doar utilizatori cu fotografie"
+
+# @ userpro
+#: userpro/templates/edit.php:96 userpro/templates/view.php:90
+msgid "Request Verification"
+msgstr "Cerere de verificare"
+
+# @ userpro
+#: userpro/templates/logout.php:13
+msgid "View/manage your profile"
+msgstr "Vedeti/gestionati profilul dvs."
+
+# @ userpro
+#: userpro/templates/memberlist.php:9 userpro/templates/memberlist_table.php:9
+#: userpro/templates/memberlist_v2.php:9
+msgid "Search for a user..."
+msgstr "Cauta un utilizator..."
+
+# @ userpro
+#: userpro/templates/memberlist.php:13
+#: userpro/templates/memberlist_table.php:13
+#: userpro/templates/memberlist_v2.php:13
+msgid "Search"
+msgstr "Cautare"
+
+# @ userpro
+#: userpro/templates/memberlist.php:15
+#: userpro/templates/memberlist_table.php:15
+#: userpro/templates/memberlist_v2.php:15
+msgid "Clear your Search"
+msgstr "Stergeti cautarea dvs."
+
+# @ userpro
+#: userpro/templates/memberlist.php:49 userpro/templates/memberlist_v2.php:66
+msgid "No users match your search. Please try again."
+msgstr ""
+"Nu sunt utilizatori care se potriveasc cautarii dvs. Va rugam sa incercati "
+"din nou."
+
+# @ userpro
+#: userpro/templates/memberlist_v2.php:52
+msgid "The user did not enter a description yet."
+msgstr "Utilizatorul nu a introdus o descriere inca."
+
+# @ userpro
+#: userpro/templates/not_allowed.php:12
+msgid "You are not authorized to access this area."
+msgstr "Nu sunteti autorizat sa accesati aceasta sectiune."
+
+# @ userpro
+#: userpro/templates/not_authorized.php:12
+msgid "You are not authorized to access this profile."
+msgstr "Nu sunteti autorizat sa accesati acest profil."
+
+# @ userpro
+#: userpro/templates/not_found.php:12
+msgid ""
+"The user profile you are trying to reach does not exist. It could have been "
+"removed."
+msgstr ""
+"Profilul utilizatorului la care doriti sa ajungeti nu exista. Intre timp, "
+"poate a fost eliminat."
+
+# @ userpro
+#: userpro/templates/online.php:64
+msgid "No users are online now."
+msgstr "Nu sunt utilizatori online acum."
+
+# @ userpro
+#: userpro/templates/private.php:4
+msgid "Restricted Content / Members Only"
+msgstr "Continut restrictionat / Doar membrii"
+
+# @ userpro
+#: userpro/templates/private.php:12
+#, php-format
+msgid ""
+"You cannot view this content because It is available to members only. Please "
+"<a href=\"#\" class=\"popup-login\" data-force_redirect_uri=\"1\">login</a> "
+"or <a href=\"%s\">register</a> to view this area."
+msgstr ""
+"Nu puteti vedea acest continut deoarece este disponibil doar membrilor. Va "
+"rugam sa va <a href=\"#\" class=\"popup-login\" data-force_redirect_uri="
+"\"1\">autentificati</a> sau sa va <a href=\"%s\">inregistrati</a> pentru "
+"avedea acest continut."
+
+# @ userpro
+#: userpro/templates/publish.php:36 userpro/templates/publish.php:73
+msgid "Enter post title here..."
+msgstr "Introduceti titlul postarii aici..."
+
+# @ userpro
+#: userpro/templates/publish.php:46 userpro/templates/publish.php:79
+msgid "Post Type"
+msgstr "Tipul postarii"
+
+# @ userpro
+#: userpro/templates/publish.php:53 userpro/templates/publish.php:88
+msgid "Select Categories"
+msgstr "Selectati categoriile"
+
+# @ userpro
+#: userpro/templates/registration_closed.php:6
+msgid "Registration Closed"
+msgstr "Inregistrare inchisa"
+
+# @ userpro
+#: userpro/templates/registration_closed.php:17
+msgid "Registration is currently disabled. We apologize for any inconvenience."
+msgstr ""
+"Momentan, inregistrarea este dezactivata. Ne cerem scuze pentru orice "
+"neplaceri."
+
+# @ userpro
+#: userpro/templates/request_verify.php:6
+msgid "Your request is sent!"
+msgstr "Cererea dvs. este trimisa!"
+
+# @ userpro
+#: userpro/templates/request_verify.php:14
+#, php-format
+msgid ""
+"Thanks, <strong>%s</strong>! Your request to get verified has been sent to "
+"the staff. A staff member will look at your application shortly and take the "
+"appropriate action."
+msgstr ""
+"Multumim,  <strong>%s</strong>! Cererea dvs. de verificare a contului a fost "
+"trimisa staff-ului. Un membru al staff-ului o sa verifice cererea in scurt "
+"timp si o sa ia masurile corespunzatoare."
+
+# @ userpro
+#: userpro/templates/reset.php:27
+msgid "Username or Email"
+msgstr "Nume de de utilizator sau e-mail"
+
+# @ userpro
+#: userpro/templates/restricted.php:4
+msgid "Access Denied"
+msgstr "Acces restrictionat"
+
+# @ userpro
+#: userpro/templates/restricted.php:12
+msgid ""
+"You do not have enough permissions or role to view this private content. We "
+"apologize for that."
+msgstr ""
+"Nu aveti suficiente permisiuni pentru a vizualiza acest continut. Ne cerem "
+"scuze."

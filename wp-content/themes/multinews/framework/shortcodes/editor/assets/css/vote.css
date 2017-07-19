@@ -1,0 +1,49 @@
+.mom-su-vote {
+	overflow: auto;
+	background: #2685B0;
+	color: #111;
+}
+.mom-su-vote-wrap {
+	margin: 1em;
+	background: #eee;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	-webkit-box-shadow: 0 0 10px #173859;
+	-moz-box-shadow: 0 0 10px #173859;
+	box-shadow: 0 0 10px #173859;
+
+}
+.mom-su-vote-clear {
+	height: 0;
+	clear: both;
+}
+.mom-su-vote-gravatar {
+	float: left;
+	width: 70px;
+}
+.mom-su-vote-gravatar img {
+	margin: 10px;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+}
+.mom-su-vote-message {
+	overflow: auto;
+	margin-left: 70px;
+	padding: 0 2em;
+	background: #fff;
+	border-left: 1px solid #ddd;
+	-webkit-border-top-right-radius: 5px;
+	-webkit-border-bottom-right-radius: 5px;
+	-moz-border-radius-topright: 5px;
+	-moz-border-radius-bottomright: 5px;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+.mom-su-vote-message p {
+	margin: 1.5em 0;
+	line-height: 1.5;
+}
+.mom-su-vote-message a.button,
+.mom-su-vote-message span { margin-right: 0.5em; }

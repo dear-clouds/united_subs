@@ -1,0 +1,40 @@
+.redux-container{
+	width: 1200px;
+}
+.showDefaults{
+	display: none;
+}
+.redux-slides-list li:first-child{
+	display: block;
+}
+.redux-slides-list li{
+	display: none;
+}
+.redux-container-image_select .redux-image-select{
+	margin: 0 3px 3px 0 !important;
+}
+.display_header:before{
+	content: "\f338";
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	font-size: 44px;
+	line-height: 1;
+	font-family: "dashicons";
+	text-decoration: inherit;
+	font-weight: normal;
+	font-style: normal;
+	vertical-align: top;
+	text-align: center;
+	-webkit-transition: color .1s ease-in 0;
+	transition: color .1s ease-in 0;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	margin-right: 42px;
+	color: #999;
+}
+#mom_options-main_font .typography-style,
+#main_font .typography-family-backup,
+#mom_options-sec_font .typography-style{
+	display: none !important;
+}

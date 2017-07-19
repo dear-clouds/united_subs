@@ -1,0 +1,8 @@
+<div class="wrap rssap-form">
+    <h2>
+        <?php echo esc_html( __( 'Logs', 'rss-autopilot' ) ); ?> <a href="<?php echo $this->menuUrl('rssap-feeds', 'clearLogs'); ?>" class="add-new-h2"><?php echo esc_html( __( 'Clear logs', 'rss-autopilot' ) ); ?></a>
+    </h2>
+
+    <?php echo nl2br(esc_html($content)); ?>
+    <br class="clear">
+</div>

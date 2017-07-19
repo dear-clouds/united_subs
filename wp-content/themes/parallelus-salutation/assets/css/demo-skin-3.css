@@ -1,0 +1,21 @@
+/* 
+
+Override styles for demo site. 
+
+These styles are just for the skin switching on the demo. They server no other purpose and can safely be deleted. */
+
+#Logo img.default {
+	display: none;
+}
+
+#Logo a {
+	display: block;
+	width: 140px;
+	height: 40px;
+	margin: 32px 0 0;
+	background: transparent url(../images/logo-white.png) no-repeat 0 0;
+}
+
+#Bottom .pageWrapper.theContent {
+	background-color: #D1CFCD;
+}

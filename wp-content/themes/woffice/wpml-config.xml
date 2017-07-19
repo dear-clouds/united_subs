@@ -1,0 +1,47 @@
+<wpml-config>
+    <custom-types>
+		<custom-type translate="1">wiki</custom-type>
+		<custom-type translate="1">project</custom-type>
+	</custom-types>
+	<taxonomies>
+		<taxonomy translate="1">project-category</taxonomy>
+		<taxonomy translate="1">'wiki-category</taxonomy>
+	</taxonomies>
+	<admin-texts>
+		<!-- fw_theme_settings_options:YOURTHEME (this is the field in the database)-->
+		<key name="fw_theme_settings_options:woffice"/>
+		<!-- text field in Unyson theme settings-->
+		<key name="footer_copyright_content"/>
+		<!-- text field in Unyson theme settings-->
+		<key name="extrafooter_content"/>
+		<!-- text field in Unyson theme settings-->
+		<key name="register_message"/>
+		<!-- text field in Unyson theme settings-->
+		<key name="index_title"/>
+		<!-- text field in Unyson theme settings-->
+		<key name="login_text"/>
+		<!-- adable options (limited to 4) with fields inside-->
+		<key name="funfacts">
+			<key name="0">
+				<key name="fact_content"/>
+			</key>
+			<key name="1">
+				<key name="fact_content"/>
+			</key>
+			<key name="2">
+				<key name="fact_content"/>
+			</key>
+			<key name="3">
+				<key name="fact_content"/>
+			</key>
+			<key name="4">
+				<key name="fact_content"/>
+			</key>
+			<key name="5">
+				<key name="fact_content"/>
+			</key>
+		</key>
+	</admin-texts>
+</wpml-config>
+
+

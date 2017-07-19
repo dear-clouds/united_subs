@@ -1,0 +1,366 @@
+.fullCalendar {
+	font-family: 'Lato', sans-serif;
+}
+
+/*  Calendar Header  */
+.fullCalendar table.fc-header {
+margin:0;
+padding:0;
+border:0px;
+border-collapse:collapse;
+border-spacing:0;
+}
+
+.fullCalendar .fc-header-title h2 {
+margin: 0px;
+}
+
+/* div based header */
+.fc-header-row {
+	position:relative;
+	text-align:center;
+}
+
+.fc-header-left {
+	position:relative;
+	float:left;
+	width:auto;
+}
+
+.fc-header-right {
+	position:relative;
+	width:auto;
+	float:right;
+}
+
+.fc-header-cell {
+	display:block;
+	position:relative;
+}
+
+/* Calendar's Navigation Flat UI style */
+.fc-button.fc-state-default {
+	color: #ffffff;
+	background-color: #3498db;
+	background-image: none;
+	border: 0;
+	font-size: 16px;
+	font-weight: 300;
+	line-height:none;
+	text-shadow: none;
+	margin: 0 0 20px 0;
+	padding: 3px 15px;
+	-webkit-font-smoothing: subpixel-antialiased;
+	-webkit-transition: 0.25s linear;
+	transition: 0.25s linear;
+	box-shadow: none;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+}
+
+.fc-button.fc-state-default:last-child {
+	margin-right: 0;
+}
+
+.fc-button.fc-state-default:hover {
+	background-color: #5dade2;
+}
+
+.fc-button.fc-state-active {
+	box-shadow: none;
+	background-color: #34495e;
+}
+
+.fbd-dialog-controls .fbd-button-secondary, 
+.fbd-dialog-controls .fbd-button-primary {
+	color: #ffffff;
+	background-color: #3498db;
+	background-image: none;
+	border: 0;
+	font-size: 15px;
+	font-weight: normal;
+	line-height: 1.4;
+	text-shadow: none;
+	margin: 0 0 10px 0;
+	padding: 6px 15px;
+	-webkit-font-smoothing: subpixel-antialiased;
+	-webkit-transition: 0.25s linear;
+	transition: 0.25s linear;
+	box-shadow: none;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+}
+
+.fbd-dialog-controls .fbd-button-secondary:hover, 
+.fbd-dialog-controls .fbd-button-primary:hover {
+	color: #ffffff;
+	background-color: #5dade2;
+	border: 0;
+	font-size: 15px;
+	font-weight: normal;
+	line-height: 1.4;
+	text-shadow: none;
+	margin: 0 0 10px 0;
+	padding: 6px 15px;
+	-webkit-font-smoothing: subpixel-antialiased;
+	-webkit-transition: 0.25s linear;
+	transition: 0.25s linear;
+	box-shadow: none;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+	background-image: none;
+}
+
+/* ADMIN */
+.wp-admin .fc-text-arrow {
+	font-size: 1.5em;
+	line-height: 100%;
+}
+
+.wp-admin .fe-cell-custom .fc-button {
+    margin: 0 0 8px;
+}
+
+/*  Content  */
+.fc-button {
+box-sizing: content-box;
+}
+
+.fc-button.fc-button-prevYear, 
+.fc-button.fc-button-prev, 
+.fc-button.fc-button-next, 
+.fc-button.fc-button-nextYear {
+font-family: 'Courier New';
+}
+
+.fullCalendar td.fc-day {
+padding: 6px 1px 6px 0;
+}
+
+.fc-grid .fc-day-content {
+padding: 2px 0px 1px 1px;
+}
+
+.rhcalendar.not-widget .fc-view-month.fc-grid .fc-day-number {
+margin-right: 10px;
+}
+
+.fullCalendar a.fc-event {
+color: #fff;
+}
+
+.fc-event-time, .fc-event-title {
+line-height: 18px;
+font-size: 12px;
+}
+
+/*
+  button states FLAT UI style
+*/
+
+.fc-state-default,
+a.fc-state-default {
+	background-color: #3498db;
+	background-image: none;
+	border-color: transparent;
+	color: #fff;
+	text-shadow: none;
+	box-shadow: none;
+	padding: 4px 12px;
+	}
+
+.fc-state-hover,
+.fc-state-down,
+.fc-state-active,
+.fc-state-disabled,
+a.fc-state-hover,
+a.fc-state-down,
+a.fc-state-active,
+a.fc-state-disabled {
+	color: #fff;
+	background-color: #5dade2;
+	}
+
+.fc-state-hover,
+a.fc-state-hover {
+	color: #ffffff;
+	-webkit-transition: background-position 0.1s linear;
+	   -moz-transition: background-position 0.1s linear;
+	     -o-transition: background-position 0.1s linear;
+	        transition: background-position 0.1s linear;
+	}
+
+.fc-state-down,
+.fc-state-active,
+a.fc-state-down,
+a.fc-state-active {
+	background-color: #5dade2;
+	background-image: none;
+	outline: 0;
+	box-shadow:none;
+	}
+
+.fc-state-disabled,
+a.fc-state-disabled {
+	cursor: default;
+	background-image: none;
+	opacity: 0.65;
+	filter: alpha(opacity=65);
+	box-shadow: none;
+	}
+/*******/
+
+/*  Calendar Footer */
+.fc-footer {
+margin: 20px 0 0;
+}
+
+#rhc-icalendar-modal textarea {
+width: 97%;
+}
+
+.rhc-icalendar-description {
+margin-top: 10px;
+position:relative;
+display:inline-block;
+}
+
+/* PopUp */
+.fc-description img {
+width: 97%;
+}
+
+@media only screen and (max-width: 640px) {
+	.fc-header-center {
+		display: block;
+		margin-bottom: 20px;
+	}
+}
+
+
+
+@media only screen and (max-width: 481px) {
+	.fc-header-row {
+		text-align: center;
+		margin: 0 auto;
+	}
+	
+	.fullCalendar .fc-header-left .fc-button-rhc_search {
+		display: block;
+		border-radius: 0px;
+		-webkit-border-radius: 0px;
+		-moz-border-radius:0px;
+		padding: 10px 0;
+		margin: 0 0 -1px;
+		width: 100%;
+	}
+	
+	.fc-header-space {
+		display: none;
+	}
+	
+	.fc-button.fc-button-prevYear, 
+	.fc-button.fc-button-prev, 
+	.fc-button.fc-button-next, 
+	.fc-button.fc-button-nextYear {
+		padding: 10px 0;
+		border-radius: 0px;
+		width: 25%;
+		margin-bottom: -1px;
+		margin-right: 0px;
+	}
+	
+	.fullCalendar .fc-header-left .fc-button-today {
+		border-radius: 0px;
+		padding: 10px 0;
+		display:block;
+		margin: 0px 0 -1px;
+		width: 100%;
+	}
+	
+	.fc-header .fc-header-center {
+		margin: 0px auto 20px;
+		display: block;
+		width: 100%;
+		text-align:center;
+		}
+	
+	.fc-header .fc-header-left {
+		margin: 0px auto 0;
+		display: block;
+		text-align:center;
+		float:none;
+		width:100%;
+	}
+		
+	.fc-header .fc-header-right {
+		float: none;
+		margin: 0 0 10px;
+		text-align:center;
+		display:block;
+		width: 100%;
+	}
+	
+	.fc-header-right .fc-button {
+		float: none;
+		display: block;
+		width: 100%;
+		margin: 0 auto;
+		text-align: center;
+		border-radius: 0px;
+		-webkit-border-radius: 0px;
+		-moz-border-radius: 0x;
+		padding: 10px 0;
+	}
+	 /* Filter Box */
+	.fbd-main-holder {
+		height: 100%;
+		width: 100%;
+		display: block;
+		opacity: 1;
+		position: fixed;
+		overflow:scroll;
+		top: 0;
+		right: 0;
+		left: 0;
+		z-index: 9999999;
+		bottom: 0;
+	}
+	
+	.fbd-ul li.fbd-tabs {
+		margin: 0 auto 10px;
+	}
+	
+	.fbd-tabs-panel {
+		max-height: 200px;
+		overflow: scroll;
+	}
+	
+	.fbd-body .fbd-dialog-controls input[type="button"] {
+		width: 93%;
+		float: none;
+		padding: 15px 0;
+		font-size: 14px;
+	}
+}
+
+@media only screen and (max-device-width: 481px) {
+	.fbd-body .fbd-dialog-controls input[type="button"] {
+		width: 93%;
+		float: none;
+		padding: 15px 0;
+		font-size: 14px;
+		background:none;
+		background-color:#3498db;
+		border:none;
+		box-shadow:none;
+	}
+}
+/* bug fix: some themes give this elements a position:relative that break event positioning within the calendar views. */
+.fc td,
+.fc th,
+.fc td div, 
+.fc th div
+{
+	position:static;
+}

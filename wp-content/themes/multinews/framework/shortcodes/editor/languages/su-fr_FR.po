@@ -1,0 +1,2366 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Shortcodes Ultimate 4.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-27 18:53+0300\n"
+"PO-Revision-Date: 2013-08-27 18:54+0300\n"
+"Last-Translator: Vladimir Anokhin <ano.vladimir@gmail.com>\n"
+"Language-Team: ETIC-Studio <nicolas.leclerc@etic-studio.fr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../inc/example-addon.php:29
+msgid "Heading 2"
+msgstr "Heading 2"
+
+#: ../inc/example-addon.php:43
+#: ../inc/core/class.data.php:248
+#: ../inc/core/class.data.php:328
+#: ../inc/core/class.data.php:461
+#: ../inc/core/class.data.php:593
+msgid "Default"
+msgstr "Default"
+
+#: ../inc/example-addon.php:44
+msgid "Small"
+msgstr "Petit"
+
+#: ../inc/example-addon.php:49
+#: ../inc/core/class.data.php:334
+#: ../inc/core/class.data.php:425
+#: ../inc/core/class.data.php:471
+#: ../inc/core/class.data.php:600
+msgid "Style"
+msgstr "Style"
+
+#: ../inc/example-addon.php:51
+msgid "Heading 2 style"
+msgstr "Style Heading 2"
+
+#: ../inc/example-addon.php:57
+msgid "Heading 2 text"
+msgstr "Texte Heading 2"
+
+#: ../inc/example-addon.php:59
+msgid "Styled heading 2"
+msgstr "Heading 2 stylisé"
+
+#: ../inc/core/class.assets.php:70
+msgid "This shortcode doesn't work in live preview. Please insert it into editor and preview on the site."
+msgstr ""
+
+#: ../inc/core/class.data.php:32
+msgid "All"
+msgstr "Tout"
+
+#: ../inc/core/class.data.php:33
+#: ../inc/core/class.generator.php:221
+msgid "Content"
+msgstr "Contenu"
+
+#: ../inc/core/class.data.php:34
+#: ../inc/core/class.data.php:581
+msgid "Box"
+msgstr "Zone"
+
+#: ../inc/core/class.data.php:35
+msgid "Media"
+msgstr "Media"
+
+#: ../inc/core/class.data.php:36
+#: ../inc/core/class.data.php:1197
+#: ../inc/core/class.data.php:1287
+#: ../inc/core/class.data.php:1387
+#: ../inc/core/class.data.php:1393
+msgid "Gallery"
+msgstr "Galerie"
+
+#: ../inc/core/class.data.php:37
+msgid "Other"
+msgstr "Autres"
+
+#: ../inc/core/class.data.php:48
+msgid "Heading"
+msgstr "Heading"
+
+#: ../inc/core/class.data.php:58
+#: ../inc/core/class.data.php:339
+#: ../inc/core/class.data.php:388
+#: ../inc/core/class.data.php:489
+msgid "Size"
+msgstr "Taille"
+
+#: ../inc/core/class.data.php:58
+msgid "Select heading size"
+msgstr "Taille du Heading 2 "
+
+#: ../inc/core/class.data.php:63
+#: ../inc/core/class.data.php:304
+#: ../inc/core/class.data.php:526
+msgid "Left"
+msgstr "Gauche"
+
+#: ../inc/core/class.data.php:64
+#: ../inc/core/class.data.php:1230
+#: ../inc/core/class.data.php:1336
+msgid "Center"
+msgstr "Centrer"
+
+#: ../inc/core/class.data.php:65
+#: ../inc/core/class.data.php:305
+#: ../inc/core/class.data.php:524
+msgid "Right"
+msgstr "Droite"
+
+#: ../inc/core/class.data.php:68
+#: ../inc/core/class.data.php:308
+msgid "Align"
+msgstr "Aligner"
+
+#: ../inc/core/class.data.php:68
+msgid "Heading text alignment"
+msgstr "Alignement du texte du Heading"
+
+#: ../inc/core/class.data.php:72
+#: ../inc/core/class.data.php:93
+#: ../inc/core/class.data.php:115
+#: ../inc/core/class.data.php:141
+#: ../inc/core/class.data.php:155
+#: ../inc/core/class.data.php:181
+#: ../inc/core/class.data.php:204
+#: ../inc/core/class.data.php:232
+#: ../inc/core/class.data.php:261
+#: ../inc/core/class.data.php:288
+#: ../inc/core/class.data.php:312
+#: ../inc/core/class.data.php:343
+#: ../inc/core/class.data.php:358
+#: ../inc/core/class.data.php:393
+#: ../inc/core/class.data.php:429
+#: ../inc/core/class.data.php:539
+#: ../inc/core/class.data.php:573
+#: ../inc/core/class.data.php:625
+#: ../inc/core/class.data.php:660
+#: ../inc/core/class.data.php:691
+#: ../inc/core/class.data.php:707
+#: ../inc/core/class.data.php:757
+#: ../inc/core/class.data.php:806
+#: ../inc/core/class.data.php:844
+#: ../inc/core/class.data.php:913
+#: ../inc/core/class.data.php:934
+#: ../inc/core/class.data.php:965
+#: ../inc/core/class.data.php:990
+#: ../inc/core/class.data.php:1005
+#: ../inc/core/class.data.php:1030
+#: ../inc/core/class.data.php:1049
+#: ../inc/core/class.data.php:1075
+#: ../inc/core/class.data.php:1095
+#: ../inc/core/class.data.php:1139
+#: ../inc/core/class.data.php:1183
+#: ../inc/core/class.data.php:1273
+#: ../inc/core/class.data.php:1379
+#: ../inc/core/class.data.php:1430
+msgid "Class"
+msgstr "Class"
+
+#: ../inc/core/class.data.php:73
+#: ../inc/core/class.data.php:94
+#: ../inc/core/class.data.php:116
+#: ../inc/core/class.data.php:142
+#: ../inc/core/class.data.php:156
+#: ../inc/core/class.data.php:182
+#: ../inc/core/class.data.php:205
+#: ../inc/core/class.data.php:233
+#: ../inc/core/class.data.php:262
+#: ../inc/core/class.data.php:289
+#: ../inc/core/class.data.php:313
+#: ../inc/core/class.data.php:344
+#: ../inc/core/class.data.php:359
+#: ../inc/core/class.data.php:394
+#: ../inc/core/class.data.php:430
+#: ../inc/core/class.data.php:540
+#: ../inc/core/class.data.php:574
+#: ../inc/core/class.data.php:626
+#: ../inc/core/class.data.php:661
+#: ../inc/core/class.data.php:692
+#: ../inc/core/class.data.php:708
+#: ../inc/core/class.data.php:758
+#: ../inc/core/class.data.php:807
+#: ../inc/core/class.data.php:845
+#: ../inc/core/class.data.php:914
+#: ../inc/core/class.data.php:935
+#: ../inc/core/class.data.php:966
+#: ../inc/core/class.data.php:991
+#: ../inc/core/class.data.php:1006
+#: ../inc/core/class.data.php:1031
+#: ../inc/core/class.data.php:1050
+#: ../inc/core/class.data.php:1076
+#: ../inc/core/class.data.php:1096
+#: ../inc/core/class.data.php:1140
+#: ../inc/core/class.data.php:1184
+#: ../inc/core/class.data.php:1274
+#: ../inc/core/class.data.php:1380
+#: ../inc/core/class.data.php:1431
+msgid "Extra CSS class"
+msgstr "Class CSS"
+
+#: ../inc/core/class.data.php:76
+msgid "Heading text"
+msgstr "Heading text"
+
+#: ../inc/core/class.data.php:77
+msgid "Styled heading"
+msgstr "Styled heading"
+
+#: ../inc/core/class.data.php:81
+msgid "Tabs"
+msgstr "Tabs"
+
+#: ../inc/core/class.data.php:88
+msgid "Vertical"
+msgstr "Vertical"
+
+#: ../inc/core/class.data.php:89
+msgid "Show tabs vertically"
+msgstr "Montrer les tabs verticalement"
+
+#: ../inc/core/class.data.php:98
+msgid ""
+"[tab title=\"Title 1\"]Content 1[/tab]\n"
+"[tab title=\"Title 2\"]Content 2[/tab]\n"
+"[tab title=\"Title 3\"]Content 3[/tab]"
+msgstr ""
+"[tab title=\"Title 1\"]Contenu 1[/tab]\n"
+"[tab title=\"Title 2\"]Contenu 2[/tab]\n"
+"[tab title=\"Title 3\"]Contenu 3[/tab]"
+
+#: ../inc/core/class.data.php:99
+msgid "Tabs container"
+msgstr "Tabs container"
+
+#: ../inc/core/class.data.php:103
+msgid "Tab"
+msgstr "Tab"
+
+#: ../inc/core/class.data.php:109
+msgid "Tab name"
+msgstr "Nom de la Tab"
+
+#: ../inc/core/class.data.php:110
+#: ../inc/core/class.data.php:131
+#: ../inc/core/class.data.php:555
+#: ../inc/core/class.data.php:588
+#: ../inc/core/class.data.php:872
+msgid "Title"
+msgstr "Titre"
+
+#: ../inc/core/class.data.php:111
+msgid "Enter tab name"
+msgstr "Entrez le nom de la tab"
+
+#: ../inc/core/class.data.php:119
+msgid "Tab content"
+msgstr "Contenu de la Tab"
+
+#: ../inc/core/class.data.php:120
+msgid "Single tab"
+msgstr "Une seule tab"
+
+#: ../inc/core/class.data.php:124
+msgid "Spoiler"
+msgstr "Spoiler"
+
+#: ../inc/core/class.data.php:130
+#: ../inc/core/shortcodes.php:77
+msgid "Spoiler title"
+msgstr "Titre du spoiler"
+
+#: ../inc/core/class.data.php:131
+msgid "Text in spoiler title"
+msgstr "Texte du titre du spoiler"
+
+#: ../inc/core/class.data.php:136
+msgid "Open"
+msgstr "Ouvert"
+
+#: ../inc/core/class.data.php:137
+msgid "Is spoiler content visible by default"
+msgstr "Le contenu de spoiler est visible par défaut"
+
+#: ../inc/core/class.data.php:145
+msgid "Hidden content"
+msgstr "Contenu caché"
+
+#: ../inc/core/class.data.php:145
+msgid "Spoiler with hidden content"
+msgstr "Spoiler avec contenu caché"
+
+#: ../inc/core/class.data.php:149
+msgid "Accordion"
+msgstr "Accordéon"
+
+#: ../inc/core/class.data.php:160
+msgid ""
+"[spoiler]Content[/spoiler]\n"
+"[spoiler]Content[/spoiler]\n"
+"[spoiler]Content[/spoiler]"
+msgstr ""
+"[spoiler]Contenu[/spoiler]\n"
+"[spoiler]Contenu[/spoiler]\n"
+"[spoiler]Contenu[/spoiler]"
+
+#: ../inc/core/class.data.php:160
+msgid "Accordion with spoilers"
+msgstr "Accordéon avec spoilers"
+
+#: ../inc/core/class.data.php:164
+msgid "Divider"
+msgstr "Divider"
+
+#: ../inc/core/class.data.php:171
+msgid "Show TOP link"
+msgstr "Montrer le lien TOP"
+
+#: ../inc/core/class.data.php:172
+msgid "Show link to top of the page or not"
+msgstr "Montrer le lien de haut de page ou pas"
+
+#: ../inc/core/class.data.php:176
+#: ../inc/core/shortcodes.php:112
+msgid "Go to top"
+msgstr "Aller vers le haut"
+
+#: ../inc/core/class.data.php:177
+msgid "Link text"
+msgstr "lien texte"
+
+#: ../inc/core/class.data.php:177
+msgid "Text for the GO TOP link"
+msgstr "Texte pour le lien GO TOP"
+
+#: ../inc/core/class.data.php:186
+msgid "Content divider with optional TOP link"
+msgstr "Contenu du diviseur avec un lien TOP optionel"
+
+#: ../inc/core/class.data.php:190
+msgid "Spacer"
+msgstr "Spacer"
+
+#: ../inc/core/class.data.php:200
+#: ../inc/core/class.data.php:740
+#: ../inc/core/class.data.php:789
+#: ../inc/core/class.data.php:890
+#: ../inc/core/class.data.php:1128
+#: ../inc/core/class.data.php:1166
+#: ../inc/core/class.data.php:1214
+#: ../inc/core/class.data.php:1304
+#: ../inc/core/class.data.php:1410
+msgid "Height"
+msgstr "Hauteur"
+
+#: ../inc/core/class.data.php:200
+msgid "Height of the spacer in pixels"
+msgstr "Hauteur du spacer en pixels"
+
+#: ../inc/core/class.data.php:209
+msgid "Empty space with adjustable height"
+msgstr "Espace vide avec hauteur ajustable"
+
+#: ../inc/core/class.data.php:213
+msgid "Highlight"
+msgstr "Surlignage"
+
+#: ../inc/core/class.data.php:221
+#: ../inc/core/class.data.php:477
+#: ../inc/core/class.data.php:643
+msgid "Background"
+msgstr "Arrière plan"
+
+#: ../inc/core/class.data.php:222
+msgid "Highlighted text background color"
+msgstr "Couleur du texte surligné d'arrière plan"
+
+#: ../inc/core/class.data.php:228
+#: ../inc/core/class.data.php:483
+#: ../inc/core/class.data.php:649
+msgid "Text color"
+msgstr "Couleur du texte"
+
+#: ../inc/core/class.data.php:228
+msgid "Highlighted text color"
+msgstr "Couleur du texte surligné"
+
+#: ../inc/core/class.data.php:236
+#: ../inc/core/class.data.php:237
+msgid "Highlighted text"
+msgstr "Texte surligné"
+
+#: ../inc/core/class.data.php:241
+#: ../inc/core/class.data.php:265
+msgid "Label"
+msgstr "Label"
+
+#: ../inc/core/class.data.php:249
+msgid "Success"
+msgstr "Succès"
+
+#: ../inc/core/class.data.php:250
+msgid "Warning"
+msgstr "Attention"
+
+#: ../inc/core/class.data.php:251
+msgid "Important"
+msgstr "Important"
+
+#: ../inc/core/class.data.php:252
+msgid "Black"
+msgstr "Noir"
+
+#: ../inc/core/class.data.php:253
+msgid "Info"
+msgstr "Info"
+
+#: ../inc/core/class.data.php:256
+msgid "Type"
+msgstr "Type"
+
+#: ../inc/core/class.data.php:257
+msgid "Style of the label"
+msgstr "Style du label"
+
+#: ../inc/core/class.data.php:266
+msgid "Styled label"
+msgstr "Label stylisé"
+
+#: ../inc/core/class.data.php:270
+#: ../inc/core/class.data.php:292
+msgid "Quote"
+msgstr "Citation"
+
+#: ../inc/core/class.data.php:277
+msgid "Cite"
+msgstr "Cite"
+
+#: ../inc/core/class.data.php:278
+msgid "Quote author name"
+msgstr "Nom de l'auteur de la citation"
+
+#: ../inc/core/class.data.php:283
+msgid "Cite url"
+msgstr "URL de Cite"
+
+#: ../inc/core/class.data.php:284
+msgid "Url of the quote author. Leave empty to disable link"
+msgstr "Url de la citation de l'auteur. Ne pas remplir pour désactiver le lien"
+
+#: ../inc/core/class.data.php:293
+msgid "Blockquote alternative"
+msgstr "Blockquote alternatif"
+
+#: ../inc/core/class.data.php:297
+#: ../inc/core/class.data.php:316
+#: ../inc/core/class.data.php:317
+msgid "Pullquote"
+msgstr "Pullquote"
+
+#: ../inc/core/class.data.php:308
+msgid "Pullquote alignment (float)"
+msgstr "Alignement de la Pullquote"
+
+#: ../inc/core/class.data.php:321
+#: ../inc/core/class.data.php:348
+msgid "Dropcap"
+msgstr "Dropcap"
+
+#: ../inc/core/class.data.php:329
+#: ../inc/core/class.data.php:462
+msgid "Flat"
+msgstr "Flat"
+
+#: ../inc/core/class.data.php:330
+#: ../inc/core/class.data.php:513
+msgid "Light"
+msgstr "Léger"
+
+#: ../inc/core/class.data.php:331
+msgid "Simple"
+msgstr "Simple"
+
+#: ../inc/core/class.data.php:334
+msgid "Dropcap style preset"
+msgstr "Style prédéfini de la dropcap"
+
+#: ../inc/core/class.data.php:339
+msgid "Choose dropcap size"
+msgstr "Choisir la taille de la dropcap"
+
+#: ../inc/core/class.data.php:347
+msgid "D"
+msgstr "D"
+
+#: ../inc/core/class.data.php:352
+msgid "Row"
+msgstr "Ligne"
+
+#: ../inc/core/class.data.php:363
+msgid ""
+"[column size=\"1/3\"]Content[/column]\n"
+"[column size=\"1/3\"]Content[/column]\n"
+"[column size=\"1/3\"]Content[/column]"
+msgstr ""
+"[column size=\"1/3\"]Contenu[/column]\n"
+"[column size=\"1/3\"]Contenu[/column]\n"
+"[column size=\"1/3\"]Contenu[/column]"
+
+#: ../inc/core/class.data.php:363
+msgid "Row for flexible columns"
+msgstr "Ligne pour colonnes flexibles"
+
+#: ../inc/core/class.data.php:367
+msgid "Column"
+msgstr "Colonnes"
+
+#: ../inc/core/class.data.php:374
+msgid "Full width"
+msgstr "Largeur pleine"
+
+#: ../inc/core/class.data.php:375
+msgid "One half"
+msgstr "Une moitié"
+
+#: ../inc/core/class.data.php:376
+msgid "One third"
+msgstr "Un tiers"
+
+#: ../inc/core/class.data.php:377
+msgid "Two third"
+msgstr "Deux tiers"
+
+#: ../inc/core/class.data.php:378
+msgid "One fourth"
+msgstr "Un quart"
+
+#: ../inc/core/class.data.php:379
+msgid "Three fourth"
+msgstr "Trois quart"
+
+#: ../inc/core/class.data.php:380
+msgid "One fifth"
+msgstr "Un cinquième"
+
+#: ../inc/core/class.data.php:381
+msgid "Two fifth"
+msgstr "Deux cinquième"
+
+#: ../inc/core/class.data.php:382
+msgid "Three fifth"
+msgstr "Trois cinquième"
+
+#: ../inc/core/class.data.php:383
+msgid "Four fifth"
+msgstr "Quatre cinquième"
+
+#: ../inc/core/class.data.php:384
+msgid "One sixth"
+msgstr "Un sixième"
+
+#: ../inc/core/class.data.php:385
+msgid "Five sixth"
+msgstr "Cinq cinquième"
+
+#: ../inc/core/class.data.php:389
+msgid "Select column width. This width will be calculated depend page width"
+msgstr "Sélectionner la largeur de la colonne. La largeur sera calculé en fonction de la largeur de la page"
+
+#: ../inc/core/class.data.php:397
+msgid "Column content"
+msgstr "Contenu de la colonne"
+
+#: ../inc/core/class.data.php:397
+msgid "Flexible and responsive columns"
+msgstr "Colonne flexible et responsive"
+
+#: ../inc/core/class.data.php:401
+msgid "List"
+msgstr "Liste"
+
+#: ../inc/core/class.data.php:408
+msgid "Star"
+msgstr "Etoile"
+
+#: ../inc/core/class.data.php:409
+msgid "Arrow"
+msgstr "Flèche"
+
+#: ../inc/core/class.data.php:410
+msgid "Check"
+msgstr "Cocher"
+
+#: ../inc/core/class.data.php:411
+msgid "Cross"
+msgstr "Cross"
+
+#: ../inc/core/class.data.php:412
+msgid "Thumbs up"
+msgstr "Thumbs up"
+
+#: ../inc/core/class.data.php:413
+#: ../inc/core/class.data.php:445
+msgid "Link"
+msgstr "Lien"
+
+#: ../inc/core/class.data.php:414
+msgid "Gear"
+msgstr "Équipement"
+
+#: ../inc/core/class.data.php:415
+msgid "Time"
+msgstr "Temps"
+
+#: ../inc/core/class.data.php:416
+#: ../inc/core/class.data.php:635
+msgid "Note"
+msgstr "Note"
+
+#: ../inc/core/class.data.php:417
+msgid "Plus"
+msgstr "Plus"
+
+#: ../inc/core/class.data.php:418
+msgid "Guard"
+msgstr "Gardien"
+
+#: ../inc/core/class.data.php:419
+msgid "Event"
+msgstr "Evénement"
+
+#: ../inc/core/class.data.php:420
+msgid "Idea"
+msgstr "Idée"
+
+#: ../inc/core/class.data.php:421
+#: ../inc/core/class.generator.php:80
+#: ../inc/core/class.mom-shortcodes-ultimate.php:121
+#: ../inc/vendor/class.sunrise-framework.php:279
+msgid "Settings"
+msgstr "Réglages"
+
+#: ../inc/core/class.data.php:422
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../inc/core/class.data.php:425
+msgid "List items style/icons"
+msgstr "Liste d'objets style/icones"
+
+#: ../inc/core/class.data.php:434
+msgid ""
+"<ul>\n"
+"<li>List item</li>\n"
+"<li>List item</li>\n"
+"<li>List item</li>\n"
+"</ul>"
+msgstr ""
+"<ul>\n"
+"<li>Contenu</li>\n"
+"<li>Contenu</li>\n"
+"<li>Contenu</li>\n"
+"</ul>"
+
+#: ../inc/core/class.data.php:434
+msgid "Styled unordered list"
+msgstr "Liste non ordonnée stylisée"
+
+#: ../inc/core/class.data.php:438
+msgid "Button"
+msgstr "Bouton"
+
+#: ../inc/core/class.data.php:446
+msgid "Button link"
+msgstr "Lien du bouton"
+
+#: ../inc/core/class.data.php:451
+#: ../inc/core/class.data.php:956
+msgid "Same tab"
+msgstr "Tab similaire"
+
+#: ../inc/core/class.data.php:452
+#: ../inc/core/class.data.php:957
+msgid "New tab"
+msgstr "Nouvelle tab"
+
+#: ../inc/core/class.data.php:455
+#: ../inc/core/class.data.php:960
+msgid "Target"
+msgstr "Cible"
+
+#: ../inc/core/class.data.php:456
+msgid "Button link target"
+msgstr "Cible du lien du bouton"
+
+#: ../inc/core/class.data.php:463
+#: ../inc/core/class.data.php:594
+msgid "Soft"
+msgstr "Soft"
+
+#: ../inc/core/class.data.php:464
+#: ../inc/core/class.data.php:595
+msgid "Glass"
+msgstr "Lunettes"
+
+#: ../inc/core/class.data.php:465
+#: ../inc/core/class.data.php:596
+msgid "Bubbles"
+msgstr "Bulles"
+
+#: ../inc/core/class.data.php:466
+#: ../inc/core/class.data.php:597
+msgid "Noise"
+msgstr "Bruit"
+
+#: ../inc/core/class.data.php:467
+msgid "Stroked"
+msgstr "Stroked"
+
+#: ../inc/core/class.data.php:468
+msgid "3D"
+msgstr "3D"
+
+#: ../inc/core/class.data.php:471
+msgid "Button background style preset"
+msgstr "Style prédéfini de l'arrière plan du bouton"
+
+#: ../inc/core/class.data.php:477
+msgid "Button background color"
+msgstr "Couleur de l'arrière plan du bouton"
+
+#: ../inc/core/class.data.php:484
+msgid "Button text color"
+msgstr "Couleur du texte du bouton"
+
+#: ../inc/core/class.data.php:490
+msgid "Button size"
+msgstr "Taille du bouton"
+
+#: ../inc/core/class.data.php:495
+msgid "Fluid"
+msgstr "Fluide"
+
+#: ../inc/core/class.data.php:495
+msgid "Fluid buttons has 100% width"
+msgstr "Bouton fluide avec largeur de 100%"
+
+#: ../inc/core/class.data.php:501
+#: ../inc/core/class.data.php:620
+#: ../inc/core/class.data.php:656
+msgid "Radius"
+msgstr "Radius"
+
+#: ../inc/core/class.data.php:502
+msgid "Radius of button corners. Auto-radius calculation based on button size"
+msgstr "Radius des coins du bouton. Le calcul automatique du radius est basé sur la taille du bouton"
+
+#: ../inc/core/class.data.php:507
+#: ../inc/core/class.data.php:561
+msgid "Icon"
+msgstr "Icones"
+
+#: ../inc/core/class.data.php:508
+msgid "You can upload custom icon for this button. Try to begin with <a href=\"http://webdesign.tutsplus.com/freebies/icons-freebies/exclusive-freebie-50-crisp-web-app-icons/\" target=\"_blank\">these free high-quality icons</a>. Download archive, unpack icons and upload in this field"
+msgstr "Vous pouvez téléverser un icone personnalisé pour ce bouton. Essayer de commencer avec <a href=\"http://webdesign.tutsplus.com/freebies/icons-freebies/exclusive-freebie-50-crisp-web-app-icons/\" target=\"_blank\">Ce sont des icones de grande qualité</a>. Télécharger l'archive, décompresser là et télécharger là dans le champ."
+
+#: ../inc/core/class.data.php:514
+msgid "Dark"
+msgstr "Noir"
+
+#: ../inc/core/class.data.php:517
+msgid "Text shadow color"
+msgstr "Couleur de l'ombre du texte"
+
+#: ../inc/core/class.data.php:517
+msgid "Color of button text shadow"
+msgstr "Couleur du bouton (texte ombré)"
+
+#: ../inc/core/class.data.php:522
+#: ../inc/core/class.data.php:1522
+msgid "None"
+msgstr "Rien"
+
+#: ../inc/core/class.data.php:523
+msgid "Top"
+msgstr "Haut"
+
+#: ../inc/core/class.data.php:525
+msgid "Bottom"
+msgstr "Bas"
+
+#: ../inc/core/class.data.php:527
+msgid "Top right"
+msgstr "En haut à droite"
+
+#: ../inc/core/class.data.php:528
+msgid "Top left"
+msgstr "En haut à gauche"
+
+#: ../inc/core/class.data.php:528
+msgid "Bottom right"
+msgstr "En bas à droite"
+
+#: ../inc/core/class.data.php:528
+msgid "Bottom left"
+msgstr "En bas à gauche"
+
+#: ../inc/core/class.data.php:530
+msgid "Text shadow position"
+msgstr "Position du texte ombré"
+
+#: ../inc/core/class.data.php:530
+msgid "Position of button text shadow"
+msgstr "Position du bouton (texte ombré)"
+
+#: ../inc/core/class.data.php:534
+#, fuzzy
+msgid "Description"
+msgstr "Description du service"
+
+#: ../inc/core/class.data.php:535
+msgid "Small description under button text. This option is incompatible with icon."
+msgstr ""
+
+#: ../inc/core/class.data.php:543
+msgid "Button text"
+msgstr "texte du bouton"
+
+#: ../inc/core/class.data.php:544
+msgid "Styled button"
+msgstr "Bouton stylisé"
+
+#: ../inc/core/class.data.php:548
+msgid "Service"
+msgstr "Service"
+
+#: ../inc/core/class.data.php:554
+#: ../inc/core/shortcodes.php:396
+msgid "Service title"
+msgstr "Titre du service"
+
+#: ../inc/core/class.data.php:556
+msgid "Service name"
+msgstr "Nom du service"
+
+#: ../inc/core/class.data.php:562
+msgid "You can upload custom icon for this box"
+msgstr "Vous pouvez téléversé un icone personnalisé ce champ"
+
+#: ../inc/core/class.data.php:568
+msgid "Icon size"
+msgstr "Taille de l'icône"
+
+#: ../inc/core/class.data.php:569
+msgid "Size of the uploaded icon in pixels"
+msgstr "Taille de l'icone téléversé en pixels"
+
+#: ../inc/core/class.data.php:577
+msgid "Service description"
+msgstr "Description du service"
+
+#: ../inc/core/class.data.php:577
+msgid "Service box with title"
+msgstr "Zone de service avec"
+
+#: ../inc/core/class.data.php:587
+msgid "Box title"
+msgstr "Titre de la zone"
+
+#: ../inc/core/class.data.php:588
+msgid "Text for the box title"
+msgstr "Texte pour le titre de la zone"
+
+#: ../inc/core/class.data.php:601
+msgid "Box style preset"
+msgstr "Style prédéfini de la zone"
+
+#: ../inc/core/class.data.php:607
+msgid "Color"
+msgstr "Couleur"
+
+#: ../inc/core/class.data.php:608
+msgid "Color for the box title and borders"
+msgstr "Couleur pour le titre de la zone et ses bordures"
+
+#: ../inc/core/class.data.php:614
+msgid "Title text color"
+msgstr "Couleur du texte du titre"
+
+#: ../inc/core/class.data.php:614
+msgid "Color for the box title text"
+msgstr "Couleur pour le texte du titre de la zone"
+
+#: ../inc/core/class.data.php:621
+msgid "Box corners radius"
+msgstr "Coins arrondis de la zone"
+
+#: ../inc/core/class.data.php:630
+msgid "Box content"
+msgstr "Contenu de la zone"
+
+#: ../inc/core/class.data.php:631
+msgid "Colored box with caption"
+msgstr "Zone colorée avec légende"
+
+#: ../inc/core/class.data.php:643
+msgid "Note background color"
+msgstr "Couleur d'arrière plan de la note"
+
+#: ../inc/core/class.data.php:650
+msgid "Note text color"
+msgstr "Couleur du texte de la note"
+
+#: ../inc/core/class.data.php:656
+msgid "Note corners radius"
+msgstr "Coins arrondis de la note"
+
+#: ../inc/core/class.data.php:664
+msgid "Note text"
+msgstr "Texte de la note"
+
+#: ../inc/core/class.data.php:665
+msgid "Colored box"
+msgstr "Zone colorée"
+
+#: ../inc/core/class.data.php:669
+#, fuzzy
+msgid "Lightbox"
+msgstr "Léger"
+
+#: ../inc/core/class.data.php:676
+msgid "Iframe"
+msgstr ""
+
+#: ../inc/core/class.data.php:677
+msgid "Image"
+msgstr ""
+
+#: ../inc/core/class.data.php:678
+msgid "Inline (html content)"
+msgstr ""
+
+#: ../inc/core/class.data.php:681
+#, fuzzy
+msgid "Content type"
+msgstr "Contenu"
+
+#: ../inc/core/class.data.php:682
+msgid "Select type of the lightbox window content"
+msgstr ""
+
+#: ../inc/core/class.data.php:686
+#, fuzzy
+msgid "Content source"
+msgstr "Contenu pour les invités"
+
+#: ../inc/core/class.data.php:687
+msgid "Insert here URL or CSS selector. Use URL for Iframe and Image content types. Use CSS selector for Inline content type.<br />Example values:<br /><b%value>http://www.youtube.com/watch?v=NbE8INOjTKM</b> - YouTube video (iframe)<br /><b%value>http://example.com/wp-content/uploads/image.jpg</b> - uploaded image (image)<br /><b%value>http://example.com/</b> - any web page (iframe)<br /><b%value>#contact-form</b> - any HTML content (inline)"
+msgstr ""
+
+#: ../inc/core/class.data.php:696
+msgid "[button] Click Here to Watch the Video [/button]"
+msgstr ""
+
+#: ../inc/core/class.data.php:697
+msgid "Lightbox window with custom content"
+msgstr ""
+
+#: ../inc/core/class.data.php:701
+msgid "Private"
+msgstr "Privé"
+
+#: ../inc/core/class.data.php:711
+msgid "Private note text"
+msgstr "Texte de la note privée"
+
+#: ../inc/core/class.data.php:711
+msgid "Private note for post authors"
+msgstr "Note privée pour les auteurs d'articles"
+
+#: ../inc/core/class.data.php:715
+msgid "YouTube"
+msgstr "YouTube"
+
+#: ../inc/core/class.data.php:722
+#: ../inc/core/class.data.php:772
+#: ../inc/core/class.data.php:1020
+#: ../inc/core/class.data.php:1110
+msgid "Url"
+msgstr "Url"
+
+#: ../inc/core/class.data.php:723
+msgid "Url of YouTube page with video. Ex: http://youtube.com/watch?v=XXXXXX"
+msgstr "Url de la page Youtube avec la vidéo. Ex: http://youtube.com/watch?v=XXXXXX"
+
+#: ../inc/core/class.data.php:731
+#: ../inc/core/class.data.php:780
+#: ../inc/core/class.data.php:827
+#: ../inc/core/class.data.php:881
+#: ../inc/core/class.data.php:1119
+#: ../inc/core/class.data.php:1157
+#: ../inc/core/class.data.php:1206
+#: ../inc/core/class.data.php:1296
+#: ../inc/core/class.data.php:1402
+msgid "Width"
+msgstr "Largeur"
+
+#: ../inc/core/class.data.php:732
+#: ../inc/core/class.data.php:781
+#: ../inc/core/class.data.php:882
+msgid "Player width"
+msgstr "Largeur du lecteur"
+
+#: ../inc/core/class.data.php:741
+#: ../inc/core/class.data.php:790
+#: ../inc/core/class.data.php:891
+msgid "Player height"
+msgstr "Hauteur du lecteur"
+
+#: ../inc/core/class.data.php:746
+#: ../inc/core/class.data.php:795
+#: ../inc/core/class.data.php:1134
+#: ../inc/core/class.data.php:1172
+#: ../inc/core/class.data.php:1219
+#: ../inc/core/class.data.php:1309
+msgid "Responsive"
+msgstr "Responsive"
+
+#: ../inc/core/class.data.php:747
+#: ../inc/core/class.data.php:796
+msgid "Ignore width and height parameters and make player responsive"
+msgstr "Largeur du lecteur. Spécifiez la largeur en % et le lecteur sera responsive"
+
+#: ../inc/core/class.data.php:752
+#: ../inc/core/class.data.php:801
+#: ../inc/core/class.data.php:833
+#: ../inc/core/class.data.php:902
+#: ../inc/core/class.data.php:1254
+#: ../inc/core/class.data.php:1360
+msgid "Autoplay"
+msgstr "Autoplay"
+
+#: ../inc/core/class.data.php:753
+#: ../inc/core/class.data.php:802
+msgid "Play video automatically when page is loaded"
+msgstr "Démarrer automatiquement la vidéo quand la page est chargée"
+
+#: ../inc/core/class.data.php:761
+msgid "YouTube video"
+msgstr "Vidéo YouTube"
+
+#: ../inc/core/class.data.php:765
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: ../inc/core/class.data.php:772
+msgid "Url of Vimeo page with video"
+msgstr "Url de la page Vimeo avec la vidéo"
+
+#: ../inc/core/class.data.php:810
+msgid "Vimeo video"
+msgstr "Vidéo"
+
+#: ../inc/core/class.data.php:814
+msgid "Audio"
+msgstr "Audio"
+
+#: ../inc/core/class.data.php:821
+#: ../inc/core/class.data.php:860
+msgid "File"
+msgstr "Fichier"
+
+#: ../inc/core/class.data.php:822
+msgid "Audio file url. Supported formats: mp3, ogg"
+msgstr "Lien du fichier audio. Formats supportés : mp3, ogg"
+
+#: ../inc/core/class.data.php:828
+msgid "Player width. You can specify width in percents and player will be responsive. Example values: <b%value>200px</b>, <b%value>100&#37;</b>"
+msgstr "Largeur du lecteur. Spécifiez la largeur en % et le lecteur sera responsive"
+
+#: ../inc/core/class.data.php:834
+#: ../inc/core/class.data.php:903
+msgid "Play file automatically when page is loaded"
+msgstr "Jouer automatiquement le son quand la page est chargée"
+
+#: ../inc/core/class.data.php:839
+#: ../inc/core/class.data.php:908
+msgid "Loop"
+msgstr "En boucle"
+
+#: ../inc/core/class.data.php:840
+#: ../inc/core/class.data.php:909
+msgid "Repeat when playback is ended"
+msgstr "Répéter quand la lecture est terminé"
+
+#: ../inc/core/class.data.php:849
+msgid "Custom audio player"
+msgstr "Lecteur audio personnalisé"
+
+#: ../inc/core/class.data.php:853
+msgid "Video"
+msgstr "Video"
+
+#: ../inc/core/class.data.php:861
+msgid "Url to mp4/flv video-file"
+msgstr "Lien vers le fichier mp4/flv"
+
+#: ../inc/core/class.data.php:866
+msgid "Poster"
+msgstr "Poster"
+
+#: ../inc/core/class.data.php:867
+msgid "Url to poster image, that will be shown before playback"
+msgstr "Lien vers l'affiche, qui sera montré avant la lecture"
+
+#: ../inc/core/class.data.php:873
+msgid "Player title"
+msgstr "Titre du lecteur"
+
+#: ../inc/core/class.data.php:896
+msgid "Controls"
+msgstr "Actions"
+
+#: ../inc/core/class.data.php:897
+msgid "Show player controls (play/pause etc.) or not"
+msgstr "Montrer les boutons (play/pause etc.) ou pas"
+
+#: ../inc/core/class.data.php:918
+msgid "Custom video player"
+msgstr "Lecteur video personnalisé"
+
+#: ../inc/core/class.data.php:922
+msgid "Table"
+msgstr "Tableau"
+
+#: ../inc/core/class.data.php:929
+msgid "CSV file"
+msgstr "Fichier CSV"
+
+#: ../inc/core/class.data.php:930
+msgid "Upload CSV file if you want to create HTML-table from file"
+msgstr "Téléversé le fichier CSV si tu veux créer un tableau HTML avec ce fichier"
+
+#: ../inc/core/class.data.php:939
+msgid ""
+"<table>\n"
+"<tr>\n"
+"\t<td>Table</td>\n"
+"\t<td>Table</td>\n"
+"</tr>\n"
+"<tr>\n"
+"\t<td>Table</td>\n"
+"\t<td>Table</td>\n"
+"</tr>\n"
+"</table>"
+msgstr ""
+"<table>\n"
+"<tr>\n"
+"\t<td>Contenu</td>\n"
+"\t<td>Contenu</td>\n"
+"</tr>\n"
+"<tr>\n"
+"\t<td>Contenu</td>\n"
+"\t<td>Contenu</td>\n"
+"</tr>\n"
+"</table>"
+
+#: ../inc/core/class.data.php:940
+msgid "Styled table from HTML or CSV file"
+msgstr "Tableau stylisé avec du HTML ou des fichiers CSV"
+
+#: ../inc/core/class.data.php:944
+msgid "Permalink"
+msgstr "Permaliens"
+
+#: ../inc/core/class.data.php:950
+msgid "ID"
+msgstr "ID"
+
+#: ../inc/core/class.data.php:951
+msgid "Post or page ID"
+msgstr "Article ou ID de la page"
+
+#: ../inc/core/class.data.php:961
+msgid "Link target. blank - link will be opened in new window/tab"
+msgstr "Cible du lien. Blank - Le lien ouvrira un nouvel onglet."
+
+#: ../inc/core/class.data.php:970
+msgid "Permalink to specified post/page"
+msgstr "Permalien pour article/page spécifié"
+
+#: ../inc/core/class.data.php:974
+msgid "Members"
+msgstr "Membres"
+
+#: ../inc/core/class.data.php:980
+#: ../inc/core/shortcodes.php:697
+msgid "This content is for registered users only. Please %login%."
+msgstr "Ce contenu est pour les membres uniquement"
+
+#: ../inc/core/class.data.php:981
+msgid "Message"
+msgstr "Message"
+
+#: ../inc/core/class.data.php:981
+msgid "Message for not logged users"
+msgstr "Message pour les utilisateurs non-membres"
+
+#: ../inc/core/class.data.php:985
+#: ../inc/core/shortcodes.php:699
+msgid "login"
+msgstr "Identifiant"
+
+#: ../inc/core/class.data.php:986
+msgid "Login link text"
+msgstr "Texte du lien d'identification"
+
+#: ../inc/core/class.data.php:986
+msgid "Text for the login link"
+msgstr "Texte pour le lien d'identification"
+
+#: ../inc/core/class.data.php:994
+msgid "Content for logged members"
+msgstr "Contenu pour les membres identifiés"
+
+#: ../inc/core/class.data.php:995
+msgid "Content for logged in members only"
+msgstr "Contenu pour les membres identifiés uniquement"
+
+#: ../inc/core/class.data.php:999
+msgid "Guests"
+msgstr "Invités"
+
+#: ../inc/core/class.data.php:1009
+msgid "Content for guests"
+msgstr "Contenu pour les invités"
+
+#: ../inc/core/class.data.php:1009
+msgid "Content for guests only"
+msgstr "Contenu pour les invités seulement"
+
+#: ../inc/core/class.data.php:1013
+msgid "RSS Feed"
+msgstr "Flux RSS"
+
+#: ../inc/core/class.data.php:1021
+msgid "Url to RSS-feed"
+msgstr "Lien pour le flux RSS"
+
+#: ../inc/core/class.data.php:1026
+msgid "Limit"
+msgstr "Limite"
+
+#: ../inc/core/class.data.php:1026
+msgid "Number of items to show"
+msgstr "Nombres d'objets à montrer"
+
+#: ../inc/core/class.data.php:1034
+msgid "Feed grabber"
+msgstr "Feed grabber"
+
+#: ../inc/core/class.data.php:1038
+msgid "Menu"
+msgstr "Menu"
+
+#: ../inc/core/class.data.php:1045
+msgid "Menu name"
+msgstr "Nom du menu"
+
+#: ../inc/core/class.data.php:1045
+msgid "Custom menu name. Ex: Main menu"
+msgstr "Nom du menu personnalisé. Ex: Menu personnalisé"
+
+#: ../inc/core/class.data.php:1053
+msgid "Custom menu by name"
+msgstr "Menu personnalisé par nom"
+
+#: ../inc/core/class.data.php:1057
+msgid "Sub pages"
+msgstr "Sous-pages"
+
+#: ../inc/core/class.data.php:1064
+#: ../inc/core/class.data.php:1090
+msgid "Depth"
+msgstr "Profondeur"
+
+#: ../inc/core/class.data.php:1065
+msgid "Max depth level of children pages"
+msgstr "Niveau de profondeur maximale des pages enfants"
+
+#: ../inc/core/class.data.php:1070
+msgid "Parent ID"
+msgstr "ID de la page parente"
+
+#: ../inc/core/class.data.php:1071
+msgid "ID of the parent page. Leave blank to use current page"
+msgstr "ID de la page parente. Laissez vide pour utiliser la page courante"
+
+#: ../inc/core/class.data.php:1079
+msgid "List of sub pages"
+msgstr "Liste des sous-pages"
+
+#: ../inc/core/class.data.php:1083
+msgid "Siblings"
+msgstr "Soeurs"
+
+#: ../inc/core/class.data.php:1091
+msgid "Max depth level"
+msgstr "Niveau de profondeur maximale"
+
+#: ../inc/core/class.data.php:1099
+msgid "List of cureent page siblings"
+msgstr "List of cureent page siblings"
+
+#: ../inc/core/class.data.php:1103
+msgid "Document"
+msgstr "Document"
+
+#: ../inc/core/class.data.php:1111
+msgid "Url to uploaded document. Supported formats: doc, xls, pdf etc."
+msgstr "Lien du document téléversé. Formats supportés : doc, xls, pdf etc."
+
+#: ../inc/core/class.data.php:1120
+msgid "Viewer width"
+msgstr "Largeur du visualisateur"
+
+#: ../inc/core/class.data.php:1129
+msgid "Viewer height"
+msgstr "Hauteur du visualisateur"
+
+#: ../inc/core/class.data.php:1135
+msgid "Ignore width and height parameters and make viewer responsive"
+msgstr "Ignorer les paramètres de largeur et de hauteur pour un visualiseur responsive"
+
+#: ../inc/core/class.data.php:1143
+msgid "Document viewer by Google"
+msgstr "Visualisateur de document par Google"
+
+#: ../inc/core/class.data.php:1147
+msgid "Gmap"
+msgstr "Gmap"
+
+#: ../inc/core/class.data.php:1158
+msgid "Map width"
+msgstr "Largeur de la carte"
+
+#: ../inc/core/class.data.php:1167
+msgid "Map height"
+msgstr "Hauteur de la carte"
+
+#: ../inc/core/class.data.php:1173
+msgid "Ignore width and height parameters and make map responsive"
+msgstr "Ignorer les paramètres de largeur et de hauteur pour une carte responsive"
+
+#: ../inc/core/class.data.php:1178
+msgid "Marker"
+msgstr "Marqueur"
+
+#: ../inc/core/class.data.php:1179
+msgid "Address for the marker. You can type it in any language"
+msgstr "Adresse du marqueur. Supporte tous les langages"
+
+#: ../inc/core/class.data.php:1187
+msgid "Maps by Google"
+msgstr "Carte par google"
+
+#: ../inc/core/class.data.php:1191
+msgid "Slider"
+msgstr "Slider"
+
+#: ../inc/core/class.data.php:1198
+msgid "Choose source gallery, that will be used for this slider"
+msgstr "Choisissez la galerie qui sera utilisé pour ce slider"
+
+#: ../inc/core/class.data.php:1206
+msgid "Slider width (in pixels)"
+msgstr "Largeur du slider"
+
+#: ../inc/core/class.data.php:1214
+msgid "Slider height (in pixels)"
+msgstr "Hauteur du slider"
+
+#: ../inc/core/class.data.php:1220
+msgid "Ignore width and height parameters and make slider responsive"
+msgstr "Ignorer les paramètres de largeur et de hauteur pour un slider responsive"
+
+#: ../inc/core/class.data.php:1225
+#: ../inc/core/class.data.php:1331
+#: ../inc/core/class.data.php:1420
+msgid "Show titles"
+msgstr "Montrer les titres"
+
+#: ../inc/core/class.data.php:1225
+msgid "Display slide titles"
+msgstr "Afficher les titres des slides"
+
+#: ../inc/core/class.data.php:1230
+msgid "Is slider centered on the page"
+msgstr "Le slider sera centré sur la page"
+
+#: ../inc/core/class.data.php:1235
+#: ../inc/core/class.data.php:1341
+msgid "Arrows"
+msgstr "Flèches"
+
+#: ../inc/core/class.data.php:1235
+#: ../inc/core/class.data.php:1341
+msgid "Show left and right arrows"
+msgstr "Montrer les flèches"
+
+#: ../inc/core/class.data.php:1240
+#: ../inc/core/class.data.php:1346
+msgid "Pagination"
+msgstr "Pagination"
+
+#: ../inc/core/class.data.php:1241
+#: ../inc/core/class.data.php:1347
+msgid "Show pagination"
+msgstr "Montrer la pagination"
+
+#: ../inc/core/class.data.php:1245
+#: ../inc/core/class.data.php:1351
+msgid "Mouse wheel control"
+msgstr "Défilement de la souris"
+
+#: ../inc/core/class.data.php:1246
+msgid "Allow to change slides with mouse wheel"
+msgstr "Permettre de changer la slide à la souris"
+
+#: ../inc/core/class.data.php:1255
+msgid "Choose interval between slide animations. Set to 0 to disable autoplay"
+msgstr "Choisir l'intervalle entre l'animation de chaque slide. Laissez à 0 pour désactiver le défilement automatique"
+
+#: ../inc/core/class.data.php:1263
+#: ../inc/core/class.data.php:1369
+msgid "Speed"
+msgstr "Vitesse"
+
+#: ../inc/core/class.data.php:1263
+#: ../inc/core/class.data.php:1369
+msgid "Specify animation speed"
+msgstr "Vitesse de l'animation"
+
+#: ../inc/core/class.data.php:1268
+#: ../inc/core/class.data.php:1374
+#: ../inc/core/class.data.php:1426
+msgid "Links target"
+msgstr "Cible du lien"
+
+#: ../inc/core/class.data.php:1269
+msgid "Open slides links in new window/tab"
+msgstr "Ouvrir le lien des slides dans une nouvelle fenêtre"
+
+#: ../inc/core/class.data.php:1277
+msgid "Customizable image slider"
+msgstr "Slider personnalisé"
+
+#: ../inc/core/class.data.php:1281
+msgid "Carousel"
+msgstr "Carousel"
+
+#: ../inc/core/class.data.php:1288
+msgid "Choose source gallery, that will be used for this carousel"
+msgstr "Choisir la galerie qui sera utilisé pour ce carousel"
+
+#: ../inc/core/class.data.php:1296
+msgid "Carousel width (in pixels)"
+msgstr "largeur du carousel (en pixels)"
+
+#: ../inc/core/class.data.php:1304
+msgid "Carousel height (in pixels)"
+msgstr "Hauteur du carousel (en pixels)"
+
+#: ../inc/core/class.data.php:1310
+msgid "Ignore width and height parameters and make carousel responsive"
+msgstr "Ignorer les paramètres de largeur et de hauteur pour un carousel responsive"
+
+#: ../inc/core/class.data.php:1317
+msgid "Items to show"
+msgstr "Objets à montrer"
+
+#: ../inc/core/class.data.php:1318
+msgid "How much carousel items is visible"
+msgstr "Combien d'objets du carousel seront visibles"
+
+#: ../inc/core/class.data.php:1325
+msgid "Scroll number"
+msgstr "Nombre de scroll"
+
+#: ../inc/core/class.data.php:1326
+msgid "How much items are scrolled in one transition"
+msgstr "Combien d'objets défileront dans une transition"
+
+#: ../inc/core/class.data.php:1331
+msgid "Display titles for each item"
+msgstr "Afficher les titres de chaque objet"
+
+#: ../inc/core/class.data.php:1336
+msgid "Is carousel centered on the page"
+msgstr "Le carousel sera centré dans la page"
+
+#: ../inc/core/class.data.php:1352
+msgid "Allow to rotate carousel with mouse wheel"
+msgstr "Autoriser la rotation avec le défilement de la souris"
+
+#: ../inc/core/class.data.php:1361
+msgid "Choose interval between auto animations. Set to 0 to disable autoplay"
+msgstr "Choisir l'interval entre chaque animation. Laissez à 0 pour désactiver le défilement automatique"
+
+#: ../inc/core/class.data.php:1375
+msgid "Open carousel links in new window/tab"
+msgstr "Ouvrez les liens du carousel dans une nouvelle fenêtre"
+
+#: ../inc/core/class.data.php:1383
+msgid "Customizable image carousel"
+msgstr "Image personnalisable du carousel"
+
+#: ../inc/core/class.data.php:1394
+msgid "Choose source gallery, that will be used for this shortcode"
+msgstr "Choisir la galerie qui sera utilisée pour ce shortcode"
+
+#: ../inc/core/class.data.php:1402
+msgid "Single item width (in pixels)"
+msgstr "Largeur d'un objet (en pixels)"
+
+#: ../inc/core/class.data.php:1410
+msgid "Single item height (in pixels)"
+msgstr "Hauteur d'un objet (en pixels)"
+
+#: ../inc/core/class.data.php:1415
+msgid "Never"
+msgstr "Jamais"
+
+#: ../inc/core/class.data.php:1416
+msgid "On mouse over"
+msgstr "Au passage de la souris"
+
+#: ../inc/core/class.data.php:1417
+msgid "Always"
+msgstr "Toujours"
+
+#: ../inc/core/class.data.php:1421
+msgid "Title display mode"
+msgstr "Mode d'affichage du titre"
+
+#: ../inc/core/class.data.php:1426
+msgid "Open links in new window/tab"
+msgstr "Ouvrir les liens dans un nouvel onglet"
+
+#: ../inc/core/class.data.php:1434
+msgid "Customizable image gallery"
+msgstr "Galerie d'images personnalisées"
+
+#: ../inc/core/class.data.php:1438
+msgid "Posts"
+msgstr "Articles"
+
+#: ../inc/core/class.data.php:1443
+msgid "Template"
+msgstr "Template"
+
+#: ../inc/core/class.data.php:1444
+msgid "<b>Do not change this field value if you do not understand description below.</b><br/>Relative path to the template file. Default templates is placed under the plugin directory (templates folder). You can copy it under your theme directory and modify as you want. You can use following default templates that already available in the plugin directory:<br/><b%value>templates/default-loop.php</b> - posts loop<br/><b%value>templates/teaser-loop.php</b> - posts loop with thumbnail and title<br/><b%value>templates/single-post.php</b> - single post template<br/><b%value>templates/list-loop.php</b> - unordered list with posts titles"
+msgstr "<b>Ne changez pas la valeur de ce champ si vous ne comprenez pas la description suivante.</b><br/>Chemin relatif ver le fichier de template. Le template par défaut est placer le dossier du plugin (dossier templates). Vous pouvez le copier dans le dossier de votre thème et le modifier à votre convenance. Vous pouvez utiliser le template par défaut.<br/><b%value>templates/default-loop.php</b> - Boucle de posts<br/><b%value>templates/teaser-loop.php</b> - Boucle d'articles avec miniatures et titres<br/><b%value>templates/single-post.php</b> - Template article unique<br/><b%value>templates/list-loop.php</b> - Liste non ordonnée avec titres des articles."
+
+#: ../inc/core/class.data.php:1448
+msgid "Post ID's"
+msgstr "ID des articles"
+
+#: ../inc/core/class.data.php:1449
+msgid "Enter comma separated ID's of the posts that you want to show"
+msgstr "Entrez les ID des articles (séparés par un ';') que vous souhaitez montrés"
+
+#: ../inc/core/class.data.php:1457
+msgid "Posts per page"
+msgstr "Nombre d'articles par page"
+
+#: ../inc/core/class.data.php:1458
+msgid "Specify number of posts that you want to show. Enter -1 to get all posts"
+msgstr "Spécifier le nombres d'articles que vous souhaitez montrer. Mettez -1 pour tous les voir."
+
+#: ../inc/core/class.data.php:1465
+msgid "Post types"
+msgstr "Types d'article"
+
+#: ../inc/core/class.data.php:1466
+msgid "Select post types. Hold Ctrl key to select multiple post types"
+msgstr "Sélectionner les types d'article. Maintenez la touche Ctrl pour sélectionnez de multiples types d'article"
+
+#: ../inc/core/class.data.php:1472
+msgid "Taxonomy"
+msgstr "Taxonomies"
+
+#: ../inc/core/class.data.php:1473
+msgid "Select taxonomy to show posts from"
+msgstr "Sélectionnez la taxonomie de provenance des messages"
+
+#: ../inc/core/class.data.php:1480
+msgid "Terms"
+msgstr "Termes"
+
+#: ../inc/core/class.data.php:1480
+msgid "Select terms to show posts from"
+msgstr "Selectionnez les termes de provenance des articles"
+
+#: ../inc/core/class.data.php:1485
+msgid "Taxonomy term operator"
+msgstr "Opérateur des termes de la taxonomie"
+
+#: ../inc/core/class.data.php:1486
+msgid "IN - posts that have any of selected categories terms<br/>NOT IN - posts that is does not have any of selected terms<br/>AND - posts that have all selected terms"
+msgstr "IN - Les articles qui possèdent certains des termes sélectionnés<br/>NOT IN - Les articles ne possèdent pas les termes sélectionnés<br/>AND - Les articles possédant tout les termes sélectionnés"
+
+#: ../inc/core/class.data.php:1493
+msgid "Authors"
+msgstr "Auteurs"
+
+#: ../inc/core/class.data.php:1494
+msgid "Choose the authors whose posts you want to show"
+msgstr "Choisissez les auteurs dont vous souhaitez affichez les articles"
+
+#: ../inc/core/class.data.php:1498
+msgid "Meta key"
+msgstr "Mots clés"
+
+#: ../inc/core/class.data.php:1499
+msgid "Enter meta key name to show posts that have this key"
+msgstr "Entrez les mots-clés pour montrer les articles similaires"
+
+#: ../inc/core/class.data.php:1506
+msgid "Offset"
+msgstr "Décalage"
+
+#: ../inc/core/class.data.php:1507
+msgid "Specify offset to start posts loop not from first post"
+msgstr "Spécifier le décalage de départs de la boucle des articles"
+
+#: ../inc/core/class.data.php:1512
+msgid "Descending"
+msgstr "Descendant"
+
+#: ../inc/core/class.data.php:1513
+msgid "Ascending"
+msgstr "Ascendant"
+
+#: ../inc/core/class.data.php:1516
+msgid "Order"
+msgstr "Ordre"
+
+#: ../inc/core/class.data.php:1517
+msgid "Posts order"
+msgstr "Ordre des articles"
+
+#: ../inc/core/class.data.php:1523
+msgid "Post ID"
+msgstr "ID de l'article"
+
+#: ../inc/core/class.data.php:1524
+msgid "Post author"
+msgstr "Auteur de l'article"
+
+#: ../inc/core/class.data.php:1525
+msgid "Post title"
+msgstr "Titre de l'article"
+
+#: ../inc/core/class.data.php:1526
+msgid "Post slug"
+msgstr "Slug de l'article"
+
+#: ../inc/core/class.data.php:1527
+msgid "Date"
+msgstr "Date"
+
+#: ../inc/core/class.data.php:1527
+msgid "Last modified date"
+msgstr "Date de dernière modification"
+
+#: ../inc/core/class.data.php:1528
+#: ../inc/core/class.data.php:1538
+msgid "Post parent"
+msgstr "Article parent"
+
+#: ../inc/core/class.data.php:1529
+msgid "Random"
+msgstr "Aléatoire"
+
+#: ../inc/core/class.data.php:1529
+msgid "Comments number"
+msgstr "Nombre de commentaires"
+
+#: ../inc/core/class.data.php:1530
+msgid "Menu order"
+msgstr "Ordre du menu"
+
+#: ../inc/core/class.data.php:1530
+msgid "Meta key values"
+msgstr "Valeur des mots-clés"
+
+#: ../inc/core/class.data.php:1533
+msgid "Order by"
+msgstr "Trier par"
+
+#: ../inc/core/class.data.php:1534
+msgid "Order posts by"
+msgstr "Trier les articles par"
+
+#: ../inc/core/class.data.php:1539
+msgid "Show childrens of entered post (enter post ID)"
+msgstr "Montrer les enfants de l'article sélectionné (Entrez l'ID de l'article)"
+
+#: ../inc/core/class.data.php:1544
+msgid "Published"
+msgstr "Publier"
+
+#: ../inc/core/class.data.php:1545
+msgid "Pending"
+msgstr "En attente"
+
+#: ../inc/core/class.data.php:1546
+msgid "Draft"
+msgstr "Brouillon"
+
+#: ../inc/core/class.data.php:1547
+msgid "Auto-draft"
+msgstr "Auto-brouillon"
+
+#: ../inc/core/class.data.php:1548
+msgid "Future post"
+msgstr "Article future"
+
+#: ../inc/core/class.data.php:1549
+msgid "Private post"
+msgstr "Article privé"
+
+#: ../inc/core/class.data.php:1550
+msgid "Inherit"
+msgstr "Hérité"
+
+#: ../inc/core/class.data.php:1551
+msgid "Trashed"
+msgstr "Corbeille"
+
+#: ../inc/core/class.data.php:1552
+msgid "Any"
+msgstr "Tout"
+
+#: ../inc/core/class.data.php:1555
+msgid "Post status"
+msgstr "Statut de l'article"
+
+#: ../inc/core/class.data.php:1556
+msgid "Show only posts with selected status"
+msgstr "Montrer uniquement les articles possédant ce statut"
+
+#: ../inc/core/class.data.php:1561
+msgid "Ignore sticky"
+msgstr "Ignore sticky"
+
+#: ../inc/core/class.data.php:1562
+msgid "Select Yes to ignore posts that is sticked"
+msgstr "Select Yes to ignore posts that is sticked"
+
+#: ../inc/core/class.data.php:1566
+msgid "Custom posts query with customizable template"
+msgstr "Custom posts query with customizable template"
+
+#: ../inc/core/class.generator.php:36
+#: ../inc/core/class.generator.php:137
+msgid "Insert shortcode"
+msgstr "Insérer le shortcode"
+
+#: ../inc/core/class.generator.php:80
+msgid "Plugin settings"
+msgstr "Réglages du plugin"
+
+#: ../inc/core/class.generator.php:81
+msgid "Plugin homepage"
+msgstr "Page d'accueil du plugin"
+
+#: ../inc/core/class.generator.php:82
+msgid "Support forums"
+msgstr "Forum"
+
+#: ../inc/core/class.generator.php:89
+msgid "Search for shortcodes"
+msgstr "Rechercher un shortcode"
+
+#: ../inc/core/class.generator.php:91
+msgid "Filter by type"
+msgstr "Filtrer par type"
+
+#: ../inc/core/class.generator.php:125
+#: ../inc/core/class.generator.php:235
+#: ../inc/core/class.generator.php:250
+#: ../inc/core/class.generator.php:259
+msgid "Access denied"
+msgstr "Accès refusé"
+
+#: ../inc/core/class.generator.php:127
+msgid "Shortcode not specified"
+msgstr "Shortcode non spécifié"
+
+#: ../inc/core/class.generator.php:138
+msgid "Live preview"
+msgstr "Prévisualisation en direct"
+
+#: ../inc/core/class.generator.php:139
+msgid "Close window"
+msgstr "Fermer la fenêtre"
+
+#: ../inc/core/class.generator.php:143
+msgid "Click to return to the shortcodes list"
+msgstr "Retourner à la liste des shortcodes"
+
+#: ../inc/core/class.generator.php:143
+msgid "All shortcodes"
+msgstr "Tout les shortcodes"
+
+#: ../inc/core/class.generator.php:174
+msgid "Yes"
+msgstr "Oui"
+
+#: ../inc/core/class.generator.php:174
+msgid "No"
+msgstr "Non"
+
+#: ../inc/core/class.generator.php:178
+msgid "Max upload file size"
+msgstr "Limte de téléversement de fichier"
+
+#: ../inc/core/class.generator.php:178
+msgid "Mb"
+msgstr "Mb"
+
+#: ../inc/core/class.generator.php:178
+msgid "How to increase"
+msgstr "Comment augmenter"
+
+#: ../inc/core/class.generator.php:196
+msgid "Untitled gallery"
+msgstr "Galerie sans nom"
+
+#: ../inc/core/class.generator.php:202
+msgid "Galleries not found"
+msgstr "Galerie introuvable"
+
+#: ../inc/core/class.generator.php:203
+msgid "Manage galleries"
+msgstr "Gérer les galeries"
+
+#: ../inc/core/class.generator.php:214
+msgid "Click to set this value"
+msgstr "Cliquez sur pour définir cette valeur"
+
+#: ../inc/core/class.generator.php:238
+msgid "Preview"
+msgstr "Prévisualisation"
+
+#: ../inc/core/class.mom-shortcodes-ultimate.php:25
+#: ../inc/core/class.widget.php:40
+#: ../inc/core/class.widget.php:82
+msgid "Shortcodes Ultimate"
+msgstr "Shortcodes Ultimate"
+
+#: ../inc/core/class.mom-shortcodes-ultimate.php:26
+msgid "Vladimir Anokhin"
+msgstr "Vladimir Anokhin"
+
+#: ../inc/core/class.mom-shortcodes-ultimate.php:27
+msgid "Supercharge your WordPress theme with mega pack of shortcodes"
+msgstr "Ajoute à ton thème un nombre impressionnant de shortcode"
+
+#: ../inc/core/class.mom-shortcodes-ultimate.php:64
+#, php-format
+msgid "<h1>Oops! Plugin not activated&hellip;</h1> <p>Shortcodes Ultimate is not fully compatible with your version of WordPress (%s).<br />Reccomended WordPress version &ndash; %s (or higher).</p><a href=\"%s\">&larr; Return to the plugins screen</a> <a href=\"%s\"%s>Continue and activate anyway &rarr;</a>"
+msgstr "<h1>Oops! Plugin non activé&hellip;</h1> <p>Shortcodes Ultimate n'est pas totalement compatible avec cette version de WordPress (%s).<br />Version de Wordpress recommandée &ndash; %s (ou plus).</p><a href=\"%s\">&larr; Retour à l'écran des plugins</a> <a href=\"%s\"%s>Continuer et activer de toute façon &rarr;</a>"
+
+#: ../inc/core/class.mom-shortcodes-ultimate.php:65
+#, php-format
+msgid "<h1>Oops! Plugin not activated&hellip;</h1> <p>Shortcodes Ultimate is not fully compatible with your PHP version (%s).<br />Reccomended PHP version &ndash; %s (or higher).</p><a href=\"%s\">&larr; Return to the plugins screen</a> <a href=\"%s\"%s>Continue and activate anyway &rarr;</a>"
+msgstr "<h1>Oops! Plugin non activé&hellip;</h1> <p>Shortcodes Ultimate n'est pas totalement compatible avec cette version de PHP(%s).<br />Version de PHP recommandée &ndash; %s (ou plus).</p><a href=\"%s\">&larr; Retour à l'écran des plugins</a> <a href=\"%s\"%s>Continuer et activer de toute façon &rarr;</a>"
+
+#: ../inc/core/class.mom-shortcodes-ultimate.php:94
+msgid "Where to start?"
+msgstr "Ou commencer"
+
+#: ../inc/core/class.mom-shortcodes-ultimate.php:106
+#: ../inc/views/about.php:4
+msgid "Project homepage"
+msgstr "Page d'accueil du projet"
+
+#: ../inc/core/class.mom-shortcodes-ultimate.php:107
+#: ../inc/views/about.php:10
+msgid "Support forum"
+msgstr "Forum de support"
+
+#: ../inc/core/class.mom-shortcodes-ultimate.php:108
+#: ../inc/views/about.php:12
+msgid "Changelog"
+msgstr "Changelog"
+
+#: ../inc/core/class.mom-shortcodes-ultimate.php:118
+msgid "About"
+msgstr "A propos"
+
+#: ../inc/core/class.mom-shortcodes-ultimate.php:122
+msgid "Custom formatting"
+msgstr "Mise en forme personnalisée"
+
+#: ../inc/core/class.mom-shortcodes-ultimate.php:124
+msgid "Disable this option if you have some problems with other plugins or content formatting"
+msgstr "Désactiver cette option si vous avez des problèmes avec d'autres plugins ou du contenu personnalisé"
+
+#: ../inc/core/class.mom-shortcodes-ultimate.php:127
+#: ../inc/core/class.mom-shortcodes-ultimate.php:138
+msgid "Documentation article"
+msgstr "Documentation article"
+
+#: ../inc/core/class.mom-shortcodes-ultimate.php:131
+#: ../inc/core/class.mom-shortcodes-ultimate.php:142
+msgid "Enabled"
+msgstr "Activé"
+
+#: ../inc/core/class.mom-shortcodes-ultimate.php:132
+msgid "Compatibility mode"
+msgstr "Mode de compatibilité"
+
+#: ../inc/core/class.mom-shortcodes-ultimate.php:134
+msgid "Enable this option if you have some problems with other plugins that uses similar shortcode names"
+msgstr "Activer cette option si vous avez des problèmes avec d'autres plugins qui utilisent des noms de shortcodes similaires"
+
+#: ../inc/core/class.mom-shortcodes-ultimate.php:136
+msgid "etc."
+msgstr "etc"
+
+#: ../inc/core/class.mom-shortcodes-ultimate.php:143
+msgid "Skin"
+msgstr "Skin"
+
+#: ../inc/core/class.mom-shortcodes-ultimate.php:144
+#, php-format
+msgid "Choose skin for shortcodes.<br /><a href=\"%s\" target=\"_blank\">Learn how to create custom skin</a><br /><a href=\"%s\" target=\"_blank\"><b>Download more skins</b></a>"
+msgstr "Choisir les skins pour shortcodes.<br /><a href=\"%s\" target=\"_blank\">Apprenez à faire des skins personnalisés</a><br /><a href=\"%s\" target=\"_blank\"><b>Télécharger des skins</b></a>"
+
+#: ../inc/core/class.mom-shortcodes-ultimate.php:152
+msgid "Custom CSS"
+msgstr "CSS personnalisé"
+
+#: ../inc/core/class.mom-shortcodes-ultimate.php:155
+msgid "Galleries"
+msgstr "Galeries"
+
+#: ../inc/core/class.mom-shortcodes-ultimate.php:158
+msgid "Cheatsheet"
+msgstr "Pense-bête"
+
+#: ../inc/core/class.widget.php:36
+msgid "Special Shortcodes Ultimate widget"
+msgstr "Widget Shortcodes Ultimate"
+
+#: ../inc/core/class.widget.php:87
+msgid "Title:"
+msgstr "Titre:"
+
+#: ../inc/core/shortcodes.php:418
+msgid "This is box title"
+msgstr "C'est la zone de titre"
+
+#: ../inc/core/shortcodes.php:525
+#: ../inc/core/shortcodes.php:557
+#: ../inc/core/shortcodes.php:594
+#: ../inc/core/shortcodes.php:634
+msgid "please specify correct url"
+msgstr "Merci d'entrer une url"
+
+#: ../inc/core/shortcodes.php:811
+msgid "This menu doesn't exists, or has no elements"
+msgstr "Ce menu n'existe pas ou n'a pas d'éléments"
+
+#: ../inc/core/shortcodes.php:900
+#: ../inc/core/shortcodes.php:995
+#: ../inc/core/shortcodes.php:1073
+msgid "images not found"
+msgstr "Pas d'images trouvées"
+
+#: ../inc/core/shortcodes.php:1279
+msgid "template not found"
+msgstr "Template introuvable"
+
+#: ../inc/core/tools.php:232
+msgid "year"
+msgstr "année"
+
+#: ../inc/core/tools.php:233
+msgid "month"
+msgstr "mois"
+
+#: ../inc/core/tools.php:234
+msgid "week"
+msgstr "semaine"
+
+#: ../inc/core/tools.php:235
+msgid "day"
+msgstr "jour"
+
+#: ../inc/core/tools.php:236
+msgid "hour"
+msgstr "heure"
+
+#: ../inc/core/tools.php:237
+msgid "minute"
+msgstr "minute"
+
+#: ../inc/core/tools.php:246
+#: ../inc/core/tools.php:253
+msgid "s"
+msgstr "s"
+
+#: ../inc/core/tools.php:289
+msgid "username not specified"
+msgstr "nom d'utilisateur non spécifié"
+
+#: ../inc/core/tools.php:294
+msgid "no public messages"
+msgstr "pas de messages publiques"
+
+#: ../inc/views/about.php:2
+msgid "Welcome to Shortcodes Ultimate"
+msgstr "Bienvenue dans Shortcodes Ultimate"
+
+#: ../inc/views/about.php:2
+msgid "A real swiss army knife for WordPress"
+msgstr "Un véritable couteau suisse pour wordpress"
+
+#: ../inc/views/about.php:6
+msgid "Add-ons"
+msgstr "Add-ons"
+
+#: ../inc/views/about.php:8
+msgid "Documentation"
+msgstr "Documentation"
+
+#: ../inc/views/about.php:14
+msgid "GitHub"
+msgstr "GitHub"
+
+#: ../inc/views/about.php:16
+msgid "Contact author"
+msgstr "Contacter l'auteur"
+
+#: ../inc/views/about.php:19
+msgid "Plugin features"
+msgstr "Caractéristiques du Plugin"
+
+#: ../inc/views/about.php:21
+msgid "30+ amazing shortcodes"
+msgstr "+ de 30 shortcodes incroyables"
+
+#: ../inc/views/about.php:22
+msgid "Power of CSS3 transitions"
+msgstr "La puissance des transitions css3"
+
+#: ../inc/views/about.php:23
+msgid "Handy shortcodes generator"
+msgstr "Générateur rapide de shortcodes"
+
+#: ../inc/views/about.php:24
+msgid "International"
+msgstr "International"
+
+#: ../inc/views/about.php:25
+msgid "Documented API"
+msgstr "API documentée"
+
+#: ../inc/views/about.php:29
+msgid "What is a shortcode?"
+msgstr "Qu'est-ce qu'un shortcode ?"
+
+#: ../inc/views/about.php:30
+msgid "<strong>Shortcode</strong> is a WordPress-specific code that lets you do nifty things with very little effort."
+msgstr "<strong>Shortcode</strong> est un code specifque pour Wordpress qui vous permet de faire des choses sympathiques avec très peu d'effort."
+
+#: ../inc/views/about.php:31
+msgid "Shortcodes can embed files or create objects that would normally require lots of complicated, ugly code in just one line. Shortcode = shortcut."
+msgstr "Les shortcodes peuvent incorporer des fichiers ou créer des objets compliqués en une seule ligne. Shortcode = shortcut."
+
+#: ../inc/views/about.php:35
+msgid "How it works"
+msgstr "Comment ça fonctionne"
+
+#: ../inc/views/about.php:39
+msgid "More videos"
+msgstr "Plus de vidéos"
+
+#: ../inc/views/about.php:41
+msgid "Shortcodes Ultimate Tutorial"
+msgstr "Tutoriel Shortcodes Ultimate"
+
+#: ../inc/views/about.php:42
+msgid "How to use special widget"
+msgstr "Comment utiliser un widget spécial ?"
+
+#: ../inc/views/cheatsheet.php:5
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: ../inc/views/cheatsheet.php:6
+msgid "Parameters"
+msgstr "Paramètres"
+
+#: ../inc/views/cheatsheet.php:7
+msgid "Example"
+msgstr "Exemple"
+
+#: ../inc/views/cheatsheet.php:17
+msgid "Demo"
+msgstr "Démo"
+
+#: ../inc/views/cheatsheet.php:49
+msgid "Default value"
+msgstr "Valeur par défaut"
+
+#: ../inc/views/cheatsheet.php:55
+msgid "-- no parameters --"
+msgstr "-- pas de paramètres --"
+
+#: ../inc/views/closetab.php:4
+msgid "Save changes"
+msgstr "Sauvegarder les changements"
+
+#: ../inc/views/closetab.php:5
+msgid "Saving"
+msgstr "Sauvegarde"
+
+#: ../inc/views/closetab.php:6
+msgid "Saved"
+msgstr "Sauvé"
+
+#: ../inc/views/closetab.php:7
+msgid "This action will remove all your custom CSS, galleries and settings. Are you sure? This action cannot be undone!"
+msgstr "Restaurer les paramètres par défaut. Etes-vous sur ? Cette action ne peut-être annulé !"
+
+#: ../inc/views/closetab.php:7
+msgid "Restore default settings"
+msgstr "Restaurer les paramètres par défaut"
+
+#: ../inc/views/code.php:5
+msgid "Insert code"
+msgstr "Insérer le code"
+
+#: ../inc/views/css.php:3
+msgid "You can see the original styles to override it"
+msgstr "Vous pouvez voir les styles originaux écrasés"
+
+#: ../inc/views/css.php:17
+msgid "You can use next variables in your custom CSS"
+msgstr "Vous pouvez utiliser les variables suivantes dans le css personnalisé"
+
+#: ../inc/views/css.php:18
+msgid "home url"
+msgstr "Url de la page d'accueil"
+
+#: ../inc/views/css.php:19
+msgid "theme url"
+msgstr "Url du theme"
+
+#: ../inc/views/css.php:20
+msgid "plugin url"
+msgstr "Url du plugin"
+
+#: ../inc/views/galleries.php:2
+msgid "Are you sure that you want to delete this gallery? This action can't be undone!"
+msgstr "Etes-vous sur de vouloir effacer cette galerie ? Cette action est définitive."
+
+#: ../inc/views/galleries.php:2
+msgid "Are you sure that you want to delete this image? This action can't be undone!"
+msgstr "Etes-vous sur de vouloir effacer cette image ? Cette action est définitive."
+
+#: ../inc/views/galleries.php:4
+msgid "Create new gallery"
+msgstr "Creér une nouvelle galerie"
+
+#: ../inc/views/galleries.php:17
+#: ../inc/views/galleries.php:73
+msgid "Enter gallery name"
+msgstr "Entrer le nom de la galerie"
+
+#: ../inc/views/galleries.php:19
+#: ../inc/views/galleries.php:75
+msgid "Edit gallery"
+msgstr "Editer la galerie"
+
+#: ../inc/views/galleries.php:20
+#: ../inc/views/galleries.php:76
+msgid "Save &amp; close"
+msgstr "Sauvegarder &amp; fermer"
+
+#: ../inc/views/galleries.php:21
+#: ../inc/views/galleries.php:51
+#: ../inc/views/galleries.php:77
+#: ../inc/views/galleries.php:106
+msgid "Close"
+msgstr "Fermer"
+
+#: ../inc/views/galleries.php:22
+#: ../inc/views/galleries.php:42
+#: ../inc/views/galleries.php:78
+#: ../inc/views/galleries.php:97
+msgid "Delete"
+msgstr "Effacer"
+
+#: ../inc/views/galleries.php:27
+msgid "Add image"
+msgstr "Ajouter une image"
+
+#: ../inc/views/galleries.php:41
+#: ../inc/views/galleries.php:96
+msgid "Edit"
+msgstr "Editer"
+
+#: ../inc/views/notifications.php:5
+msgid "Instructions"
+msgstr "Instructions"
+
+#: ../inc/views/notifications.php:12
+#: ../inc/views/notifications.php:20
+#: ../inc/views/notifications.php:28
+#: ../inc/views/notifications.php:36
+msgid "Click to close"
+msgstr "Cliquer pour fermet"
+
+#: ../inc/views/settings.php:12
+msgid "For full functionality of this page it is reccomended to enable javascript."
+msgstr "Pour profiter de toutes les fonctionnalités de cette page, il est recommandé d'activer le javascript"
+
+#: ../inc/views/settings.php:14
+msgid "Settings reseted successfully"
+msgstr "Réglages réinitialisés correctement"
+
+#: ../inc/views/settings.php:15
+msgid "There is already default settings"
+msgstr "C'est déjà le réglage par défaut"
+
+#: ../inc/views/settings.php:16
+msgid "Settings saved successfully"
+msgstr "Réglages sauvegardés correctement"
+
+#: ../inc/views/settings.php:17
+msgid "Settings not saved, because there is no changes"
+msgstr "Réglages non sauvegardés, parce qu'aucun changement"
+
+#: ../inc/views/upload.php:7
+msgid "Upload"
+msgstr "Téléversement"
+
+#: ../templates/default-loop.php:15
+#: ../templates/single-post.php:18
+msgid "Posted"
+msgstr "Publié"
+
+#: ../templates/default-loop.php:19
+#: ../templates/single-post.php:18
+msgid "0 comments"
+msgstr "0 commentaires"
+
+#: ../templates/default-loop.php:19
+#: ../templates/single-post.php:18
+msgid "1 comment"
+msgstr "0 commentaires"
+
+#: ../templates/default-loop.php:19
+#: ../templates/single-post.php:18
+msgid "%n comments"
+msgstr "%ncommentaires"
+
+#: ../templates/default-loop.php:27
+#: ../templates/list-loop.php:18
+#: ../templates/single-post.php:30
+#: ../templates/teaser-loop.php:22
+msgid "Posts not found"
+msgstr "Articles non trouvés"
+
+#~ msgid "No image URL has been entered."
+#~ msgstr "Aucune URL d'image n'a été entrée."
+
+#~ msgid "Failed to get $file_path information using getimagesize."
+#~ msgstr "Impossible d'obtenir des informations en utilisant file_path."
+
+#~ msgid "Resize path invalid (GIF)"
+#~ msgstr "Chemin de redimensionnement invalide(GIF)."
+
+#~ msgid "Resize path invalid (PNG)."
+#~ msgstr "Chemin de redimensionnement invalide(PNG)."
+
+#~ msgid "Resize path invalid (JPG)."
+#~ msgstr "Chemin de redimensionnement invalide(PNG)."
+
+#~ msgid "Failed to get $dest_file_name (resized image) info via @getimagesize"
+#~ msgstr ""
+#~ "Impossible d'obtenir les infos $dest_file_name (image recadrée) via @ "
+#~ "getimagesize"
+
+#~ msgid "Welcome"
+#~ msgstr "Bienvenue"
+
+#~ msgid "Metro"
+#~ msgstr "Metro"
+
+#~ msgid "Thin"
+#~ msgstr "Léger"
+
+#~ msgid "Choose heading style preset"
+#~ msgstr "Choisissez le style prédéfinie de Heading"
+
+#~ msgid "Choose tabs style preset"
+#~ msgstr "Choisissez le style prédéfinie de Tabs"
+
+#~ msgid "Select spoiler style preset"
+#~ msgstr "Sélectionner le style prédéfini du spoiler"
+
+#~ msgid "Select divider style preset"
+#~ msgstr "Sélectionner un style prédéfini de divider"
+
+#~ msgid "Quote style preset"
+#~ msgstr "Style de citation prédéfini"
+
+#~ msgid "Choose style preset for pullquote"
+#~ msgstr "Choisir un style prédéfini pour pullquote"
+
+#~ msgid "Align to left"
+#~ msgstr "Aligner à gauche"
+
+#~ msgid "Style preset for the inner columns"
+#~ msgstr "Style prédéfini de la colonne intérieur"
+
+#~ msgid "Extra CSS class for button"
+#~ msgstr "Classe spécifique pour ce bouton"
+
+#~ msgid "Hidden"
+#~ msgstr "Caché"
+
+#~ msgid "Player style preset"
+#~ msgstr "Style prédéfini du lecteur"
+
+#~ msgid "Minimal"
+#~ msgstr "Minimal"
+
+#~ msgid "Table style preset"
+#~ msgstr "Style prédéfini du tableau"
+
+#~ msgid "Box style preset. This box will be shown for not logged users only"
+#~ msgstr ""
+#~ "Style de zone prédéfini. Cette zone sera montré aux membres uniquement"
+
+#~ msgid "Toggle fullscreen"
+#~ msgstr "Passer en mode plein écran"

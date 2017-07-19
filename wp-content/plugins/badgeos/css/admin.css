@@ -1,0 +1,139 @@
+/* For the settings icon */
+#icon-badgeos_badgeos {
+	background-image: url('../images/badgeos_screen_icon.png');
+}
+
+/* For the Triggers UI */
+li.step-row {
+	background:#fff;
+	border-radius: 5px;
+	border: 1px solid #DDD;
+	padding: 5px 10px;
+}
+li.step-row .step-handle {
+	display: block;
+	background:url( '../images/ui_handle.png' );
+	width:7px;
+	height:4em;
+	margin:5px 10px 5px 0;
+	position: relative;
+	float: left;
+}
+li.step-row .required-duration {
+	text-align: right;
+}
+li.step-row .step-title {
+	display: block;
+	padding-top:5px;
+}
+li.step-row .title {
+	width:300px;
+}
+li.step-row .delete-step {
+	position: relative;
+	float: right;
+	line-height:4.5em;
+}
+
+/* User Profile Area */
+.badgeos-table tr {
+	/*padding: 5px 10px;*/
+}
+.badgeos-table th {
+	font-weight: bold;
+	padding: 8px 10px;
+	text-transform: uppercase;
+}
+.badgeos-table a.error {
+	color: #a00;
+}
+
+/* License Settings */
+.badgeos-license-status {
+	background: #eee;
+	color: #333;
+	padding: 3px 8px;
+	border: 1px solid #ddd;
+	border-radius: 3px;
+}
+.badgeos-license-status.invalid,
+.badgeos-license-status.failed {
+	background: #faa;
+	border-color:#a55;
+	color:#a00;
+}
+.badgeos-license-status.valid,
+.badgeos-license-status.active {
+	background: #ac7;
+	border-color:#7a5;
+	color:#250;
+}
+
+/* Add-ons page */
+.badgeos-addons .addon {
+	display: block;
+	background: #fafafa;
+	border: 1px solid #eee;
+	padding: 1em;
+	margin: 0 1em 1em 0;
+	min-width: 200px;
+	max-width: 25%;
+	position: relative;
+	float: left;
+}
+.badgeos-addons .addon:nth-child(3n+4) {
+	clear: both;
+}
+.badgeos-addons .addon .thumbnail-link {
+	display: block;
+	margin:0 auto;
+	width: 200px;
+	height: 200px;
+	text-align: center;
+}
+.badgeos-addons .addon img {
+	max-width: 100%;
+}
+
+/*
+Shortcode Embed styles
+ */
+.wp-core-ui a.badgeos_media_link, .wp-core-ui a.badgeos_media_link:hover {
+	background: url('../images/badgeos_icon.png') 4% 50% no-repeat;
+	padding-left: 1.8em;
+}
+.badgeos_input {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	padding: 5px;
+	width: 50%;
+}
+.badgeos_input > div {
+	margin: 5px 0;
+}
+#shortcode_options {
+	margin-top: 10px;
+	min-height: 100%;
+	overflow: auto;
+	padding-top: 10px;
+	width: 100%;
+}
+#shortcode_options label {
+	font-weight: bold;
+}
+#shortcode_options span {
+	font-style: italic;
+}
+.odd {
+	clear: both;
+}
+.clear {
+	clear: both;
+}
+.select2-container {
+	width: 100%;
+}
+#select2-drop {
+	z-index: 100051;
+}

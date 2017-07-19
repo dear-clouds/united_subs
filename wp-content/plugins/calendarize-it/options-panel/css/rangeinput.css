@@ -1,0 +1,108 @@
+/* slider root element */
+.tools .slider { 
+	background:#3C72E6 url(images/h30.png) repeat-x 0 0; 
+	height:9px; 
+	position:relative; 
+	cursor:pointer;
+	border:1px solid #333;
+	width:200px;
+	float:left; 
+	clear:right;
+	margin-top:10px;
+	-moz-border-radius:5px; 
+	-webkit-border-radius:5px; 
+	-moz-box-shadow:inset 0 0 8px #000;
+}
+
+/* progress bar (enabled with progress: true) */
+.tools .progress {
+	height:9px; 
+	background-color:#C5FF00; 
+	display:none;
+	opacity:0.6;
+}
+
+/* drag handle */
+.tools .handle { 
+	background:#fff url(images/h30.png) repeat-x 0 0; 
+	height:28px;
+	width:28px;
+	top:-12px;
+	position:absolute; 
+	display:block; 
+	margin-top:1px;
+	border:1px solid #000;
+	cursor:move;
+	-moz-box-shadow:0 0 6px #000;
+	-webkit-box-shadow:0 0 6px #000;
+	-moz-border-radius:14px;
+	-webkit-border-radius:14px; 
+
+}
+
+/* autoplay duration input field */
+.tools input.range[name=eap_autoplay_interval] {
+	width:66px;
+}
+
+/* the input field */
+.tools .range {
+	border:1px inset #ddd;
+	float:left;
+	font-size:20px;
+	margin:0 0 0 15px;
+	padding:3px 0;
+	text-align:center;
+	width:50px;
+	-moz-border-radius:5px; 
+	-webkit-border-radius:5px; 		
+}
+
+/* tooltip editor*/
+.clearer {
+	clear:both;
+}
+.tooltip-properties .right {
+	float:right;
+	display:inline-block;
+	margin:0;
+	padding:0;
+	width:40%;
+}
+.tooltip-properties .left {
+	display:inline-block;
+	margin:0;
+	padding:0;
+	width:60%;
+}
+.tooltip-properties .description {
+    -moz-border-radius: 8px 8px 8px 8px;
+    background: none repeat scroll 0 0 #F1F1F1;
+    color: #777777;
+    display: block;
+    float: right;
+    margin: 5px 0 10px 5px;
+    padding: 15px;
+    width: 90%;
+}
+.tooltip-properties .inline-label{
+    display: inline-block;
+    padding-right: 12px;
+    width: 150px;
+	vertical-align:top !important;
+	float:left;
+}
+.act_link, .act_skip_tags{
+width:300px;
+}
+.applicable-sections {
+	display:inline-block;
+}
+.act-opt-divider {
+	margin-bottom:20px;
+}
+
+/* ==default settings checkbox== */
+.eap-admin-bottom-control {
+	margin:14px;
+}

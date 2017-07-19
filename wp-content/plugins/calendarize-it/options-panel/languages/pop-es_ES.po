@@ -1,0 +1,460 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Righthere Options Panel\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-23 16:28-0500\n"
+"PO-Revision-Date: 2011-11-23 16:29-0500\n"
+"Last-Translator: Alberto Lau <alau@albertolau.com>\n"
+"Language-Team: Righthere <support@righthere.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class.al_importer.php:52
+msgid "Bundle is empty."
+msgstr ""
+
+#: class.PluginOptionsPanelModule.php:35
+#: class.PluginOptionsPanelModule.php:36
+msgid "Plugin Options Panel"
+msgstr ""
+
+#: class.PluginOptionsPanelModule.php:41
+#, php-format
+msgid "Plugin update %s is available!"
+msgstr ""
+
+#: class.PluginOptionsPanelModule.php:41
+msgid "Please update now"
+msgstr ""
+
+#: class.PluginOptionsPanelModule.php:365
+msgid "Plugin is latest version."
+msgstr ""
+
+#: class.PluginOptionsPanelModule.php:368
+msgid "Invalid response format."
+msgstr ""
+
+#: class.PluginOptionsPanelModule.php:372
+msgid "Notification service is not available."
+msgstr ""
+
+#: class.PluginOptionsPanelModule.php:406
+msgid "Options updated."
+msgstr ""
+
+#: class.PluginOptionsPanelModule.php:489
+msgid "Open all"
+msgstr "Abrir todo"
+
+#: class.PluginOptionsPanelModule.php:490
+msgid "Save all"
+msgstr "Guardar todo"
+
+#: class.PluginOptionsPanelModule.php:503
+#, php-format
+msgid "Options panel version %s"
+msgstr ""
+
+#: class.plugin_registration.php:45
+msgid "License"
+msgstr ""
+
+#: class.plugin_registration.php:46
+msgid "Item Purchase Key"
+msgstr ""
+
+#: class.plugin_registration.php:47
+msgid "Product License"
+msgstr ""
+
+#: class.plugin_registration.php:55
+msgid "Your purchase code can be found in your license Certificate file."
+msgstr ""
+
+#: class.plugin_registration.php:56
+msgid "Go to Codecanyon and click My Account at the top, then click Downloads, and then click the <strong>License Certificate link</strong>."
+msgstr ""
+
+#: class.plugin_registration.php:57
+msgid "You will find the code in there and it will look something like this:"
+msgstr ""
+
+#: class.plugin_registration.php:58
+msgid "Item Purchase Code:"
+msgstr ""
+
+#: class.plugin_registration.php:59
+#, php-format
+msgid "This allows us to verify your purchase and provide support to those who have paid. We will also automatically notify you when updates are available. Updates are free to download if you have purchased this once. If you have questions about this, please contact us at %s."
+msgstr ""
+
+#: class.plugin_registration.php:64
+msgid "License key"
+msgstr ""
+
+#: class.plugin_registration.php:118
+#: class.plugin_registration.php:155
+#: class.plugin_registration.php:158
+msgid "Service not available."
+msgstr ""
+
+#: class.plugin_registration.php:122
+#: class.pop_import_export.php:583
+#: class.pop_import_export.php:605
+msgid "Missing parameter"
+msgstr ""
+
+#: class.plugin_registration.php:131
+msgid "License already added."
+msgstr ""
+
+#: class.plugin_registration.php:146
+msgid "Please add a main license key before adding an addon license key."
+msgstr ""
+
+#: class.plugin_registration.php:171
+#: class.plugin_registration.php:175
+msgid "Item name not specified"
+msgstr ""
+
+#: class.plugin_registration.php:171
+#: class.plugin_registration.php:175
+msgid "License not specified"
+msgstr ""
+
+#: class.plugin_registration.php:197
+msgid "Add license"
+msgstr ""
+
+#: class.pop_bundles.php:44
+#: class.pop_bundles.php:46
+#: class.pop_bundles.php:57
+msgid "Bundles"
+msgstr ""
+
+#: class.pop_bundles.php:45
+msgid "Plugin bundled content"
+msgstr ""
+
+#: class.pop_bundles.php:53
+msgid "Bundles can be added by plugin add-ons or updates.  If you restore a bundle, depending on the bundle content, it can overwrite part of the current settings or all of them.  Make a backup of your settings before proceding."
+msgstr ""
+
+#: class.pop_bundles.php:84
+msgid "Operation completed"
+msgstr ""
+
+#: class.pop_bundles.php:88
+msgid "Unknown error while processing. Please reload and try again."
+msgstr ""
+
+#: class.pop_bundles.php:101
+msgid "Restore bundle:"
+msgstr ""
+
+#: class.pop_bundles.php:105
+msgid "Click to restore bundle"
+msgstr ""
+
+#: class.pop_downloadable_content.php:74
+#, php-format
+msgid "There is no downloadable content at this time.  You must register %s before you can actually see available downloadable content. For more information on how to register %s, please go the Options menu and the License tab."
+msgstr ""
+
+#: class.pop_downloadable_content.php:87
+#: class.pop_downloadable_content.php:108
+msgid "Service is unavailable, please try again later."
+msgstr ""
+
+#: class.pop_downloadable_content.php:96
+msgid "Please register the product before downloading content."
+msgstr ""
+
+#: class.pop_downloadable_content.php:128
+#: class.pop_downloadable_content.php:142
+msgid "Content downloaded and installed."
+msgstr ""
+
+#: class.pop_downloadable_content.php:147
+msgid "Unhandled content type, update plugin or theme to latest version."
+msgstr ""
+
+#: class.pop_downloadable_content.php:213
+msgid "Downloads"
+msgstr ""
+
+#: class.pop_downloadable_content.php:214
+msgid "New"
+msgstr ""
+
+#: class.pop_downloadable_content.php:215
+msgid "Downloaded"
+msgstr ""
+
+#: class.pop_downloadable_content.php:222
+#: class.pop_downloadable_content.php:233
+#: class.pop_input.php:248
+msgid "Name"
+msgstr ""
+
+#: class.pop_downloadable_content.php:223
+#: class.pop_downloadable_content.php:234
+#: class.pop_input.php:248
+msgid "Version"
+msgstr ""
+
+#: class.pop_downloadable_content.php:224
+#: class.pop_downloadable_content.php:235
+msgid "Size"
+msgstr ""
+
+#: class.pop_downloadable_content.php:225
+#: class.pop_downloadable_content.php:236
+msgid "Description"
+msgstr ""
+
+#: class.pop_importer.php:55
+#: class.pop_importer.php:92
+#: class.pop_import_export.php:525
+#: class.pop_import_export.php:545
+msgid "Could not read the imported code, please verify and try again."
+msgstr ""
+
+#: class.pop_importer.php:59
+#: class.pop_importer.php:96
+#, php-format
+msgid "The imported code does not belong to this plugin/theme.  Import code id: %s,%s"
+msgstr ""
+
+#: class.pop_importer.php:78
+#: class.pop_importer.php:107
+msgid "There was an error importing the content."
+msgstr ""
+
+#: class.pop_importer.php:87
+msgid "Unable to read bundle file"
+msgstr ""
+
+#: class.pop_import_export.php:52
+#: class.pop_import_export.php:560
+msgid "Automatic settings backup"
+msgstr ""
+
+#: class.pop_import_export.php:112
+#: class.pop_import_export.php:113
+#: class.pop_import_export.php:114
+msgid "Settings import and export"
+msgstr ""
+
+#: class.pop_import_export.php:121
+msgid "Export settings:"
+msgstr ""
+
+#: class.pop_import_export.php:122
+msgid "Write a short label that identifies this export code and click on \"Export settings\" to get the site settings.  You can later use this code to restore settings by uploading the file in the Import settings section of this tab."
+msgstr ""
+
+#: class.pop_import_export.php:123
+msgid "Please observe that this will NOT export images or any other attachments, only the configuration values like image url or attachment paths."
+msgstr ""
+
+#: class.pop_import_export.php:128
+#: class.pop_import_export.php:315
+msgid "Export settings"
+msgstr ""
+
+#: class.pop_import_export.php:138
+msgid "Import settings:"
+msgstr ""
+
+#: class.pop_import_export.php:139
+msgid "Choose a file exported with the Export settings option on this tab"
+msgstr ""
+
+#: class.pop_import_export.php:140
+msgid "Check the \"Backup\" options if you want to save your current settings locally."
+msgstr ""
+
+#: class.pop_import_export.php:141
+msgid "Click on \"Import settings\""
+msgstr ""
+
+#: class.pop_import_export.php:146
+#: class.pop_import_export.php:328
+msgid "Import settings"
+msgstr ""
+
+#: class.pop_import_export.php:157
+#: class.pop_import_export.php:158
+#: class.pop_import_export.php:159
+msgid "Saved settings and downloaded content"
+msgstr ""
+
+#: class.pop_import_export.php:166
+msgid "Settings backup"
+msgstr ""
+
+#: class.pop_import_export.php:168
+msgid "Settings backup:"
+msgstr ""
+
+#: class.pop_import_export.php:169
+msgid "Type a small description so you can identify this settings and press <i>Save settings</i>.  It will be listed on the Saved settings list."
+msgstr ""
+
+#: class.pop_import_export.php:170
+msgid "<i>Technical:</i> This is stored in the local site options."
+msgstr ""
+
+#: class.pop_import_export.php:176
+#: class.pop_import_export.php:314
+msgid "Brief description"
+msgstr ""
+
+#: class.pop_import_export.php:179
+msgid "Save settings"
+msgstr ""
+
+#: class.pop_import_export.php:186
+msgid "Saved settings"
+msgstr ""
+
+#: class.pop_import_export.php:326
+msgid "Backup my current settings locally."
+msgstr ""
+
+#: class.pop_import_export.php:376
+#: class.pop_import_export.php:419
+#: class.pop_import_export.php:494
+#: class.pop_import_export.php:520
+#: class.pop_import_export.php:540
+#: class.pop_import_export.php:580
+#: class.pop_import_export.php:602
+msgid "No access"
+msgstr ""
+
+#: class.pop_import_export.php:380
+msgid "Please specify a label for this settings."
+msgstr ""
+
+#: class.pop_import_export.php:414
+msgid "Error saving options."
+msgstr ""
+
+#: class.pop_import_export.php:446
+#: class.pop_import_export.php:475
+#: class.pop_import_export.php:478
+msgid "There are no saved settings."
+msgstr ""
+
+#: class.pop_import_export.php:486
+msgid "This will permanently remove this settings."
+msgstr ""
+
+#: class.pop_import_export.php:487
+msgid "Restore the current options to this settings."
+msgstr ""
+
+#: class.pop_import_export.php:497
+msgid "Please write a brief description for this export code."
+msgstr ""
+
+#: class.pop_import_export.php:528
+#: class.pop_import_export.php:548
+#, php-format
+msgid "The imported code does not belong to this group of settings.  Import code id: %s"
+msgstr ""
+
+#: class.pop_import_export.php:553
+msgid "The settings on this code are the same as the current settings."
+msgstr ""
+
+#: class.pop_import_export.php:566
+msgid "There was an error saving a backup of the current settings, please try again."
+msgstr ""
+
+#: class.pop_import_export.php:573
+msgid "There was an error saving the settings, please try again."
+msgstr ""
+
+#: class.pop_import_export.php:597
+msgid "Nothing to remove."
+msgstr ""
+
+#: class.pop_import_export.php:614
+#, php-format
+msgid "Restored %s:%s"
+msgstr ""
+
+#: class.pop_import_export.php:616
+msgid "Saved setting not found"
+msgstr ""
+
+#: class.pop_input.php:92
+msgid "Choose color"
+msgstr ""
+
+#: class.pop_input.php:93
+msgid "Close"
+msgstr ""
+
+#: class.pop_input.php:204
+msgid "Yes"
+msgstr ""
+
+#: class.pop_input.php:205
+msgid "No"
+msgstr ""
+
+#: class.pop_input.php:248
+msgid "Date"
+msgstr ""
+
+#: class.pop_input.php:278
+msgid "Save settings backup"
+msgstr ""
+
+#: class.pop_uploader.php:35
+msgid "Getting content length is not supported."
+msgstr ""
+
+#: class.pop_uploader.php:90
+#, php-format
+msgid "increase post_max_size and upload_max_filesize to %s"
+msgstr ""
+
+#: class.pop_uploader.php:114
+msgid "Server error. Upload directory isn't writable."
+msgstr ""
+
+#: class.pop_uploader.php:118
+msgid "No files were uploaded."
+msgstr ""
+
+#: class.pop_uploader.php:124
+msgid "File is empty"
+msgstr ""
+
+#: class.pop_uploader.php:128
+msgid "File is too large"
+msgstr ""
+
+#: class.pop_uploader.php:138
+#, php-format
+msgid "File has an invalid extension, it should be one of %s"
+msgstr ""
+
+#: class.pop_uploader.php:155
+msgid "Could not save uploaded file."
+msgstr ""
+
+#: class.pop_uploader.php:155
+msgid "The upload was cancelled, or server error encountered"
+msgstr ""
+

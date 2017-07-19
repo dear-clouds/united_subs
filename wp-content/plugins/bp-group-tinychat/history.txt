@@ -1,0 +1,5 @@
+Version 1.3 ( 12/2013 )
+--------------------------------------------------------------
+
+- Fix all bugs about chatroom name, embed... Don't install old version.
+

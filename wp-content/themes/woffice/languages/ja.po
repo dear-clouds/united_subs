@@ -1,0 +1,5192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woffice\n"
+"POT-Creation-Date: 2015-10-04 19:57+0100\n"
+"PO-Revision-Date: 2015-10-04 19:57+0100\n"
+"Last-Translator: \n"
+"Language-Team: Tagengo Network Inc. <info@tagengo.jp>\n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;_e;_n:1,2;__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:11
+msgid "404 Error. Not found..."
+msgstr "エラー 404"
+
+#: ../404.php:27 ../content-none.php:20
+msgid "Nothing Found"
+msgstr "何も見つかりません。"
+
+#: ../404.php:33
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"申し訳ありませんが、検索条件に一致する投稿がありませんでした。他のキーワード"
+"で、もう一度検索しなおしてください。"
+
+#: ../404.php:37 ../content-none.php:30 ../content-private.php:33
+msgid "Back on the home page"
+msgstr "ホームへ戻る"
+
+#: ../archive.php:20
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr "日別アーカイブ<span>%s</span>"
+
+#: ../archive.php:22
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr "月別アーカイブ<span>%s</span>"
+
+#: ../archive.php:24
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr "年別アーカイブ<span>%s</span>"
+
+#: ../archive.php:27 ../taxonomy-directory-category.php:12
+msgid " Archives"
+msgstr "アーカイブ"
+
+#: ../archive.php:29
+msgid "Wiki Articles"
+msgstr "Wiki の記事"
+
+#: ../archive.php:31
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:23
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:25
+msgid "Projects"
+msgstr "プロジェクト"
+
+#: ../archive.php:33
+msgid "Archives"
+msgstr "アーカイブ"
+
+#: ../buddypress.php:33 ../content-page.php:18 ../single-wiki.php:66
+#: ../inc/buddypress.php:266 ../page-templates/projects.php:48
+#: ../page-templates/wiki.php:46
+msgid "Edit"
+msgstr "編集"
+
+#: ../category.php:12
+#, php-format
+msgid "Category Archives: <span>%s</span>"
+msgstr "カテゴリーアーカイブ: %s"
+
+#: ../comments.php:24
+#, php-format
+msgid "<i class=\"fa fa-comment\"></i> One comment"
+msgid_plural "<i class=\"fa fa-comments\"></i> %1$s comments"
+msgstr[0] "<i class=“fa fa-comment”></i> コメント：%1$s 件"
+
+#: ../comments.php:34 ../buddypress/groups/single/forum/edit.php:10
+msgid "Reply"
+msgstr "返信"
+
+#: ../comments.php:45
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: ../comments.php:46
+msgid "<i class=\"fa fa-chevron-left\"></i> Older Comments"
+msgstr "<i class=“fa fa-chevron-left”></i>過去のコメント"
+
+#: ../comments.php:47
+msgid "Newer Comments <i class=\"fa fa-chevron-right\"></i>"
+msgstr "新しいコメント <i class=\"fa fa-chevron-right\"></i>"
+
+#: ../comments.php:52
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: ../comments.php:67
+msgid "Leave a Reply"
+msgstr "コメントを投稿する"
+
+#: ../comments.php:68
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "%s に返信する"
+
+#: ../comments.php:69
+msgid "Cancel Reply"
+msgstr "返信をキャンセル"
+
+#: ../comments.php:70 ../inc/hooks.php:804
+msgid "Post Comment"
+msgstr "コメントを投稿"
+
+#: ../content-masonry.php:34 ../inc/hooks.php:782 ../inc/hooks.php:785
+msgid ", "
+msgstr ","
+
+#: ../content-masonry.php:47
+msgid "Read more"
+msgstr "続きを読む"
+
+#: ../content-none.php:26
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+"申し訳御座いません。一致するものがありませんでした。検索する事で関連記事が見"
+"つかるかもしれません。"
+
+#: ../content-private.php:20
+msgid "Private content here"
+msgstr "プライベートなコンテンツはこちら"
+
+#: ../content-private.php:24
+msgid "Apologies, you do not have the right to access to this page."
+msgstr "申し訳ございません。このページを表示する権限がありません。"
+
+#: ../content-private.php:28
+msgid "You may just need to sign in to see the page content."
+msgstr "ページのコンテンツを参照してくださいにログインする必要があります。"
+
+#: ../content-private.php:35
+msgid "Sign in"
+msgstr "サインイン"
+
+#: ../content.php:57
+msgid "Read More"
+msgstr "続きを読む"
+
+#: ../header.php:106
+msgid "Hi"
+msgstr "こんにちは！"
+
+#: ../header.php:147 ../inc/hooks.php:923
+msgid "View your shopping cart"
+msgstr "カートを見る"
+
+#: ../index.php:75
+msgid "New Blog Article"
+msgstr "新しいブログ記事"
+
+#: ../search.php:10
+#, php-format
+msgid "Search Results for: %s"
+msgstr "%sの検索結果"
+
+#: ../single-project.php:14 ../single-wiki.php:14 ../single.php:15
+#: ../inc/frontend.php:62
+msgid "Please enter a title."
+msgstr "タイトルを入力してください。"
+
+#: ../single-project.php:122
+msgid "Project's Members"
+msgstr "プロジェクトのメンバー"
+
+#: ../single-project.php:151
+msgid "Project's Links"
+msgstr "プロジェクトのリンク"
+
+#: ../single-project.php:193 ../single-wiki.php:120 ../single.php:88
+#: ../inc/frontend.php:251
+msgid "Article's Title:"
+msgstr "記事のタイトル:"
+
+#: ../single-project.php:199 ../single-wiki.php:126 ../single.php:94
+#: ../inc/frontend.php:258
+msgid "Please enter a title"
+msgstr "タイトルを入力してください。"
+
+#: ../single-project.php:204 ../single-wiki.php:131 ../single.php:99
+#: ../inc/frontend.php:387
+msgid "Article's Content:"
+msgstr "記事の内容："
+
+#: ../single-project.php:217
+msgid "Update Project"
+msgstr "プロジェクトの更新"
+
+#: ../single-project.php:274 ../single-wiki.php:158
+msgid "Comments are closed..."
+msgstr "コメントは受け付けていません。"
+
+#: ../single-wiki.php:62
+#: ../framework-customizations/extensions/woffice-projects/helpers.php:13
+#: ../inc/buddypress.php:263
+msgid "View"
+msgstr "表示"
+
+#: ../single-wiki.php:71
+#: ../framework-customizations/extensions/woffice-projects/helpers.php:51
+msgid "Comments"
+msgstr "コメント"
+
+#: ../single-wiki.php:76
+msgid "Revisions"
+msgstr "リビジョン"
+
+#: ../single-wiki.php:84
+#: ../framework-customizations/extensions/woffice-projects/helpers.php:62
+msgid "Are you sure you wish to delete article :"
+msgstr "本当に削除しますか？"
+
+#: ../single-wiki.php:85
+#: ../buddypress/members/single/messages/messages-loop.php:76
+#: ../buddypress/members/single/messages/single.php:28
+#: ../framework-customizations/extensions/woffice-projects/helpers.php:63
+msgid "Delete"
+msgstr "削除"
+
+#: ../single-wiki.php:144 ../single.php:111
+msgid "Update Article"
+msgstr "記事を更新"
+
+#: ../single-wiki.php:166
+msgid "This post was last modified by"
+msgstr "この記事の最終更新したメンバー："
+
+#: ../single-wiki.php:167 ../single-wiki.php:184
+#: ../framework-customizations/extensions/woffice-birthdays/class-fw-extension-woffice-birthdays.php:263
+msgid " on"
+msgstr "に"
+
+#: ../single-wiki.php:179
+msgid "This article has not been revised since publication."
+msgstr "この記事は、公開以来改訂されていないが。"
+
+#: ../single-wiki.php:183
+msgid "This post was created by"
+msgstr "この記事の作成者："
+
+#: ../single.php:68
+msgid "Edit Post"
+msgstr "投稿を編集"
+
+#: ../single.php:117 ../inc/frontend.php:412
+msgid "Go Back"
+msgstr "戻る"
+
+#: ../bbpress/form-topic.php:41
+#, php-format
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr "編集中 &ldquo;%s&rdquo;"
+
+#: ../bbpress/form-topic.php:43
+#, php-format
+msgid "Create New Topic in &ldquo;%s&rdquo;"
+msgstr "&ldquo;%s&rdquo;に新しいトピックを作成"
+
+#: ../bbpress/form-topic.php:43
+msgid "Create New Topic"
+msgstr "新規ピックを作成"
+
+#: ../bbpress/form-topic.php:53
+msgid ""
+"This forum is marked as closed to new topics, however your posting "
+"capabilities still allow you to do so."
+msgstr ""
+"このフォーラムに新しいトピック作れないようにマークされています。しかし、あな"
+"たには投稿することができます。"
+
+#: ../bbpress/form-topic.php:61
+msgid "Your account has the ability to post unrestricted HTML content."
+msgstr "あなたのアカウントは無制限のHTMLコンテンツを投稿することができます。"
+
+#: ../bbpress/form-topic.php:75
+#, php-format
+msgid "Topic Title (Maximum Length: %d):"
+msgstr "トピックのタイトル (最大長: %d)。"
+
+#: ../bbpress/form-topic.php:90
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes:"
+msgstr ""
+"次の<abbr title=\"HyperText Markup Language\">HTML</abbr> タグと属性を使用で"
+"きます："
+
+#: ../bbpress/form-topic.php:101
+msgid "Topic Tags:"
+msgstr "トピックタグ："
+
+#: ../bbpress/form-topic.php:114
+msgid "Forum:"
+msgstr "掲示板："
+
+#: ../bbpress/form-topic.php:117
+msgid "(No Forum)"
+msgstr "(掲示板がありません)"
+
+#: ../bbpress/form-topic.php:133
+msgid "Topic Type:"
+msgstr "トピックの種類："
+
+#: ../bbpress/form-topic.php:145
+msgid "Topic Status:"
+msgstr "トピックのステータス："
+
+#: ../bbpress/form-topic.php:164
+msgid "Notify the author of follow-up replies via email"
+msgstr "フォローアップの作成者にEメールで通知します。"
+
+#: ../bbpress/form-topic.php:168
+msgid "Notify me of follow-up replies via email"
+msgstr "私にフォローアップの返事をEメールで通知する。"
+
+#: ../bbpress/form-topic.php:184
+msgid "Keep a log of this edit:"
+msgstr "この編集のログを保管する："
+
+#: ../bbpress/form-topic.php:188
+msgid "Optional reason for editing:"
+msgstr "編集オプションの理由:"
+
+#: ../bbpress/form-topic.php:203
+msgid "Submit"
+msgstr "送信"
+
+#: ../bbpress/form-topic.php:226
+#, php-format
+msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+msgstr ""
+"掲示板 &#8216;%s&#8217; は閉鎖されているので、返信をすることができません。"
+
+#: ../bbpress/form-topic.php:234
+msgid "You cannot create new topics."
+msgstr "新しいトピックを作成することはできません。"
+
+#: ../bbpress/form-topic.php:234
+msgid "You must be logged in to create new topics."
+msgstr "新しいトピックを作成するはログインしなければなりません。"
+
+#: ../bbpress/loop-replies.php:18 ../bbpress/loop-replies.php:70
+msgid "Author"
+msgstr "作成者"
+
+#: ../bbpress/loop-replies.php:24 ../bbpress/loop-replies.php:76
+#: ../framework-customizations/theme/options/posts.php:15
+msgid "Posts"
+msgstr "投稿"
+
+#: ../bbpress/loop-replies.php:42 ../bbpress/loop-replies.php:80
+msgid "Replies"
+msgstr "返事"
+
+#: ../bbpress/loop-single-reply.php:21
+msgid "in reply to: "
+msgstr "返信先："
+
+#: ../bbpress/loop-single-topic.php:60
+#, php-format
+msgid "Started by: %1$s"
+msgstr "%1$sより開始"
+
+#: ../bbpress/loop-single-topic.php:68
+#, php-format
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr "・<a href=\"%1$s\">%2$s</a>"
+
+#: ../bbpress/loop-topics.php:19
+msgid "Topic"
+msgstr "トピック"
+
+#: ../buddypress/activity/activity-loop.php:20
+msgid "Load More"
+msgstr "さらに読み込む"
+
+#: ../buddypress/activity/activity-loop.php:34
+msgid "Sorry, there was no activity found. Please try a different filter."
+msgstr "条件に一致するアクティビティはありません。別の条件でお試しください。"
+
+#: ../buddypress/activity/comment.php:27
+#, php-format
+msgid ""
+"<a href=\"%1$s\">%2$s</a> replied <a href=\"%3$s\" class=\"activity-time-"
+"since\"><span class=\"time-since\">%4$s</span></a>"
+msgstr ""
+"<a href=\\”%1$s\\”>%2$s</a> の返信 (<a href=\\”%3$s\\” class=\\”activity-"
+"time-since\\”><span class=\\”time-since\\”>%4$s</span></a>)"
+
+#: ../buddypress/activity/entry.php:50
+msgid "View Conversation"
+msgstr "詳細"
+
+#: ../buddypress/activity/entry.php:113
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: ../buddypress/activity/index.php:27
+#, php-format
+msgid "All Members <span>%s</span>"
+msgstr "すべてのメンバー <span>%s</span>"
+
+#: ../buddypress/activity/index.php:37
+#, php-format
+msgid "My Friends <span>%s</span>"
+msgstr "友達 <span>%s</span>"
+
+#: ../buddypress/activity/index.php:49 ../buddypress/groups/index.php:26
+#, php-format
+msgid "My Groups <span>%s</span>"
+msgstr "私のグループ<span>%s</span>"
+
+#: ../buddypress/activity/index.php:59
+#, php-format
+msgid "My Favorites <span>%s</span>"
+msgstr "お気に入り <span>%s</span>"
+
+#: ../buddypress/activity/index.php:67 ../inc/buddypress.php:242
+msgid "Mentions"
+msgstr "つぶやき"
+
+#: ../buddypress/activity/index.php:85
+#: ../buddypress/groups/single/activity.php:3
+msgid "RSS"
+msgstr "RSS"
+
+#: ../buddypress/activity/index.php:90
+#: ../buddypress/groups/single/activity.php:8
+#: ../buddypress/members/single/activity.php:18
+msgid "Show:"
+msgstr "表示："
+
+#: ../buddypress/activity/index.php:92
+#: ../buddypress/groups/single/activity.php:10
+#: ../buddypress/members/single/activity.php:20
+msgid "&mdash; Everything &mdash;"
+msgstr "&mdash; すべて &mdash;"
+
+#: ../buddypress/activity/post-form.php:23
+#, php-format
+msgid "What's new in %s, %s?"
+msgstr "%sになにか新しいことありますか、%s?"
+
+#: ../buddypress/activity/post-form.php:25
+#, php-format
+msgid "What's new, %s?"
+msgstr "新しいことありますか、%s?"
+
+#: ../buddypress/activity/post-form.php:44
+msgid "Post in"
+msgstr "投稿先"
+
+#: ../buddypress/activity/post-form.php:47
+#: ../buddypress/members/single/profile/profile-wp.php:8
+msgid "My Profile"
+msgstr "プロフィール"
+
+#: ../buddypress/groups/create.php:34 ../buddypress/groups/single/admin.php:16
+msgid "Group Name (required)"
+msgstr "グループ名 (必須)"
+
+#: ../buddypress/groups/create.php:39 ../buddypress/groups/single/admin.php:19
+msgid "Group Description (required)"
+msgstr "グループの説明（必須）"
+
+#: ../buddypress/groups/create.php:56 ../buddypress/groups/single/admin.php:56
+msgid "Privacy Options"
+msgstr "プライバシーオプション"
+
+#: ../buddypress/groups/create.php:59 ../buddypress/groups/single/admin.php:61
+msgid "This is a public group"
+msgstr "これは公開グループです。"
+
+#: ../buddypress/groups/create.php:61 ../buddypress/groups/single/admin.php:63
+msgid "Any site member can join this group."
+msgstr "サイトのメンバーなら誰でもこのグループに参加できます。"
+
+#: ../buddypress/groups/create.php:62 ../buddypress/groups/create.php:73
+#: ../buddypress/groups/single/admin.php:64
+#: ../buddypress/groups/single/admin.php:74
+msgid ""
+"This group will be listed in the groups directory and in search results."
+msgstr "このグループは、グループのディレクトリや検索結果に表示されます。"
+
+#: ../buddypress/groups/create.php:63 ../buddypress/groups/single/admin.php:65
+msgid "Group content and activity will be visible to any site member."
+msgstr ""
+"グループの内容やアクティビティは、サイトのすべてのメンバーに表示します。"
+
+#: ../buddypress/groups/create.php:69 ../buddypress/groups/single/admin.php:71
+msgid "This is a private group"
+msgstr "これはプライベート グループです。"
+
+#: ../buddypress/groups/create.php:72 ../buddypress/groups/single/admin.php:73
+msgid "Only users who request membership and are accepted can join the group."
+msgstr ""
+"メンバーシップを要求し、受け入れられているユーザーのみがグループに参加するこ"
+"とができます。"
+
+#: ../buddypress/groups/create.php:74 ../buddypress/groups/create.php:85
+#: ../buddypress/groups/single/admin.php:75
+#: ../buddypress/groups/single/admin.php:85
+msgid ""
+"Group content and activity will only be visible to members of the group."
+msgstr ""
+"グループのコンテンツやアクティビティはそのグループのメンバーにのみ表示されま"
+"す。"
+
+#: ../buddypress/groups/create.php:80 ../buddypress/groups/single/admin.php:81
+msgid "This is a hidden group"
+msgstr "これは非表示グループです"
+
+#: ../buddypress/groups/create.php:83 ../buddypress/groups/single/admin.php:83
+msgid "Only users who are invited can join the group."
+msgstr "招待されたユーザーのみがグループに参加することができます。"
+
+#: ../buddypress/groups/create.php:84 ../buddypress/groups/single/admin.php:84
+msgid ""
+"This group will not be listed in the groups directory or search results."
+msgstr "このグループは、グループのディレクトリや検索結果に表示されません。"
+
+#: ../buddypress/groups/create.php:90 ../buddypress/groups/single/admin.php:92
+msgid "Group Invitations"
+msgstr "グループへの招待"
+
+#: ../buddypress/groups/create.php:92 ../buddypress/groups/single/admin.php:94
+msgid "Which members of this group are allowed to invite others?"
+msgstr "このグループに他のユーザーを招待できるメンバーは？"
+
+#: ../buddypress/groups/create.php:97 ../buddypress/groups/single/admin.php:99
+msgid "All group members"
+msgstr "すべてのグループメンバー"
+
+#: ../buddypress/groups/create.php:102
+#: ../buddypress/groups/single/admin.php:104
+msgid "Group admins and mods only"
+msgstr "グループ管理者とモデレーターのみ"
+
+#: ../buddypress/groups/create.php:107
+#: ../buddypress/groups/single/admin.php:109
+msgid "Group admins only"
+msgstr "グループの管理者のみ"
+
+#: ../buddypress/groups/create.php:113
+msgid "Group Forums"
+msgstr "グループの掲示板"
+
+#: ../buddypress/groups/create.php:117
+msgid "Should this group have a forum?"
+msgstr "このグループは、掲示板を持っている必要がありますか？"
+
+#: ../buddypress/groups/create.php:120
+#: ../buddypress/groups/single/admin.php:47
+msgid "Enable discussion forum"
+msgstr "ディスカッション掲示板を有効化する"
+
+#: ../buddypress/groups/create.php:124
+#, php-format
+msgid ""
+"<strong>Attention Site Admin:</strong> Group forums require the <a href=\"%s"
+"\">correct setup and configuration</a> of a bbPress installation."
+msgstr ""
+"<strong>サイト管理者へ:</strong> グループフォーラムを使うには、bbPress の<a "
+"href=\\”%s\\”>正しく設置および設定</a>している必要があります。"
+
+#: ../buddypress/groups/create.php:150
+#: ../buddypress/groups/single/admin.php:127
+msgid ""
+"Upload an image to use as a profile photo for this group. The image will be "
+"shown on the main group page, and in search results."
+msgstr ""
+"このグループのプロフィールのサムネイルとして使用する画像をアップロードしま"
+"す。画像は、メイングループのページと検索結果に表示されます。"
+
+#: ../buddypress/groups/create.php:158
+msgid ""
+"To skip the group profile photo upload process, hit the \"Next Step\" button."
+msgstr ""
+"グループ プロフィール写真のアップロード処理をスキップするには、「次のステッ"
+"プ」ボタンを押します。"
+
+#: ../buddypress/groups/create.php:165
+msgid "Crop Group Profile Photo"
+msgstr "グループプロフィール写真を切り取る"
+
+#: ../buddypress/groups/create.php:212
+msgid "Select people to invite from your friends list."
+msgstr "フレンドリストから招待するユーザーを選択します。"
+
+#: ../buddypress/groups/create.php:230
+#: ../buddypress/groups/single/invites-loop.php:52
+msgid "Remove Invite"
+msgstr "招待を削除"
+
+#: ../buddypress/groups/create.php:247
+msgid ""
+"Once you have built up friend connections you will be able to invite others "
+"to your group."
+msgstr ""
+"フレンドコネクションを構築すると、あなたのグループに他のユーザーを招待するこ"
+"とができます。"
+
+#: ../buddypress/groups/groups-loop.php:47
+#: ../buddypress/groups/single/group-header.php:42
+#, php-format
+msgid "active %s"
+msgstr "アクティブ: %s"
+
+#: ../buddypress/groups/groups-loop.php:95
+msgid "There were no groups found."
+msgstr "グループが見つかりません"
+
+#: ../buddypress/groups/index.php:23
+#, php-format
+msgid "All Groups <span>%s</span>"
+msgstr "すべてのグループ <span>%s</span>"
+
+#: ../buddypress/groups/single/admin.php:26
+msgid "Notify group members of these changes via email"
+msgstr "変更をEメールでグループメンバーに通知します"
+
+#: ../buddypress/groups/single/admin.php:137
+msgid ""
+"If you'd like to remove the existing group profile photo but not upload a "
+"new one, please use the delete group profile photo button."
+msgstr ""
+"グループプロフィール写真を削除し、新しいものをアップロードしない場合、グルー"
+"ププロフィール写真の削除ボタンを使ってください。"
+
+#: ../buddypress/groups/single/admin.php:139
+msgid "Delete Group Profile Photo"
+msgstr "グループプロファイル写真を削除"
+
+#: ../buddypress/groups/single/admin.php:149
+msgid "Crop Profile Photo"
+msgstr "プロフィール写真を切り抜く"
+
+#: ../buddypress/groups/single/admin.php:177
+msgid "Administrators"
+msgstr "管理者"
+
+#: ../buddypress/groups/single/admin.php:185
+#: ../buddypress/groups/single/admin.php:212
+#, php-format
+msgid "Profile picture of %s"
+msgstr "%s さんのプロフィール画像"
+
+#: ../buddypress/groups/single/admin.php:190
+#: ../buddypress/groups/single/admin.php:217
+msgid "Demote to Member"
+msgstr "一般メンバーに降格"
+
+#: ../buddypress/groups/single/admin.php:205
+msgid "Moderators"
+msgstr "モデレーター"
+
+#: ../buddypress/groups/single/admin.php:216
+#: ../buddypress/groups/single/admin.php:272
+msgid "Promote to Admin"
+msgstr "管理者に昇格させる"
+
+#: ../buddypress/groups/single/admin.php:231
+#: ../framework-customizations/extensions/shortcodes/shortcodes/members/config.php:8
+msgid "Members"
+msgstr "メンバー"
+
+#: ../buddypress/groups/single/admin.php:260
+msgid "(banned)"
+msgstr "(利用禁止)"
+
+#: ../buddypress/groups/single/admin.php:266
+msgid "Remove Ban"
+msgstr "利用禁止を解除"
+
+#: ../buddypress/groups/single/admin.php:270
+msgid "Kick &amp; Ban"
+msgstr "キック ・禁止"
+
+#: ../buddypress/groups/single/admin.php:271
+msgid "Promote to Mod"
+msgstr "モデレーターに昇格"
+
+#: ../buddypress/groups/single/admin.php:276
+msgid "Remove from group"
+msgstr "グループから削除"
+
+#: ../buddypress/groups/single/admin.php:290
+msgid "This group has no members."
+msgstr "このグループにはメンバーはありません。"
+
+#: ../buddypress/groups/single/admin.php:324
+msgid ""
+"WARNING: Deleting this group will completely remove ALL content associated "
+"with it. There is no way back, please be careful with this option."
+msgstr ""
+"警告：このグループを削除すると、完全にそれに関連付けられているすべてのコンテ"
+"ンツを削除します。バック方法はありません、このオプションに注意してください。"
+
+#: ../buddypress/groups/single/admin.php:327
+msgid "I understand the consequences of deleting this group."
+msgstr "私はこのグループの削除の結果を理解しています。"
+
+#: ../buddypress/groups/single/forum.php:19
+msgid "New Topic"
+msgstr "新しいトピック"
+
+#: ../buddypress/groups/single/forum.php:27
+#: ../buddypress/groups/single/forum/edit.php:16
+#: ../buddypress/groups/single/forum/topic.php:17
+msgid "Forum Directory"
+msgstr "フォーラムディレクトリ"
+
+#: ../buddypress/groups/single/forum.php:36
+#: ../buddypress/members/single/blogs.php:19
+#: ../buddypress/members/single/forums.php:18
+#: ../buddypress/members/single/friends.php:20
+#: ../buddypress/members/single/groups.php:20
+msgid "Order By:"
+msgstr "並べ替え："
+
+#: ../buddypress/groups/single/forum.php:38
+#: ../buddypress/members/single/blogs.php:21
+#: ../buddypress/members/single/forums.php:20
+#: ../buddypress/members/single/friends.php:22
+#: ../buddypress/members/single/groups.php:22
+msgid "Last Active"
+msgstr "最後のアクティビティ"
+
+#: ../buddypress/groups/single/forum.php:39
+#: ../buddypress/members/single/forums.php:21
+msgid "Most Posts"
+msgstr "投稿数"
+
+#: ../buddypress/groups/single/forum.php:40
+#: ../buddypress/members/single/forums.php:22
+msgid "Unreplied"
+msgstr "まだ返信されていません"
+
+#: ../buddypress/groups/single/forum.php:69
+msgid "You will auto join this group when you start a new topic."
+msgstr "新しいトピックを起動するときは、このグループに自動的に参加します。"
+
+#: ../buddypress/groups/single/forum.php:73
+msgid "Post a New Topic:"
+msgstr "新しいトピックを投稿："
+
+#: ../buddypress/groups/single/forum.php:75
+#: ../buddypress/groups/single/forum/edit.php:47
+msgid "Title:"
+msgstr "タイトル:"
+
+#: ../buddypress/groups/single/forum.php:78
+#: ../buddypress/groups/single/forum/edit.php:50
+msgid "Content:"
+msgstr "内容:"
+
+#: ../buddypress/groups/single/forum.php:81
+#: ../buddypress/groups/single/forum/edit.php:53
+msgid "Tags (comma separated):"
+msgstr "タグ（カンマ区切り）："
+
+#: ../buddypress/groups/single/group-header.php:11
+msgid "Group Admins"
+msgstr "グループ管理者"
+
+#: ../buddypress/groups/single/group-header.php:20
+msgid "Group Mods"
+msgstr "グループモデレーター"
+
+#: ../buddypress/groups/single/invites-loop.php:81
+msgid "Select friends to invite."
+msgstr "招待する友人を選択します。"
+
+#: ../buddypress/groups/single/members.php:79
+msgid "No members were found."
+msgstr "メンバーが見つかりませんでした。"
+
+#: ../buddypress/groups/single/request-membership.php:4
+#, php-format
+msgid "You are requesting to become a member of the group '%s'."
+msgstr "あなたはグループ '%s'のメンバーになることを要求している。"
+
+#: ../buddypress/groups/single/request-membership.php:7
+msgid "Comments (optional)"
+msgstr "コメント (オプション)"
+
+#: ../buddypress/groups/single/send-invites.php:24
+msgid "Group invitations can only be extended to friends."
+msgstr "グループへの招待は、友人にのみ拡張できます。"
+
+#: ../buddypress/groups/single/send-invites.php:25
+msgid ""
+"Once you've made some friendships, you'll be able to invite those members to "
+"this group."
+msgstr "いくつかのフレンドを作った場合、このグループに招待することができます。"
+
+#: ../buddypress/groups/single/send-invites.php:33
+msgid "All of your friends already belong to this group."
+msgstr "あなたのすべての友達は既にこのグループに属しています。"
+
+#: ../buddypress/groups/single/forum/edit.php:25
+msgid "Edit:"
+msgstr "編集："
+
+#: ../buddypress/groups/single/forum/edit.php:87
+msgid "This topic does not exist."
+msgstr "このトピックは存在しません。"
+
+#: ../buddypress/groups/single/forum/topic.php:9
+msgid "New Reply"
+msgstr "新しい返信"
+
+#: ../buddypress/groups/single/forum/topic.php:32
+msgid "Topic tags:"
+msgstr "トピックタグ："
+
+#: ../buddypress/groups/single/forum/topic.php:81
+#, php-format
+msgid "%1$s said %2$s:"
+msgstr "%1$s は %2$s 言いました:"
+
+#: ../buddypress/groups/single/forum/topic.php:119
+msgid "There are no posts for this topic."
+msgstr "このトピックの投稿はありません。"
+
+#: ../buddypress/groups/single/forum/topic.php:134
+msgid "You will auto join this group when you reply to this topic."
+msgstr "あなたは、このトピックに返信するときは、自動的にグループに参加します。"
+
+#: ../buddypress/groups/single/forum/topic.php:139
+msgid "Add a reply:"
+msgstr "返信する:"
+
+#: ../buddypress/groups/single/forum/topic.php:155
+msgid "This topic is closed, replies are no longer accepted."
+msgstr "このトピックの返信の受付を終了いたしました。"
+
+#: ../buddypress/members/activate.php:14
+msgid ""
+"Your account was activated successfully! Your account details have been sent "
+"to you in a separate email."
+msgstr ""
+"アカウントが有効化されました ! アカウントの詳細は別のメールで送られてきます。"
+
+#: ../buddypress/members/activate.php:16
+#, php-format
+msgid ""
+"Your account was activated successfully! You can now <a href=\"%s\">log in</"
+"a> with the username and password you provided when you signed up."
+msgstr ""
+"アカウントを有効化しました。登録時に指定したユーザー名とパスワードで<a href="
+"\\”%s\\”>ログイン</a>できます。"
+
+#: ../buddypress/members/activate.php:21
+msgid "Please provide a valid activation key."
+msgstr "有効なアクティベーションキーを入力してください。"
+
+#: ../buddypress/members/activate.php:25
+msgid "Activation Key:"
+msgstr "アクティベーションキー"
+
+#: ../buddypress/members/members-loop.php:145
+msgid "Sorry, no members were found."
+msgstr "申し訳ありませんが、メンバーが見つかりませんでした。"
+
+#: ../buddypress/members/register.php:30
+msgid "User registration is currently not allowed."
+msgstr "現在、ユーザ登録は許されてまいせん。"
+
+#: ../buddypress/members/register.php:49
+msgid ""
+"Registering for this site is easy. Just fill in the fields below, and we'll "
+"get a new account set up for you in no time."
+msgstr ""
+"このサイトへの登録は簡単に行えます。下の欄に入力してください。新しいアカウン"
+"トを作成します。"
+
+#: ../buddypress/members/register.php:64
+msgid "Account Details"
+msgstr "基本情報"
+
+#: ../buddypress/members/register.php:66 ../inc/register.php:36
+msgid "Username"
+msgstr "ユーザー名"
+
+#: ../buddypress/members/register.php:66 ../buddypress/members/register.php:77
+#: ../buddypress/members/register.php:88
+#: ../buddypress/members/register.php:100
+#: ../buddypress/members/register.php:249
+#: ../buddypress/members/register.php:265
+msgid "(required)"
+msgstr "(必須)"
+
+#: ../buddypress/members/register.php:77
+msgid "Email Address"
+msgstr "Eメール"
+
+#: ../buddypress/members/register.php:88
+msgid "Choose a Password"
+msgstr "パスワードを入力"
+
+#: ../buddypress/members/register.php:100
+msgid "Confirm Password"
+msgstr "パスワードの確認"
+
+#: ../buddypress/members/register.php:146 ../inc/register.php:102
+msgid "Profile Details"
+msgstr "プロフィールの詳細"
+
+#: ../buddypress/members/register.php:168
+#: ../buddypress/members/register.php:183
+#, php-format
+msgid ""
+"This field can be seen by: <span class=\"current-visibility-level\">%s</span>"
+msgstr ""
+"このフィールドには<span class=\"current-visibility-level\">%s</span>が見るこ"
+"とができます"
+
+#: ../buddypress/members/register.php:173
+msgid "Who can see this field?"
+msgstr "誰がこのフィールドを見ることができますか？"
+
+#: ../buddypress/members/register.php:178
+msgid "Close"
+msgstr "閉じる"
+
+#: ../buddypress/members/register.php:243
+msgid "Blog Details"
+msgstr "ブログ詳細"
+
+#: ../buddypress/members/register.php:245
+msgid "Yes, I'd like to create a new site"
+msgstr "はい、私は新しいサイトを作成したいのですが"
+
+#: ../buddypress/members/register.php:249
+msgid "Blog URL"
+msgstr "ブログのURL"
+
+#: ../buddypress/members/register.php:265
+msgid "Site Title"
+msgstr "サイトのタイトル"
+
+#: ../buddypress/members/register.php:276
+msgid ""
+"I would like my site to appear in search engines, and in public listings "
+"around this network."
+msgstr "サイトを検索エンジンやこのネットワーク内の公開リストに表示させます。"
+
+#: ../buddypress/members/register.php:286
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:24
+msgid "Yes"
+msgstr "はい"
+
+#: ../buddypress/members/register.php:287
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:28
+msgid "No"
+msgstr "いいえ"
+
+#: ../buddypress/members/register.php:355
+msgid ""
+"You have successfully created your account! To begin using this site you "
+"will need to activate your account via the email we have just sent to your "
+"address."
+msgstr ""
+"あなたのアカウントを作成しました! このサイトの使用を開始するには、Eメールに送"
+"信したリンクからアカウントを有効化にする必要があります。"
+
+#: ../buddypress/members/register.php:357
+msgid ""
+"You have successfully created your account! Please log in using the username "
+"and password you have just created."
+msgstr ""
+"あなたのアカウントを作成しました!ユーザー名と作成したパスワードを使用してログ"
+"インしてください。"
+
+#: ../buddypress/members/single/blogs.php:22
+msgid "Newest"
+msgstr "最新"
+
+#: ../buddypress/members/single/blogs.php:23
+#: ../buddypress/members/single/friends.php:24
+#: ../buddypress/members/single/groups.php:25
+msgid "Alphabetical"
+msgstr "アルファベット順"
+
+#: ../buddypress/members/single/friends.php:23
+msgid "Newest Registered"
+msgstr "新規加入登録ユーザー"
+
+#: ../buddypress/members/single/groups.php:23
+msgid "Most Members"
+msgstr "メンバー"
+
+#: ../buddypress/members/single/groups.php:24
+msgid "Newly Created"
+msgstr "作成日時順"
+
+#: ../buddypress/members/single/friends/requests.php:37
+#: ../buddypress/members/single/groups/invites.php:23
+msgid "Accept"
+msgstr "承諾"
+
+#: ../buddypress/members/single/friends/requests.php:38
+#: ../buddypress/members/single/groups/invites.php:24
+msgid "Reject"
+msgstr "拒否"
+
+#: ../buddypress/members/single/friends/requests.php:68
+msgid "You have no pending friendship requests."
+msgstr "保留中の友達要求ありません。"
+
+#: ../buddypress/members/single/groups/invites.php:37
+msgid "You have no outstanding group invites."
+msgstr "未解決のグループの招待がありません"
+
+#: ../buddypress/members/single/messages/messages-loop.php:27
+#: ../buddypress/members/single/notifications/notifications-loop.php:6
+msgid "Select all"
+msgstr "すべてを選択"
+
+#: ../buddypress/members/single/messages/messages-loop.php:28
+msgid "From"
+msgstr "差出人"
+
+#: ../buddypress/members/single/messages/messages-loop.php:29
+msgid "Subject"
+msgstr "件名"
+
+#: ../buddypress/members/single/messages/messages-loop.php:30
+#: ../buddypress/members/single/notifications/notifications-loop.php:9
+#: ../inc/multiverso.php:103
+msgid "Actions"
+msgstr "アクション"
+
+#: ../buddypress/members/single/messages/messages-loop.php:46
+msgid "From:"
+msgstr "差出人："
+
+#: ../buddypress/members/single/messages/messages-loop.php:53
+msgid "To:"
+msgstr "宛先:"
+
+#: ../buddypress/members/single/messages/messages-loop.php:68
+#: ../inc/buddypress.php:284
+msgid "Read"
+msgstr "読み済み"
+
+#: ../buddypress/members/single/messages/messages-loop.php:72
+#: ../inc/buddypress.php:281
+msgid "Unread"
+msgstr "未読"
+
+#: ../buddypress/members/single/messages/messages-loop.php:102
+msgid "Sorry, no messages were found."
+msgstr "メッセージは見つかりませんでした。"
+
+#: ../buddypress/members/single/messages/notices-loop.php:36
+msgid "Sent:"
+msgstr "送信："
+
+#: ../buddypress/members/single/messages/notices-loop.php:54
+msgid "Sorry, no notices were found."
+msgstr "通知は見つかりませんでした。"
+
+#: ../buddypress/members/single/messages/single.php:14
+msgid "You are alone in this conversation."
+msgstr "この会話の中で一人です。"
+
+#: ../buddypress/members/single/messages/single.php:18
+#, php-format
+msgid "Conversation between %s recipients."
+msgstr "%s人の会話。"
+
+#: ../buddypress/members/single/messages/single.php:22
+#, php-format
+msgid "Conversation between %s and you."
+msgstr "あなたと%s人の会話。"
+
+#: ../buddypress/members/single/messages/single.php:90
+msgid "Send a Reply"
+msgstr "返信する"
+
+#: ../buddypress/members/single/notifications/feedback-no-notifications.php:7
+msgid "You have no unread notifications."
+msgstr "未読の通知がありません。"
+
+#: ../buddypress/members/single/notifications/feedback-no-notifications.php:11
+msgid "This member has no unread notifications."
+msgstr "このメンバは、未読の通知がありません。"
+
+#: ../buddypress/members/single/notifications/feedback-no-notifications.php:19
+msgid "You have no notifications."
+msgstr "通知はありません。"
+
+#: ../buddypress/members/single/notifications/feedback-no-notifications.php:23
+msgid "This member has no notifications."
+msgstr "このメンバーには通知がありません。"
+
+#: ../buddypress/members/single/notifications/notifications-loop.php:7
+msgid "Notification"
+msgstr "通知"
+
+#: ../buddypress/members/single/notifications/notifications-loop.php:8
+msgid "Date Received"
+msgstr "受信日時"
+
+#: ../buddypress/members/single/profile/change-avatar.php:1
+#: ../inc/buddypress.php:269
+msgid "Change Profile Photo"
+msgstr "プロフィール写真を変更する"
+
+#: ../buddypress/members/single/profile/change-avatar.php:7
+msgid ""
+"Your profile photo will be used on your profile and throughout the site. If "
+"there is a <a href=\"http://gravatar.com\">Gravatar</a> associated with your "
+"account email we will use that, or you can upload an image from your "
+"computer."
+msgstr ""
+"あなたのプロフィール写真は自分のプロフィールページとこのサイト全体で使用され"
+"ます。<a href=\"http://gravatar.com\">Gravatar</a>にあなたのメールアドレスで"
+"登録されたアバターがあればそのアバターを使用します。もしくは、ご自分のコン"
+"ピュータから画像をアップロードすることもできます。"
+
+#: ../buddypress/members/single/profile/change-avatar.php:14
+msgid ""
+"Click below to select a JPG, GIF or PNG format photo from your computer and "
+"then click 'Upload Image' to proceed."
+msgstr ""
+"ご自分のコンピュータから以下の JPG、GIF もしくは PNG フォーマットの画像をク"
+"リックして選択し、「画像のアップロード」をクリックして次に進んでください。"
+
+#: ../buddypress/members/single/profile/change-avatar.php:23
+msgid ""
+"If you'd like to delete your current profile photo but not upload a new one, "
+"please use the delete profile photo button."
+msgstr ""
+"新しいプロフィール写真をアップロードしないで今のプロフィール写真を削除したい"
+"場合、プロフィール写真削除ボタンを使ってください。"
+
+#: ../buddypress/members/single/profile/change-avatar.php:24
+msgid "Delete My Profile Photo"
+msgstr "プロフィル写真を削除"
+
+#: ../buddypress/members/single/profile/change-avatar.php:31
+msgid "Crop Your New Profile Photo"
+msgstr "新しいプロフィール写真の切り抜き"
+
+#: ../buddypress/members/single/profile/change-avatar.php:55
+msgid ""
+"Your profile photo will be used on your profile and throughout the site. To "
+"change your profile photo, please create an account with <a href=\"http://"
+"gravatar.com\">Gravatar</a> using the same email address as you used to "
+"register with this site."
+msgstr ""
+"あなたのプロフィール写真は自分のプロフィールページとこのサイト全体で使用され"
+"ます。プロフィール写真を変更するには、このサイトの登録時に使用したメールアド"
+"レスで<a href=\"http://gravatar.com\">Gravatar</a>のアカウントを作成してくだ"
+"さい。"
+
+#: ../buddypress/members/single/profile/profile-wp.php:8
+#, php-format
+msgid "%s's Profile"
+msgstr "%s のプロフィール"
+
+#: ../buddypress/members/single/profile/profile-wp.php:15
+#: ../framework-customizations/extensions/woffice-directory/settings-options.php:50
+#: ../framework-customizations/extensions/woffice-projects/helpers.php:176
+#: ../framework-customizations/theme/options/posts/project.php:78
+#: ../framework-customizations/theme/options/posts/project.php:95
+msgid "Name"
+msgstr "名前"
+
+#: ../buddypress/members/single/profile/profile-wp.php:24
+msgid "About Me"
+msgstr "自己紹介"
+
+#: ../buddypress/members/single/profile/profile-wp.php:33
+msgid "Website"
+msgstr "ウェブサイト"
+
+#: ../buddypress/members/single/profile/profile-wp.php:42
+msgid "Jabber"
+msgstr "Jabber"
+
+#: ../buddypress/members/single/profile/profile-wp.php:51
+msgid "AOL Messenger"
+msgstr "AOLメッセンジャー"
+
+#: ../buddypress/members/single/profile/profile-wp.php:60
+msgid "Yahoo Messenger"
+msgstr "Yahooメッセンジャー"
+
+#: ../buddypress/members/single/settings/capabilities.php:9
+msgid "This user is a spammer."
+msgstr "このユーザーは、スパム発信者です。"
+
+#: ../buddypress/members/single/settings/delete-account.php:7
+msgid ""
+"Deleting your account will delete all of the content you have created. It "
+"will be completely irrecoverable."
+msgstr ""
+"アカウントを削除すると作成したコンテンツがすべて削除されます。元に戻すことは"
+"できません。"
+
+#: ../buddypress/members/single/settings/delete-account.php:11
+msgid ""
+"Deleting this account will delete all of the content it has created. It will "
+"be completely irrecoverable."
+msgstr ""
+"アカウントを削除すると、作成したすべてのコンテンツが完全に消去され、復元でき"
+"なくなります。"
+
+#: ../buddypress/members/single/settings/delete-account.php:23
+msgid "I understand the consequences."
+msgstr "私は結果を理解します。"
+
+#: ../buddypress/members/single/settings/general.php:7
+msgid ""
+"Current Password <span>(required to update email or change current password)"
+"</span>"
+msgstr ""
+"現在のパスワード <span>(メールアドレスの更新やパスワード変更の際に必須)</"
+"span>"
+
+#: ../buddypress/members/single/settings/general.php:8
+msgid "Lost your password?"
+msgstr "パスワードをお忘れですか？"
+
+#: ../buddypress/members/single/settings/general.php:12
+msgid "Account Email"
+msgstr "Eメールアカウント"
+
+#: ../buddypress/members/single/settings/general.php:15
+msgid "Change Password <span>(leave blank for no change)</span>"
+msgstr "パスワード変更 <span>(変更しないなら空白のまま)</span>"
+
+#: ../buddypress/members/single/settings/general.php:16
+msgid "New Password"
+msgstr "新しいパスワード"
+
+#: ../buddypress/members/single/settings/general.php:18
+msgid "Repeat New Password"
+msgstr "新しいパスワードを再入力"
+
+#: ../buddypress/members/single/settings/notifications.php:4
+msgid "Send an email notice when:"
+msgstr "このときにEメール通知を送信する："
+
+#: ../buddypress/members/single/settings/profile.php:15
+msgid "Visibility"
+msgstr "表示"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/alert/config.php:5
+msgid "Alert Box"
+msgstr "アラートボックス"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/alert/config.php:6
+msgid "This is a box that you can customize with an icon and a background"
+msgstr "このボックスはアイコンと背景をカスタマイズすることができます。"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/alert/config.php:7
+#: ../framework-customizations/extensions/shortcodes/shortcodes/animated_number/config.php:10
+#: ../framework-customizations/extensions/shortcodes/shortcodes/bigbluebutton/config.php:10
+#: ../framework-customizations/extensions/shortcodes/shortcodes/contactform7/config.php:10
+#: ../framework-customizations/extensions/shortcodes/shortcodes/eventon/config.php:10
+#: ../framework-customizations/extensions/shortcodes/shortcodes/eventon_form/config.php:10
+#: ../framework-customizations/extensions/shortcodes/shortcodes/file-away/config.php:10
+#: ../framework-customizations/extensions/shortcodes/shortcodes/full/config.php:7
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/config.php:10
+#: ../framework-customizations/extensions/shortcodes/shortcodes/list/config.php:10
+#: ../framework-customizations/extensions/shortcodes/shortcodes/members/config.php:10
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/config.php:10
+#: ../framework-customizations/extensions/shortcodes/shortcodes/progressbar/config.php:8
+#: ../framework-customizations/extensions/shortcodes/shortcodes/trello/config.php:10
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/config.php:8
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_headlines/config.php:8
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/config.php:10
+msgid "Content Elements"
+msgstr "内容"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/alert/options.php:5
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_headlines/config.php:6
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_headlines/options.php:8
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:30
+#: ../framework-customizations/extensions/woffice-funfacts/includes/class-fw-widget-woffice-funfacts.php:49
+#: ../framework-customizations/extensions/woffice-map/includes/class-fw-widget-woffice-map.php:53
+#: ../framework-customizations/extensions/woffice-poll/includes/class-fw-widget-woffice-poll.php:51
+#: ../framework-customizations/extensions/woffice-projects/includes/class-fw-widget-woffice-projects
+#: copy.php:45
+#: ../framework-customizations/extensions/woffice-wiki/includes/class-fw-widget-woffice-wiki.php:46
+#: ../inc/multiverso.php:100 ../inc/multiverso.php:167
+#: ../inc/multiverso.php:253 ../inc/widgets/cf7/class-widget-cf7.php:38
+#: ../inc/widgets/eventon/class-widget-eventon.php:39
+#: ../inc/widgets/visualizer/class-widget-visualizer.php:38
+#: ../inc/widgets/wpml/class-widget-wpml.php:38
+msgid "Title"
+msgstr "タイトル"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/alert/options.php:6
+msgid "This is the title of the box."
+msgstr "これは、ボックスのタイトルです。"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/alert/options.php:10
+#: ../framework-customizations/extensions/shortcodes/shortcodes/file-away/options.php:8
+#: ../framework-customizations/extensions/shortcodes/shortcodes/full/options.php:5
+#: ../framework-customizations/extensions/woffice-funfacts/settings-options.php:29
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:10
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:38
+#: ../framework-customizations/theme/options/widgets.php:32
+#: ../framework-customizations/theme/options/posts/directory.php:48
+msgid "Content"
+msgstr "内容"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/alert/options.php:14
+msgid "This is the content of the box."
+msgstr "ボックスの内容です。"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/alert/options.php:17
+#: ../framework-customizations/extensions/shortcodes/shortcodes/progressbar/options.php:16
+#: ../framework-customizations/extensions/woffice-directory/settings-options.php:52
+#: ../framework-customizations/extensions/woffice-funfacts/settings-options.php:33
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:91
+#: ../framework-customizations/theme/options/widgets.php:36
+#: ../framework-customizations/theme/options/posts/directory.php:49
+#: ../framework-customizations/theme/options/posts/project.php:80
+msgid "Icon"
+msgstr "アイコン"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/alert/options.php:19
+msgid "The icon will be displayed in the background with a small opacity"
+msgstr "アイコンが少し不透明度を背景に表示されます。"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/alert/options.php:23
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:68
+#: ../framework-customizations/theme/options/header.php:62
+#: ../framework-customizations/theme/options/login.php:61
+#: ../framework-customizations/theme/options/menu.php:17
+msgid "Background color"
+msgstr "背景色"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/alert/options.php:25
+msgid ""
+"The background of the box, remember that the white color should come out."
+msgstr "背景色"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/animated_number/config.php:8
+msgid "Animated Number"
+msgstr "アニメーションナンバー"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/animated_number/config.php:9
+msgid ""
+"Show an animated number with a title under, it will takes the full width so "
+"you can wrap it in columns."
+msgstr ""
+"下にタイトル付のアニメーションナンバーを表示します。全幅がかかりますので、列"
+"にそれをラップすることができます。"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/animated_number/options.php:9
+msgid "The animated number"
+msgstr "アニメーションナンバー"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/animated_number/options.php:10
+msgid "Only number please or it will not work."
+msgstr "数字のみ！"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/animated_number/options.php:15
+msgid "Title under"
+msgstr "下のタイトル"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/bigbluebutton/config.php:8
+msgid "BigBlueutton Meetings"
+msgstr "BigBlueButtonミーティング"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/bigbluebutton/config.php:9
+msgid "Dropdown list to show all the meetings from your BigBluebutton account."
+msgstr ""
+"ドロップダウンリストでBigBluebuttonアカウントからのすべてのミーティングを表示"
+"する。"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/bigbluebutton/views/view.php:11
+msgid "Sorry, you need to install this plugin first"
+msgstr "最初にこのプラグインをインストールする必要があります。"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/column/options.php:5
+msgid "Extra Class to the column"
+msgstr "列にエキストラクラス"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/column/options.php:6
+msgid "Such as: center to align in the middle the content inside."
+msgstr "例: コンテンツ内の中間の配置する場合は中央。"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/contactform7/config.php:8
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/contactform7/config.php:9
+msgid "Add a contact form7"
+msgstr "新規コンタクトフォームの追加"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/contactform7/options.php:14
+msgid "Choose a form :"
+msgstr "フォームを選択："
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/contactform7/options.php:15
+msgid "You need to have installed before the Plugin Contact Form 7."
+msgstr "Contact Form 7プラグインをインストールされている必要があります。"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/contactform7/views/view.php:10
+msgid "Please select a form in the shortcode option."
+msgstr "ショートコード・オプションにフォームを選択してください。"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/eventon/config.php:8
+msgid "EventOn Calendar"
+msgstr "EventOnカレンダー"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/eventon/config.php:9
+msgid "Add a full month calendar from EventON events"
+msgstr "EventOnイベントから完全な月のカレンダーを追加します。"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/eventon/options.php:7
+msgid "Unique ID :"
+msgstr "ユニークID"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/eventon/options.php:8
+msgid "Any number you like, just to difference them (example: 9999999)"
+msgstr "好きな番号 (例: 9999999)"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/eventon/options.php:12
+msgid "Auto Open events"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/eventon/options.php:15
+#: ../framework-customizations/extensions/shortcodes/shortcodes/trello/options.php:28
+#: ../framework-customizations/extensions/woffice-birthdays/settings-options.php:21
+#: ../framework-customizations/theme/options/general.php:34
+#: ../framework-customizations/theme/options/general.php:56
+#: ../framework-customizations/theme/options/general.php:70
+#: ../framework-customizations/theme/options/header.php:44
+#: ../framework-customizations/theme/options/header.php:82
+#: ../framework-customizations/theme/options/header.php:96
+#: ../framework-customizations/theme/options/login.php:28
+#: ../framework-customizations/theme/options/login.php:103
+#: ../framework-customizations/theme/options/login.php:116
+#: ../framework-customizations/theme/options/login.php:142
+#: ../framework-customizations/theme/options/login.php:157
+#: ../framework-customizations/theme/options/login.php:172
+#: ../framework-customizations/theme/options/page-title.php:72
+#: ../framework-customizations/theme/options/posts.php:70
+#: ../framework-customizations/theme/options/posts.php:91
+#: ../framework-customizations/theme/options/sidebar.php:19
+#: ../framework-customizations/theme/options/sidebar.php:33
+#: ../framework-customizations/theme/options/sidebar.php:47
+#: ../framework-customizations/theme/options/sidebar.php:61
+#: ../framework-customizations/theme/options/sidebar.php:75
+#: ../framework-customizations/theme/options/sidebar.php:102
+#: ../framework-customizations/theme/options/sidebar.php:124
+#: ../framework-customizations/theme/options/sidebar.php:138
+#: ../framework-customizations/theme/options/styling.php:49
+#: ../framework-customizations/theme/options/styling.php:63
+#: ../framework-customizations/theme/options/styling.php:77
+msgid "Yep"
+msgstr "はい"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/eventon/options.php:19
+#: ../framework-customizations/extensions/shortcodes/shortcodes/trello/options.php:32
+#: ../framework-customizations/extensions/woffice-birthdays/settings-options.php:25
+#: ../framework-customizations/theme/options/general.php:38
+#: ../framework-customizations/theme/options/general.php:60
+#: ../framework-customizations/theme/options/general.php:74
+#: ../framework-customizations/theme/options/header.php:48
+#: ../framework-customizations/theme/options/header.php:86
+#: ../framework-customizations/theme/options/header.php:100
+#: ../framework-customizations/theme/options/page-title.php:76
+#: ../framework-customizations/theme/options/posts.php:74
+#: ../framework-customizations/theme/options/posts.php:95
+#: ../framework-customizations/theme/options/sidebar.php:23
+#: ../framework-customizations/theme/options/sidebar.php:37
+#: ../framework-customizations/theme/options/sidebar.php:51
+#: ../framework-customizations/theme/options/sidebar.php:65
+#: ../framework-customizations/theme/options/sidebar.php:79
+#: ../framework-customizations/theme/options/sidebar.php:106
+#: ../framework-customizations/theme/options/sidebar.php:128
+#: ../framework-customizations/theme/options/sidebar.php:142
+#: ../framework-customizations/theme/options/styling.php:53
+#: ../framework-customizations/theme/options/styling.php:67
+#: ../framework-customizations/theme/options/styling.php:81
+msgid "Nope"
+msgstr "いいえ"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/eventon/views/view.php:16
+msgid "Please select an unique ID in the shortcode option."
+msgstr "ショートコード・オプションにユニークIDを選択してください。"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/eventon_form/config.php:8
+msgid "EventOn Calendar Form"
+msgstr "EventOnカレンダーフォーム"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/eventon_form/config.php:9
+msgid "Add a form so user can create event"
+msgstr "ユーザーがイベントを作成できるようにフォームを追加します。"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/file-away/config.php:8
+#, fuzzy
+msgid "File Manager (File Away)"
+msgstr "ファイルマネージャ"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/file-away/config.php:9
+msgid "Add a File Away file manager"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/file-away/options.php:9
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/options.php:25
+msgid "Choose here what you want to generate"
+msgstr "ここで生成するものを選択します。"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/file-away/options.php:11
+#, fuzzy
+msgid "Directory View"
+msgstr "ディレクトリ項目の名前"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/file-away/options.php:12
+msgid "Files Upload"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/file-away/options.php:18
+#, fuzzy
+msgid "Select a directory"
+msgstr "カテゴリーを選択:"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/file-away/options.php:30
+msgid "Optional Sub directory"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/file-away/options.php:31
+msgid ""
+"The path to a sub directory from the directory you have choose in the last "
+"option. Like : test/ "
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/file-away/options.php:35
+msgid "File Away Info"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/file-away/options.php:36
+msgid ""
+"If you need more options about this, please use the default shortcode "
+"generator from the plugin, it is slower but you'll find more options. You "
+"can also have  a look on this article for more details"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/file-away/views/view.php:24
+msgid "Please install File Away plugin and make sure it is activated."
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/full/config.php:5
+msgid "Full Width Text"
+msgstr "全幅テキスト"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/full/config.php:6
+msgid ""
+"Full width container, it is not in the white container and will use light "
+"colors as in the sidebar."
+msgstr ""
+"全幅コンテナー。白いコンテナーではない。サイドバーのように明るい色を使用しま"
+"す。"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/full/options.php:9
+msgid "This is the content of the container."
+msgstr "これは、コンテナーの内容です。"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/config.php:8
+msgid "LearnDash"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/config.php:9
+msgid "Display Learndash elements"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.php:14
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:14
+msgid "Type :"
+msgstr "タイプ:"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.php:15
+#, fuzzy
+msgid "What do you want to display ?"
+msgstr "ロゴを非表示にしますか？"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.php:18
+msgid "Current User data (Courses, scores, certificates..)"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.php:19
+msgid "Courses list"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.php:20
+msgid "Lessons list"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.php:21
+msgid "Quizzes list"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.php:22
+#, fuzzy
+msgid "Course's content"
+msgstr "記事の内容："
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.php:27
+msgid "Info"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.php:28
+msgid ""
+"The next options are only if you have selected Course, Lessons, Quizzes list "
+"in the option above."
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.php:32
+#, fuzzy
+msgid "Number :"
+msgstr "番号"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.php:42
+#, fuzzy
+msgid "order :"
+msgstr "並べ替え："
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.php:45
+msgid "Ascending"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.php:49
+msgid "Descending"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.php:55
+msgid "Optional Tag :"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.php:56
+msgid "Display only the ones from a specific tag. We need its slug here."
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.php:60
+#, fuzzy
+msgid "Optional Category :"
+msgstr "記事のカテゴリ:"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.php:61
+msgid "Display only the ones from a specific category. We need its slug here."
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.php:65
+msgid "For the current user :"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/learndash/options.php:66
+msgid ""
+"Display the data only for the current user ? (Not all courses, but his "
+"courses for example). ONLY FOR THE COURSES"
+msgstr ""
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/list/config.php:8
+msgid "List"
+msgstr "リスト"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/list/config.php:9
+msgid "Add a list with some icons"
+msgstr "アイコン付のリストを追加します。"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/list/options.php:9
+msgid "List style"
+msgstr "リストのスタイル"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/list/options.php:10
+msgid "This is the icon at the beginning."
+msgstr "これは先頭にアイコンです。"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/list/options.php:21
+msgid "List Items"
+msgstr "リストアイテム"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/members/config.php:9
+msgid "Display avatars of the members with link to their profiles."
+msgstr "自分のプロフィールにリンクを持つメンバーのアバターを表示します。"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/members/options.php:8
+msgid "All Users"
+msgstr "すべてのユーザー"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/members/options.php:14
+msgid "Select members type"
+msgstr "メンバータイプの選択"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/config.php:8
+#, fuzzy
+msgid "File Manager (Multiverso)"
+msgstr "ファイルマネージャ"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/config.php:9
+msgid "Add a Multiverso file manager/file/all files/category..."
+msgstr ""
+"Multiversoファイル マネージャー/ファイル/すべてのファイル/カテゴリを追加."
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/options.php:24
+msgid "Content :"
+msgstr "内容:"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/options.php:27
+msgid "All files"
+msgstr "すべてのファイル"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/options.php:28
+msgid "Single File"
+msgstr "シングルファイル"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/options.php:29
+msgid "Files Category"
+msgstr "ファイルのカテゴリー"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/options.php:30
+msgid "Files Manager"
+msgstr "ファイル マネージャー"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/options.php:35
+msgid "Select File :"
+msgstr "ファイルを選択："
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/options.php:36
+msgid "(If you have chosen -> Single file)"
+msgstr "(シングルファイル->選択した場合)"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/options.php:41
+msgid "Select Category :"
+msgstr "カテゴリーを選択:"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/options.php:42
+msgid "(If you have chosen -> Files Category)"
+msgstr "(ファイルカテゴリー->選択した場合)"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/multiverso/views/view.php:19
+msgid "Please select a value in the shortcode option."
+msgstr "ショートコード・オプションに値を選択してください。"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/progressbar/config.php:6
+msgid "Progress Bar"
+msgstr "プログレスバー"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/progressbar/config.php:7
+msgid "A cool progress bar"
+msgstr "クールなプログレスバー"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/progressbar/options.php:13
+msgid "Progress"
+msgstr "進捗状況"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/progressbar/options.php:17
+msgid "Choose an icon that will be on the progress bar at the beginning."
+msgstr "初めに進行状況バーに表示するアイコンを選択します。"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/trello/config.php:8
+msgid "Trello"
+msgstr "Trello"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/trello/config.php:9
+msgid "Add a Trello Element"
+msgstr "Trelloエレメントを追加します。"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/trello/options.php:8
+msgid "Type of Trello element"
+msgstr "Trelloエレメントのタイプ"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/trello/options.php:9
+msgid "You need to have installed before the Plugin WP Trello."
+msgstr "WP Trelloプラグインをインストールさている必要があります。"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/trello/options.php:20
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:33
+msgid "ID"
+msgstr "ID"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/trello/options.php:21
+msgid ""
+"The ID of the element, you can find it in the URL or in Settings -> WP "
+"TRELLO -> API Helper"
+msgstr ""
+"エレメントのID（URLまたは設定->WP TRELLO->API ヘルパーに見つかることができま"
+"す）"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/trello/options.php:24
+msgid "Link ?"
+msgstr "リンク？"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/trello/options.php:35
+msgid "Display as a link to Trello."
+msgstr "Trelloへのリンクとして表示されます。"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/trello/views/view.php:12
+msgid "Please select an ID for the Trello Element."
+msgstr "TrelloエレメントのためにIDを選択してください。"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/trello/views/view.php:16
+msgid "Please install the plugin "
+msgstr "プラグインをインストールしてください。"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/config.php:6
+msgid "Button"
+msgstr "ボタン"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/config.php:7
+msgid "A very awesome button"
+msgstr "非常に素晴らしいボタン"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:7
+msgid "Button Label"
+msgstr "ボタンのラベル"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:8
+msgid "This is the text that appears on your button"
+msgstr "ボタンに表示されるテキストです。"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:13
+msgid "Button Link"
+msgstr "ボタンリンク"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:14
+msgid "Where should your button link to"
+msgstr "ボタンをどこにリンクしますか？"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:20
+msgid "Open Link in New Window"
+msgstr "新しいウィンドウで開く"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:21
+msgid "Select here if you want to open the linked page in a new window"
+msgstr ""
+"新しいウィンドウでリンク先のページを開きたい場合は、こちらを選択してくださ"
+"い。"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:32
+msgid "Button icon"
+msgstr "ボタンアイコン"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:33
+msgid "Choose an icon for your button just before the label"
+msgstr "ラベルの直前に、ボタンのアイコンを選択します。"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:38
+msgid "Button size"
+msgstr "ボタンのサイズ"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:39
+msgid "Choose a size for your button"
+msgstr "ボタンのサイズを選択してください"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:43
+msgid "Small"
+msgstr "小"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:44
+#: ../inc/register.php:81
+msgid "Default"
+msgstr "デフォルト"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:45
+msgid "Large"
+msgstr "大"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:49
+msgid "Button color"
+msgstr "ボタンの色"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_button/options.php:50
+msgid "Choose a color for your button background"
+msgstr "ボタンの背景の色を選択します。"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_headlines/config.php:7
+msgid "Title with borders."
+msgstr "線で囲まれたタイトル。"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_headlines/options.php:9
+msgid "Write the heading title content."
+msgstr "見出しタイトルの内容を入力"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woffice_headlines/options.php:13
+msgid "Heading Size"
+msgstr "見出しのサイズ"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/config.php:8
+msgid "Woocommerce"
+msgstr "WooCommerce"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/config.php:9
+msgid "Add a Woocommerce products"
+msgstr "Woocommerce製品を追加"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:7
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:32
+msgid "Headline"
+msgstr "見出し"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:8
+msgid "This is the heading that appears above the carousel"
+msgstr "これは、カルーセル上に表示される見出しです。"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:15
+msgid "You need to have installed before the Plugin Woocommerce."
+msgstr "Woocommerceプラグインをインストールされている必要があります。"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:17
+msgid "Recent Products"
+msgstr "最近の商品"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:18
+msgid "Featured Products"
+msgstr "おすすめ商品"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:19
+msgid "Products"
+msgstr "商品"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:20
+msgid "Top Rated Products"
+msgstr "評価の高い商品"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:21
+msgid "Releated Products"
+msgstr "関連製品"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:27
+msgid "Order by :"
+msgstr "ソート順"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:29
+msgid "Menu Order"
+msgstr "メニュー順"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:31
+msgid "Date"
+msgstr "日付"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:32
+msgid "Rand"
+msgstr "ランダム"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:39
+msgid "Order"
+msgstr "順番"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:40
+msgid "This is the order of the products"
+msgstr "商品の順番です"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:43
+msgid "ASC"
+msgstr "昇順"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:47
+msgid "DESC"
+msgstr "降順"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:58
+msgid "How many ?"
+msgstr "いくつ？"
+
+#: ../framework-customizations/extensions/shortcodes/shortcodes/woocommerce/options.php:59
+msgid ""
+"How many products do you want to show, they'll be added in a 4 columns "
+"carousel."
+msgstr "どのように多くの製品、4 列カルーセルに追加されますを表示したいです。"
+
+#: ../framework-customizations/extensions/woffice-birthdays/class-fw-extension-woffice-birthdays.php:190
+msgid "Birthdays"
+msgstr "誕生日"
+
+#: ../framework-customizations/extensions/woffice-birthdays/class-fw-extension-woffice-birthdays.php:193
+msgid "Birthday"
+msgstr "バースデー"
+
+#: ../framework-customizations/extensions/woffice-birthdays/class-fw-extension-woffice-birthdays.php:196
+msgid "Happy"
+msgstr "ハッピー"
+
+#: ../framework-customizations/extensions/woffice-birthdays/class-fw-extension-woffice-birthdays.php:199
+msgid "Next Birthday"
+msgstr "次の誕生日"
+
+#: ../framework-customizations/extensions/woffice-birthdays/class-fw-extension-woffice-birthdays.php:204
+msgid "Sorry no birthdays set..."
+msgstr "誕生日設定されていない…"
+
+#: ../framework-customizations/extensions/woffice-birthdays/class-fw-extension-woffice-birthdays.php:234
+msgid " years old"
+msgstr "歳"
+
+#: ../framework-customizations/extensions/woffice-birthdays/hooks.php:26
+msgid ""
+"We will only use it for the Birthday widget, so we can celebrate everyone\\s "
+"birthday."
+msgstr "誕生日のウィジェットのみに使用します。皆の誕生日を祝うことができます。"
+
+#: ../framework-customizations/extensions/woffice-birthdays/manifest.php:7
+msgid "Woffice Birthdays"
+msgstr "Woffice 誕生日"
+
+#: ../framework-customizations/extensions/woffice-birthdays/manifest.php:8
+msgid ""
+"Enables the possibility to add a birthdays widget in Woffice. (See "
+"documentation for detailed informations)."
+msgstr ""
+"Wofficeに誕生日のウィジェットを追加する可能性ができます。(詳細情報については"
+"マニュアルを参照してください。)"
+
+#: ../framework-customizations/extensions/woffice-birthdays/settings-options.php:8
+msgid "Birthdays Extension"
+msgstr "誕生日拡張"
+
+#: ../framework-customizations/extensions/woffice-birthdays/settings-options.php:11
+msgid "Wigdet Options"
+msgstr "ウィジェットオプション"
+
+#: ../framework-customizations/extensions/woffice-birthdays/settings-options.php:16
+msgid "Show the age of the person"
+msgstr "名前の横にあるウィジェットに"
+
+#: ../framework-customizations/extensions/woffice-birthdays/settings-options.php:17
+msgid "In the widget beside the name"
+msgstr "年齢を表示する"
+
+#: ../framework-customizations/extensions/woffice-birthdays/includes/class-fw-widget-woffice-birthdays.php:15
+msgid "(Woffice) Birthdays"
+msgstr "(Woffice)誕生日"
+
+#: ../framework-customizations/extensions/woffice-cover/hooks.php:65
+msgid "Uploading..."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-cover/hooks.php:73
+msgid "Unable to upload file..."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-cover/hooks.php:77
+msgid "Image uploaded."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-cover/hooks.php:85
+msgid "An error occurred and the upload failed."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-cover/hooks.php:97
+msgid "Unable to upload file."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-cover/hooks.php:114
+#, fuzzy
+msgid "Image Deleted"
+msgstr "削除"
+
+#: ../framework-customizations/extensions/woffice-cover/hooks.php:233
+msgid ""
+"URL to the cover image, you can upload the image from your profile page on "
+"the top right corner."
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-cover/manifest.php:7
+#, fuzzy
+msgid "Woffice Cover"
+msgstr "(Woffice)フォーム"
+
+#: ../framework-customizations/extensions/woffice-cover/manifest.php:8
+#, fuzzy
+msgid ""
+"Enables the possibility to add a cover image to your Buddypress profile."
+msgstr "プロジェクト管理をサイトに追加することができます。"
+
+#: ../framework-customizations/extensions/woffice-cover/settings-options.php:8
+#, fuzzy
+msgid "Cover Options"
+msgstr "フッターオプション"
+
+#: ../framework-customizations/extensions/woffice-cover/settings-options.php:11
+#, fuzzy
+msgid "Default Cover Options"
+msgstr "登録オプション"
+
+#: ../framework-customizations/extensions/woffice-cover/settings-options.php:16
+#, fuzzy
+msgid "Default Cover"
+msgstr "デフォルト値"
+
+#: ../framework-customizations/extensions/woffice-cover/settings-options.php:17
+msgid "It is an optional option, it's not required"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-woffice-directory.php:36
+msgid "Item"
+msgstr "アイテム"
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-woffice-directory.php:37
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:27
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:26
+msgid "Add New"
+msgstr "新規追加"
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-woffice-directory.php:39
+msgid "Edit Item"
+msgstr "編集"
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-woffice-directory.php:40
+#, php-format
+msgid "View %s"
+msgstr "%sを表示"
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-woffice-directory.php:41
+#, php-format
+msgid "All %s"
+msgstr "すべての%s"
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-woffice-directory.php:42
+#, php-format
+msgid "Search %s"
+msgstr "%sの検索"
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-woffice-directory.php:43
+#, php-format
+msgid "No %s found"
+msgstr "%sは見つかりませんでした"
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-woffice-directory.php:44
+#, php-format
+msgid "No %s found in the trash"
+msgstr "ゴミ箱内に%sはありません。"
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-woffice-directory.php:86
+msgid "Directory Categories"
+msgstr "ディレクトリカテゴリー"
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-woffice-directory.php:87
+msgid "Directory Category"
+msgstr "ディレクトリ カテゴリー"
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-woffice-directory.php:88
+msgid "Search Directory Categories"
+msgstr "ディレクトリカテゴリー検索"
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-woffice-directory.php:89
+msgid "All Directory Categories"
+msgstr "ディレクトリのすべてのカテゴリー"
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-woffice-directory.php:90
+msgid "Edit Directory"
+msgstr "編集"
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-woffice-directory.php:91
+msgid "Update Directory Category"
+msgstr "更新"
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-woffice-directory.php:92
+msgid "Add New Directory Category"
+msgstr "新しいディレクトリカテゴリーを追加します。"
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-woffice-directory.php:93
+msgid "New Directory Category"
+msgstr "新しいディレクトリカテゴリー"
+
+#: ../framework-customizations/extensions/woffice-directory/class-fw-extension-woffice-directory.php:94
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:84
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:72
+msgid "Categories"
+msgstr "カテゴリー"
+
+#: ../framework-customizations/extensions/woffice-directory/manifest.php:7
+msgid "Woffice Directory"
+msgstr "Woffice ディレクトリ"
+
+#: ../framework-customizations/extensions/woffice-directory/manifest.php:8
+msgid ""
+"Enables the possibility to add a complete directory page to your site for "
+"Jobs, Partners..."
+msgstr ""
+"仕事、パートナー等のために完全なディレクトリページをサイトに追加できます。"
+
+#: ../framework-customizations/extensions/woffice-directory/settings-options.php:10
+#: ../inc/buddypress.php:347
+msgid "Settings"
+msgstr "設定"
+
+#: ../framework-customizations/extensions/woffice-directory/settings-options.php:13
+msgid "Main Options"
+msgstr "メインオプション"
+
+#: ../framework-customizations/extensions/woffice-directory/settings-options.php:18
+msgid "Directory item name"
+msgstr "ディレクトリ項目の名前"
+
+#: ../framework-customizations/extensions/woffice-directory/settings-options.php:19
+msgid ""
+"This is the name in the Wordpress menus, like Job, Partners, Corporates..."
+msgstr "これは仕事、パートナー、企業のようなワードプレスのメニューの名前…"
+
+#: ../framework-customizations/extensions/woffice-directory/settings-options.php:30
+#: ../framework-customizations/extensions/woffice-map/settings-options.php:33
+msgid "Zoom level"
+msgstr "ズームレベル"
+
+#: ../framework-customizations/extensions/woffice-directory/settings-options.php:31
+msgid "Just the level of zooming in the map (Main directory page)."
+msgstr "マップ (メイン ディレクトリ ページ) のズームのレベル"
+
+#: ../framework-customizations/extensions/woffice-directory/settings-options.php:41
+#: ../framework-customizations/extensions/woffice-map/settings-options.php:44
+#: ../framework-customizations/theme/options/page-title.php:26
+msgid "Center"
+msgstr "中央"
+
+#: ../framework-customizations/extensions/woffice-directory/settings-options.php:42
+msgid "This is the center of the map (Main directory page)."
+msgstr "マップ (メイン ディレクトリ ページ) の中央です。"
+
+#: ../framework-customizations/extensions/woffice-directory/settings-options.php:46
+msgid "Default fields"
+msgstr "デフォルトフィールド"
+
+#: ../framework-customizations/extensions/woffice-directory/settings-options.php:47
+msgid ""
+"This is the default fields displayed on all the directory single page, if it "
+"is empty you'll be able to choose different fields for every item."
+msgstr ""
+"これは、すべてのディレクトリのシングルページに表示されます。空の場合はすべて"
+"のアイテムに異なるフィールドを選択することができます。"
+
+#: ../framework-customizations/extensions/woffice-directory/settings-options.php:51
+msgid "Default value"
+msgstr "デフォルト値"
+
+#: ../framework-customizations/extensions/woffice-funfacts/manifest.php:7
+msgid "Woffice FunFacts"
+msgstr "Woffice FunFacts"
+
+#: ../framework-customizations/extensions/woffice-funfacts/manifest.php:8
+msgid ""
+"Enables the possibility to add a funfacts widget in Woffice. (See "
+"documentation for detailed informations)."
+msgstr ""
+"Wofficeのfunfactsウィジェット（おもしろ情報）を追加できます。(詳細情報につい"
+"てはマニュアルを参照してください。)"
+
+#: ../framework-customizations/extensions/woffice-funfacts/settings-options.php:10
+#: ../framework-customizations/extensions/woffice-funfacts/includes/class-fw-widget-woffice-funfacts.php:43
+msgid "Fun Facts"
+msgstr "Fun Facts"
+
+#: ../framework-customizations/extensions/woffice-funfacts/settings-options.php:13
+#: ../framework-customizations/theme/options/widgets.php:16
+msgid "Fun Facts Widget"
+msgstr "Fun Factsウィジェット"
+
+#: ../framework-customizations/extensions/woffice-funfacts/settings-options.php:24
+#: ../framework-customizations/theme/options/widgets.php:27
+msgid "Fun facts"
+msgstr "Fun Facts"
+
+#: ../framework-customizations/extensions/woffice-funfacts/settings-options.php:25
+#: ../framework-customizations/theme/options/widgets.php:28
+msgid ""
+"They will be displayed as in a slider within the widget, you can use for any "
+"other purpose than fun facts."
+msgstr ""
+"ウィジェット内のスライダーのように表示されます。「おもしろ情報」以外の目的に"
+"使用できます。"
+
+#: ../framework-customizations/extensions/woffice-funfacts/includes/class-fw-widget-woffice-funfacts.php:15
+msgid "(Woffice) Fun Facts"
+msgstr "(Woffice)Fun Facts"
+
+#: ../framework-customizations/extensions/woffice-glogin/helpers.php:26
+msgid "Login With Google"
+msgstr "Google+ ログイン"
+
+#: ../framework-customizations/extensions/woffice-glogin/helpers.php:32
+msgid "Sign In With Facebook"
+msgstr "Facebookでログイン"
+
+#: ../framework-customizations/extensions/woffice-glogin/helpers.php:37
+msgid "or"
+msgstr "または"
+
+#: ../framework-customizations/extensions/woffice-glogin/manifest.php:7
+msgid "Woffice Social Login"
+msgstr "Woffice ソーシャル ログイン"
+
+#: ../framework-customizations/extensions/woffice-glogin/manifest.php:8
+msgid ""
+"Enables the possibility to login with your Google & Facebook Account. (See "
+"documentation for detailed informations)."
+msgstr ""
+"Google ・ Facebook のアカウントでログインすることができます。(詳細情報につい"
+"てはマニュアルを参照してください。)"
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:14
+msgid "Google Login"
+msgstr "Google ログイン"
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:17
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:62
+#: ../framework-customizations/theme/options/styling.php:93
+msgid "Important :"
+msgstr "重要："
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:22
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:67
+msgid "Your callback URL :"
+msgstr "あなたのコールバックURL："
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:27
+msgid "Project name"
+msgstr "プロジェクト名"
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:29
+msgid ""
+"When you have enabled the Google+ API in the Google API page, you have "
+"created a project. Please copy/past its name here."
+msgstr ""
+"Google の API のページに Google + API を有効にすると、プロジェクトを作成しま"
+"した。プロジェクト名をコピーして、ここに貼り付けてください。"
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:32
+msgid "Client ID"
+msgstr "クライアントID"
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:34
+msgid "Your Google API client ID for this project (see Credentials page)."
+msgstr ""
+"このプロジェクトの Google API クライアント証 (資格情報ページを参照してくださ"
+"い)。"
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:37
+msgid "Client Secret"
+msgstr "クライアントシークレット"
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:39
+msgid ""
+"Your Google API Secret key for this project (downloaded in a JSON file)."
+msgstr ""
+" このプロジェクトのためのあなたの Google API 秘密キー(JSON ファイルのダウン"
+"ロード)"
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:42
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:73
+msgid "Show the button ?"
+msgstr "ボタンを表示する？"
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:46
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:77
+#: ../framework-customizations/theme/options/buddypress.php:26
+#: ../framework-customizations/theme/options/buddypress.php:82
+#: ../framework-customizations/theme/options/buddypress.php:96
+#: ../framework-customizations/theme/options/footer.php:19
+#: ../framework-customizations/theme/options/footer.php:90
+#: ../framework-customizations/theme/options/general.php:20
+#: ../framework-customizations/theme/options/posts.php:56
+msgid "Show"
+msgstr "表示する"
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:50
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:81
+#: ../framework-customizations/theme/options/buddypress.php:86
+#: ../framework-customizations/theme/options/buddypress.php:100
+#: ../framework-customizations/theme/options/footer.php:23
+#: ../framework-customizations/theme/options/footer.php:94
+#: ../framework-customizations/theme/options/general.php:24
+#: ../framework-customizations/theme/options/posts.php:60
+msgid "Hide"
+msgstr "隠す"
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:53
+msgid ""
+"Do you want to show it on the login page, you can hide if you only want to "
+"use Facebook one."
+msgstr ""
+"ログインページに表示されますか？Facebookのみを利用するなら隠すことができま"
+"す。"
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:59
+msgid "Facebook Sign In (Register)"
+msgstr "Facebookサインイン（登録）"
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:70
+msgid ""
+"If it is on OFF, please be sure to have installed and activated the plugin : "
+"Nextend Facebook Connect."
+msgstr ""
+"オフになってる場合は、Nextend Facebook Connectプラグインをインストール・有効"
+"にしてください。"
+
+#: ../framework-customizations/extensions/woffice-glogin/settings-options.php:84
+msgid ""
+"Do you want to show it on the login page, you can hide if you only want to "
+"use Google one, if the plugin is not installed it will be hide by default."
+msgstr ""
+"ログインページに表示しますか？非表示にして、Googleの使用しますか？プラグイン"
+"がインストールされていない場合には、デフォルトでは非表示になります。"
+
+#: ../framework-customizations/extensions/woffice-maintenance/manifest.php:7
+msgid "Woffice Maintenance"
+msgstr "Wofficeメンテナンス"
+
+#: ../framework-customizations/extensions/woffice-maintenance/manifest.php:8
+msgid ""
+"Enables the possibility to add a Coming Soon & Maintenance feature in "
+"Woffice. (See documentation for detailed informations)."
+msgstr ""
+"Wofficeでカミングスーン & メンテナンス機能を追加することができます。(詳細情報"
+"についてはマニュアルを参照してください。)"
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:13
+msgid "Content Options"
+msgstr "コンテンツのオプション"
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:17
+#: ../inc/class-tgm-plugin-activation.php:1391 ../inc/multiverso.php:102
+#: ../inc/multiverso.php:205 ../inc/multiverso.php:301
+msgid "Status"
+msgstr "状況"
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:18
+msgid ""
+"Once enabled it'll redirects all the visitors/members to the maintenance "
+"page."
+msgstr ""
+"一度有効にすべての訪問者/メンバーをメンテナンスページにリダイレクトされます"
+"よ。"
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:22
+msgid "On"
+msgstr "オン"
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:26
+msgid "Off"
+msgstr "オフ"
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:33
+msgid "This is the headline displayed on the page."
+msgstr "ページに表示される見出しです。"
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:39
+msgid "Below the headline"
+msgstr "見出しの下に"
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:53
+msgid "Style"
+msgstr "スタイル"
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:56
+msgid "Background Options"
+msgstr "背景オプション"
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:62
+#: ../framework-customizations/theme/options/footer.php:43
+#: ../framework-customizations/theme/options/header.php:56
+msgid "Text color"
+msgstr "テキストの色"
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:63
+msgid "This is the text color over the image."
+msgstr "画像の上にテキストの色です。"
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:69
+#: ../framework-customizations/theme/options/login.php:62
+msgid "This is the background color and the image will be over it."
+msgstr "背景の色です。画像はその上に表示されます。"
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:72
+#: ../framework-customizations/theme/options/login.php:65
+msgid "Background Image"
+msgstr "背景画像"
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:73
+#: ../framework-customizations/theme/options/login.php:66
+msgid "Large Image on fullscreen."
+msgstr "フルスクリーン上の大画像。"
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:77
+#: ../framework-customizations/theme/options/page-title.php:55
+msgid "Layer Opacity"
+msgstr "レイヤーの不透明度"
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:85
+msgid ""
+"This is the opacity of the layer with the color over the background image."
+msgstr "これは背景画像の上に色でレイヤーの不透明度です。"
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:86
+#: ../framework-customizations/theme/options/login.php:79
+#: ../framework-customizations/theme/options/page-title.php:59
+msgid "A number between 0 - 1, if you choose 0 it will becomes hidden."
+msgstr "0-1のどちらかの数。0を選択した場合は隠しとなります。"
+
+#: ../framework-customizations/extensions/woffice-maintenance/settings-options.php:92
+msgid "This is an extra icon so it looks better."
+msgstr "これは良く見えるように、エキストラアイコンです。"
+
+#: ../framework-customizations/extensions/woffice-map/manifest.php:7
+msgid "Woffice Members Map"
+msgstr "Wofficeメンバーマップ"
+
+#: ../framework-customizations/extensions/woffice-map/manifest.php:8
+msgid ""
+"Enables the possibility to add a map of Buddypress members in Woffice. (See "
+"documentation for detailed informations)."
+msgstr ""
+"WofficeでBuddypressメンバーのマップを追加する可能にします。 （詳細な情報のド"
+"キュメントを参照してください）​​。"
+
+#: ../framework-customizations/extensions/woffice-map/settings-options.php:12
+#: ../framework-customizations/extensions/woffice-map/includes/class-fw-widget-woffice-map.php:47
+msgid "Users Map"
+msgstr "ユーザーマップ"
+
+#: ../framework-customizations/extensions/woffice-map/settings-options.php:15
+msgid "Google API Public Key"
+msgstr "GoogleのAPIの公開鍵"
+
+#: ../framework-customizations/extensions/woffice-map/settings-options.php:18
+msgid ""
+"We are using the GeoCoding Google API to get coordinates from users "
+"locations. By default it is working with our API key but as there are many "
+"Woffice around, the Quota (2500 requests per day) may be reached really "
+"quickly so the map will no longer be available. That is why it is important "
+"to use you own Google API key. Please see : "
+msgstr ""
+"我々は、ユーザーの位置から座標を取得するためにジオコーディング、GoogleのAPIを"
+"使用しています。デフォルトでは、私たちのAPIキーと協力していますが、周りに多く"
+"のWofficeがあるようなマップが利用できなくなりますので、クォータは、（一日あた"
+"り2500の要求）本当にすぐに達することができます。それはあなたが、GoogleのAPI"
+"キーを所有して使用することが重要である理由です。参照してください。"
+
+#: ../framework-customizations/extensions/woffice-map/settings-options.php:21
+msgid "Google API Status"
+msgstr "GoogleのAPIのステータス"
+
+#: ../framework-customizations/extensions/woffice-map/settings-options.php:34
+msgid "Just the level of zooming in the map."
+msgstr "マップのズームレベル"
+
+#: ../framework-customizations/extensions/woffice-map/settings-options.php:45
+msgid "This is the center of the map."
+msgstr "マップの中央です。"
+
+#: ../framework-customizations/extensions/woffice-map/includes/class-fw-widget-woffice-map.php:15
+msgid "(Woffice) Users Map"
+msgstr "（Woffice）ユーザーマップ"
+
+#: ../framework-customizations/extensions/woffice-map/views/view.php:19
+msgid "Members around the world"
+msgstr "世界中のメンバー"
+
+#: ../framework-customizations/extensions/woffice-map/views/view.php:26
+msgid ""
+"Sorry there is no users locations so we can not display the map. As it is "
+"empty."
+msgstr "ユーザーの位置がないため、マップの表示できません。"
+
+#: ../framework-customizations/extensions/woffice-poll/class-fw-extension-woffice-poll.php:211
+msgid "No results :"
+msgstr "結果はありません。"
+
+#: ../framework-customizations/extensions/woffice-poll/class-fw-extension-woffice-poll.php:225
+msgid "In percentage (%)"
+msgstr "パーセンテージ（％）"
+
+#: ../framework-customizations/extensions/woffice-poll/class-fw-extension-woffice-poll.php:234
+msgid "Total answers number :"
+msgstr "総回答数："
+
+#: ../framework-customizations/extensions/woffice-poll/hooks.php:61
+msgid ""
+"Error, something is wrong please refresh this page. Note that you can not "
+"vote twice."
+msgstr ""
+"エラーが発生しました。もう一度試してください。注意：二度の投票ができません。"
+
+#: ../framework-customizations/extensions/woffice-poll/hooks.php:69
+#: ../framework-customizations/extensions/woffice-poll/views/view.php:62
+#, fuzzy
+msgid "Thanks ! Here are the results for"
+msgstr "ありがとう！結果は以下のとおり："
+
+#: ../framework-customizations/extensions/woffice-poll/manifest.php:7
+msgid "Woffice Poll"
+msgstr "Wofficeアンケート"
+
+#: ../framework-customizations/extensions/woffice-poll/manifest.php:8
+msgid ""
+"Enables the possibility to add a poll widget in Woffice. (See documentation "
+"for detailed informations)."
+msgstr ""
+"Wofficeに投票ウィジェットを追加する可能性を可能にします。 （詳細な情報のド"
+"キュメントを参照してください）​​。"
+
+#: ../framework-customizations/extensions/woffice-poll/settings-options.php:12
+msgid "Build Poll"
+msgstr "アンケートを構築"
+
+#: ../framework-customizations/extensions/woffice-poll/settings-options.php:15
+msgid "Information :"
+msgstr "情報 :"
+
+#: ../framework-customizations/extensions/woffice-poll/settings-options.php:20
+msgid "Poll Question"
+msgstr "アンケートの質問"
+
+#: ../framework-customizations/extensions/woffice-poll/settings-options.php:38
+msgid "Poll answers"
+msgstr "アンケートの答え"
+
+#: ../framework-customizations/extensions/woffice-poll/settings-options.php:40
+msgid "These questions will be displayed within the widget in Woffice."
+msgstr "この質問はWoffice のウィジェットに表示されます。"
+
+#: ../framework-customizations/extensions/woffice-poll/settings-options.php:48
+msgid "Results"
+msgstr "結果"
+
+#: ../framework-customizations/extensions/woffice-poll/includes/class-fw-widget-woffice-poll.php:16
+msgid "Get the poll from the Unyson Extensions"
+msgstr "Unyson拡張からアンケートを取得"
+
+#: ../framework-customizations/extensions/woffice-poll/includes/class-fw-widget-woffice-poll.php:17
+msgid "(Woffice) Poll"
+msgstr "Wofficeアンケート"
+
+#: ../framework-customizations/extensions/woffice-poll/includes/class-fw-widget-woffice-poll.php:45
+msgid "Poll"
+msgstr "アンケート"
+
+#: ../framework-customizations/extensions/woffice-poll/views/view.php:53
+msgid "Send"
+msgstr "送信"
+
+#: ../framework-customizations/extensions/woffice-poll/views/view.php:85
+msgid "Sorry, there is no answer set yet in the Extension options."
+msgstr "拡張オプションでまだ答えの設定はありません。"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:24
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:26
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:28
+msgid "Project"
+msgstr "プロジェクト"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:29
+msgid "Edit Project"
+msgstr "プロジェクトを編集"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:30
+msgid "View Project"
+msgstr "プロジェクトを見る"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:31
+msgid "All Projects"
+msgstr "すべてのプロジェクト"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:32
+msgid "Search Project"
+msgstr "プロジェクトを検索"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:33
+msgid "No Project found."
+msgstr "プロジェクトが見つかりません"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:34
+msgid "No Project found in Trash."
+msgstr "ゴミ箱にプロジェクトが見つかりません"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:76
+msgid "Project Categories"
+msgstr "プロジェクトカテゴリー"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:77
+msgid "Project Category"
+msgstr "プロジェクトカテゴリー"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:78
+msgid "Search Project Categories"
+msgstr "プロジェクトカテゴリーを検索"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:79
+msgid "All Project Categories"
+msgstr "すべてのプロジェクトのカテゴリー"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:80
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:68
+msgid "Edit Category"
+msgstr "カテゴリー編集"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:81
+msgid "Update Project Category"
+msgstr "プロジェクトのカテゴリを更新"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:82
+msgid "Add New Project Category"
+msgstr "新しいプロジェクトのカテゴリーを追加します。"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:83
+msgid "New Project Category"
+msgstr "新しいプロジェクトカテゴリー"
+
+#: ../framework-customizations/extensions/woffice-projects/class-fw-extension-woffice-projects.php:153
+#, fuzzy
+msgid "You have a new task"
+msgstr "通知はありません。"
+
+#: ../framework-customizations/extensions/woffice-projects/helpers.php:21
+#: ../framework-customizations/extensions/woffice-projects/helpers.php:23
+msgid "Quick Edit"
+msgstr "クイック編集"
+
+#: ../framework-customizations/extensions/woffice-projects/helpers.php:33
+msgid "Todo"
+msgstr "Todo"
+
+#: ../framework-customizations/extensions/woffice-projects/helpers.php:43
+msgid "Files"
+msgstr "ファイル"
+
+#: ../framework-customizations/extensions/woffice-projects/helpers.php:170
+msgid "Add a New Task"
+msgstr "新しいタスクを追加します。"
+
+#: ../framework-customizations/extensions/woffice-projects/helpers.php:181
+msgid "Due date"
+msgstr "期限日："
+
+#: ../framework-customizations/extensions/woffice-projects/helpers.php:189
+msgid "Add a note"
+msgstr "メモを追加"
+
+#: ../framework-customizations/extensions/woffice-projects/helpers.php:196
+msgid "Assign an user (optional)"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-projects/helpers.php:202
+#: ../framework-customizations/theme/options/posts.php:10
+#: ../framework-customizations/theme/options/posts/page.php:15
+#: ../framework-customizations/theme/options/posts/post.php:15
+#: ../framework-customizations/theme/options/posts/project.php:15
+#: ../framework-customizations/theme/options/posts/wiki.php:15
+msgid "No one"
+msgstr "誰もできません。"
+
+#: ../framework-customizations/extensions/woffice-projects/helpers.php:212
+msgid "Add Task"
+msgstr "タスクの追加"
+
+#: ../framework-customizations/extensions/woffice-projects/hooks.php:220
+msgid "The task has been deleted !"
+msgstr "タスクが削除されました。"
+
+#: ../framework-customizations/extensions/woffice-projects/hooks.php:346
+msgid "The task has been added !"
+msgstr "タスクが追加されました!"
+
+#: ../framework-customizations/extensions/woffice-projects/manifest.php:7
+msgid "Woffice Projects"
+msgstr "Woffice プロジェクト"
+
+#: ../framework-customizations/extensions/woffice-projects/manifest.php:8
+msgid "Enables the possibility to add a project management to your site."
+msgstr "プロジェクト管理をサイトに追加することができます。"
+
+#: ../framework-customizations/extensions/woffice-projects/includes/class-fw-widget-woffice-projects
+#: copy.php:15
+msgid "(Woffice) Projects"
+msgstr "(Woffice)プロジェクト"
+
+#: ../framework-customizations/extensions/woffice-projects/includes/class-fw-widget-woffice-tasks-assigned.php:15
+#, fuzzy
+msgid "(Woffice) User tasks"
+msgstr "（Woffice）ユーザーマップ"
+
+#: ../framework-customizations/extensions/woffice-projects/views/widget-assigned.php:17
+msgid "You have"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-projects/views/widget-assigned.php:17
+msgid "tasks"
+msgstr ""
+
+#: ../framework-customizations/extensions/woffice-projects/views/widget-assigned.php:43
+#, fuzzy
+msgid "Well done ! You don't have any task from your projects."
+msgstr "申し訳ありませんが、プロジェクトをまだ持っていません。"
+
+#: ../framework-customizations/extensions/woffice-projects/views/widget.php:24
+msgid "Sorry you don't have any project yet."
+msgstr "申し訳ありませんが、プロジェクトをまだ持っていません。"
+
+#: ../framework-customizations/extensions/woffice-updater/manifest.php:7
+msgid "Woffice Updater"
+msgstr "Woffice アップデーター"
+
+#: ../framework-customizations/extensions/woffice-updater/manifest.php:8
+msgid ""
+"Auto Update your theme with the latest release, just by entering your "
+"purchase code."
+msgstr ""
+"自動購入コードを入力するだけの最新のリリースでは、あなたのテーマを更新しま"
+"す。"
+
+#: ../framework-customizations/extensions/woffice-updater/settings-options.php:13
+msgid "Updater Settings"
+msgstr "アップデーターの設定"
+
+#: ../framework-customizations/extensions/woffice-updater/settings-options.php:16
+msgid "Envato Username"
+msgstr "Envatoユーザー名"
+
+#: ../framework-customizations/extensions/woffice-updater/settings-options.php:18
+msgid "Your Envato (Themeforest) Username goes here. "
+msgstr "Envato (Themeforest) のユーザー名がここに入ります。"
+
+#: ../framework-customizations/extensions/woffice-updater/settings-options.php:21
+msgid "Woffice Purchase code"
+msgstr "Woffice 購入コード"
+
+#: ../framework-customizations/extensions/woffice-updater/settings-options.php:23
+msgid ""
+"The Purchase code of this license. You can find it in the Themeforest's "
+"download page (it's a large number)."
+msgstr ""
+"このライセンスの購入コードです。Themeforestのダウンロード ・ ページで見つかり"
+"ます。"
+
+#: ../framework-customizations/extensions/woffice-updater/settings-options.php:26
+msgid "Purchase code status"
+msgstr "購入コードの状態"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:22
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:24
+msgid "Wiki"
+msgstr "Wiki"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:23
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:25
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:27
+msgid "Article"
+msgstr "記事"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:28
+msgid "Edit Article"
+msgstr "記事を編集"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:29
+msgid "View Article"
+msgstr "記事を表示"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:30
+#: ../page-templates/wiki.php:155
+msgid "All Articles"
+msgstr "すべての記事"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:31
+msgid "Search Article"
+msgstr "記事を検索"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:32
+msgid "No Article found."
+msgstr "記事が見つかりません。"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:33
+msgid "No Article found in Trash."
+msgstr "ゴミ箱に記事は見つかりません。"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:64
+msgid "Wiki Categories"
+msgstr "Wiki のカテゴリー"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:65
+msgid "Article Category"
+msgstr "記事のカテゴリー"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:66
+msgid "Search Wiki Categories"
+msgstr "Wiki のカテゴリーを検索"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:67
+msgid "All Wiki Categories"
+msgstr "Wikiのすべてのカテゴリー"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:69
+msgid "Update Wiki Category"
+msgstr "Wikiのカテゴリを更新"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:70
+msgid "Add New Wiki Category"
+msgstr "新しいWikiのカテゴリーを追加します。"
+
+#: ../framework-customizations/extensions/woffice-wiki/class-fw-extension-woffice-wiki.php:71
+msgid "New Wiki Category"
+msgstr "新しいWikiのカテゴリー"
+
+#: ../framework-customizations/extensions/woffice-wiki/helpers.php:50
+msgid "I like this article"
+msgstr "この記事が好き"
+
+#: ../framework-customizations/extensions/woffice-wiki/manifest.php:7
+msgid "Woffice Wiki"
+msgstr "Woffice Wiki"
+
+#: ../framework-customizations/extensions/woffice-wiki/manifest.php:8
+msgid "Enables the possibility to add a wiki management to your site."
+msgstr "Wikiの管理をサイトに追加することができます。"
+
+#: ../framework-customizations/extensions/woffice-wiki/includes/class-fw-widget-woffice-wiki.php:15
+msgid "(Woffice) Wiki Articles"
+msgstr "(Woffice) Wikiの記事"
+
+#: ../framework-customizations/extensions/woffice-wiki/includes/class-fw-widget-woffice-wiki.php:52
+#: ../inc/widgets/eventon/class-widget-eventon.php:45
+msgid "Number"
+msgstr "番号"
+
+#: ../framework-customizations/theme/manifest.php:9
+msgid "Woffice"
+msgstr "Woffice"
+
+#: ../framework-customizations/theme/manifest.php:11
+msgid "Another awesome Wordpress theme"
+msgstr "もう一つの素晴らしいワードプレスのテーマ"
+
+#: ../framework-customizations/theme/options/buddypress.php:28
+#, fuzzy
+msgid "If checked the field will be displayed on the members page."
+msgstr "ページに表示される見出しです。"
+
+#: ../framework-customizations/theme/options/buddypress.php:33
+msgid "Field's icon"
+msgstr ""
+
+#: ../framework-customizations/theme/options/buddypress.php:47
+msgid "Buddypress"
+msgstr "BuddyPress"
+
+#: ../framework-customizations/theme/options/buddypress.php:51
+#: ../framework-customizations/theme/options/dashboard.php:11
+#: ../framework-customizations/theme/options/general.php:11
+#: ../framework-customizations/theme/options/header.php:11
+#: ../framework-customizations/theme/options/menu.php:11
+#: ../framework-customizations/theme/options/news.php:11
+#: ../framework-customizations/theme/options/page-title.php:11
+#: ../framework-customizations/theme/options/posts.php:19
+#: ../framework-customizations/theme/options/sidebar.php:11
+msgid "Main options"
+msgstr "メインオプション"
+
+#: ../framework-customizations/theme/options/buddypress.php:56
+msgid "New Member Types"
+msgstr "新しいメンバータイプ"
+
+#: ../framework-customizations/theme/options/buddypress.php:58
+msgid ""
+"This is a way to categorise your members (members directory, privacy on "
+"certain pages...), you will have more/better options with this plugin :"
+msgstr ""
+"これは、あなたのメンバーを分類する方法です（メンバーディレクトリ、プライバ"
+"シーページ等）、次のプラグインを使用するともっと良いオプションがあります："
+
+#: ../framework-customizations/theme/options/buddypress.php:62
+msgid "Role Name"
+msgstr "役割"
+
+#: ../framework-customizations/theme/options/buddypress.php:66
+msgid "Role capabilities"
+msgstr "役割機能"
+
+#: ../framework-customizations/theme/options/buddypress.php:69
+msgid "You can learn more about user capabilities here"
+msgstr "ここでユーザーの機能についての詳細を学ぶことができます。"
+
+#: ../framework-customizations/theme/options/buddypress.php:77
+#: ../inc/buddypress.php:662
+#, fuzzy
+msgid "Personal Calendar"
+msgstr "EventOnカレンダー"
+
+#: ../framework-customizations/theme/options/buddypress.php:78
+msgid "Show the personal calendar tab on user's profile."
+msgstr ""
+
+#: ../framework-customizations/theme/options/buddypress.php:91
+#, fuzzy
+msgid "Members filter"
+msgstr "メンバー"
+
+#: ../framework-customizations/theme/options/buddypress.php:92
+msgid "Show the dropdown filter on the Buddypress members directory."
+msgstr ""
+
+#: ../framework-customizations/theme/options/buddypress.php:105
+msgid "Display fields in Buddypress members directory"
+msgstr ""
+
+#: ../framework-customizations/theme/options/custom-css.php:7
+msgid "Custom CSS"
+msgstr "カスタムCSS"
+
+#: ../framework-customizations/theme/options/custom-css.php:11
+msgid "Custom CSS, JS"
+msgstr "カスタムCSS/JS"
+
+#: ../framework-customizations/theme/options/custom-css.php:15
+msgid "Type your custom CSS here "
+msgstr "カスタム CSS スタイルをここに挿入します。"
+
+#: ../framework-customizations/theme/options/custom-css.php:17
+msgid ""
+"No need to set the tags (&lt;style&gt;&lt;/style&gt;). It is better to "
+"change the CSS changes here than editing the theme files ;) or you can "
+"create a child theme if you have a lot of changes."
+msgstr ""
+"タグを設定する必要はありません (&lt;style&gt;&lt;/style&gt;)。テーマ ファイル"
+"を編集するよりもここに CSS の変更をお勧めです。または多くの変更がある場合は、"
+"チャイルドテーマを作成できます。"
+
+#: ../framework-customizations/theme/options/custom-css.php:18
+msgid "Without the HTML tags \"style\" please"
+msgstr "\"style”タグなしのHTMLにしてください。"
+
+#: ../framework-customizations/theme/options/custom-css.php:21
+msgid "Type your custom Jquery/Javascript here "
+msgstr "カスタム Jquery/Javascript ここを入力します。"
+
+#: ../framework-customizations/theme/options/custom-css.php:23
+msgid ""
+"No need to set the tags (&lt;script&gt;&lt;/script&gt;). It will understands "
+"the \"$\", all is wrapped in a Jquery function."
+msgstr ""
+" (&lt;script&gt;&lt;/script&gt;)タグが必要ありません。それは「$」を理解して、"
+"すべてが Jquery 関数でラップされています。"
+
+#: ../framework-customizations/theme/options/custom-css.php:24
+msgid "Without the HTML tags \"script\" please"
+msgstr "“script”タグなしのHTMLにしてください。"
+
+#: ../framework-customizations/theme/options/dashboard.php:7
+msgid "Home Dashboard"
+msgstr "ホームダッシュボード"
+
+#: ../framework-customizations/theme/options/dashboard.php:15
+msgid "Number of columns in the dashboard"
+msgstr "ダッシュ ボードの列数"
+
+#: ../framework-customizations/theme/options/dashboard.php:18
+msgid "This is only for non-mobiles devices, because it is responsive."
+msgstr "これはレスポンシブであるためモバイルデバイス以外に使用します。"
+
+#: ../framework-customizations/theme/options/dashboard.php:20
+msgid "1 Columns"
+msgstr "1列"
+
+#: ../framework-customizations/theme/options/dashboard.php:21
+msgid "2 Columns"
+msgstr "2列"
+
+#: ../framework-customizations/theme/options/dashboard.php:22
+msgid "3 Columns"
+msgstr "3列"
+
+#: ../framework-customizations/theme/options/footer.php:7
+msgid "Footer & Extrafooter"
+msgstr "フッター ・ エクストラフーター"
+
+#: ../framework-customizations/theme/options/footer.php:11
+msgid "Footer Options"
+msgstr "フッターオプション"
+
+#: ../framework-customizations/theme/options/footer.php:15
+msgid "Show the Footer Widgets"
+msgstr "フッターウィジェットを見る"
+
+#: ../framework-customizations/theme/options/footer.php:26
+msgid ""
+"They will be above the copyright bar and below the extrafooter bar. You can "
+"set them in the widget page."
+msgstr ""
+"これはコピライトバーの上とエキストラフーターバーの下に表示します。ウィジェッ"
+"トのページで設定できます。"
+
+#: ../framework-customizations/theme/options/footer.php:29
+msgid "Number of columns ?"
+msgstr "カラム数"
+
+#: ../framework-customizations/theme/options/footer.php:31
+msgid "For the footer widgets."
+msgstr "フッターのウィジェット。"
+
+#: ../framework-customizations/theme/options/footer.php:44
+msgid "This is the color used in the footer for the texts."
+msgstr "フッターのテキストに使用する色です。"
+
+#: ../framework-customizations/theme/options/footer.php:49
+msgid "Link color"
+msgstr "リンク色"
+
+#: ../framework-customizations/theme/options/footer.php:50
+msgid "The colored color within the footer"
+msgstr "フッター内の塗装の色"
+
+#: ../framework-customizations/theme/options/footer.php:55
+msgid "Widgets Background Color"
+msgstr "ウィジェットの背景色"
+
+#: ../framework-customizations/theme/options/footer.php:56
+msgid "Color used in the widget background"
+msgstr "ウィジェットの背景で使用する色"
+
+#: ../framework-customizations/theme/options/footer.php:61
+msgid "Copyright Background Color"
+msgstr "コピーライト背景色"
+
+#: ../framework-customizations/theme/options/footer.php:64
+msgid "Copyright text in uppercase ?"
+msgstr "コピライトのテキストを大文字にしますか?"
+
+#: ../framework-customizations/theme/options/footer.php:69
+msgid "Copyright Content"
+msgstr "コピライトのコンテンツ"
+
+#: ../framework-customizations/theme/options/footer.php:76
+msgid "Color of the border between the widgets and the copyright."
+msgstr "ウィジェットとコピライトの間の境界線の色。"
+
+#: ../framework-customizations/theme/options/footer.php:81
+msgid "Extra Footer"
+msgstr "エキストラフッター"
+
+#: ../framework-customizations/theme/options/footer.php:85
+msgid "Show extra footer bar ?"
+msgstr "エキストラフッター バーを表示しますか？"
+
+#: ../framework-customizations/theme/options/footer.php:86
+msgid ""
+"That is a box with random photos of your members with a tagline over these "
+"images and a link to any page you like. (Usually, the member directory page)"
+msgstr ""
+"このボックスにランダムでサイトメンバーの写真とキャッチフレーズを表示します。"
+"他のページへリンクを付けることもできます。（通常はメンバーのディレクトリペー"
+"ジ）"
+
+#: ../framework-customizations/theme/options/footer.php:100
+msgid "Extrafooter Content"
+msgstr "エクストラフーターの内容"
+
+#: ../framework-customizations/theme/options/footer.php:102
+msgid ""
+"The text on the extra footer, you can use some \"span\" elements to color "
+"some words."
+msgstr ""
+"エキストラフッターのテキストの単語に色を付けるために「span」タグの使用できま"
+"す。"
+
+#: ../framework-customizations/theme/options/footer.php:107
+msgid "Extrafooter Link"
+msgstr "エクストラフーターのリンク"
+
+#: ../framework-customizations/theme/options/footer.php:108
+msgid "Link when the user click on that extra footer bar."
+msgstr "エキストラフーターバーのリンク先"
+
+#: ../framework-customizations/theme/options/footer.php:113
+#: ../framework-customizations/theme/options/page-title.php:84
+msgid "Border color"
+msgstr "ボーダーの色"
+
+#: ../framework-customizations/theme/options/footer.php:114
+msgid "Color of the border between the content and the extrafooter."
+msgstr "コンテンツとエキストラフーターの間の境界線の色。"
+
+#: ../framework-customizations/theme/options/general.php:7
+msgid "General Options"
+msgstr "一般設定"
+
+#: ../framework-customizations/theme/options/general.php:15
+msgid "Page loading"
+msgstr "読み込み中…"
+
+#: ../framework-customizations/theme/options/general.php:16
+msgid "Show the page loading bar above the navbar."
+msgstr "ナビゲーションバー上のページ読み込みのバーを表示します。"
+
+#: ../framework-customizations/theme/options/general.php:29
+msgid "Do you want to make this website public ?"
+msgstr "このサイトを一般公開するか?"
+
+#: ../framework-customizations/theme/options/general.php:30
+msgid ""
+"As an Intranet, every visitor have to login to access to the content and the "
+"wbesite, with this option your Website will be free to be reached by "
+"everyone..."
+msgstr ""
+"イントラネットとしては、サイトのコンテンツをアクセスするために、すべてのユー"
+"ザーがログインしなければならない。このオプションを使用すると誰もが無限にアク"
+"セスできるようになります。"
+
+#: ../framework-customizations/theme/options/general.php:43
+msgid "Excluded pages"
+msgstr "除外されたページ"
+
+#: ../framework-customizations/theme/options/general.php:44
+msgid ""
+"If the website is private you can still make some pages public with this "
+"option. That means that the pages selected will not be affected by the "
+"redirection to the login page"
+msgstr ""
+"ウェブサイトがプライベート場合はこのオプションででくつかのページを一般公開す"
+"ることができます。つまり、選択されているページは、ログインページにリダイレク"
+"トに影響しません。"
+
+#: ../framework-customizations/theme/options/general.php:51
+msgid "Hide website ?"
+msgstr "サイトを非表示にしますか？"
+
+#: ../framework-customizations/theme/options/general.php:52
+msgid ""
+"Do you want to hide the website from Search engines, so it is only "
+"accessible by URL."
+msgstr ""
+"URLだけでアクセスできるのように、検索エンジンからウェブサイトを非表示にします"
+"か？"
+
+#: ../framework-customizations/theme/options/general.php:65
+#, fuzzy
+msgid "Woffice topbar ?"
+msgstr "Woffice アップデーター"
+
+#: ../framework-customizations/theme/options/general.php:66
+#, fuzzy
+msgid "Do you want to see the Woffice topbar links in the admin bar."
+msgstr "管理バーの Wofficeドキュメントのリンクを参照しますか？"
+
+#: ../framework-customizations/theme/options/general.php:81
+msgid "Favicons"
+msgstr "ファビコン"
+
+#: ../framework-customizations/theme/options/general.php:85
+msgid "Favicon"
+msgstr "ファビコン"
+
+#: ../framework-customizations/theme/options/general.php:86
+msgid "Upload a favicon image (PNG 32px x 32px)"
+msgstr "ファビコン画像 (PNG 32 px x 32 px) をアップロード"
+
+#: ../framework-customizations/theme/options/general.php:90
+msgid "(Android) Icon 1"
+msgstr "(Android)アイコン 1"
+
+#: ../framework-customizations/theme/options/general.php:91
+msgid "Upload an image (PNG 192px x 192px). For screens with a density of 4.0"
+msgstr ""
+"4.0 の密度で画面ののために、画像 (PNG 192px x 192px) をアップロードします。"
+
+#: ../framework-customizations/theme/options/general.php:95
+msgid "(Android) Icon 2"
+msgstr "(Android) アイコン 2"
+
+#: ../framework-customizations/theme/options/general.php:96
+msgid "Upload an image (PNG 144px x 144px). For screens with a density of 3.0"
+msgstr ""
+"3.0 の密度で画面のために、画像 (PNG 144px x 144px) をアップロードします。"
+
+#: ../framework-customizations/theme/options/general.php:100
+msgid "(Iphone) Icon"
+msgstr "(iPhone)アイコン"
+
+#: ../framework-customizations/theme/options/general.php:101
+msgid "Upload an image (PNG 114px x 114px)"
+msgstr "画像 (PNG 114px x 114px) をアップロード"
+
+#: ../framework-customizations/theme/options/general.php:105
+msgid "(Ipad) Icon"
+msgstr "(iPad)アイコン"
+
+#: ../framework-customizations/theme/options/general.php:106
+msgid "Upload an image (PNG 144px x 144px)"
+msgstr "画像 (PNG 144px x 144px) をアップロード"
+
+#: ../framework-customizations/theme/options/header.php:7
+msgid "Header bar"
+msgstr "ヘッダー バー"
+
+#: ../framework-customizations/theme/options/header.php:15
+msgid "Main Logo"
+msgstr "メインロゴ"
+
+#: ../framework-customizations/theme/options/header.php:16
+msgid "Upload your image for the logo (white color advised)"
+msgstr "ロゴの画像をアップロード (白色お勧め)"
+
+#: ../framework-customizations/theme/options/header.php:21
+#: ../framework-customizations/theme/options/login.php:87
+msgid "Logo Width"
+msgstr "ロゴの幅"
+
+#: ../framework-customizations/theme/options/header.php:24
+#: ../framework-customizations/theme/options/header.php:31
+#: ../framework-customizations/theme/options/menu.php:24
+#: ../framework-customizations/theme/options/news.php:18
+msgid "A number please"
+msgstr "数値"
+
+#: ../framework-customizations/theme/options/header.php:25
+#: ../framework-customizations/theme/options/header.php:32
+#: ../framework-customizations/theme/options/menu.php:25
+msgid "No need to set px"
+msgstr "pxを設定する必要はありません。"
+
+#: ../framework-customizations/theme/options/header.php:28
+msgid "Navigation Bar Height"
+msgstr "ナビゲーション バーの高さ"
+
+#: ../framework-customizations/theme/options/header.php:35
+msgid "Do you want to hide the logo ?"
+msgstr "ロゴを非表示にしますか？"
+
+#: ../framework-customizations/theme/options/header.php:40
+msgid "Fixed navigation ?"
+msgstr "固定ナビゲーションにしますか？"
+
+#: ../framework-customizations/theme/options/header.php:51
+msgid ""
+"Do you want to fix the navigation on the top of the screen when scrolling."
+msgstr "スクロールするときに画面の上にナビゲーションを固定にします。"
+
+#: ../framework-customizations/theme/options/header.php:57
+msgid "This is the color used for the text (username)"
+msgstr "これは、ユーザー名のテキストで使用する色"
+
+#: ../framework-customizations/theme/options/header.php:63
+msgid "The background color of the navbar"
+msgstr "ナビゲーションバーの背景色"
+
+#: ../framework-customizations/theme/options/header.php:68
+msgid "Icons color"
+msgstr "アイコン色"
+
+#: ../framework-customizations/theme/options/header.php:69
+msgid "This is the color used in the header for the icons."
+msgstr "これはヘッダーのアイコンに使用する色です。"
+
+#: ../framework-customizations/theme/options/header.php:74
+msgid "Link hover color"
+msgstr "リンクホバー色"
+
+#: ../framework-customizations/theme/options/header.php:75
+msgid "The Hover color on the menu links, also for the submenu."
+msgstr "メニューとサブメニューのリンクのホバー色。"
+
+#: ../framework-customizations/theme/options/header.php:78
+msgid "Search icon in the menu ?"
+msgstr "メニュー内に検索アイコン入れますか?"
+
+#: ../framework-customizations/theme/options/header.php:89
+msgid "Do you want to show the seacrh icon at the end of the menu."
+msgstr "検索アイコンをメニューの最後に表示しますか？"
+
+#: ../framework-customizations/theme/options/header.php:92
+msgid "User box ?"
+msgstr "ユーザー ボックス?"
+
+#: ../framework-customizations/theme/options/header.php:103
+msgid "Do you want to show the user box in the navbar ?"
+msgstr "ナビゲーションバーのユーザー ボックスを表示しますか？"
+
+#: ../framework-customizations/theme/options/login.php:16
+msgid "Login Page"
+msgstr "ログインページ"
+
+#: ../framework-customizations/theme/options/login.php:20
+msgid "Login options"
+msgstr "ログインオプション"
+
+#: ../framework-customizations/theme/options/login.php:24
+msgid "Custom Login Page"
+msgstr "カスタム ログインページ"
+
+#: ../framework-customizations/theme/options/login.php:32
+#: ../framework-customizations/theme/options/login.php:107
+#: ../framework-customizations/theme/options/login.php:120
+#: ../framework-customizations/theme/options/login.php:146
+#: ../framework-customizations/theme/options/login.php:161
+#: ../framework-customizations/theme/options/login.php:176
+msgid "nope"
+msgstr "いいえ"
+
+#: ../framework-customizations/theme/options/login.php:35
+msgid ""
+"That is going to replace the login page from Wordpress with the new one from "
+"Woffice -> IMPORTANT! The page as to be named LOGIN please."
+msgstr ""
+"重要-> ワードプレスのログインページをWofficeの新しいページを置き換える。ペー"
+"ジ名はLOGINにしてください。"
+
+#: ../framework-customizations/theme/options/login.php:39
+msgid "Login page"
+msgstr "ログインページ"
+
+#: ../framework-customizations/theme/options/login.php:40
+msgid ""
+"This is the login page, it needs the Template fields to be set as \"LOGIN\"."
+msgstr ""
+"これはログインページです。テンプレートのフィールドが「ログイン」として設定す"
+"るに必要があります。"
+
+#: ../framework-customizations/theme/options/login.php:44
+msgid "Just select the page's name here"
+msgstr "ここにページの名を選択します。"
+
+#: ../framework-customizations/theme/options/login.php:49
+msgid "Welcome Message"
+msgstr "ウェルカムメッセージ"
+
+#: ../framework-customizations/theme/options/login.php:50
+msgid "Above the login form"
+msgstr "ログインフォームの上"
+
+#: ../framework-customizations/theme/options/login.php:70
+msgid "Image Opacity"
+msgstr "画像の不透明度"
+
+#: ../framework-customizations/theme/options/login.php:78
+msgid "This is the opacity of the image over the background color"
+msgstr "これは背景色の上画像の不透明度です。"
+
+#: ../framework-customizations/theme/options/login.php:82
+msgid "Logo Image"
+msgstr "ロゴ画像"
+
+#: ../framework-customizations/theme/options/login.php:83
+msgid "Just your logo as a PNG file"
+msgstr "PNGファイルのロゴ"
+
+#: ../framework-customizations/theme/options/login.php:90
+msgid "This is the width of your logo in the login page, no \"px\" please."
+msgstr "「px」なしでログインページのロゴの幅。"
+
+#: ../framework-customizations/theme/options/login.php:93
+msgid "Logo Height"
+msgstr "ロゴの高さ"
+
+#: ../framework-customizations/theme/options/login.php:96
+msgid "This is the height of your logo in the login page, no \"px\" please."
+msgstr "「px」なしでログインページのロゴの高さ。"
+
+#: ../framework-customizations/theme/options/login.php:99
+msgid "Show Wordpress Logo"
+msgstr "Wordpressのロゴを表示"
+
+#: ../framework-customizations/theme/options/login.php:112
+msgid "Show reset password link"
+msgstr "パスワードリセットのリンクを表示しますか？"
+
+#: ../framework-customizations/theme/options/login.php:123
+msgid ""
+"If you select Yep, we will add a link to the \"reset password\" Wordpress "
+"page, so the visitor can get a new password."
+msgstr ""
+"「はい」を選択した場合はWordpressの「パスワードリセットページ」のリンクを追加"
+"します。"
+
+#: ../framework-customizations/theme/options/login.php:128
+msgid "Registers Options"
+msgstr "登録オプション"
+
+#: ../framework-customizations/theme/options/login.php:132
+msgid "Register message"
+msgstr "登録メッセージ"
+
+#: ../framework-customizations/theme/options/login.php:135
+msgid ""
+"This is the text displayed before the Register button if the anyone can "
+"register in the Wordpress settings."
+msgstr ""
+"Wordpressの設定で誰でも登録することができる場合、登録ボタンの前に表示されるテ"
+"キストです。"
+
+#: ../framework-customizations/theme/options/login.php:138
+msgid "Buddypress Xprofile fields ?"
+msgstr "BuddyPress Xprofileフィールド？"
+
+#: ../framework-customizations/theme/options/login.php:149
+msgid ""
+"Do you want to see the Buddypress Xprofile fields from the \"Base\" "
+"displayed on the register form ? Thus, you can add as many field as you like."
+msgstr ""
+"登録フォームに表示される「ベース」からBuddypress Xprofileフィールドを参照しま"
+"すか？したがって、多くのフィールドを追加できます。"
+
+#: ../framework-customizations/theme/options/login.php:153
+msgid "Role field in the form"
+msgstr "フォームの「役割」フィールド"
+
+#: ../framework-customizations/theme/options/login.php:164
+msgid ""
+"Do you want to see the Role field in the registration form ? Of course, "
+"\"administrator\" is not in the option."
+msgstr ""
+"登録フォームの「役割」 フィールドを参照しますか？もちろん、「管理者」はオプ"
+"ションではありません。"
+
+#: ../framework-customizations/theme/options/login.php:168
+msgid "Captcha on Register form ?"
+msgstr "登録フォームにキャプチャ入れますか？"
+
+#: ../framework-customizations/theme/options/login.php:179
+msgid ""
+"Do you want to see a captcha on the register page, if you select \"yep\" "
+"please fill the fields below."
+msgstr ""
+"登録ページのキャプチャを参照しますか？「はい」を選択した場合、以下のフィール"
+"ドを記入してください。"
+
+#: ../framework-customizations/theme/options/login.php:182
+msgid "Captcha Question"
+msgstr "キャプチャの質問"
+
+#: ../framework-customizations/theme/options/login.php:185
+msgid "A question that humans can reply but not robots."
+msgstr "ロボットではなく、人間にしか返信できない質問です。"
+
+#: ../framework-customizations/theme/options/login.php:188
+msgid "Captcha Answer"
+msgstr "キャプチャの答え"
+
+#: ../framework-customizations/theme/options/login.php:191
+msgid "The answer of the question above."
+msgstr "上記の質問の答え。"
+
+#: ../framework-customizations/theme/options/menu.php:7
+msgid "Menu"
+msgstr "メニュー"
+
+#: ../framework-customizations/theme/options/menu.php:18
+msgid "The background color of the menu"
+msgstr "メニューの背景色"
+
+#: ../framework-customizations/theme/options/menu.php:21
+msgid "Menu Width"
+msgstr "メニューの幅"
+
+#: ../framework-customizations/theme/options/menu.php:30
+msgid "Menu color #2"
+msgstr "メニューの色 #2"
+
+#: ../framework-customizations/theme/options/menu.php:31
+msgid "Used for the text color and the borders"
+msgstr "テキストの色と枠線に使用"
+
+#: ../framework-customizations/theme/options/menu.php:36
+msgid "Menu hover color"
+msgstr "メニューのホバー色"
+
+#: ../framework-customizations/theme/options/menu.php:37
+msgid "Used as a link background, link color on it is white."
+msgstr "白色に背景リンクとリンクの色として使用する。"
+
+#: ../framework-customizations/theme/options/menu.php:40
+msgid "Menu Layout"
+msgstr ""
+
+#: ../framework-customizations/theme/options/menu.php:41
+msgid ""
+"Choose your menu layout below. The vertical menu is a beta feature you can "
+"try it but we think it needs more options, if you see any bug please report "
+"it on 2f.ticksy.com"
+msgstr ""
+
+#: ../framework-customizations/theme/options/menu.php:45
+msgid "Horizontal Top"
+msgstr ""
+
+#: ../framework-customizations/theme/options/menu.php:49
+msgid "Left Vertical"
+msgstr ""
+
+#: ../framework-customizations/theme/options/news.php:7
+msgid "Blog"
+msgstr "ブログ"
+
+#: ../framework-customizations/theme/options/news.php:15
+msgid "Number of posts displayed per page"
+msgstr "1 ページに表示する投稿数"
+
+#: ../framework-customizations/theme/options/news.php:21
+msgid "Blog Page Title"
+msgstr "ブログページタイトル"
+
+#: ../framework-customizations/theme/options/news.php:22
+msgid "It is the default Wordpress page here"
+msgstr "こちらはデフォルトWordpressのページです。"
+
+#: ../framework-customizations/theme/options/news.php:27
+msgid "Display Sidebar ?"
+msgstr "サイドバーを表示しますか。"
+
+#: ../framework-customizations/theme/options/news.php:31
+msgid "With Sidebar"
+msgstr "サイドバーあり"
+
+#: ../framework-customizations/theme/options/news.php:35
+msgid "Full Width"
+msgstr "全幅"
+
+#: ../framework-customizations/theme/options/news.php:40
+msgid "Blog layout"
+msgstr "ブログのレイアウト"
+
+#: ../framework-customizations/theme/options/news.php:41
+msgid "This is the blog layout for the main page"
+msgstr "これはメインページのブログのレイアウト"
+
+#: ../framework-customizations/theme/options/news.php:45
+msgid "Classic"
+msgstr "クラシック"
+
+#: ../framework-customizations/theme/options/news.php:49
+msgid "Masonry"
+msgstr "マンソリービュー"
+
+#: ../framework-customizations/theme/options/page-title.php:7
+msgid "Title Box"
+msgstr "タイトルボックス"
+
+#: ../framework-customizations/theme/options/page-title.php:15
+msgid "Default Featured image"
+msgstr "デフォルトのおすすめ画像"
+
+#: ../framework-customizations/theme/options/page-title.php:16
+msgid "Upload a large image"
+msgstr "大きな画像をアップロードします。"
+
+#: ../framework-customizations/theme/options/page-title.php:21
+msgid "Alignment of the background image ?"
+msgstr "背景イメージの配置"
+
+#: ../framework-customizations/theme/options/page-title.php:24
+msgid "Vertical alignment here"
+msgstr "垂直配置"
+
+#: ../framework-customizations/theme/options/page-title.php:27
+msgid "Bottom"
+msgstr "ボトム"
+
+#: ../framework-customizations/theme/options/page-title.php:28
+msgid "Top"
+msgstr "トップ"
+
+#: ../framework-customizations/theme/options/page-title.php:32
+msgid "Height of the page title box"
+msgstr "ページタイトルボックスの高さ"
+
+#: ../framework-customizations/theme/options/page-title.php:35
+msgid "In pixels pixels please, but without the PX"
+msgstr "ピクセルにしてください、しかし、「px」なし"
+
+#: ../framework-customizations/theme/options/page-title.php:36
+msgid "Just a number without the PX"
+msgstr "「px」なしの数だけ"
+
+#: ../framework-customizations/theme/options/page-title.php:39
+msgid "Headline text in uppercase ?"
+msgstr "ヘッドラインテキストを大文字にしますか?"
+
+#: ../framework-customizations/theme/options/page-title.php:44
+msgid "Font weight: bold ?"
+msgstr "フォントの太さ: ボルド?"
+
+#: ../framework-customizations/theme/options/page-title.php:49
+msgid "Headline Color"
+msgstr "ヘッドラインの色"
+
+#: ../framework-customizations/theme/options/page-title.php:52
+msgid "This is the color of the headline."
+msgstr "これはヘッドラインの色です。"
+
+#: ../framework-customizations/theme/options/page-title.php:58
+msgid ""
+"This is the opacity of the layer behind the page title and over the featured "
+"image"
+msgstr ""
+"これはページ タイトルの後ろに、おすすめイメージの上のレイヤーの不透明度です。"
+
+#: ../framework-customizations/theme/options/page-title.php:62
+msgid "Layer Color"
+msgstr "レイヤーの色"
+
+#: ../framework-customizations/theme/options/page-title.php:65
+msgid ""
+"This is the color of the layer behind the page title and over the featured "
+"image"
+msgstr ""
+"これはページ タイトルの後ろに、おすすめイメージの上のレイヤーの色です。"
+
+#: ../framework-customizations/theme/options/page-title.php:68
+msgid "Show border bottom"
+msgstr "ボーダーボトムを表示します。"
+
+#: ../framework-customizations/theme/options/page-title.php:79
+msgid "This is the colored border below this title box."
+msgstr "これは、このタイトルボックスの下の色付きのボーダーです。"
+
+#: ../framework-customizations/theme/options/page-title.php:85
+msgid "Color of the border below the the box title."
+msgstr "ボックスのタイトルの下のボーダー色。"
+
+#: ../framework-customizations/theme/options/posts.php:23
+msgid "Who can create a Blog article ?"
+msgstr "誰がブログ記事を作成できますか？"
+
+#: ../framework-customizations/theme/options/posts.php:24
+msgid ""
+"It is only affecting a front end button on the main Blog page. The roles "
+"with post edit capabilities will still be able to create Blog article from "
+"the backend."
+msgstr ""
+"それがメインブログページ上のフロントエンドボタンのみに影響します。記事編集機"
+"能を持つロールはバックエンドからブログ記事を作成することができます。"
+
+#: ../framework-customizations/theme/options/posts.php:30
+msgid "Who can create a Wiki article ?"
+msgstr "誰がWiki の記事を作成できますか？"
+
+#: ../framework-customizations/theme/options/posts.php:31
+msgid ""
+"It is only affecting a front end button on the main wiki page. The roles "
+"with post edit capabilities will still be able to create Wiki from the "
+"backend."
+msgstr ""
+"それがメインWikiページ上のフロントエンドボタンのみに影響します。記事編集機能"
+"を持つロールはバックエンドからWiki記事を作成することができます。"
+
+#: ../framework-customizations/theme/options/posts.php:37
+msgid "Who can create a project article ?"
+msgstr "誰がプロジェクト記事を作成できますか？"
+
+#: ../framework-customizations/theme/options/posts.php:38
+msgid ""
+"It is only affecting a front end button on the main projects page. The roles "
+"with post edit capabilities will still be able to create Projects from the "
+"backend."
+msgstr ""
+"それがメインプロジェクトページ上のフロントエンドボタンのみに影響します。記事"
+"編集機能を持つロールはバックエンドからプロジェクトを作成することができます。"
+
+#: ../framework-customizations/theme/options/posts.php:44
+msgid "Who can create a directory item ?"
+msgstr "誰がディレクトリ項目を作成できますか?"
+
+#: ../framework-customizations/theme/options/posts.php:45
+msgid ""
+"It is only affecting a front end button on the main directory page. The "
+"roles with post edit capabilities will still be able to create an item from "
+"the backend."
+msgstr ""
+"それがメインディレクトリページ上のフロントエンドボタンのみに影響します。記事"
+"編集機能を持つロールはバックエンドからディレクトリ項目を作成することができま"
+"す。"
+
+#: ../framework-customizations/theme/options/posts.php:51
+msgid "Show comments on pages"
+msgstr "ページにコメントを表示する"
+
+#: ../framework-customizations/theme/options/posts.php:52
+msgid ""
+"Do you want to display the comments to allow user to comment on pages ? If "
+"it you choose \"show\" you will still be able to override it on every page."
+msgstr ""
+"ユーザーがページにコメントできるようにコメントを表示しますか。「表示する」を"
+"選択することすべての各ページにそれを上書きすることができます。"
+
+#: ../framework-customizations/theme/options/posts.php:65
+msgid "Are the projects public ?"
+msgstr "プロジェクトは一般公開されますか。"
+
+#: ../framework-customizations/theme/options/posts.php:66
+msgid ""
+"If it is \"Yep\", every non logged users can view the project but not edit "
+"them."
+msgstr ""
+"「はい」の場合はすべての非ログインユーザーにプロジェクトを表示それますが、編"
+"集はできません。"
+
+#: ../framework-customizations/theme/options/posts.php:79
+msgid "Wiki Exclude categories"
+msgstr "Wiki 除外カテゴリ"
+
+#: ../framework-customizations/theme/options/posts.php:80
+msgid "Do you want to exclude categories from the Wiki page ?"
+msgstr "Wiki ページからカテゴリを除外しますか。"
+
+#: ../framework-customizations/theme/options/posts.php:86
+msgid "Notice user on task assignment ?"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts.php:87
+#, fuzzy
+msgid ""
+"Do you want to notice the user by email when a project task is assigned to "
+"the user ?"
+msgstr "サイドバーのアクセスを制限をログインしているユーザーのみにしますか？"
+
+#: ../framework-customizations/theme/options/posts.php:100
+#, fuzzy
+msgid "Email's content"
+msgstr "記事の内容："
+
+#: ../framework-customizations/theme/options/posts.php:101
+#, fuzzy
+msgid "This is the content of the email before the task name."
+msgstr "これは、コンテナーの内容です。"
+
+#: ../framework-customizations/theme/options/sidebar.php:7
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: ../framework-customizations/theme/options/sidebar.php:15
+msgid "Display the Sidebar on pages"
+msgstr "ページにサイドバーを表示します。"
+
+#: ../framework-customizations/theme/options/sidebar.php:26
+msgid ""
+"This is a global option for the whole website, you can still use a full "
+"width layout by using a page template."
+msgstr ""
+"これはサイト全体のグローバル オプションです。全幅レイアウトを使用するには、"
+"ページテンプレートを使用できます。"
+
+#: ../framework-customizations/theme/options/sidebar.php:29
+msgid "Only for logged users ?"
+msgstr "ログインされたユーザーのみにしますか？"
+
+#: ../framework-customizations/theme/options/sidebar.php:40
+msgid "Do you want to restrict sidebar access only to the logged users ?"
+msgstr "サイドバーのアクセスを制限をログインしているユーザーのみにしますか？"
+
+#: ../framework-customizations/theme/options/sidebar.php:43
+msgid "Sidebar on Group & Member pages ?"
+msgstr "グループとメンバーページにサイドバーを表示しますか？"
+
+#: ../framework-customizations/theme/options/sidebar.php:54
+#: ../framework-customizations/theme/options/sidebar.php:68
+msgid "Do you want to see the sidebar on these pages"
+msgstr "これらのページにサイドバーを表示しますか？"
+
+#: ../framework-customizations/theme/options/sidebar.php:57
+msgid "Sidebar on Blog pages ?"
+msgstr "ブログのページのサイドバー入れますか。"
+
+#: ../framework-customizations/theme/options/sidebar.php:71
+msgid "Open the sidebar by default"
+msgstr "デフォルでサイドバーを開く"
+
+#: ../framework-customizations/theme/options/sidebar.php:82
+msgid ""
+"The sidebar can either be hidden or be visible by default, the user will "
+"find an action button in the header bar."
+msgstr ""
+"サイドバーか非表示にすることができますまたはデフォルトで表示する、ユーザーが"
+"ヘッダー バーにアクション ボタンを見つけるでしょう。"
+
+#: ../framework-customizations/theme/options/sidebar.php:98
+msgid "Display the Sidebar on mobiles"
+msgstr "モバイル・デバイスにサイドバーを表示します。"
+
+#: ../framework-customizations/theme/options/sidebar.php:109
+msgid ""
+"If you choose \"yep\" the sidebar will be toggled with a button fixed on the "
+"right side during the navigation."
+msgstr ""
+"「はい」を選択するナビゲーション中に右側にある固定ボタンでサイドバーが切り替"
+"わります。"
+
+#: ../framework-customizations/theme/options/sidebar.php:112
+msgid "Minimum sidebar height"
+msgstr "最小のサイドバーの高さ"
+
+#: ../framework-customizations/theme/options/sidebar.php:114
+msgid ""
+"You can set here a minimum height for the sidebar, it may looks weird but "
+"that is better for the layout and prevent some javascript bugs."
+msgstr ""
+"ここでサイドバーの最小の高さを設定できます。それは奇妙に見えることがあります"
+"が、それはレイアウトの優れているといくつかの javascript のバグを防ぐためにな"
+"ります。"
+
+#: ../framework-customizations/theme/options/sidebar.php:116
+msgid "A value in Pixel but no needs for the px."
+msgstr "「px」なしのピクセル値です。"
+
+#: ../framework-customizations/theme/options/sidebar.php:119
+msgid "Show scroll top arrow ?"
+msgstr "トップへのスクロール矢印を表示?"
+
+#: ../framework-customizations/theme/options/sidebar.php:121
+msgid ""
+"This is the arrow at the bottom of the page which allow the user to scroll "
+"to the top."
+msgstr ""
+"これはトップへスクロールすることができるようにするページの下部の矢印です。"
+
+#: ../framework-customizations/theme/options/sidebar.php:133
+msgid "Show scroll arrow in the sidebar ?"
+msgstr "サイドバーにスクロール矢印を表示しますか？"
+
+#: ../framework-customizations/theme/options/sidebar.php:135
+msgid ""
+"Do you want to display at the bottom of the right sidebar an arrow to help "
+"user navigation."
+msgstr ""
+"ユーザーのナビゲーションをしやすくするために右側のサイドバーの下部に矢印を表"
+"示しますか？"
+
+#: ../framework-customizations/theme/options/styling.php:7
+msgid "Styling"
+msgstr "スタイリング"
+
+#: ../framework-customizations/theme/options/styling.php:11
+msgid "Fonts options"
+msgstr "フォントオプション"
+
+#: ../framework-customizations/theme/options/styling.php:26
+msgid "Main font Family"
+msgstr "メインフォントファミリー"
+
+#: ../framework-customizations/theme/options/styling.php:27
+msgid "Used for the main texts (content, menu, footer ...)."
+msgstr "メインテキスト (コンテンツ、メニューのフッター等) に使用されます。"
+
+#: ../framework-customizations/theme/options/styling.php:41
+msgid "Headlines font Family"
+msgstr "見出しフォントファミリー"
+
+#: ../framework-customizations/theme/options/styling.php:42
+msgid "Used for all the headlines. The size set here does not matters."
+msgstr ""
+"すべての見出しに使用されます。ここで設定したサイズは重要ではありません。"
+
+#: ../framework-customizations/theme/options/styling.php:45
+msgid "Extended latin ?"
+msgstr "ラテンを拡張？"
+
+#: ../framework-customizations/theme/options/styling.php:56
+msgid "This is for some fonts in some language (polish for example)."
+msgstr "これは、いくつかの言語でいくつかのフォント (例えばポーランド語)。"
+
+#: ../framework-customizations/theme/options/styling.php:59
+msgid "Bold Headlines ?"
+msgstr "太字の見出し？"
+
+#: ../framework-customizations/theme/options/styling.php:70
+#: ../framework-customizations/theme/options/styling.php:84
+msgid ""
+"This is a global option for most of the titles, you will have something "
+"similar to the demo."
+msgstr ""
+"これはタイトルのほとんどのグローバルオプションです。デモに似たような感じにな"
+"ります。"
+
+#: ../framework-customizations/theme/options/styling.php:73
+msgid "Uppercase Headlines ?"
+msgstr "大文字の見出し？"
+
+#: ../framework-customizations/theme/options/styling.php:89
+msgid "Color options"
+msgstr "色のオプション"
+
+#: ../framework-customizations/theme/options/styling.php:95
+msgid "Some colors can be found on the other tabs of the page settings ;)"
+msgstr "ページ設定の他のタブをいくつかの色を見つけることができます。"
+
+#: ../framework-customizations/theme/options/styling.php:100
+msgid "Main color"
+msgstr "メインカラー"
+
+#: ../framework-customizations/theme/options/styling.php:101
+msgid ""
+"This is your brand color (used in the links or in the buttons background for "
+"instance)."
+msgstr ""
+"これはあなたのブランドの色 (例えば使用リンクまたはボタン バック グラウンド) "
+"です。"
+
+#: ../framework-customizations/theme/options/styling.php:106
+msgid "Main text color"
+msgstr "メインテキストの色"
+
+#: ../framework-customizations/theme/options/styling.php:107
+msgid "This is the main color for the content, sidebar ..."
+msgstr "これはコンテンツ、サイドバー等のメイン色"
+
+#: ../framework-customizations/theme/options/styling.php:112
+msgid "Body background color"
+msgstr "ボディー背景色"
+
+#: ../framework-customizations/theme/options/styling.php:117
+msgid "Light Color #1"
+msgstr "ライトカラー #1"
+
+#: ../framework-customizations/theme/options/styling.php:118
+#: ../framework-customizations/theme/options/styling.php:124
+msgid ""
+"We use this color for some design effects in the content (sidebar, form, box "
+"title...)"
+msgstr ""
+"この色は、コンテンツ (サイドバー、フォーム、ボックスのタイトル等) の一部のデ"
+"ザイン効果"
+
+#: ../framework-customizations/theme/options/styling.php:123
+msgid "Light Color #2"
+msgstr "Light Color #2"
+
+#: ../framework-customizations/theme/options/styling.php:129
+msgid "Light Color #3"
+msgstr "Light Color #3"
+
+#: ../framework-customizations/theme/options/styling.php:130
+msgid ""
+"We use this color for some design effects in the content (messages, "
+"icons ...)"
+msgstr "この色は、コンテンツ (メッセージ、アイコン等) で一部のデザイン効果"
+
+#: ../framework-customizations/theme/options/styling.php:135
+msgid "Notifications color"
+msgstr "通知の色"
+
+#: ../framework-customizations/theme/options/widgets.php:7
+msgid "Custom Widgets"
+msgstr "カスタムウィジェット"
+
+#: ../framework-customizations/theme/options/widgets.php:47
+msgid "Poll Widget"
+msgstr "アンケートウィジェット"
+
+#: ../framework-customizations/theme/options/widgets.php:51
+msgid "Sidebar Position"
+msgstr "サイドバーの位置"
+
+#: ../framework-customizations/theme/options/widgets.php:55
+msgid "Left"
+msgstr "左"
+
+#: ../framework-customizations/theme/options/widgets.php:59
+msgid "Right"
+msgstr "右"
+
+#: ../framework-customizations/theme/options/posts/directory.php:35
+#: ../framework-customizations/theme/options/posts/directory.php:44
+msgid "Custom fields"
+msgstr "カスタムフィールド"
+
+#: ../framework-customizations/theme/options/posts/directory.php:45
+msgid ""
+"You can add any data here (salary,population,dates,birthdays...anything you "
+"like)."
+msgstr ""
+"ここに任意のデータを追加することができます (給与、人口、日付、誕生日など)。"
+
+#: ../framework-customizations/theme/options/posts/directory.php:57
+msgid "Item settings "
+msgstr "項目の設定"
+
+#: ../framework-customizations/theme/options/posts/directory.php:62
+msgid "Location"
+msgstr "位置"
+
+#: ../framework-customizations/theme/options/posts/directory.php:63
+msgid "The location will be visible in the main directory page & single page."
+msgstr "位置はメインディレクトリページとシングルページに表示されます。"
+
+#: ../framework-customizations/theme/options/posts/directory.php:68
+msgid "Button text"
+msgstr "ボタンのテキスト"
+
+#: ../framework-customizations/theme/options/posts/directory.php:69
+msgid ""
+"If you fill this option, you'll the possibility to add a button on the "
+"single page (can link to a form within your site or an extern URL). If you "
+"leave it empty, it won't be displayed."
+msgstr ""
+"このオプションを記入する場合は、シングルページにボタンを追加する可能になりま"
+"す（サイト内または外部サイトへのURLリンク先。）空の場合は表示しません。"
+
+#: ../framework-customizations/theme/options/posts/directory.php:73
+msgid "Button link"
+msgstr "ボタンリンク"
+
+#: ../framework-customizations/theme/options/posts/directory.php:77
+msgid "Button Icon"
+msgstr "ボタンアイコン"
+
+#: ../framework-customizations/theme/options/posts/page.php:23
+msgid "Select users :"
+msgstr "ユーザーを選択："
+
+#: ../framework-customizations/theme/options/posts/page.php:44
+msgid "Page settings "
+msgstr "ページ設定"
+
+#: ../framework-customizations/theme/options/posts/page.php:48
+msgid "Hide the title"
+msgstr "タイトルを非表示"
+
+#: ../framework-customizations/theme/options/posts/page.php:49
+msgid "Only the featured image will be visible, the title will be hidden."
+msgstr "注目画像が表示されます、だけタイトルは非表示になります。"
+
+#: ../framework-customizations/theme/options/posts/page.php:55
+msgid "Exclude Members"
+msgstr "除外するメンバー"
+
+#: ../framework-customizations/theme/options/posts/page.php:56
+#: ../framework-customizations/theme/options/posts/project.php:51
+msgid "Help tip : Hold Ctrl to select multiple users."
+msgstr "役立つヒント: 複数のユーザーを選択する場合は ctrl キーをホールド。"
+
+#: ../framework-customizations/theme/options/posts/page.php:57
+msgid ""
+"The excluded members will not be able to see that page, they will receive an "
+"error message instead."
+msgstr ""
+"除外されたメンバーはそのページを表示することはできません、代わりに、エラー "
+"メッセージが表示されます。"
+
+#: ../framework-customizations/theme/options/posts/page.php:62
+#: ../framework-customizations/theme/options/posts/post.php:31
+#: ../framework-customizations/theme/options/posts/wiki.php:25
+msgid "Exclude Roles"
+msgstr "役割を除外"
+
+#: ../framework-customizations/theme/options/posts/page.php:63
+#: ../framework-customizations/theme/options/posts/post.php:32
+#: ../framework-customizations/theme/options/posts/wiki.php:26
+msgid "Help tip : Hold Ctrl to select multiple roles."
+msgstr "役立つヒント: 複数の役割を選択する ctrl キーをホールド。"
+
+#: ../framework-customizations/theme/options/posts/page.php:64
+msgid ""
+"The excluded roles will not be able to see that page, they will receive an "
+"error message instead. "
+msgstr ""
+"除外の役割はそのページを参照してくださいすることはできません、代わりに、エ"
+"ラー メッセージが表示されます。"
+
+#: ../framework-customizations/theme/options/posts/page.php:68
+msgid "Only for logged users"
+msgstr "ログインされたユーザーのみ"
+
+#: ../framework-customizations/theme/options/posts/page.php:69
+msgid ""
+"If your website is public you can hide this page from non-logged users, they "
+"will find a link to the login page."
+msgstr ""
+"このウェブサイトがパブリックの場合を非ログインユーザーからこのページを非表示"
+"にすることができます。彼らにログインページへのリンクを表示されます。"
+
+#: ../framework-customizations/theme/options/posts/page.php:75
+msgid "Add a slider"
+msgstr "スライダーを追加"
+
+#: ../framework-customizations/theme/options/posts/page.php:76
+msgid ""
+"This will override the page title box (image & title), you'll have the "
+"selected Revolution slider instead."
+msgstr ""
+"ページタイトルボックス (画像・ タイトル) の代わりに選択したRevolutionスライ"
+"ダーがオーバーライドされます。"
+
+#: ../framework-customizations/theme/options/posts/post.php:20
+msgid "Post Options"
+msgstr "記事のオプション"
+
+#: ../framework-customizations/theme/options/posts/post.php:24
+msgid "Top featured image (optional)"
+msgstr "トップ注目画像（任意）"
+
+#: ../framework-customizations/theme/options/posts/post.php:25
+msgid ""
+"Change the image behind the page title, otherwise we are going to use the "
+"default one."
+msgstr ""
+"ページタイトルの背後にイメージを変更するかデフォルトの画像を使用します。"
+
+#: ../framework-customizations/theme/options/posts/post.php:33
+msgid ""
+"The excluded roles will not be able to see that blog post, they will receive "
+"an error message instead. "
+msgstr ""
+"除外の役割はそのブログの記事を参照することができません。代わりにエラーメッ"
+"セージが表示されます。"
+
+#: ../framework-customizations/theme/options/posts/post.php:37
+#, fuzzy
+msgid "Featured image height"
+msgstr "デフォルトのおすすめ画像"
+
+#: ../framework-customizations/theme/options/posts/post.php:40
+#, fuzzy
+msgid "Only a number please"
+msgstr "数値"
+
+#: ../framework-customizations/theme/options/posts/post.php:43
+#: ../framework-customizations/theme/options/posts/wiki.php:31
+msgid "Everyone can edit ?"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/post.php:44
+#: ../framework-customizations/theme/options/posts/wiki.php:32
+msgid ""
+"If it is not checked only the admin and the post author will be able to edit "
+"(from the frontend)."
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/project.php:19
+msgid "Project settings "
+msgstr "プロジェクトの設定"
+
+#: ../framework-customizations/theme/options/posts/project.php:23
+#, fuzzy
+msgid "Project Progress"
+msgstr "プロジェクトカテゴリー"
+
+#: ../framework-customizations/theme/options/posts/project.php:24
+#, fuzzy
+msgid "How do you want to track the progress on this project ?"
+msgstr "Wiki ページからカテゴリを除外しますか。"
+
+#: ../framework-customizations/theme/options/posts/project.php:28
+#, fuzzy
+msgid "Tasks"
+msgstr "タスクの追加"
+
+#: ../framework-customizations/theme/options/posts/project.php:32
+msgid "Time"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/project.php:38
+msgid "Project Starting Date"
+msgstr "プロジェクト開始日"
+
+#: ../framework-customizations/theme/options/posts/project.php:39
+#: ../framework-customizations/theme/options/posts/project.php:45
+msgid ""
+"Will be used for the progress bar on the single project page and in the "
+"widget."
+msgstr "シングルプロジェクトページとウィジェットに進行状況バーの使用されます。"
+
+#: ../framework-customizations/theme/options/posts/project.php:44
+msgid "Project Ending Date"
+msgstr "プロジェクト終了日"
+
+#: ../framework-customizations/theme/options/posts/project.php:50
+msgid "Project Members"
+msgstr "プロジェクトメンバー"
+
+#: ../framework-customizations/theme/options/posts/project.php:52
+msgid ""
+"They will be allowed to modify the project from the single page and view it "
+"of course."
+msgstr ""
+"メンバーはシングルページからプロジェクトを変更し、それを表示することもできま"
+"す。"
+
+#: ../framework-customizations/theme/options/posts/project.php:57
+msgid "Project Files"
+msgstr "プロジェクトファイル"
+
+#: ../framework-customizations/theme/options/posts/project.php:58
+msgid ""
+"If it is checked, a directory will be created in your directory 1 set in "
+"your File Away settings. See the following link for details informations :"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/project.php:63
+msgid "Allow edit"
+msgstr "編集を許可します"
+
+#: ../framework-customizations/theme/options/posts/project.php:64
+msgid ""
+"Allowing the frontend edit from the users allowed to see the project, this "
+"may not be a good idea if you are using the page builder on that page. You "
+"can also choose in the other options."
+msgstr ""
+"そのページにページビルダーを使用する場合、プロジェクトの表示を許可されたユー"
+"ザーからフロントエンド編集を許可することは勧めしません。その他のオプションを"
+"選択できます。"
+
+#: ../framework-customizations/theme/options/posts/project.php:66
+msgid "Frontend Edit"
+msgstr "フロントエンド編集"
+
+#: ../framework-customizations/theme/options/posts/project.php:67
+msgid "Backend Edit link"
+msgstr "バックエンド編集リンク"
+
+#: ../framework-customizations/theme/options/posts/project.php:68
+msgid "No Edit icon"
+msgstr "編集アイコンなし"
+
+#: ../framework-customizations/theme/options/posts/project.php:74
+msgid "Project extern Links"
+msgstr "プロジェクト外部リンク"
+
+#: ../framework-customizations/theme/options/posts/project.php:75
+msgid "You can add here extern links related to the projects."
+msgstr "プロジェクトに関連する外部リンクをここで追加することができます。"
+
+#: ../framework-customizations/theme/options/posts/project.php:79
+msgid "Link"
+msgstr "リンク"
+
+#: ../framework-customizations/theme/options/posts/project.php:85
+msgid "Project Todo"
+msgstr "プロジェクトの Todo"
+
+#: ../framework-customizations/theme/options/posts/project.php:86
+msgid ""
+"If it is checked, a todo tab will be displayed and the project members will "
+"be able to create tasks for the project. Note it\\ll be overwritten if you "
+"enter a Wunderlist List ID below."
+msgstr ""
+"オンの場合、todo タブが表示され、プロジェクト メンバー、プロジェクトのタスク"
+"を作成することができます。注 it\\ll は、下記リストワンダー リスト ID を入力し"
+"た場合に上書きされます。"
+
+#: ../framework-customizations/theme/options/posts/project.php:91
+msgid "Project Todo tasks"
+msgstr "プロジェクトの「Todo」 タスク"
+
+#: ../framework-customizations/theme/options/posts/project.php:92
+msgid "It can be edited on the frontend by the projects member."
+msgstr "プロジェクトメンバーがフロントエンドで編集できます。"
+
+#: ../framework-customizations/theme/options/posts/project.php:96
+msgid "Done ?"
+msgstr "完了？"
+
+#: ../framework-customizations/theme/options/posts/project.php:97
+msgid "Due Date ?"
+msgstr "締切日？"
+
+#: ../framework-customizations/theme/options/posts/project.php:98
+msgid "Note ?"
+msgstr "メモ？"
+
+#: ../framework-customizations/theme/options/posts/project.php:101
+#, fuzzy
+msgid "Specific member ?"
+msgstr "メンバータイプの選択"
+
+#: ../framework-customizations/theme/options/posts/project.php:103
+msgid ""
+"If you have already some project\\s member, the selected user have to be one "
+"of them."
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/project.php:110
+msgid "Wunderlist List ID"
+msgstr "ワンダーリスト(Wunderlist)のリストID"
+
+#: ../framework-customizations/theme/options/posts/project.php:111
+msgid "The xxxxx in https://www.wunderlist.com/list/xxxxx"
+msgstr "https://www.wunderlist.com/list/◯◯◯◯の「◯◯◯◯」"
+
+#: ../framework-customizations/theme/options/posts/project.php:112
+msgid ""
+"You can set here a Wunderlist list ID, once it is PUBLISHED. However, this "
+"is an experimental feature for now, because your list will be public but "
+"only the persons with the link will be able to see it "
+msgstr ""
+"公開された後、ここでワンダーリストのリストIDを設定できます。しかし、今のとこ"
+"ろ、これは実験的な機能であり、あなたのリストがパブリクだとしても、リンクを持"
+"つ人のみ、それを見ることができる。"
+
+#: ../framework-customizations/theme/options/posts/project.php:116
+msgid "Calendar sync"
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/project.php:117
+msgid ""
+"If it is checked, an event will be added to eventON calendar when the post "
+"is created."
+msgstr ""
+
+#: ../framework-customizations/theme/options/posts/wiki.php:20
+msgid "Wiki settings "
+msgstr "Wiki の設定"
+
+#: ../framework-customizations/theme/options/posts/wiki.php:27
+msgid ""
+"The excluded roles will not be able to see that wiki article, they will "
+"receive an error message instead. "
+msgstr ""
+"除外の役割はそのwikiの記事を参照することができません。代わりにエラーメッセー"
+"ジが表示されます。"
+
+#: ../inc/buddypress.php:120
+msgid "Select Members"
+msgstr "メンバーを選択"
+
+#: ../inc/buddypress.php:224
+msgid "Welcome"
+msgstr "ようこそ"
+
+#: ../inc/buddypress.php:236 ../inc/buddypress.php:239
+#, fuzzy
+msgid "Activity"
+msgstr "有効化"
+
+#: ../inc/buddypress.php:245
+msgid "Favorites"
+msgstr ""
+
+#: ../inc/buddypress.php:248 ../inc/buddypress.php:317
+msgid "Friends"
+msgstr ""
+
+#: ../inc/buddypress.php:251 ../inc/buddypress.php:332
+#, fuzzy
+msgid "Groups"
+msgstr "グループモデレーター"
+
+#: ../inc/buddypress.php:260
+#, fuzzy
+msgid "Profile"
+msgstr "プロフィール"
+
+#: ../inc/buddypress.php:278
+#, fuzzy
+msgid "Notifications"
+msgstr "通知"
+
+#: ../inc/buddypress.php:293
+#, fuzzy
+msgid "Messages"
+msgstr "ウェルカムメッセージ"
+
+#: ../inc/buddypress.php:296
+msgid "Inbox"
+msgstr ""
+
+#: ../inc/buddypress.php:299
+msgid "Starred"
+msgstr ""
+
+#: ../inc/buddypress.php:302
+#, fuzzy
+msgid "Sent"
+msgstr "送信："
+
+#: ../inc/buddypress.php:305
+msgid "Compose"
+msgstr ""
+
+#: ../inc/buddypress.php:308
+msgid "Notices"
+msgstr ""
+
+#: ../inc/buddypress.php:320
+msgid "Friendships"
+msgstr ""
+
+#: ../inc/buddypress.php:323
+#, fuzzy
+msgid "Requests"
+msgstr "必須"
+
+#: ../inc/buddypress.php:335
+#, fuzzy
+msgid "Memberships"
+msgstr "メンバー"
+
+#: ../inc/buddypress.php:338
+#, fuzzy
+msgid "Invitations"
+msgstr "グループへの招待"
+
+#: ../inc/buddypress.php:350
+#, fuzzy
+msgid "General"
+msgstr "一般設定"
+
+#: ../inc/buddypress.php:353 ../inc/register.php:43
+msgid "Email"
+msgstr "Eメール"
+
+#: ../inc/buddypress.php:356
+#, fuzzy
+msgid "Profile Visibility"
+msgstr "表示"
+
+#: ../inc/buddypress.php:359
+#, fuzzy
+msgid "Capabilities"
+msgstr "役割機能"
+
+#: ../inc/buddypress.php:365
+msgid "Log Out"
+msgstr "ログアウト"
+
+#: ../inc/buddypress.php:420
+msgid ""
+"This address will be used on the members directory map, please make sur the "
+"address is valid for Google Map"
+msgstr ""
+"この住所はメンバーディレクトリマップに使用されます。Googleマップの有効な住所"
+"であるかどうか確認してください。"
+
+#: ../inc/buddypress.php:433 ../inc/buddypress.php:446
+#: ../inc/buddypress.php:459 ../inc/buddypress.php:472
+#: ../inc/buddypress.php:485 ../inc/buddypress.php:498
+#: ../inc/buddypress.php:511
+msgid ""
+"Copy past your URL in this field please, if it is empty it will not be "
+"displayed."
+msgstr "このフィールドにURLを貼り付けてください。空の場合は表示されません。"
+
+#: ../inc/buddypress.php:540
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: ../inc/buddypress.php:541
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: ../inc/buddypress.php:542
+msgid "Linkedin URL"
+msgstr "LinkedIn URL"
+
+#: ../inc/buddypress.php:543
+msgid "Slack URL"
+msgstr "Slack URL"
+
+#: ../inc/buddypress.php:544
+msgid "Google URL"
+msgstr "Google+ URL"
+
+#: ../inc/buddypress.php:545
+msgid "Github URL"
+msgstr "Github URL"
+
+#: ../inc/buddypress.php:546
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: ../inc/buddypress.php:644
+#, fuzzy
+msgid "Calendar"
+msgstr "EventOnカレンダー"
+
+#: ../inc/class-tgm-plugin-activation.php:161
+msgid "Install Required Plugins"
+msgstr "必須プラグインをインストール"
+
+#: ../inc/class-tgm-plugin-activation.php:162
+msgid "Install Plugins"
+msgstr "プラグインをインストール"
+
+#: ../inc/class-tgm-plugin-activation.php:163
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "プラグインのインストール：%s"
+
+#: ../inc/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr "エラーが発生しました。"
+
+#: ../inc/class-tgm-plugin-activation.php:175
+msgid "Return to Required Plugins Installer"
+msgstr "必須プラグインインストーラーへ戻る"
+
+#: ../inc/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr "ダッシュボードに戻る"
+
+#: ../inc/class-tgm-plugin-activation.php:177
+#: ../inc/class-tgm-plugin-activation.php:1956
+msgid "Plugin activated successfully."
+msgstr "プラグインが正常に有効化になりました。"
+
+#: ../inc/class-tgm-plugin-activation.php:178
+#: ../inc/class-tgm-plugin-activation.php:1644
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "以下のプラグインを有効化しました:"
+
+#: ../inc/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "すべてのプラグインのインストールと有効化が正常にできました。%1$s"
+
+#: ../inc/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr "通知を非表示"
+
+#: ../inc/class-tgm-plugin-activation.php:532
+#: ../inc/class-tgm-plugin-activation.php:2173
+msgid "Return to the Dashboard"
+msgstr "ダッシュボードに戻る"
+
+#: ../inc/class-tgm-plugin-activation.php:1167
+#: ../inc/class-tgm-plugin-activation.php:1348
+msgid "Private Repository"
+msgstr "プライベートリポジトリ"
+
+#: ../inc/class-tgm-plugin-activation.php:1170
+#: ../inc/class-tgm-plugin-activation.php:1351
+msgid "Pre-Packaged"
+msgstr "プリパッケージド"
+
+#: ../inc/class-tgm-plugin-activation.php:1175
+msgid "WordPress Repository"
+msgstr "WordPressリポジトリ"
+
+#: ../inc/class-tgm-plugin-activation.php:1178
+msgid "Required"
+msgstr "必須"
+
+#: ../inc/class-tgm-plugin-activation.php:1178
+msgid "Recommended"
+msgstr "勧め"
+
+#: ../inc/class-tgm-plugin-activation.php:1181
+msgid "Not Installed"
+msgstr "未インストール"
+
+#: ../inc/class-tgm-plugin-activation.php:1183
+msgid "Installed But Not Activated"
+msgstr "インストールされているがアクティブ化されていません"
+
+#: ../inc/class-tgm-plugin-activation.php:1288
+#: ../inc/class-tgm-plugin-activation.php:1409
+msgid "Install"
+msgstr "インストール"
+
+#: ../inc/class-tgm-plugin-activation.php:1312
+#: ../inc/class-tgm-plugin-activation.php:1410
+msgid "Activate"
+msgstr "有効化"
+
+#: ../inc/class-tgm-plugin-activation.php:1372
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"インストールもしくは有効化するプラグインはありません。<a href=“%1$s” "
+"title=“Return to the Dashboard”>ダッシュボードへ戻る</a>"
+
+#: ../inc/class-tgm-plugin-activation.php:1388
+msgid "Plugin"
+msgstr "プラグイン"
+
+#: ../inc/class-tgm-plugin-activation.php:1389
+msgid "Source"
+msgstr "ソース"
+
+#: ../inc/class-tgm-plugin-activation.php:1390
+msgid "Type"
+msgstr "タイプ"
+
+#: ../inc/class-tgm-plugin-activation.php:1939
+msgid "Install package not available."
+msgstr "インストールパッケージがありません。"
+
+#: ../inc/class-tgm-plugin-activation.php:1940
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+"<span class=\"code\">%s</span>&#8230; からインストールパッケージをダウンロー"
+"ドしています…"
+
+#: ../inc/class-tgm-plugin-activation.php:1941
+msgid "Unpacking the package&#8230;"
+msgstr "パッケージを解凍&#8230;"
+
+#: ../inc/class-tgm-plugin-activation.php:1942
+msgid "Installing the plugin&#8230;"
+msgstr "プラグインをインストール中&#8230;"
+
+#: ../inc/class-tgm-plugin-activation.php:1943
+msgid "Plugin install failed."
+msgstr "プラグインのインストールに失敗しました。"
+
+#: ../inc/class-tgm-plugin-activation.php:1944
+msgid "Plugin installed successfully."
+msgstr "プラグインが正常にインストールしました。"
+
+#: ../inc/class-tgm-plugin-activation.php:1955
+msgid "Plugin activation failed."
+msgstr "プラグインの有効化に失敗しました。"
+
+#: ../inc/class-tgm-plugin-activation.php:2069
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"インストールと有効化のプロセスが開始されます。このプロセスは、一部のホストで"
+"は少々時間がかかりますのでお待ちください。"
+
+#: ../inc/class-tgm-plugin-activation.php:2070
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s インストールと有効化が正常に完了しました。"
+
+#: ../inc/class-tgm-plugin-activation.php:2070
+#: ../inc/class-tgm-plugin-activation.php:2079
+msgid "Show Details"
+msgstr "詳細を表示"
+
+#: ../inc/class-tgm-plugin-activation.php:2070
+#: ../inc/class-tgm-plugin-activation.php:2079
+msgid "Hide Details"
+msgstr "詳細を隠す"
+
+#: ../inc/class-tgm-plugin-activation.php:2071
+msgid "All installations and activations have been completed."
+msgstr "すべてのインストールと有効化が完了しました。"
+
+#: ../inc/class-tgm-plugin-activation.php:2072
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "インストールと有効化中プラグイン: %1$s (%2$d/%3$d)"
+
+#: ../inc/class-tgm-plugin-activation.php:2076
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"インストールプロセスが開始されます。このプロセスは、一部のホストでは少々時間"
+"がかかりますのでお待ちください。"
+
+#: ../inc/class-tgm-plugin-activation.php:2077
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "%1$s のインストール中にエラー: <strong>%2$s</strong>"
+
+#: ../inc/class-tgm-plugin-activation.php:2078
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "%1$s のインストールに失敗しました。"
+
+#: ../inc/class-tgm-plugin-activation.php:2079
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s インストールが正常に完了しました。"
+
+#: ../inc/class-tgm-plugin-activation.php:2080
+msgid "All installations have been completed."
+msgstr "すべてのインストールが完了しました。"
+
+#: ../inc/class-tgm-plugin-activation.php:2081
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "プラグインをインストール中： %1$s (%2$d/%3$d)"
+
+#: ../inc/frontend.php:114
+msgid "Dates are not good, please check again."
+msgstr "日付が良好ではない、もう一度確認してください。"
+
+#: ../inc/frontend.php:243
+msgid "Information"
+msgstr "情報"
+
+#: ../inc/frontend.php:244
+msgid ""
+"You'll only find here basic settings for the projects, for more settings "
+"please contact an user with author right."
+msgstr ""
+"ここではプロジェクトの基本的な設定しか見つかりません。より多くの設定は、著者"
+"制限ユーザーにご連絡ください。"
+
+#: ../inc/frontend.php:251
+msgid "Project's Title:"
+msgstr "プロジェクトのタイトル:"
+
+#: ../inc/frontend.php:278
+msgid "Article's Category:"
+msgstr "記事のカテゴリ:"
+
+#: ../inc/frontend.php:281 ../inc/frontend.php:324 ../inc/frontend.php:370
+msgid "No category"
+msgstr "カテグリーなし"
+
+#: ../inc/frontend.php:297
+msgid "Project's starting date:"
+msgstr "プロジェクトの開始日:"
+
+#: ../inc/frontend.php:303
+msgid "Project's ending date:"
+msgstr "プロジェクトの終了日:"
+
+#: ../inc/frontend.php:321
+msgid "Project's Category:"
+msgstr "プロジェクトカテゴリー"
+
+#: ../inc/frontend.php:340
+msgid "Project's members:"
+msgstr "プロジェクトのメンバー:"
+
+#: ../inc/frontend.php:341
+msgid "If it's empty, all the members will be allowed"
+msgstr "空の場合はすべてのメンバーに許可されます。"
+
+#: ../inc/frontend.php:367
+msgid "Article's Category :"
+msgstr "記事のカテゴリ:"
+
+#: ../inc/frontend.php:379
+msgid "Article's Thumbnail :"
+msgstr "記事のサムネイル:"
+
+#: ../inc/frontend.php:387
+msgid "Project's Description:"
+msgstr "プロジェクトの説明:"
+
+#: ../inc/frontend.php:402
+msgid "Create Project"
+msgstr "プロジェクトの作成"
+
+#: ../inc/frontend.php:402
+msgid "Create Article"
+msgstr "記事を作成します。"
+
+#: ../inc/hooks.php:443
+msgid "Search..."
+msgstr "検索…"
+
+#: ../inc/hooks.php:468
+msgid "Content Sidebar"
+msgstr "コンテンツサイドバー"
+
+#: ../inc/hooks.php:470
+msgid ""
+"Appears in the main content, left or right as you like see theme settings. "
+"Every widget need a title."
+msgstr ""
+"メイン コンテンツ、左または右のテーマ設定を参照してくださいあなたのように表示"
+"されます。すべてのウィジェットにはタイトルが必要があります。"
+
+#: ../inc/hooks.php:478
+msgid "Dashboard Widgets"
+msgstr "ダッシュ ボード ・ ウィジェット"
+
+#: ../inc/hooks.php:480
+msgid "Appears in the dashboard page."
+msgstr "ダッシュ ボード ページに表示されます。"
+
+#: ../inc/hooks.php:488
+msgid "Footer Widgets"
+msgstr "フッターウィジェット"
+
+#: ../inc/hooks.php:490
+msgid "Appears in the footer section of the site."
+msgstr "サイトのフッターセクションに表示される"
+
+#: ../inc/hooks.php:687
+msgid "Search"
+msgstr "検索"
+
+#: ../inc/hooks.php:740
+msgid "Previous Posts"
+msgstr "前の投稿"
+
+#: ../inc/hooks.php:744
+msgid "Next Posts"
+msgstr "次の投稿"
+
+#: ../inc/hooks.php:760
+msgid "<i class=\"fa fa-hand-o-left\"></i> %title"
+msgstr "<i class=\"fa fa-hand-o-left\"></i> %title"
+
+#: ../inc/hooks.php:762
+msgid "%title <i class=\"fa fa-hand-o-right\"></i>"
+msgstr "%title <i class=\"fa fa-hand-o-right\"></i>"
+
+#: ../inc/hooks.php:955
+msgid "Unit Price"
+msgstr "単価"
+
+#: ../inc/hooks.php:956
+msgid "Quantity"
+msgstr "個数"
+
+#: ../inc/hooks.php:962
+msgid "No products in the cart."
+msgstr "カートは空です。"
+
+#: ../inc/hooks.php:965
+msgid "Cart Subtotal"
+msgstr "カートの小計"
+
+#: ../inc/hooks.php:968
+msgid "Cart"
+msgstr "カート"
+
+#: ../inc/hooks.php:971
+msgid "Checkout"
+msgstr "レジへ進む"
+
+#: ../inc/menus.php:8
+msgid "[Woffice] main menu in the header."
+msgstr "[Woffice] ヘッダーのメインメニュー"
+
+#: ../inc/menus.php:14
+msgid "[Woffice] Menu for non-logged users."
+msgstr "[Woffice]非ログインユーザーのメニュー。"
+
+#: ../inc/multiverso.php:11
+msgid "You need to be logged to manage your files!"
+msgstr "あなたのファイルを管理するため、ログインする必要があります!"
+
+#: ../inc/multiverso.php:86 ../inc/multiverso.php:246
+msgid "Add new File"
+msgstr "新しいファイルを追加"
+
+#: ../inc/multiverso.php:101
+msgid "Category/Folder"
+msgstr "カテゴリー/フォルダー"
+
+#: ../inc/multiverso.php:121
+msgid "Are you sure you wish to trash the file: "
+msgstr "本当に削除しますか？"
+
+#: ../inc/multiverso.php:161
+msgid "Edit File"
+msgstr "ファイルの編集"
+
+#: ../inc/multiverso.php:169 ../inc/multiverso.php:260
+msgid "Description"
+msgstr "内容"
+
+#: ../inc/multiverso.php:176 ../inc/multiverso.php:266
+msgid "Category"
+msgstr "カテゴリー"
+
+#: ../inc/multiverso.php:207 ../inc/multiverso.php:303
+msgid "Published"
+msgstr "公開済み"
+
+#: ../inc/multiverso.php:208 ../inc/multiverso.php:304
+msgid "Pending Review"
+msgstr "承認待ち"
+
+#: ../inc/multiverso.php:209 ../inc/multiverso.php:305
+msgid "Draft"
+msgstr "下書き"
+
+#: ../inc/multiverso.php:210 ../inc/multiverso.php:306
+msgid "Trashed"
+msgstr "ゴミ箱移動済み"
+
+#: ../inc/multiverso.php:228
+msgid "Update"
+msgstr "更新"
+
+#: ../inc/multiverso.php:322
+msgid "Save"
+msgstr "保存"
+
+#: ../inc/register.php:50
+msgid "Password"
+msgstr "パスワード"
+
+#: ../inc/register.php:57
+msgid "First Name"
+msgstr "姓"
+
+#: ../inc/register.php:64
+msgid "Last Name"
+msgstr "名"
+
+#: ../inc/register.php:85
+msgid "Role"
+msgstr "役割"
+
+#: ../inc/register.php:143
+#, fuzzy
+msgid "Register"
+msgstr "登録メッセージ"
+
+#: ../inc/register.php:153
+msgid "Required form field is missing"
+msgstr "必要フィールドが入力されていません"
+
+#: ../inc/register.php:157
+msgid "Username too short. At least 4 characters is required"
+msgstr "ユーザー名が短すぎます。少なくとも４文字が必要"
+
+#: ../inc/register.php:161
+msgid "Password length must be greater than 5"
+msgstr "パスワードの長さが５文字より長くなければなりません"
+
+#: ../inc/register.php:165
+msgid "Email is not valid"
+msgstr "有効なEメールアドレスではありません"
+
+#: ../inc/register.php:169
+msgid "Email Already in use"
+msgstr "このEメールアドレスは既に登録されています"
+
+#: ../inc/register.php:174
+msgid "Website is not a valid URL"
+msgstr "有効なURLではありません。"
+
+#: ../inc/register.php:193
+msgid "Sorry, the captcha is not valid."
+msgstr "Captcha が正しくありません。"
+
+#: ../inc/register.php:234
+msgid "Registration complete. You can now "
+msgstr "登録が完了です。"
+
+#: ../inc/register.php:234
+msgid "Sign In"
+msgstr "サインイン"
+
+#: ../inc/widgets/cf7/class-widget-cf7.php:10
+msgid "(Woffice) Form"
+msgstr "(Woffice)フォーム"
+
+#: ../inc/widgets/cf7/class-widget-cf7.php:44
+msgid "Form:"
+msgstr "フォーム："
+
+#: ../inc/widgets/cf7/class-widget-cf7.php:56
+msgid "No form Found"
+msgstr "フォーム見つかりません"
+
+#: ../inc/widgets/eventon/class-widget-eventon.php:10
+msgid "(Woffice) Events"
+msgstr "(Woffice)イベント"
+
+#: ../inc/widgets/eventon/views/widget.php:18
+msgid "No post found..."
+msgstr "投稿が見つかりません"
+
+#: ../inc/widgets/visualizer/class-widget-visualizer.php:10
+msgid "(Woffice) Graph"
+msgstr "(Woffice)グラフ"
+
+#: ../inc/widgets/visualizer/class-widget-visualizer.php:44
+msgid "Graph:"
+msgstr "グラフ："
+
+#: ../inc/widgets/visualizer/class-widget-visualizer.php:57
+msgid "No Graph Found"
+msgstr "グラフ見つかりません"
+
+#: ../inc/widgets/wpml/class-widget-wpml.php:10
+msgid "(Woffice) WPML languages"
+msgstr "(Woffice)WPMLの言語"
+
+#: ../page-templates/login.php:54 ../page-templates/login.php:59
+msgid "ERROR:"
+msgstr "エラー:"
+
+#: ../page-templates/login.php:55
+msgid "Invalid username and/or password."
+msgstr "無効なユーザー名またはパスワードです。"
+
+#: ../page-templates/login.php:60
+msgid "Username and/or Password is empty."
+msgstr "ユーザー名またはパスワードの項目が空です"
+
+#: ../page-templates/login.php:64
+msgid "Success:"
+msgstr ""
+
+#: ../page-templates/login.php:65
+msgid "You are logged out."
+msgstr "あなたがログアウトしています。"
+
+#: ../page-templates/login.php:95
+msgid "Lost Password"
+msgstr "パスワード紛失"
+
+#: ../page-templates/login.php:104
+msgid "Sign Up"
+msgstr "新規登録"
+
+#: ../page-templates/login.php:108
+msgid "Go back"
+msgstr "戻る"
+
+#: ../page-templates/login.php:120
+msgid "Proudly powered by"
+msgstr "Proudly powered by"
+
+#: ../page-templates/projects.php:91
+msgid "See Project"
+msgstr "プロジェクトを参照してください。"
+
+#: ../page-templates/projects.php:110
+msgid "Create a project"
+msgstr "プロジェクトを作成"
+
+#: ../page-templates/wiki.php:151
+msgid "New Wiki Article"
+msgstr "新しい Wiki 記事"
+
+#: ../woocommerce/cart/cart-totals.php:20
+msgid "Cart Totals"
+msgstr "カートの合計"
+
+#: ../woocommerce/cart/cart-totals.php:26
+msgid "Subtotal"
+msgstr "小計"
+
+#: ../woocommerce/cart/cart-totals.php:48
+msgid "Shipping"
+msgstr "配送"
+
+#: ../woocommerce/cart/cart-totals.php:80
+msgid "Total"
+msgstr "合計"
+
+#: ../woocommerce/cart/cart-totals.php:92
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr " (%sの消費税)"
+
+#: ../woocommerce/cart/cart-totals.php:95
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+"注意：配送料と消費税%sは請求および出荷情報に基づいて、チェックアウト時に更新"
+"されることがあります"
+
+#: ../woocommerce/cart/cross-sells.php:41
+msgid "You may be interested in&hellip;"
+msgstr "こちらも興味がありませんか？"
+
+#: ../woocommerce/single-product/related.php:43
+msgid "Related Products"
+msgstr "関連商品"
+
+#: ../woocommerce/single-product/up-sells.php:44
+msgid "You may also like&hellip;"
+msgstr "こちらもあなたの好みかも&hellip;"
+
+#~ msgid "Doc link ?"
+#~ msgstr "ドキュメントのリンク?"
+
+#~ msgid ""
+#~ "If it is checked, a Multiverso category will be created for this project "
+#~ "and you will be able to add and manage files from the project page."
+#~ msgstr ""
+#~ "オンの場合は、このプロジェクトの Multiverso カテゴリーが作成され、追加およ"
+#~ "びプロジェクトのページからファイルを管理することができます。"
+
+#~ msgid "News"
+#~ msgstr "ニュース"
+
+#~ msgid "(Woffice) Chat"
+#~ msgstr "(Woffice)チャット"
+
+#~ msgid "Sorry Wise chat isn't enabled...Please install it."
+#~ msgstr "Wise Chatはありません。インストールしてください。"
