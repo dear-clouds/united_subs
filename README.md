@@ -1,6 +1,6 @@
 # United Subs
 
-Anciennement fait avec Laravel, j'ai décidé de reprendre le projet sous Wordpress pour plusieurs raisons : Projet lourd de fonctionnalités dont beaucoup de plugins existants qui les ont déjà, je vais collaborer avec des gens qui n'ont aucune notion de web.
+Anciennement fait avec Laravel, j'ai décidé de reprendre le projet sous Wordpress pour plusieurs raisons : Projet lourd de fonctionnalités dont beaucoup de plugins existants qui les ont déjà et je vais collaborer avec des gens qui n'ont aucune notion de web.
 
 ## Concept
 
