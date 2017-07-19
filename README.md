@@ -1,31 +1,11 @@
+# United Subs
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+Anciennement fait avec Laravel, j'ai décidé de reprendre le projet sous Wordpress pour plusieurs raisons : Projet lourd de fonctionnalités donc beaucoup de plugins existants qui les ont déjà, je vais collaborer avec des gens qui n'ont aucune notion de web.
 
+## Concept
 
-Welcome to your WordPress website on Cloud9 IDE!
+Destinés aux Teams de traductions (peu importe le support) et aux fans de ces dites teams.
+Les Teams pourront annoncer leurs sorties, les héberger (torrent), recruter.. Et bien plus !
+Les fans pourront choisir de suivre uniquement les sorties de leur Team favorite, de télécharger leurs traductions et bien évidemment de discuter.
 
-To get you started, we've already...
-
-1) Started MySQL using:
-
-   $ mysql-ctl start
-
-2) Clicked the Run Project button
-
-3) Clicked on Preview > Preview Running Application
-
-And now you are ready to configure your WordPress admin interface!
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+### Plugins utilisés à ce jour :
