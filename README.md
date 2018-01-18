@@ -9,3 +9,6 @@ Les Teams pourront annoncer leurs sorties, les héberger (torrent), recruter.. E
 Les fans pourront choisir de suivre uniquement les sorties de leur Team favorite, de télécharger leurs traductions et bien évidemment de discuter.
 
 ### Plugins utilisés à ce jour :
+
+
+## [Workspace on Cloud9](https://ide.c9.io/manorie/madcatz)
