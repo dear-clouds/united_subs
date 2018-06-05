@@ -1,0 +1,16 @@
+---
+ID: 8661
+post_title: Go-Toubun no Hanayome – Chapitre 12
+author: Imaginary Scantrad
+post_excerpt: 'Bonsoir &agrave; tous, voici la fin de l&rsquo;arc du festival ! Plus que deux chapitres avant la fin du tome ! Quels futurs probl&egrave;mes attendent donc Fuutarou ? Sur ce, bonne lecture ! Go-Toubun no Hanayome &ndash; Chapitre 12 :... <a href="https://imaginaryscantrad.wordpress.com/2018/05/14/go-toubun-no-hanayome-chapitre-12/#more-2160">Lire la suite &rarr;</a>'
+layout: post
+permalink: >
+  https://imaginaryscantrad.wordpress.com/2018/05/14/go-toubun-no-hanayome-chapitre-12/
+published: true
+post_date: 2018-05-14 20:12:35
+---
+<p style="text-align:justify;"><img data-attachment-id="1846" data-permalink="https://imaginaryscantrad.wordpress.com/projets-scantrad/go-toubun-no-hanayome/ban-go-toubun-article-2/" data-orig-file="https://imaginaryscantrad.files.wordpress.com/2017/10/ban-go-toubun-article.jpg" data-orig-size="1000,500" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Ban Go-Toubun Article" data-image-description="" data-medium-file="https://imaginaryscantrad.files.wordpress.com/2017/10/ban-go-toubun-article.jpg?w=300" data-large-file="https://imaginaryscantrad.files.wordpress.com/2017/10/ban-go-toubun-article.jpg?w=736" class="size-full wp-image-1846 aligncenter" src="https://imaginaryscantrad.files.wordpress.com/2017/10/ban-go-toubun-article.jpg?w=670" alt="Ban Go-Toubun Article" srcset="https://imaginaryscantrad.files.wordpress.com/2017/10/ban-go-toubun-article.jpg?w=670 670w, https://imaginaryscantrad.files.wordpress.com/2017/10/ban-go-toubun-article.jpg?w=150 150w, https://imaginaryscantrad.files.wordpress.com/2017/10/ban-go-toubun-article.jpg?w=300 300w, https://imaginaryscantrad.files.wordpress.com/2017/10/ban-go-toubun-article.jpg?w=768 768w, https://imaginaryscantrad.files.wordpress.com/2017/10/ban-go-toubun-article.jpg 1000w" sizes="(max-width: 670px) 100vw, 670px" /></p>
+<p style="text-align:justify;">Bonsoir à tous, voici la fin de l&rsquo;arc du festival ! <span id="more-2160"></span><span id="more-2143"></span><span id="more-2141"></span><span id="more-2093"></span><span id="more-2085"></span><span id="more-2070"></span><span id="more-2067"></span><span id="more-1951"></span><span id="more-1945"></span><span id="more-1941"></span><span id="more-1870"></span><span id="more-1835"></span><span id="more-1814"></span><span id="more-1658"></span></p>
+<p style="text-align:justify;">Plus que deux chapitres avant la fin du tome ! Quels futurs problèmes attendent donc Fuutarou ?</p>
+<p style="text-align:justify;">Sur ce, bonne lecture !</p>
+<p style="text-align:justify;"><strong>Go-Toubun no Hanayome – Chapitre 12 </strong>: <a href="https://mega.nz/#!o1RRSDST!o4UntCHmv7bO8FKWorKi_w97_uoskt_ytwwiSYHKDic"  rel="noopener noreferrer">Download</a> (.rar)<strong> // </strong><a href="https://mangadex.org/chapter/317286"  rel="noopener noreferrer">Lecture en ligne</a></p>

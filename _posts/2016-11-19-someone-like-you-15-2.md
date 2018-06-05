@@ -1,0 +1,12 @@
+---
+ID: 10704
+post_title: Someone Like You 15
+author: ELECTRIC BLACKNESS
+post_excerpt: |
+  <img alt="" src="https://i37.servimg.com/u/f37/18/18/26/45/beauti10.jpg"><div align="center"><i>My Beautiful Bride... Un bon petit drama pleins de rebondissements et  d'actions.&nbsp;<br></i></div><br><br>Hello !!<br><br>Je vous annonce que l'&eacute;pisode 15 de <b>Someone Like You</b> est d&eacute;sormais disponible <img src="http://team.eb.free.fr/gestion/data/emoticons/tongue.gif"><br>Dans cet &eacute;pisode, on sent que l'on est au pr&eacute;mice d'une nouvelle &egrave;re. J&rsquo;exag&egrave;re un peu mais en tout cas, on sent que diff&eacute;rents &eacute;l&eacute;ments se mettent en place et que l'histoire va prendre un nouveau tournant. En m&ecirc;me temps, avec toutes ces d&eacute;couvertes et r&eacute;v&eacute;lations, ce n'est pas tr&egrave;s compliqu&eacute; &agrave; pressentir, lol.  Et &ccedil;a vaut pour tous les personnages <img src="http://team.eb.free.fr/gestion/data/emoticons/yes.gif"><br><br>Sur ce, je vous laisse profitez de cette sortie et je vous souhaite &agrave; tous un bon week-end.<br><span></span>Bon visionnage !<br><br>
+layout: post
+permalink: 'http://team.eb.free.fr/index.php?subaction=showfull&amp;id=1479522982&amp;archive='
+published: true
+post_date: 2016-11-19 04:36:22
+---
+<img alt="" src="https://i37.servimg.com/u/f37/18/18/26/45/beauti10.jpg" style="border: none;" /><div align="center"><font size="1"><i>My Beautiful Bride... Un bon petit drama pleins de rebondissements et  d'actions.&nbsp;<br /></i></font></div><br /><br />Hello !!<br /><br />Je vous annonce que l'&#233;pisode 15 de <b>Someone Like You</b> est d&#233;sormais disponible <img src="http://team.eb.free.fr/gestion/data/emoticons/tongue.gif"><br />Dans cet &#233;pisode, on sent que l'on est au pr&#233;mice d'une nouvelle &#232;re. J&#8217;exag&#232;re un peu mais en tout cas, on sent que diff&#233;rents &#233;l&#233;ments se mettent en place et que l'histoire va prendre un nouveau tournant. En m&#234;me temps, avec toutes ces d&#233;couvertes et r&#233;v&#233;lations, ce n'est pas tr&#232;s compliqu&#233; &#224; pressentir, lol.  Et &#231;a vaut pour tous les personnages <img src="http://team.eb.free.fr/gestion/data/emoticons/yes.gif"><br /><br />Sur ce, je vous laisse profitez de cette sortie et je vous souhaite &#224; tous un bon week-end.<br /><span id="transmark" style="display: none; width: 0px; height: 0px;"></span>Bon visionnage !<br /><br />

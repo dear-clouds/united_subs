@@ -1,0 +1,13 @@
+---
+ID: 2714
+post_title: '[VOSTFR] I Won&#8217;t Get Bullied By Girls &#25105;&#25165;&#19981;&#20250;&#34987;&#22899;&#23401;&#23376;&#27450;&#36127;&#21602;'
+author: swchelfsub
+post_excerpt: |
+  Webdrama chinoisAffiche du dramaGenre : Romance, Com&eacute;die, EcoleNombre de saison : 1Nombre d'&eacute;pisodes : 24Premier &eacute;pisode : 12 avril 2018Cha&icirc;ne de retransmission : YoukuLangue : MandarinActeurs principaux : August Cai, Lu Yangyang, Jiang Yuwei, Wang Ziyue, Wang Xuan, Yang JingchengDur&eacute;e : Environ 30 minutes par &eacute;pisodeSynopsis :Le lyc&eacute;en de Qingzi Ye Lin est, certes, surnomm&eacute; &laquo; Loup solitaire &raquo; mais se fait emb&ecirc;ter par trois filles : depuis petit, par son ennemi destin&eacute;, &laquo; Petit Tyran &raquo;, Ren<img src="http://static.wixstatic.com/media/e6334c_2054ea7115dc477fa6683737398f8947~mv2.jpg/v1/fill/w_268%2Ch_419/e6334c_2054ea7115dc477fa6683737398f8947~mv2.jpg">
+layout: post
+permalink: >
+  https://swchelfsub.wixsite.com/swchelf/single-post/I-Wont-Get-Bullied-By-Girls
+published: true
+post_date: 2018-04-23 00:33:11
+---
+<div><div>Webdrama chinois</div><img src="https://united-subs.dearclouds.com/wp-content/uploads/2018/04/335991cd1ab1742471eaaf49c499e068.jpg"/><div>Affiche du drama</div><div>Genre : Romance, Comédie, Ecole</div><div>Nombre de saison : 1</div><div>Nombre d'épisodes : 24</div><div>Premier épisode : 12 avril 2018</div><div>Chaîne de retransmission : Youku</div><div>Langue : Mandarin</div><div>Acteurs principaux : August Cai, Lu Yangyang, Jiang Yuwei, Wang Ziyue, Wang Xuan, Yang Jingcheng</div><div>Durée : Environ 30 minutes par épisode</div><div>Synopsis :</div><div>Le lycéen de Qingzi Ye Lin est, certes, surnommé « Loup solitaire » mais se fait embêter par trois filles : depuis petit, par son ennemi destiné, « Petit Tyran », Ren Xiaoqin ; la déléguée belle est sévère Shu Sha et Ai Mi’er, membre d’un girlsband, qui vient d’arriver dans son lycée. L’histoire s’articule alors autour de ça. En même temps, Ye Lin voudrait réaliser le voeu de son grand-frère qu’est de fonder un club de danse du lion. Va-t-il réussir avec toutes ces filles qui le retiennent ?</div><div>Merci de ne pas redistribuer les liens !</div><div>Pour voir les épisodes, rendez-vous sur le blog (inscription requise et veuillez être patient) :</div><div><a href="http://swchelfsub.wordpress.com/2017/10/22/somehow-18/">Lien</a></div><div>Bon visionnage</div></div>

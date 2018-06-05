@@ -1,0 +1,17 @@
+---
+ID: 8642
+post_title: Ore ga Heroine – Chapitre 24
+author: Imaginary Scantrad
+post_excerpt: 'Bonjour &agrave; tous, les hostilit&eacute;s commencent dans ce nouveau chapitre ! Pas grand chose &agrave; rajouter, si ce n&rsquo;est que les grandes vacances commencent &agrave; se rapprocher pour ceux qui ont encore l&rsquo;opportunit&eacute; d&rsquo;en profiter ! N&rsquo;h&eacute;sitez pas &agrave; nous... <a href="https://imaginaryscantrad.wordpress.com/2018/05/25/ore-ga-heroine-chapitre-24/#more-2172">Lire la suite &rarr;</a>'
+layout: post
+permalink: >
+  https://imaginaryscantrad.wordpress.com/2018/05/25/ore-ga-heroine-chapitre-24/
+published: true
+post_date: 2018-05-25 12:37:10
+---
+<p style="text-align:justify;"><img data-attachment-id="144" data-permalink="https://imaginaryscantrad.wordpress.com/ore-ga-heroine-article-ban/" data-orig-file="https://imaginaryscantrad.files.wordpress.com/2015/04/ore-ga-heroine-article-ban.png" data-orig-size="1000,500" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Ore ga Heroine Article Ban" data-image-description="" data-medium-file="https://imaginaryscantrad.files.wordpress.com/2015/04/ore-ga-heroine-article-ban.png?w=300" data-large-file="https://imaginaryscantrad.files.wordpress.com/2015/04/ore-ga-heroine-article-ban.png?w=736" class="size-full wp-image-144 aligncenter" src="https://imaginaryscantrad.files.wordpress.com/2015/04/ore-ga-heroine-article-ban.png?w=736" alt="Ore ga Heroine Article Ban" srcset="https://imaginaryscantrad.files.wordpress.com/2015/04/ore-ga-heroine-article-ban.png?w=736 736w, https://imaginaryscantrad.files.wordpress.com/2015/04/ore-ga-heroine-article-ban.png?w=150 150w, https://imaginaryscantrad.files.wordpress.com/2015/04/ore-ga-heroine-article-ban.png?w=300 300w, https://imaginaryscantrad.files.wordpress.com/2015/04/ore-ga-heroine-article-ban.png?w=768 768w, https://imaginaryscantrad.files.wordpress.com/2015/04/ore-ga-heroine-article-ban.png 1000w" sizes="(max-width: 736px) 100vw, 736px" /></p>
+<p style="text-align:justify;">Bonjour à tous, les hostilités commencent dans ce nouveau chapitre ! <span id="more-2172"></span><span id="more-2170"></span><span id="more-2167"></span><span id="more-2133"></span><span id="more-2129"></span><span id="more-2127"></span><span id="more-2109"></span><span id="more-2107"></span><span id="more-2103"></span><span id="more-475"></span></p>
+<p style="text-align:justify;">Pas grand chose à rajouter, si ce n&rsquo;est que les grandes vacances commencent à se rapprocher pour ceux qui ont encore l&rsquo;opportunité d&rsquo;en profiter !</p>
+<p style="text-align:justify;">N&rsquo;hésitez pas à nous suivre sur Twitter pour voir nos dernières sorties, ou même pour poser des questions, c&rsquo;est fait pour ça ! Sur ce, bonne lecture à vous !</p>
+<p style="text-align:justify;"><strong>Ore ga Heroine – Chapitre 24 : </strong><a href="https://mega.nz/#!loomTYoS!YP5d_Rwb2ZtAipXgWMphv15RQxU5nLJzYItctdYU99I"  rel="noopener">Download</a> (.rar) <strong>//</strong> <a href="https://mangadex.org/chapter/330659"  rel="noopener">Lecture en ligne</a><strong><br />
+</strong></p>

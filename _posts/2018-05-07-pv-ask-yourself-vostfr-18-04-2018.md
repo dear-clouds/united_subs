@@ -1,0 +1,13 @@
+---
+ID: 5412
+post_title: 'PV &#8211; Ask Yourself &#8211; VOSTFR &#8211; 18.04.2018'
+author: SixSensesFansub
+post_excerpt: |
+  <div><img alt="askyourself.jpg" src="https://ic.pics.livejournal.com/sixsensesfansub/28580493/91749/91749_original.jpg" title="askyourself.jpg"></div><p><br><b>Traduction fran&ccedil;aise, Adap-time &amp; Edit, Check, Quality Check :</b> Chi-chan, Natsu &amp; Shini<br><b>Traduction anglaise, Time, Edit :</b> Lobanheridanofukushu<br><b>Raw :</b> Six Senses<br><b>Dur&eacute;e :</b> 3m40<br><b>Poids :</b> 160Mo<br><br></p><p><br>Les KAT-TUN sont de retour et pour de vrai !<br>Ils reviennent 300% recharg&eacute; et emplum&eacute; pour le coup ^^<br>Ca fait vraiment plaisir de les revoir en tout cas &lt;3</p><p><br><i>P.S D&eacute;sol&eacute;es pour le d&eacute;lai de sortie mais l'encode n'&eacute;tait pas avec nous sur ce coup-l&agrave;...</i></p><p></p><p></p><div><u><a href="http://six-senses.actifforum.com/t7935-pv-ask-yourself-vostfr-18-05-2018#69667" rel="nofollow"><b>Pour la suite, c'est par ici !</b></a></u></div><br><br><br><u><i>Rappel des r&egrave;gles :</i></u> Nous vous remercions de ne pas reposter notre lien DDL sur votre plate-forme, mais de renvoyer vers l'article de notre Lj ^^
+layout: post
+permalink: >
+  https://sixsensesfansub.livejournal.com/91371.html
+published: true
+post_date: 2018-05-07 22:30:37
+---
+<div style="text-align:center"><img alt="askyourself.jpg" src="https://united-subs.dearclouds.com/wp-content/uploads/2018/05/0c7eb2b26cdce5bb31fa0aabd0473881.jpg" title="askyourself.jpg" /></div><p><br /><b>Traduction fran&ccedil;aise, Adap-time &amp; Edit, Check, Quality Check :</b> Chi-chan, Natsu &amp; Shini<br /><b>Traduction anglaise, Time, Edit :</b> Lobanheridanofukushu<br /><b>Raw :</b> Six Senses<br /><b>Dur&eacute;e :</b> 3m40<br /><b>Poids :</b> 160Mo<br /><br /></p><p><br />Les KAT-TUN sont de retour et pour de vrai !<br />Ils reviennent 300% recharg&eacute; et emplum&eacute; pour le coup ^^<br />Ca fait vraiment plaisir de les revoir en tout cas &lt;3</p><p><br /><i>P.S D&eacute;sol&eacute;es pour le d&eacute;lai de sortie mais l&#39;encode n&#39;&eacute;tait pas avec nous sur ce coup-l&agrave;...</i></p><p></p><p></p><div style="text-align:center"><u><a href="http://six-senses.actifforum.com/t7935-pv-ask-yourself-vostfr-18-05-2018#69667" rel="nofollow"><b>Pour la suite, c&#39;est par ici !</b></a></u></div><br /><br /><br /><u><i>Rappel des r&egrave;gles :</i></u> Nous vous remercions de ne pas reposter notre lien DDL sur votre plate-forme, mais de renvoyer vers l&#39;article de notre Lj ^^

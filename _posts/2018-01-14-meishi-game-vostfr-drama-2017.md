@@ -1,0 +1,61 @@
+---
+ID: 6575
+post_title: 'Meishi Game VOSTFR [Drama – 2017]'
+author: Niwatori Subs
+post_excerpt: 'Titre: Meishi Game Titre FR : Le jeu des cartes de visite Titre anglais: Business Card Game Ann&eacute;e: 2017 Genre: Drame / Suspense Nb d&rsquo;&eacute;pisodes: 4 Cha&icirc;ne de diffusion: WOWOW Page Nautiljon : ICI Acteurs: Tsutsumi Shinichi : Kanda Tatsuya Okada Masaki : Usui Shinobu Horibe Keisuke : Mineta Kiyoshi Kajihara Zen : Adachi Kawai &hellip; <a href="https://niwatorisubs.wordpress.com/2018/01/14/meishi-game-vostfr-drama-2017/">Lire la suite de <span>Meishi Game VOSTFR [Drama &ndash;&nbsp;2017]</span></a>'
+layout: post
+permalink: >
+  https://niwatorisubs.wordpress.com/2018/01/14/meishi-game-vostfr-drama-2017/
+published: true
+post_date: 2018-01-14 22:20:26
+---
+<p><img data-attachment-id="2372" data-permalink="https://niwatorisubs.wordpress.com/2018/01/14/meishi-game-vostfr-drama-2017/meishi_game-p1/" data-orig-file="https://niwatorisubs.files.wordpress.com/2018/01/meishi_game-p1.jpg?w=474&#038;h=671" data-orig-size="826,1169" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="meishi_game-p1" data-image-description="" data-medium-file="https://niwatorisubs.files.wordpress.com/2018/01/meishi_game-p1.jpg?w=474&#038;h=671?w=212" data-large-file="https://niwatorisubs.files.wordpress.com/2018/01/meishi_game-p1.jpg?w=474&#038;h=671?w=676" class="  wp-image-2372 aligncenter" src="https://niwatorisubs.files.wordpress.com/2018/01/meishi_game-p1.jpg?w=474&#038;h=671" alt="meishi_game-p1" width="474" height="671" srcset="https://niwatorisubs.files.wordpress.com/2018/01/meishi_game-p1.jpg?w=474&amp;h=671 474w, https://niwatorisubs.files.wordpress.com/2018/01/meishi_game-p1.jpg?w=106&amp;h=150 106w, https://niwatorisubs.files.wordpress.com/2018/01/meishi_game-p1.jpg?w=212&amp;h=300 212w, https://niwatorisubs.files.wordpress.com/2018/01/meishi_game-p1.jpg?w=768&amp;h=1087 768w, https://niwatorisubs.files.wordpress.com/2018/01/meishi_game-p1.jpg 826w" sizes="(max-width: 474px) 100vw, 474px" /></p>
+<p><strong>Titre</strong>: Meishi Game<br />
+<strong>Titre FR </strong>: Le jeu des cartes de visite<br />
+<strong>Titre anglais</strong>: Business Card Game<br />
+<strong>Année</strong>: 2017<br />
+<strong>Genre</strong>: Drame / Suspense<br />
+<strong>Nb d’épisodes: </strong>4<br />
+<strong>Chaîne de diffusion</strong>: WOWOW<br />
+<span id="more-2289"></span></p>
+<p><span id="more-2371"></span></p>
+<div id="onglets_2_cast" class="content_menu_onglets_2 nodisplay">
+<p class="sim"><strong>Page Nautiljon : <a href="https://www.nautiljon.com/dramas/meishi+game.html"  rel="noopener noreferrer">ICI</a></strong></p>
+<p class="sim" title="Sorimachi Takashi"><strong>Acteurs</strong>:</p>
+<ul class="ls">
+<li><a class="sim" href="https://www.nautiljon.com/people/tsutsumi+shinichi.html">Tsutsumi Shinichi</a> : Kanda Tatsuya</li>
+<li><a class="sim" href="https://www.nautiljon.com/people/okada+masaki.html">Okada Masaki</a> : Usui Shinobu</li>
+<li><a class="sim" href="https://www.nautiljon.com/people/horibe+keisuke.html">Horibe Keisuke</a> : Mineta Kiyoshi</li>
+<li><a class="sim" href="https://www.nautiljon.com/people/kajihara+zen.html">Kajihara Zen</a> : Adachi</li>
+<li><a class="sim" href="https://www.nautiljon.com/people/kawai+aoba.html">Kawai Aoba</a> : Oki Makoto</li>
+<li><a class="sim" href="https://www.nautiljon.com/people/kirishima+reika.html">Kirishima Reika</a> : Kanda Yumi</li>
+<li><a class="sim" href="https://www.nautiljon.com/people/moro+morooka.html">Moro Morooka</a> : Matsuoka</li>
+<li><a class="sim" href="https://www.nautiljon.com/people/natsuna.html">Natsuna</a> : Yamamoto Tsukasa</li>
+<li><a class="sim" href="https://www.nautiljon.com/people/ochiai+motoki.html">Ochiai Motoki</a> : Matsunaga Rui</li>
+<li><a class="sim" href="https://www.nautiljon.com/people/otomo+karen.html">Otomo Karen</a> : Kanda Mina</li>
+<li><a class="sim" href="https://www.nautiljon.com/people/taguchi+tomorowo.html">Taguchi Tomorowo</a> : Katayama Shoji</li>
+<li><a class="sim" href="https://www.nautiljon.com/people/yanagi+yurina.html">Yanagi Yurina</a> : Ohara Maika</li>
+</ul>
+<div id="onglets_2_cast" class="content_menu_onglets_2 nodisplay"></div>
+</div>
+<p><strong>Résumé</strong>:</p>
+<div class="description"><strong>Kanda Tatsuya</strong> est le producteur du célèbre jeu télévisé Mystery Spy. Il se retrouve sans savoir pourquoi enfermé avec sa fille <strong>Mina</strong>. Ils ont tous les deux un étrange collier autour du cou et le sol est recouvert de cartes de visite. Un inconnu propose alors un défi à Kanda : il doit retrouver les cartes de visite de trois personnes et les rendre à leurs propriétaires sinon le collier de sa fille explosera. Il a également la possibilité d&rsquo;abandonner le jeu, cependant dans ce cas, sa fille sera certes sauvée mais c&rsquo;est son collier à lui qui explosera.</div>
+<div class="bio_infos" style="text-align:right;"><em>De Umaro sur Nautiljon<br />
+</em></div>
+<div></div>
+<p><strong>Note</strong>:</p>
+<p>Petit drama de 4 épisodes à l&rsquo;aspect satirique, on y suit un jeu mortel tournant autour de la vie de ce producteur à succès, qui est clairement un connard et qui se retrouve dans une cage pour ses choix et actions passées.</p>
+<p><strong>Fichiers</strong>:</p>
+<p style="text-align:center;"><span style="color:#ff0000;"><strong>/! NE POSTEZ PAS CES LIENS AILLEURS ! NE PAS DIFFUSER EN STREAMING ! /!</strong></span></p>
+<p><span style="padding-left:140px;"><a href="https://1fichier.com/?d0ul8bt4e4"  rel="noopener"><img data-attachment-id="2373" data-permalink="https://niwatorisubs.wordpress.com/2018/01/14/meishi-game-vostfr-drama-2017/meishi_game_ep1/" data-orig-file="https://niwatorisubs.files.wordpress.com/2018/01/meishi_game_ep1.png?w=676" data-orig-size="192,132" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="meishi_game_ep1" data-image-description="" data-medium-file="https://niwatorisubs.files.wordpress.com/2018/01/meishi_game_ep1.png?w=676?w=192" data-large-file="https://niwatorisubs.files.wordpress.com/2018/01/meishi_game_ep1.png?w=676?w=192" class="alignnone size-full wp-image-2373" src="https://niwatorisubs.files.wordpress.com/2018/01/meishi_game_ep1.png?w=676" alt="meishi_game_ep1" srcset="https://niwatorisubs.files.wordpress.com/2018/01/meishi_game_ep1.png 192w, https://niwatorisubs.files.wordpress.com/2018/01/meishi_game_ep1.png?w=150 150w" sizes="(max-width: 192px) 100vw, 192px"   /></a>       <a href="https://1fichier.com/?nacgta1zof"  rel="noopener"><img data-attachment-id="2387" data-permalink="https://niwatorisubs.wordpress.com/2018/01/14/meishi-game-vostfr-drama-2017/meishi_game_ep2/" data-orig-file="https://niwatorisubs.files.wordpress.com/2018/01/meishi_game_ep2.png?w=676" data-orig-size="192,132" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="meishi_game_ep2" data-image-description="" data-medium-file="https://niwatorisubs.files.wordpress.com/2018/01/meishi_game_ep2.png?w=676?w=192" data-large-file="https://niwatorisubs.files.wordpress.com/2018/01/meishi_game_ep2.png?w=676?w=192" class="alignnone size-full wp-image-2387" src="https://niwatorisubs.files.wordpress.com/2018/01/meishi_game_ep2.png?w=676" alt="meishi_game_ep2" srcset="https://niwatorisubs.files.wordpress.com/2018/01/meishi_game_ep2.png 192w, https://niwatorisubs.files.wordpress.com/2018/01/meishi_game_ep2.png?w=150 150w" sizes="(max-width: 192px) 100vw, 192px"   /></a></span></p>
+<p><span style="padding-left:140px;"><a href="https://1fichier.com/?cz7ua551tz"  rel="noopener"><img data-attachment-id="2407" data-permalink="https://niwatorisubs.wordpress.com/2018/01/14/meishi-game-vostfr-drama-2017/meishi_game_ep3/" data-orig-file="https://niwatorisubs.files.wordpress.com/2018/01/meishi_game_ep3.png?w=676" data-orig-size="192,132" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="meishi_game_ep3" data-image-description="" data-medium-file="https://niwatorisubs.files.wordpress.com/2018/01/meishi_game_ep3.png?w=676?w=192" data-large-file="https://niwatorisubs.files.wordpress.com/2018/01/meishi_game_ep3.png?w=676?w=192" class="alignnone size-full wp-image-2407" src="https://niwatorisubs.files.wordpress.com/2018/01/meishi_game_ep3.png?w=676" alt="meishi_game_ep3" srcset="https://niwatorisubs.files.wordpress.com/2018/01/meishi_game_ep3.png 192w, https://niwatorisubs.files.wordpress.com/2018/01/meishi_game_ep3.png?w=150 150w" sizes="(max-width: 192px) 100vw, 192px"   /></a>       <a href="https://1fichier.com/?66q0chhc0n"  rel="noopener"><img data-attachment-id="2414" data-permalink="https://niwatorisubs.wordpress.com/2018/01/14/meishi-game-vostfr-drama-2017/meishi_game_ep4/" data-orig-file="https://niwatorisubs.files.wordpress.com/2018/01/meishi_game_ep4.png?w=676" data-orig-size="192,132" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="meishi_game_ep4" data-image-description="" data-medium-file="https://niwatorisubs.files.wordpress.com/2018/01/meishi_game_ep4.png?w=676?w=192" data-large-file="https://niwatorisubs.files.wordpress.com/2018/01/meishi_game_ep4.png?w=676?w=192" class="alignnone size-full wp-image-2414" src="https://niwatorisubs.files.wordpress.com/2018/01/meishi_game_ep4.png?w=676" alt="meishi_game_ep4" srcset="https://niwatorisubs.files.wordpress.com/2018/01/meishi_game_ep4.png 192w, https://niwatorisubs.files.wordpress.com/2018/01/meishi_game_ep4.png?w=150 150w" sizes="(max-width: 192px) 100vw, 192px"   /></a></span></p>
+<p>&nbsp;</p>
+<p><strong>Fichiers moins lourds et plus basse qualité</strong>:</p>
+<p style="text-align:center;"><span style="color:#ff0000;"><strong>/! NE POSTEZ PAS CES LIENS AILLEURS ! NE PAS DIFFUSER EN STREAMING ! /!</strong></span></p>
+<ul>
+<li> <a href="https://1fichier.com/?ist643mixr"  rel="noopener">Épisode 1</a></li>
+<li> <a href="https://1fichier.com/?x9mknfols8"  rel="noopener">Épisode 2</a></li>
+<li> <a href="https://1fichier.com/?1rbf3w6zlz"  rel="noopener">Épisode 3</a></li>
+<li> <a href="https://1fichier.com/?rmqdod4lus"  rel="noopener">Épisode 4</a></li>
+</ul>
+<p>&nbsp;</p>

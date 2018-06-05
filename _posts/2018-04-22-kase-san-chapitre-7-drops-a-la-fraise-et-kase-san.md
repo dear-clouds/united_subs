@@ -1,0 +1,13 @@
+---
+ID: 7303
+post_title: 'Kase-san, Chapitre 7 : Drops à la fraise et Kase-san'
+author: Owlolf Fansub
+post_excerpt: |
+  <span>Bonsoir</span><br><br><div><span><a href="https://3.bp.blogspot.com/-kbC8IxcoZXI/WtvR5ffCwnI/AAAAAAAAB5M/fLh0FkUAh9U1jp8-o2CYU0P_JK-q51VHACLcBGAs/s1600/dllhost_2018-04-22_02-05-33.png"><img border="0" height="400" src="https://3.bp.blogspot.com/-kbC8IxcoZXI/WtvR5ffCwnI/AAAAAAAAB5M/fLh0FkUAh9U1jp8-o2CYU0P_JK-q51VHACLcBGAs/s400/dllhost_2018-04-22_02-05-33.png" width="382"></a></span></div><br><br><span>Encore un chapitre de Kase-san. On tient un bon rythme. Le prochain chapitre a d&eacute;j&agrave; bien avanc&eacute;, maintenant que j'ai de l'aide. C'est plus agr&eacute;able &agrave; deux, quand m&ecirc;me. <br><br>Ah, oui, les drops. Ce sont des bonbons japonais dans des bo&icirc;tes en aluminium. Allez voir, c'est plut&ocirc;t cool comme truc. <br><br> Rien d'autre &agrave; dire de mon c&ocirc;t&eacute;, except&eacute; bonne lecture.&nbsp;</span><br><a name="more"></a><span>Lien : </span><a href="https://drive.google.com/open?id=1n1kshor9pGVwL0UXILMMqj74NLG9Y8aT">Drive</a>
+layout: post
+permalink: >
+  http://www.owlolf-fansub.com/2018/04/kase-san-chapitre-7-drops-la-fraise-et.html
+published: true
+post_date: 2018-04-22 02:07:00
+---
+<span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif; font-size: 11pt;">Bonsoir</span><br /><br /><div class="separator" style="clear: both; text-align: center;"><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif; font-size: 11pt;"><a href="https://3.bp.blogspot.com/-kbC8IxcoZXI/WtvR5ffCwnI/AAAAAAAAB5M/fLh0FkUAh9U1jp8-o2CYU0P_JK-q51VHACLcBGAs/s1600/dllhost_2018-04-22_02-05-33.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="727" data-original-width="696" height="400" src="https://united-subs.dearclouds.com/wp-content/uploads/2018/05/a29e7778586ee4a9a99cbab429fe883f.jpg" width="382" /></a></span></div><br /><br /><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif; font-size: 11pt;">Encore un chapitre de Kase-san. On tient un bon rythme. Le prochain chapitre a déjà bien avancé, maintenant que j'ai de l'aide. C'est plus agréable à deux, quand même. <br /><br />Ah, oui, les drops. Ce sont des bonbons japonais dans des boîtes en aluminium. Allez voir, c'est plutôt cool comme truc. <br /><br /> Rien d'autre à dire de mon côté, excepté bonne lecture.&nbsp;</span><br /><a name='more'></a><span style="font-family: arial, helvetica, sans-serif; font-size: 11pt;">Lien : </span><a href="https://drive.google.com/open?id=1n1kshor9pGVwL0UXILMMqj74NLG9Y8aT" style="font-family: arial, helvetica, sans-serif; font-size: 11pt;">Drive</a>

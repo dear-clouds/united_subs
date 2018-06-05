@@ -1,0 +1,14 @@
+---
+ID: 6118
+post_title: Sport, révision et romance
+author: Haneulsora
+post_excerpt: "Coucou les amis , ce soir je vous sors deux nouveaux &eacute;pisodes de A well grown daughter en coproduction avec la Hajimeta fansub. On arrive &agrave; l'&eacute;pisode 90 et il s'en passe des choses. La suite ne devrait d'ailleurs pas tarder &agrave; arriver. Sinon &agrave; part &ccedil;a ? Depuis hier pas grand chose &agrave; part que..."
+layout: post
+permalink: >
+  http://haneulsora.eklablog.com/sport-revision-et-romance-a144488692
+published: true
+post_date: 2018-04-25 15:27:08
+---
+<p style="text-align: justify;"><span style="font-size: 14pt;"><strong>Coucou les amis</strong></span>, ce soir je vous sors deux nouveaux &eacute;pisodes de <span style="font-size: 14pt; color: #008080;"><strong>A well grown daughter</strong> </span>en coproduction avec la Hajimeta fansub. On arrive &agrave; l'&eacute;pisode 90 et il s'en passe des choses. La suite ne devrait d'ailleurs pas tarder &agrave; arriver. Sinon &agrave; part &ccedil;a ? Depuis hier pas grand chose &agrave; part que j'ai repris la salle de sport. A chaque fois que j'y vais il se passe au moins 2 semaines avant d'y retourner tellement on est occup&eacute;s alors je douille enfin mes muscles surtout, mais bon il faut pers&eacute;v&eacute;rer pour avoir des r&eacute;sultats alors on y retourne demain apr&egrave;s l'exam (quelle motivation pour une fois).</p>
+<p style="text-align: center;"><a href="http://haneulsora.eklablog.com/a-well-grown-daughter-a127095328"><img src="https://united-subs.dearclouds.com/wp-content/uploads/2018/05/31c70344f8a1d81cca9a86d93a8251eb.jpg" alt="Sport, r&eacute;vision et romance"/></a></p>
+<p style="text-align: justify;">Allez je vous laisse profiter de vos &eacute;pisodes et vous dit &agrave; tr&egrave;s vite les amis.&nbsp;</p><br /><br /><div id="share_buttons" class="article_sharebtns"><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fhaneulsora.eklablog.com%2Fsport-revision-et-romance-a144488692&amp;layout=button_count&amp;show_faces=false&amp;width=65&amp;action=like&amp;font&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:65px; height:21px;" allowTransparency="true"><br /></iframe><iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/tweet_button.html?url=http%3A%2F%2Fhaneulsora.eklablog.com%2Fsport-revision-et-romance-a144488692&amp;text=Sport%2C%20r%C3%A9vision%20et%20romance&amp;count=none" style="width: 55px; height: 20px;"></iframe><span><g:plusone size="medium" count="true" href="http://haneulsora.eklablog.com/sport-revision-et-romance-a144488692"></g:plusone></span></div><br /><hr />Article original rédigé par Hoshizora*o* et publié sur <a href="http://haneulsora.eklablog.com/">*Sous le ciel de Haneulsora*</a> <br /> Reproduction interdite sans autorisation

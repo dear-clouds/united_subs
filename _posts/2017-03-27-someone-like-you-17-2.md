@@ -1,0 +1,12 @@
+---
+ID: 10397
+post_title: Someone Like You 17
+author: ELECTRIC BLACKNESS
+post_excerpt: |
+  <img alt="" src="https://i58.servimg.com/u/f58/18/18/26/45/38_tas10.jpg"><div align="center"><i>38 Task Force  <br></i></div><br><br>Hello !<br><br>Et oui, nous&nbsp;sommes toujours l&agrave;. Rarement mais encore l&agrave;&nbsp;<img src="http://team.eb.free.fr/gestion/data/emoticons/wink.gif"><br>Et aujourd'hui, nous venons&nbsp;vous offrir l'&eacute;pisode 17 de <b>Someone Like You</b>. Pour ceux qui auraient des doutes, rassurez-vous, j'irai jusqu'au bout de ce drama. Je n'ai pas forc&eacute;ment beaucoup de temps &agrave; cause de ma team mais je n'ai pas l'intention de le laisser en rade. <br><br>Donc dans cet &eacute;pisode, comme vous pouvez le voir, ce n'est vraiment pas la joie<span></span>. Entre les mauvaises nouvelles et les remises en question, nos amis vont avoir du fil &agrave; retordre. Il n'y a plus qu'&agrave; esp&eacute;rer que de meilleures jours les attendent. <br><br>Je vous laisse d&eacute;couvrir tout &ccedil;a et je vous dis &agrave; la prochaine pour la suite de nos aventures.<br><br>Bon  visionnage !!<br><br>
+layout: post
+permalink: 'http://team.eb.free.fr/index.php?subaction=showfull&amp;id=1490641990&amp;archive='
+published: true
+post_date: 2017-03-27 21:13:10
+---
+<img alt="" src="https://i58.servimg.com/u/f58/18/18/26/45/38_tas10.jpg" style="border: none;" /><div align="center"><font size="1"><i>38 Task Force  <br /></i></font></div><br /><br />Hello !<br /><br />Et oui, nous&nbsp;sommes toujours l&#224;. Rarement mais encore l&#224;&nbsp;<img src="http://team.eb.free.fr/gestion/data/emoticons/wink.gif"> <br />Et aujourd'hui, nous venons&nbsp;vous offrir l'&#233;pisode 17 de <b>Someone Like You</b>. Pour ceux qui auraient des doutes, rassurez-vous, j'irai jusqu'au bout de ce drama. Je n'ai pas forc&#233;ment beaucoup de temps &#224; cause de ma team mais je n'ai pas l'intention de le laisser en rade. <br /><br />Donc dans cet &#233;pisode, comme vous pouvez le voir, ce n'est vraiment pas la joie<span id="transmark" style="display: none; width: 0px; height: 0px;"></span>. Entre les mauvaises nouvelles et les remises en question, nos amis vont avoir du fil &#224; retordre. Il n'y a plus qu'&#224; esp&#233;rer que de meilleures jours les attendent. <br /><br />Je vous laisse d&#233;couvrir tout &#231;a et je vous dis &#224; la prochaine pour la suite de nos aventures.<br /><br />Bon  visionnage !!<br /><br />

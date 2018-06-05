@@ -1,0 +1,23 @@
+---
+ID: 3114
+post_title: >
+  Vote pour la bannière que tu préfères
+  !!!
+author: SakuraCream Fansub
+post_excerpt: |
+  Chargement en cours... &nbsp; &nbsp; Hello !!! Toutes vos banni&egrave;res ont &eacute;t&eacute; re&ccedil;ues, maintenant place aux votes&nbsp; &nbsp; La m&eacute;thode de vote ne change pas de d'habitude.&nbsp; Bon vote cher creamy'Z&nbsp; et merci&nbsp; aux participants &nbsp;pour leurs cr&eacute;ations&nbsp;
+  Fin des votes le 13 avril ~&nbsp;
+  
+  
+  Article original...
+layout: post
+permalink: >
+  http://sakuracreamfansub.eklablog.com/vote-pour-la-banniere-que-tu-preferes-a142160826
+published: true
+post_date: 2018-04-08 19:22:08
+---
+<p><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeeFbtE1J-5aqjp0I37N7d924sAqwmKWHAcg8GfJjgPsheJHQ/viewform?embedded=true" frameborder="0" width="626" height="412">Chargement en cours...</iframe><span style="color: #ff6600;">&nbsp;</span></p>
+<p>&nbsp;</p>
+<p><span style="color: #ff6600;"><strong><span style="font-family: Helvetica, Arial, sans-serif; font-size: 14pt; text-align: start;">Hello !!!</span></strong></span></p>
+<p><span style="font-size: 12pt;"><span style="color: #1d2129; font-family: Helvetica, Arial, sans-serif; text-align: start;">Toutes vos banni&egrave;res ont &eacute;t&eacute; re&ccedil;ues, maintenant place aux votes&nbsp;</span><span class="_47e3 _5mfr" style="line-height: 0; vertical-align: middle; margin: 0px 1px; font-family: Helvetica, Arial, sans-serif; color: #1d2129; text-align: start;" title="&eacute;motic&ocirc;ne smile"><img class="img" style="border: 0px; vertical-align: -3px;" src="https://united-subs.dearclouds.com/wp-content/uploads/2018/04/b8cd11377485ee16822234e8acb35f75.jpg" width="16" height="16" alt=""/></span><span style="color: #1d2129; font-family: Helvetica, Arial, sans-serif; text-align: start;">&nbsp;</span><span class="_5mfr _47e3" style="line-height: 0; vertical-align: middle; margin: 0px 1px; font-family: Helvetica, Arial, sans-serif; color: #1d2129; text-align: start;"><img class="img" style="border: 0px; vertical-align: -3px;" src="https://static.xx.fbcdn.net/images/emoji.php/v9/fac/1/16/2665.png" width="16" height="16" alt=""/></span></span><br style="color: #1d2129; font-family: Helvetica, Arial, sans-serif; font-size: 14px; text-align: start;"/><em><span style="color: #1d2129; font-family: Helvetica, Arial, sans-serif; font-size: 10pt; text-align: start;">La m&eacute;thode de vote ne change pas de d'habitude.&nbsp;</span></em><br style="color: #1d2129; font-family: Helvetica, Arial, sans-serif; font-size: 14px; text-align: start;"/><span style="font-size: 12pt;"><span style="color: #1d2129; font-family: Helvetica, Arial, sans-serif; text-align: start;">Bon vote cher creamy'Z&nbsp;</span><span class="_5mfr _47e3" style="line-height: 0; vertical-align: middle; margin: 0px 1px; font-family: Helvetica, Arial, sans-serif; color: #1d2129; text-align: start;"><img class="img" style="border: 0px; vertical-align: -3px;" src="https://static.xx.fbcdn.net/images/emoji.php/v9/fac/1/16/2665.png" width="16" height="16" alt=""/></span></span><br style="color: #1d2129; font-family: Helvetica, Arial, sans-serif; font-size: 14px; text-align: start;"/><span style="font-size: 12pt;"><span style="color: #1d2129; font-family: Helvetica, Arial, sans-serif; text-align: start;">et merci&nbsp;<strong>aux participants</strong>&nbsp;pour leurs cr&eacute;ations&nbsp;</span><span class="_47e3 _5mfr" style="line-height: 0; vertical-align: middle; margin: 0px 1px; font-family: Helvetica, Arial, sans-serif; color: #1d2129; text-align: start;" title="&eacute;motic&ocirc;ne grin"><img class="img" style="border: 0px; vertical-align: -3px;" src="https://static.xx.fbcdn.net/images/emoji.php/v9/f51/1/16/1f603.png" width="16" height="16" alt=""/></span><span class="text_exposed_show" style="display: inline; font-family: Helvetica, Arial, sans-serif; color: #1d2129; text-align: start;"><br/></span></span></p>
+<p><span style="text-decoration: underline; color: #3366ff;"><span class="text_exposed_show">Fin des votes le 13 avril ~&nbsp;<span class="_47e3 _5mfr" title="&eacute;motic&ocirc;ne wink"><img class="img" style="border: 0px; vertical-align: -3px;" src="https://static.xx.fbcdn.net/images/emoji.php/v9/f57/1/16/1f609.png" width="16" height="16" alt=""/></span></span></span></p><br /><br /><br /><hr />Article original rédigé par Blue_Sky et publié sur <a href="http://sakuracreamfansub.eklablog.com/">SakuraCream Fansub</a> <br /> Reproduction interdite sans autorisation

@@ -1,0 +1,16 @@
+---
+ID: 8667
+post_title: Boku Girl – Chapitre 22
+author: Imaginary Scantrad
+post_excerpt: 'Bonsoir &agrave; tous, et voici la suite de Boku Girl !&nbsp; Nouveau chapitre avec son lot d&rsquo;humour et de n&rsquo;importe quoi ! Mais quel impact va donc avoir cet &eacute;trange personnage sur les relations de nos h&eacute;ros ? Sur ce,... <a href="https://imaginaryscantrad.wordpress.com/2018/05/12/boku-girl-chapitre-22/#more-2155">Lire la suite &rarr;</a>'
+layout: post
+permalink: >
+  https://imaginaryscantrad.wordpress.com/2018/05/12/boku-girl-chapitre-22/
+published: true
+post_date: 2018-05-12 18:24:17
+---
+<p style="text-align:justify;"><img data-attachment-id="875" data-permalink="https://imaginaryscantrad.wordpress.com/projets-scantrad/boku-girl/ban-boku-girl-article/" data-orig-file="https://imaginaryscantrad.files.wordpress.com/2016/07/ban-boku-girl-article.png" data-orig-size="1000,500" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Ban Boku Girl Article" data-image-description="" data-medium-file="https://imaginaryscantrad.files.wordpress.com/2016/07/ban-boku-girl-article.png?w=300" data-large-file="https://imaginaryscantrad.files.wordpress.com/2016/07/ban-boku-girl-article.png?w=736" class="size-full wp-image-875 aligncenter" src="https://imaginaryscantrad.files.wordpress.com/2016/07/ban-boku-girl-article.png?w=670" alt="Ban Boku Girl Article" srcset="https://imaginaryscantrad.files.wordpress.com/2016/07/ban-boku-girl-article.png?w=670 670w, https://imaginaryscantrad.files.wordpress.com/2016/07/ban-boku-girl-article.png?w=150 150w, https://imaginaryscantrad.files.wordpress.com/2016/07/ban-boku-girl-article.png?w=300 300w, https://imaginaryscantrad.files.wordpress.com/2016/07/ban-boku-girl-article.png?w=768 768w, https://imaginaryscantrad.files.wordpress.com/2016/07/ban-boku-girl-article.png 1000w" sizes="(max-width: 670px) 100vw, 670px" /></p>
+<p style="text-align:justify;">Bonsoir à tous, et voici la suite de Boku Girl ! <span id="more-2155"></span><span id="more-2116"></span><span id="more-2105"></span><span id="more-2076"></span><span id="more-2063"></span><span id="more-1904"></span></p>
+<p style="text-align:justify;">Nouveau chapitre avec son lot d&rsquo;humour et de n&rsquo;importe quoi ! Mais quel impact va donc avoir cet étrange personnage sur les relations de nos héros ?</p>
+<p style="text-align:justify;">Sur ce, bonne lecture à vous !</p>
+<p style="text-align:justify;"><strong>Boku Girl – Chapitre 22 :</strong> <a href="https://mega.nz/#!9owEGD7R!rMpuoKkdVsKWbBfUZnPutUiwHXvbDRZfsEVYpmbDGgA"  rel="noopener">Download</a> (.rar) <strong>//</strong> <a href="https://mangadex.org/chapter/310604"  rel="noopener">Lecture en ligne</a></p>

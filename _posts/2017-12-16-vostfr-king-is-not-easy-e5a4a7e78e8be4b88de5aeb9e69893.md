@@ -1,0 +1,13 @@
+---
+ID: 2742
+post_title: '[VOSTFR] King Is Not Easy 大王不容易'
+author: swchelfsub
+post_excerpt: |
+  Webdrama chinoisAffiche du dramaGenre : Com&eacute;die, Romance, Fantastique, HistoriqueNombre de saison : 1Nombre d'&eacute;pisodes : 20Sortie du premier &eacute;pisode : 30 Ao&ucirc;t 2017Cha&icirc;ne de retransmission : Tencent VideoLangue : MandarinActeurs principaux : Zhang Yijie, Bai Lu, Xu Baihui, Zhao YiqinDur&eacute;e : Environ 30 minutes par &eacute;pisodeSynopsis :Ce drama se d&eacute;roule pendant la dynastie Zhou de l&rsquo;Ouest (1046 &agrave; 771 av. J.-C). Il s&rsquo;agit d&rsquo;une histoire racontant l&rsquo;aventure d&rsquo;une cuisini&egrave;re rus&eacute;e et indisciplin&eacute;e, Da<img src="http://static.wixstatic.com/media/ce4b89_30daf097b0cf4767bbe94995b6c51930~mv2.jpg/v1/fill/w_563%2Ch_312/ce4b89_30daf097b0cf4767bbe94995b6c51930~mv2.jpg">
+layout: post
+permalink: >
+  https://swchelfsub.wixsite.com/swchelf/single-post/King-Is-Not-Easy
+published: true
+post_date: 2017-12-16 00:42:19
+---
+<div><div>Webdrama chinois</div><img src="https://united-subs.dearclouds.com/wp-content/uploads/2018/04/2b2e7a0218cca659dd5265e7ea5b95c7.jpg"/><div>Affiche du drama</div><div>Genre : Comédie, Romance, Fantastique, Historique</div><div>Nombre de saison : 1</div><div>Nombre d'épisodes : 20</div><div>Sortie du premier épisode : 30 Août 2017</div><div>Chaîne de retransmission : Tencent Video</div><div>Langue : Mandarin</div><div>Acteurs principaux : Zhang Yijie, Bai Lu, Xu Baihui, Zhao Yiqin</div><div>Durée : Environ 30 minutes par épisode</div><div>Synopsis :</div><div>Ce drama se déroule pendant la dynastie Zhou de l’Ouest (1046 à 771 av. J.-C). Il s’agit d’une histoire racontant l’aventure d’une cuisinière rusée et indisciplinée, Da Xi 妲喜 (jouée par Bai Lu), qui est entrée au Palais pour se rapprocher d’un garde qu’elle trouve beau. Lors d’un accident, elle et le roi, Ji Man 姬满 (joué par Zhang Yijie), ont échangé leur âme.</div><div>Pour voir les épisodes en hardsub, rendez-vous sur le blog (inscription requise + demande d'accès aux liens) :</div><div><a href="http://swchelfsub.wordpress.com/2017/09/12/king-is-not-easy/">Lien</a></div><div>Sinon, vous avez la possibilité de visionner le drama en softsub directement sur YouTube.</div><div>Playlist des épisodes sans sous-titres chinois : <a href="https://www.youtube.com/playlist?list=PL6SW90bXqDcoLoA_WdvoBlVwmEjnSnZ98">Lien</a></div><div>Playlist des épisodes avec sous-titres chinois : <a href="https://www.youtube.com/playlist?list=PL6SW90bXqDcqEsibUlOrFTBqO2py9M4qW">Lien</a></div><div>Bon visionnage</div></div>

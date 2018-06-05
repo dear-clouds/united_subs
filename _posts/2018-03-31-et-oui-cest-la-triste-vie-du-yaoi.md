@@ -1,0 +1,68 @@
+---
+ID: 3721
+post_title: 'Et oui c&#8217;est la triste vie du Yaoi&#8230;'
+author: AsianDrama
+post_excerpt: "Hello tout le monde, Aujourd'hui j'avais pas grand chose &agrave; dire, quelques news m'ont d&eacute;moralis&eacute;. Pas d'internet depuis mardi soir et vendredi j'ai le malheur de conna&icirc;tre&nbsp;la fin d'une s&eacute;rie que je voulais voir et ben plus besoin, je connais la fin. Donc passons, grand weekend en perspective..."
+layout: post
+permalink: >
+  http://asiandrama.eklablog.com/et-oui-c-est-la-triste-vie-du-yaoi-a140382168
+published: true
+post_date: 2018-03-31 18:00:00
+---
+<p style="text-align: center;"><span style="font-size: 10pt;"><img style="box-sizing: content-box; border: 0px; vertical-align: middle; font-size: 16px; line-height: 22.8571px;" src="https://united-subs.dearclouds.com/wp-content/uploads/2018/04/5e6bbed1e40566232bc585119e5a1581.jpg" alt="Will you be back..."/></span></p>
+<p style="text-align: center;"><span style="font-size: 10pt;">Hello tout le monde,</span></p>
+<p style="text-align: center;"><span style="font-size: 10pt;">Aujourd'hui j'avais pas grand chose &agrave; dire, quelques news m'ont d&eacute;moralis&eacute;.</span></p>
+<p style="text-align: center;"><span style="font-size: 10pt;">Pas d'internet depuis mardi soir et vendredi j'ai le malheur de conna&icirc;tre&nbsp;la fin d'une s&eacute;rie que je voulais voir et ben plus besoin, je connais la fin.</span></p>
+<p style="text-align: center;"><span style="font-size: 10pt;">Donc passons, grand weekend en perspective pour presque tout le monde,</span></p>
+<p style="text-align: center;"><span style="font-size: 10pt;">Profiter du beau temps si vous en avez, restez sous la couette s'il fait mauvais, allez &agrave; la recherche des &oelig;ufs en chocolat (miam, miam), reposez-vous si vous en avez besoin.&nbsp;</span></p>
+<p style="text-align: center;"><span style="font-size: 10pt;">C'est avec beaucoup d'obstacles que je vous propose les &eacute;pisodes 23 et 24, nous retrouvons&nbsp;&nbsp;&agrave; nouveau notre couple d'amis improbables.&nbsp;</span></p>
+<p style="text-align: center;"><span style="font-size: 10pt;">Oui, oui, celui que j'appellerais "le gosse riche et le voleur".</span></p>
+<p style="text-align: center;"><span style="font-size: 10pt;">Xuan Da Yu et Wang Shi Zhi vont bien vous faire rire. Au d&eacute;but je n'aimais pas ce couple mais au fils des &eacute;pisodes je m'y suis attach&eacute;e c'est vrai comment ils auraient pu se rencontrer. Et comment une histoire aurait pu se cr&eacute;er entre eux deux.</span></p>
+<p style="text-align: center;"><span style="font-size: 13.3333px;">Enfin dans cet &eacute;pisode, ils m'ont bien fait rire du d&eacute;but jusqu'&agrave; la fin et c'est ce qui compte et vous comment avez-vous per&ccedil;u cet &eacute;pisode ? </span></p>
+<p style="text-align: center;"><span style="font-size: 13.3333px;">On les retrouvera au prochain &eacute;pisode pour la suite avec en seconde partie notre couple de " le BodyGuard et le policier", Yuan Zong et Xia Yao.</span></p>
+<p style="text-align: center;"><span style="font-size: 13.3333px;">L&agrave; on s'amuse aussi &agrave; leur d&eacute;pends et vous ne pouvez que passer votre temps &agrave; avoir le sourire.</span></p>
+<p style="text-align: center;"><span style="font-size: 10pt;">PS1 : pendant les prochaines vacances, je n'aurais peut &ecirc;tre pas la possibilit&eacute; de faire une sortie le samedi mais <span style="text-decoration: underline;">j'essayerai</span>&nbsp;(en d&eacute;caler), vous &ecirc;tes pr&eacute;venu.</span>&nbsp;</p>
+<p class="MsoNormal" style="text-align: center;"><span style="font-size: 10pt;">PS2 : pour les personnes qui regardent en streaming, j'ai d&eacute;couvert &nbsp;<strong>ZippyShare</strong> ET j'ai oubli&eacute; il y a aussi <strong>Google Drive</strong><strong>.</strong></span></p>
+<p style="text-align: center;"><span style="color: #ff6600; font-size: 12pt;"><strong>EPISODES 23&nbsp;</strong></span><strong style="color: #ff6600; font-size: 12pt;">et 24 (disponible)</strong></p>
+<p style="text-align: center;"><a href="http://asiandrama.eklablog.com/advance-bravely-shi-bu-ke-dang-a132468554"><img src="http://ekladata.com/0uKkanx1ZsCokYzmMOHeNLvY8Ck@169x127.jpg" width="169" height="127" alt=""/></a>&nbsp;</p>
+<p style="text-align: center;"><span style="font-size: 10pt;"><strong style="box-sizing: content-box; line-height: 15.7143px; text-align: center;"><span style="box-sizing: content-box; color: #003366;">On a tous une vie apr&egrave;s tout.</span></strong></span></p>
+<p class="MsoNormal" style="box-sizing: content-box; margin: 0px 0px 0.0001pt; line-height: 15.7143px; text-align: center;"><span style="box-sizing: content-box; color: #ff9900; font-size: 10pt;"><strong style="box-sizing: content-box;"><span style="box-sizing: content-box;">Un merci &ccedil;a nous motive et &ccedil;a nous fait toujours plaisir.</span></strong><span style="box-sizing: content-box;">&nbsp;</span></span></p>
+<p style="box-sizing: content-box; margin: 0px 0px 10px; line-height: 15.7143px; text-align: center;"><span style="box-sizing: content-box; color: #ff00ff; font-size: 10pt;"><span style="box-sizing: content-box;">Bises &agrave; toutes et &agrave; tous.</span>&nbsp;</span></p>
+<p style="box-sizing: content-box; margin: 0px 0px 10px; line-height: 15.7143px; text-align: center;">&nbsp;<img style="display: block; margin-left: auto; margin-right: auto;" src="http://ekladata.com/0azE2m7POWI0azp7s-3SiM0RKv4@308x39.png" alt="Avancement"/></p>
+<p><a href="http://ekladata.com/VhIONmPRZlnk2cg7Gm3fFb4aR9c.png"><img style="display: block; margin-left: auto; margin-right: auto;" src="http://ekladata.com/VhIONmPRZlnk2cg7Gm3fFb4aR9c@150x150.png" alt="Et oui c'est la triste vie du Yaoi..."/></a></p>
+<p style="text-align: center;"><span style="font-size: 12pt;">Salut &agrave; tous, voil&agrave; pour vous ! L'&eacute;pisode 9 de Beloved Enemy.</span></p>
+<p style="text-align: center;"><span style="font-size: 12pt;">Profitez bien de cet &eacute;pisode et merci &agrave; Loves69 pour la traduction et Semeuse pour la correction.</span></p>
+<p style="text-align: center;"><span style="font-size: 12pt;">Petite nouvelle un peu moins r&eacute;jouissante que nous devons vous partager.</span></p>
+<p style="text-align: center;"><span style="font-size: 12pt;">Notre collaboration avec Oxlly et Steewy&nbsp;a pris fin pour certaines raisons que nous&nbsp;</span></p>
+<p style="text-align: center;"><span style="font-size: 12pt;">devons vous expliquer car &ccedil;a n'a pas &eacute;t&eacute; une d&eacute;cision prise &agrave; la l&eacute;g&egrave;re.</span></p>
+<p style="text-align: center;"><span style="font-size: 12pt;">Comme vous l'avez surement remarquez, ils n'&eacute;taient plus pr&eacute;sent sur le blog et malheureusement</span></p>
+<p style="text-align: center;"><span style="font-size: 12pt;">quand on fait partie de la Team, la gestion du blog en fait aussi partie donc &ecirc;tre 4 &agrave; traduire mais seulement 2 &agrave; s'occuper&nbsp;</span></p>
+<p style="text-align: center;"><span style="font-size: 12pt;">du blog c'est pas vraiment ce qu'on recherchait.</span></p>
+<p style="text-align: center;"><span style="font-size: 12pt;">Les nouvelles aussi sont tr&egrave;s importante et rester 1 voir 2 mois sans nouvelles &ccedil;a ne passait plus, surtout quand ce n'&eacute;tait pas la premi&egrave;re fois.</span></p>
+<p style="text-align: center;"><span style="font-size: 12pt;">Plus, en nous laissant sans nouvelles, nous ne savons pas non plus quoi faire de leur projets en cours. Donc l'&eacute;mission Off-Gun que Steewy avait pris en projet ne continuera pas sur notre blog (d&eacute;sol&eacute;e pour ceux qui aimait cette &eacute;mission).&nbsp;</span></p>
+<p style="text-align: center;"><span style="font-size: 12pt;">Pour Beloved Enemy j'ai expliqu&eacute; la situation &agrave; Loves69 et je terminerai de traduire l'&eacute;pisode 12 et il s'occupera du 13 au 15</span></p>
+<p style="text-align: center;"><span style="font-size: 12pt;">et nous en ferons la correction</span></p>
+<p style="text-align: center;"><span style="font-size: 12pt;">Bref, tout &ccedil;a pour dire que nous avons pris cette d&eacute;cision pour ces raisons la.</span></p>
+<p style="text-align: center;"><span style="font-size: 12pt;">Malgr&eacute; tout &ccedil;a, Oxlly et Steewy ont fait du bon travail dans la team, et on les remerciera toujours</span></p>
+<p style="text-align: center;"><span style="font-size: 12pt;">pour ce qu'ils nous ont apporter. Que ce soit en tant que traducteur ou en tant que correcteur.</span></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><a href="http://asiandrama.eklablog.com/beloved-enemy-a131818410"><img src="http://ekladata.com/HF4iDIIpKMcfTf8C0tXAARp2D3Y@553x311.jpg" alt="Et oui c'est la triste vie du Yaoi..." width="553" height="311"/></a></p>
+<p style="text-align: center;">&nbsp;</p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="http://ekladata.com/0azE2m7POWI0azp7s-3SiM0RKv4@308x39.png" alt="Avancement"/></p>
+<p>&nbsp;</p>
+<p style="box-sizing: content-box; margin: 0px 0px 10px; line-height: 15.7143px; text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><a href="http://ekladata.com/hxB4nF378bH6UALVud4-a4QQ7rs.png"><img src="http://ekladata.com/hxB4nF378bH6UALVud4-a4QQ7rs@150x150.png" alt="Et oui c'est la triste vie du Yaoi..."/></a></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><span style="font-size: 10pt;">Hello !!!&nbsp;</span></p>
+<p style="text-align: center;"><span style="font-size: 13.3333px;">Alors comment aller vous cette semaine ?&nbsp;</span></p>
+<p style="text-align: center;"><span style="font-size: 13.3333px;">Perso, moi j'ai &eacute;t&eacute; malade toute la semaine, je faisais presque que dormir, mais bon j'ai quand m&ecirc;me eu assez de force pour traduire ^^&nbsp;</span></p>
+<p style="text-align: center;"><span style="font-size: 13.3333px;">Qui a regarder Shadowhunter ? MOI ! xD Cette saison commence tr&egrave;s&nbsp;fort ! Bien que j'ai envie de frapper Clary et Jace (je peux pas les voir d&eacute;sol&eacute;e pour ceux qui les aime ^^), mais surtout SIMON ! Ahhhh je kiffe ce mec, bon Alec et Magnus sont les premier bien (faut pas d&eacute;conn&eacute;) mais Simon et juste derri&egrave;re&nbsp;eux, c'est surement parce que c'est un vampire, il me rend nostalgique de Buffy !&nbsp;</span></p>
+<p style="text-align: center;"><span style="font-size: 13.3333px;">Bref, arr&ecirc;tons les bavardages, passons aux sorties :&nbsp;</span></p>
+<p style="text-align: center;"><span style="color: #ff00ff;"><strong><span style="font-size: 13.3333px;">-L'&eacute;pisode 11 de My Brother -&gt; Dites merci &agrave; Greg&nbsp;</span></strong></span></p>
+<p style="text-align: center;"><span style="color: #ff00ff;"><strong><span style="font-size: 13.3333px;">-Les deux derniers &eacute;pisodes d'HIStory 2 Crossing The line.&nbsp;</span></strong></span></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><span style="font-size: 13.3333px;">C'est tout pour moi !&nbsp;</span></p>
+<p style="text-align: center;"><span style="font-size: 13.3333px;">A bient&ocirc;t !&nbsp;&nbsp;</span></p>
+<p style="text-align: center;"><a href="http://asiandrama.eklablog.com/adam-s-secret-2-my-brother-a135027942"><img src="http://ekladata.com/khoC53bm9Lk6IdXWDHJ_wig3Er8@320x401.png" alt="Et oui c'est la triste vie du Yaoi..." width="320" height="401"/></a>&nbsp;<a href="http://asiandrama.eklablog.com/history-web-serie-2-a132399002"><img src="http://ekladata.com/n48K3-HSz_-OfJ8oBXLJldW_SBk@320x400.jpg" alt="Et oui c'est la triste vie du Yaoi..." width="320" height="400"/></a></p><br /><br /><div id="share_buttons" class="article_sharebtns"><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fasiandrama.eklablog.com%2Fet-oui-c-est-la-triste-vie-du-yaoi-a140382168&amp;layout=box_count&amp;show_faces=false&amp;width=65&amp;action=like&amp;font&amp;colorscheme=light&amp;height=65" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:65px; height:65px;" allowTransparency="true"><br /></iframe><iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/tweet_button.html?url=http%3A%2F%2Fasiandrama.eklablog.com%2Fet-oui-c-est-la-triste-vie-du-yaoi-a140382168&amp;text=Et%20oui%20c%27est%20la%20triste%20vie%20du%20Yaoi...&amp;count=horizontal" style="width: 110px; height: 20px;"></iframe><span><g:plusone size="medium" count="true" href="http://asiandrama.eklablog.com/et-oui-c-est-la-triste-vie-du-yaoi-a140382168"></g:plusone></span><a href="javascript:(function()%7Bm='http://mail.google.com/mail/?view=cm&fs=1&tf=1&to=&su=Et%20oui%20c%5C%27est%20la%20triste%20vie%20du%20Yaoi...&body=http%3A%2F%2Fasiandrama.eklablog.com%2Fet-oui-c-est-la-triste-vie-du-yaoi-a140382168';w=window.open(m,'addwindow','status=no,toolbar=no,width=575,height=545,resizable=yes');setTimeout(function()%7Bw.focus();%7D,%20250);%7D)();" rel="nofollow"><img src="" alt="Partager via Gmail" title="Partager via Gmail" /></a><a rel="nofollow" href="http://bookmarks.yahoo.com/toolbar/savebm?u=http%3A%2F%2Fasiandrama.eklablog.com%2Fet-oui-c-est-la-triste-vie-du-yaoi-a140382168&t=Et%20oui%20c%27est%20la%20triste%20vie%20du%20Yaoi..."  rel="nofollow">
+<img alt="Yahoo!" src="" title="Yahoo!" />
+</a></div><br /><hr />Article original rédigé par cnblu et publié sur <a href="http://asiandrama.eklablog.com/">AsianDrama</a> <br /> Reproduction interdite sans autorisation

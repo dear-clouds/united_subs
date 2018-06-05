@@ -1,0 +1,15 @@
+---
+ID: 9320
+post_title: Major Homerun 71
+author: Tennis no Sensei
+post_excerpt: 'Hello tout le monde. On se retrouve pour une petite surprise avec le chapitre 71 de Major, &eacute;galement disponible en lecture en ligne. Ce chapitre n&rsquo;aurait jamais vu le jour sans la contribution de genisakuragi2 (trad jap/fr de la HNI-Scantrad), qui m&rsquo;a gentiment propos&eacute; de reprendre la traduction de Major &agrave; partir du japonais (au &hellip; <a href="https://tennisnosensei.wordpress.com/2018/04/18/major-homerun-71/">Lire la suite de <span>Major Homerun 71</span></a>'
+layout: post
+permalink: >
+  https://tennisnosensei.wordpress.com/2018/04/18/major-homerun-71/
+published: true
+post_date: 2018-04-18 17:58:19
+---
+<p><img data-attachment-id="19" data-permalink="https://tennisnosensei.wordpress.com/nos-projets-en-cours/major/logomajor/#main" data-orig-file="https://tennisnosensei.files.wordpress.com/2015/06/logomajor.png?w=700" data-orig-size="300,150" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="logomajor" data-image-description="" data-medium-file="https://tennisnosensei.files.wordpress.com/2015/06/logomajor.png?w=700?w=300" data-large-file="https://tennisnosensei.files.wordpress.com/2015/06/logomajor.png?w=700?w=300" class="alignnone size-full wp-image-19" src="https://tennisnosensei.files.wordpress.com/2015/06/logomajor.png?w=700" alt="logomajor" srcset="https://tennisnosensei.files.wordpress.com/2015/06/logomajor.png 300w, https://tennisnosensei.files.wordpress.com/2015/06/logomajor.png?w=150 150w" sizes="(max-width: 300px) 100vw, 300px"   /></p>
+<p style="text-align:justify;">Hello tout le monde.<br />
+On se retrouve pour une petite surprise avec le <a href="https://mon-partage.fr/f/5qtoxKHv/"  rel="noopener"><strong>chapitre 71 de Major</strong></a>, également disponible en <strong><a href="http://mangapedia.fr/lel/Major/4/71/1"  rel="noopener">lecture en ligne</a></strong>. Ce chapitre n&rsquo;aurait jamais vu le jour sans la contribution de <strong>genisakuragi2</strong> (trad jap/fr de la <strong><a href="http://hni-scantrad.com/"  rel="noopener">HNI-Scantrad</a></strong>), qui m&rsquo;a gentiment proposé de reprendre la traduction de Major à partir du japonais (au moment où j&rsquo;avais un peu perdu espoir), et une <strong>intervention divine</strong> pour obtenir le raw. Même si je l&rsquo;ai déjà fait, je les remercie donc infiniment et je suis sûr que vous en ferez autant.<br />
+Bonne lecture <img src="https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>

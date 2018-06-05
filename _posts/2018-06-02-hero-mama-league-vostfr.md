@@ -1,0 +1,17 @@
+---
+ID: 10128
+post_title: Hero Mama League VOSTFR
+author: Shinken Subs
+post_excerpt: 'On se retrouve aujourd&rsquo;hui pour Hero Mama League, un &eacute;pisode sp&eacute;cial vaguement li&eacute; &agrave; Kyuranger VS Space Squad, et qui raconte les aventures de m&egrave;res pas comme les autres : Hurricane Blue, Deka Yellow et Magi Pink. Bon, ne vous excitez pas, c&rsquo;est petit budget, clich&eacute;, et &agrave; part quelques passages dr&ocirc;les, c&rsquo;est pas la &hellip; <a href="https://shinkensubs.wordpress.com/2018/06/02/hero-mama-league-vostfr/">Continuer &agrave; lire ... <span> "Hero Mama League&nbsp;VOSTFR"</span></a>'
+layout: post
+permalink: >
+  https://shinkensubs.wordpress.com/2018/06/02/hero-mama-league-vostfr/
+published: true
+post_date: 2018-06-02 19:27:50
+---
+<p><img data-attachment-id="2425" data-permalink="https://shinkensubs.wordpress.com/2018/06/02/hero-mama-league-vostfr/sans-titre-2-31/" data-orig-file="https://shinkensubs.files.wordpress.com/2018/06/sans-titre-2.jpg?w=840" data-orig-size="1056,589" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Sans titre 2" data-image-description="" data-medium-file="https://shinkensubs.files.wordpress.com/2018/06/sans-titre-2.jpg?w=840?w=300" data-large-file="https://shinkensubs.files.wordpress.com/2018/06/sans-titre-2.jpg?w=840?w=840" class="alignnone size-full wp-image-2425" src="https://shinkensubs.files.wordpress.com/2018/06/sans-titre-2.jpg?w=840" alt="Sans titre 2" srcset="https://united-subs.dearclouds.com/wp-content/uploads/2018/06/861ca30086b706690f7a6cdfb373c6ee.jpg 840w, https://shinkensubs.files.wordpress.com/2018/06/sans-titre-2.jpg?w=150 150w, https://shinkensubs.files.wordpress.com/2018/06/sans-titre-2.jpg?w=300 300w, https://shinkensubs.files.wordpress.com/2018/06/sans-titre-2.jpg?w=768 768w, https://shinkensubs.files.wordpress.com/2018/06/sans-titre-2.jpg?w=1024 1024w, https://shinkensubs.files.wordpress.com/2018/06/sans-titre-2.jpg 1056w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px"   /></p>
+<p><span id="more-2424"></span></p>
+<p>On se retrouve aujourd&rsquo;hui pour Hero Mama League, un épisode spécial vaguement lié à Kyuranger VS Space Squad, et qui raconte les aventures de mères pas comme les autres : Hurricane Blue, Deka Yellow et Magi Pink.</p>
+<p>Bon, ne vous excitez pas, c&rsquo;est petit budget, cliché, et à part quelques passages drôles, c&rsquo;est pas la joie XD</p>
+<p>Suite à un gros soucis d&rsquo;encode, je ne peux malheureusement vous le proposer qu&rsquo;en MKV. L&rsquo;épisode se trouve dans la partie &laquo;&nbsp;Divers&nbsp;&raquo; du site, et le mot de passe est le même : &laquo;&nbsp;SuperHeroTime&nbsp;&raquo;.</p>
+<p>Je suis en train d&rsquo;encoder l&rsquo;épisode de Lupat avec bien du mal. Megui a décidé de m&rsquo;enquiquiner, apparemment. J&rsquo;espère pouvoir vous le proposer ce soir. Un nouvel épisode de Build ainsi qu&rsquo;un nouvel épisode d&rsquo;Abaranger devraient être dispos demain ^^</p>

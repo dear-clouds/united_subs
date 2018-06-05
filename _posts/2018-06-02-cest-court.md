@@ -1,0 +1,51 @@
+---
+ID: 10116
+post_title: 'C&#8217;est court&#8230;'
+author: AsianDrama
+post_excerpt: |
+  Hello tout le monde,&nbsp; Alors aujourd'hui qu'est-ce que je vous raconte. J'aurais bien voulu dire pas grand chose mais non. Depuis dimanche, j'ai eu plusieurs nuits ou j'ai &eacute;t&eacute; sous la "couette" &agrave; cause des orages et du tonnerre. Une vraie&nbsp;peur c'est vrai quoi, avec les d&eacute;g&acirc;ts que cela donne....
+layout: post
+permalink: >
+  http://asiandrama.eklablog.com/c-est-court-a144872140
+published: true
+post_date: 2018-06-02 18:00:00
+---
+<p style="box-sizing: content-box; margin: 0px 0px 10px; line-height: 15.7143px; text-align: center;"><span style="font-size: 12pt;"><img style="box-sizing: content-box; border: 0px; vertical-align: middle;" src="https://united-subs.dearclouds.com/wp-content/uploads/2018/04/5e6bbed1e40566232bc585119e5a1581.jpg" alt="Sortie du 19 Mai"/></span></p>
+<p style="box-sizing: content-box; margin: 0px 0px 10px; line-height: 15.7143px; text-align: center;"><span style="font-size: 12pt;">Hello tout le monde,&nbsp;</span></p>
+<p style="box-sizing: content-box; margin: 0px 0px 10px; line-height: 15.7143px; text-align: center;"><span style="font-size: 12pt;">Alors aujourd'hui qu'est-ce que je vous raconte. J'aurais bien voulu dire pas grand chose mais non. Depuis dimanche, j'ai eu plusieurs nuits ou j'ai &eacute;t&eacute; sous la "couette" &agrave; cause des orages et du tonnerre. Une vraie&nbsp;peur c'est vrai quoi, avec les d&eacute;g&acirc;ts que cela donne.</span></p>
+<p style="box-sizing: content-box; margin: 0px 0px 10px; line-height: 15.7143px; text-align: center;"><span style="font-size: 12pt;">Dites donc j'ai failli oubli&eacute;, j'allais partir sans vous dire que aujourd'hui, il y a une sortie.</span></p>
+<p style="box-sizing: content-box; margin: 0px 0px 10px; line-height: 15.7143px; text-align: center;"><span style="font-size: 12pt;">J'ai choisi de traduire des trucs que j'aime (qui n'ont jamais &eacute;t&eacute; traduite) et dure dure de trouver parfois de bonne RAW et aussi des sous-titres car je ne vous raconte pas. J'applaudi les personnes qui s'occupe de faire le time sur les dramas car moi c'est p&eacute;tage de plomb.</span></p>
+<p style="box-sizing: content-box; margin: 0px 0px 10px; line-height: 15.7143px; text-align: center;">&nbsp;</p>
+<p style="box-sizing: content-box; margin: 0px 0px 10px; line-height: 15.7143px; text-align: center;"><span style="font-size: 12pt;">Alors c'est un film et tout le tatouin c'est par ...</span></p>
+<p style="box-sizing: content-box; margin: 0px 0px 10px; line-height: 15.7143px; text-align: center;">&nbsp;</p>
+<p style="box-sizing: content-box; margin: 0px 0px 10px; line-height: 15.7143px; text-align: center;"><strong><span style="font-size: 14pt;">&nbsp;<span style="color: #993300;">PS :&nbsp;Heu petit soucis, vous l'aurez ce week'end avec la fiche.</span></span></strong></p>
+<p class="MsoNormal" style="box-sizing: content-box; margin: 0cm 127.55pt 6pt; line-height: 15.7143px; text-align: center; background: #002060;"><span style="box-sizing: content-box; font-size: 12pt;"><strong style="box-sizing: content-box;"><span style="box-sizing: content-box; color: white;">On a tous une vie apr&egrave;s tout.</span></strong><span style="box-sizing: content-box; color: white;">&nbsp;</span></span></p>
+<p class="MsoNormal" style="box-sizing: content-box; margin: 0px 0px 6pt; line-height: 15.7143px; text-align: center; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="box-sizing: content-box; font-size: 12pt;"><strong style="box-sizing: content-box;"><span style="box-sizing: content-box; color: #00b050;">Un merci &ccedil;a nous motive et &ccedil;a nous fait toujours plaisir.</span></strong><span style="box-sizing: content-box; color: #00b050;">&nbsp;</span><span style="box-sizing: content-box; color: #00b050;">&nbsp;</span></span></p>
+<p style="box-sizing: content-box; margin: 0px 0px 10px; line-height: 15.7143px; text-align: center;">&nbsp;</p>
+<p class="MsoNormal" style="box-sizing: content-box; margin: 0px 0px 6pt; line-height: 15.7143px; text-align: center; background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;"><span style="box-sizing: content-box; font-size: 12pt;"><span style="box-sizing: content-box; color: fuchsia;">Bises &agrave; toutes et &agrave; tous.&nbsp;</span>&nbsp;</span></p>
+<p style="box-sizing: content-box; margin: 0px 0px 10px; line-height: 15.7143px; text-align: center;"><span style="font-size: 12pt;"><img style="box-sizing: content-box; border: 0px; vertical-align: middle;" src="http://ekladata.com/0azE2m7POWI0azp7s-3SiM0RKv4@308x39.png" alt="Avancement"/></span></p>
+<p style="box-sizing: content-box; margin: 0px 0px 10px; line-height: 15.7143px; text-align: center;"><span style="font-size: 12pt;">&nbsp;</span></p>
+<p style="text-align: center;"><a href="http://ekladata.com/VhIONmPRZlnk2cg7Gm3fFb4aR9c.png"><img src="http://ekladata.com/VhIONmPRZlnk2cg7Gm3fFb4aR9c@150x150.png" alt="C'est court..."/></a></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><span style="font-size: 12pt;">Salut &agrave; tous aujourd'hui je viens avec 2 sorties comme vous le voyez ;)</span></p>
+<p style="text-align: center;"><span style="font-size: 12pt;">Voil&agrave; la fin de Beloved Enemy, on aurait voulu que la relation s'approfondisse plus, surtout</span></p>
+<p style="text-align: center;"><span style="font-size: 12pt;">qu'ils &eacute;taient mignon ensemble mais bon...</span></p>
+<p style="text-align: center;"><span style="font-size: 12pt;">Donc un tr&egrave;s grand merci &agrave; Loves69 de la Yaoi-Zone pour cette</span></p>
+<p style="text-align: center;"><span style="font-size: 12pt;">collaboration :)</span></p>
+<p style="text-align: center;"><span style="font-size: 12pt;">&nbsp;</span></p>
+<p style="text-align: center;"><a href="http://asiandrama.eklablog.com/beloved-enemy-a131818410"><img src="http://ekladata.com/J4Vx9Z24yF03L3CzIiTpn1SewT8@350x197.jpg" alt="C'est court..."/></a>&nbsp;<a href="http://asiandrama.eklablog.com/flyleaf-of-summer-a144532612"><img src="http://ekladata.com/c0U0D6afWRUlZ53LJNnrLkQIfo8@350x197.jpg" alt="C'est court..."/></a></p>
+<p style="box-sizing: content-box; margin: 0px 0px 10px; line-height: 15.7143px; text-align: center;">&nbsp;</p>
+<p style="box-sizing: content-box; margin: 0px 0px 10px; line-height: 15.7143px; text-align: center;"><img style="box-sizing: content-box; border: 0px; vertical-align: middle;" src="http://ekladata.com/0azE2m7POWI0azp7s-3SiM0RKv4@308x39.png" alt="Avancement"/></p>
+<p style="text-align: center;"><a href="http://ekladata.com/hxB4nF378bH6UALVud4-a4QQ7rs.png"><img src="http://ekladata.com/hxB4nF378bH6UALVud4-a4QQ7rs@150x150.png" alt="C'est court..."/></a></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><span style="font-size: 10pt;">Hello mes flambys !&nbsp;</span></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><span style="font-size: 10pt;">Comment &ccedil;a va cette semaine ? Moi &ccedil;a va pas trop mal, j'ai trop de trucs &agrave; penser en ce moment , mais j'arrive &agrave; peut pr&eacute;s &agrave; le g&eacute;rer ^^&nbsp;</span></p>
+<p style="text-align: center;"><span style="font-size: 10pt;">Alors comme promis, cette semaine je vous am&egrave;ne <span style="color: #ff00ff;"><strong>l'&eacute;pisode 1 de Kiss Me Again</strong></span> , et on peux dire que cette s&eacute;rie commence tr&egrave;s fort !&nbsp;</span></p>
+<p><span style="font-size: 10pt;">J'ai d&eacute;j&agrave; une petite pr&eacute;f&eacute;rence pour un de couple (en dehors du couple BL ^^), je sens que je vais ador&eacute; les suivre &agrave; ses deux la ;)&nbsp;</span></p>
+<p style="text-align: center;"><span style="font-size: 10pt;">Bref, vous trouverez l'&eacute;pisode sur la fiche de la s&eacute;rie, ainsi que sur<span style="color: #0000ff;"> La Rookie's Fansub et la Asia fansub</span>, qui sont en co-prod avec nous sur cette s&eacute;rie !&nbsp;</span></p>
+<p style="text-align: center;"><span style="font-size: 10pt;">A la semaine prochaine :)&nbsp;</span></p>
+<p style="text-align: center;"><a href="http://asiandrama.eklablog.com/kiss-me-again-a144816404"><img src="http://ekladata.com/TNCO9H5xFHxgjW-b3HYpnSmn0nA@350x495.png" alt="C'est court..." width="350" height="495"/></a></p>
+<p style="text-align: center;">&nbsp;</p><br /><br /><div id="share_buttons" class="article_sharebtns"><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fasiandrama.eklablog.com%2Fc-est-court-a144872140&amp;layout=box_count&amp;show_faces=false&amp;width=65&amp;action=like&amp;font&amp;colorscheme=light&amp;height=65" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:65px; height:65px;" allowTransparency="true"><br /></iframe><iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/tweet_button.html?url=http%3A%2F%2Fasiandrama.eklablog.com%2Fc-est-court-a144872140&amp;text=C%27est%20court...&amp;count=horizontal" style="width: 110px; height: 20px;"></iframe><span><g:plusone size="medium" count="true" href="http://asiandrama.eklablog.com/c-est-court-a144872140"></g:plusone></span><a href="javascript:(function()%7Bm='http://mail.google.com/mail/?view=cm&fs=1&tf=1&to=&su=C%5C%27est%20court...&body=http%3A%2F%2Fasiandrama.eklablog.com%2Fc-est-court-a144872140';w=window.open(m,'addwindow','status=no,toolbar=no,width=575,height=545,resizable=yes');setTimeout(function()%7Bw.focus();%7D,%20250);%7D)();" rel="nofollow"><img src="" alt="Partager via Gmail" title="Partager via Gmail" /></a><a rel="nofollow" href="http://bookmarks.yahoo.com/toolbar/savebm?u=http%3A%2F%2Fasiandrama.eklablog.com%2Fc-est-court-a144872140&t=C%27est%20court..."  rel="nofollow">
+<img alt="Yahoo!" src="" title="Yahoo!" />
+</a></div><br /><hr />Article original rédigé par cnblu et publié sur <a href="http://asiandrama.eklablog.com/">AsianDrama</a> <br /> Reproduction interdite sans autorisation

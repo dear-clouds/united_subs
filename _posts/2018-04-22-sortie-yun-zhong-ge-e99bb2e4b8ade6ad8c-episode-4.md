@@ -1,0 +1,18 @@
+---
+ID: 4365
+post_title: '[SORTIE] Yun Zhong Ge 雲中歌 Épisode 4'
+author: DramaHolix
+post_excerpt: 'Bonjour tout le monde, alors ce dimanche au soleil ? Un petit &eacute;pisode de Yun Zhong Ge cela vous dit?&nbsp; On avance doucement mais s&ucirc;rement sur ce drama. Les choses commencent &agrave; se mettre en place, quelques rebondissements, des regards qui se croisent et surtout une bonne dose de complot, soif de pouvoir et d&rsquo;argent&hellip; <a href="https://dramaholixvip.wordpress.com/2018/04/22/sortie-yun-zhong-ge-%E9%9B%B2%E4%B8%AD%E6%AD%8C-episode-4/">Lire la suite <span>[SORTIE] Yun Zhong Ge &#38642;&#20013;&#27468; &Eacute;pisode&nbsp;4</span></a>'
+layout: post
+permalink: 'https://dramaholixvip.wordpress.com/2018/04/22/sortie-yun-zhong-ge-%E9%9B%B2%E4%B8%AD%E6%AD%8C-episode-4/'
+published: true
+post_date: 2018-04-22 15:54:02
+---
+<p style="text-align:justify;"><strong><em><img data-attachment-id="3792" data-permalink="https://dramaholixvip.wordpress.com/2018/04/22/sortie-yun-zhong-ge-%e9%9b%b2%e4%b8%ad%e6%ad%8c-episode-4/yun-zhong-ge-episode-04/" data-orig-file="https://dramaholixvip.files.wordpress.com/2018/04/yun-zhong-ge-episode-04.jpg?w=1086" data-orig-size="600,400" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="YUN ZHONG GE EPISODE 04" data-image-description="" data-medium-file="https://dramaholixvip.files.wordpress.com/2018/04/yun-zhong-ge-episode-04.jpg?w=1086?w=300" data-large-file="https://dramaholixvip.files.wordpress.com/2018/04/yun-zhong-ge-episode-04.jpg?w=1086?w=600" class="aligncenter size-full wp-image-3792" src="https://united-subs.dearclouds.com/wp-content/uploads/2018/05/2eca8aedec5ae1ef0f0a7056f27e5bdc.jpg" alt="" srcset="https://dramaholixvip.files.wordpress.com/2018/04/yun-zhong-ge-episode-04.jpg 600w, https://dramaholixvip.files.wordpress.com/2018/04/yun-zhong-ge-episode-04.jpg?w=150 150w, https://dramaholixvip.files.wordpress.com/2018/04/yun-zhong-ge-episode-04.jpg?w=300 300w" sizes="(max-width: 600px) 100vw, 600px"   />Bonjour tout le monde, alors ce dimanche au soleil ? Un petit épisode de Yun Zhong Ge cela vous dit? </em></strong></p>
+<p style="text-align:justify;">On avance doucement mais sûrement sur ce drama. Les choses commencent à se mettre en place, quelques rebondissements, des regards qui se croisent et surtout une bonne dose de complot, soif de pouvoir et d&rsquo;argent commence à pointer à l&rsquo;horizon. Cet épisode m&rsquo;aura donné du fil à tordre. Si vous êtes aux régimes et bien bon courage, j&rsquo;ai humé les odeurs à travers la traduction. Je vous en dis pas plus ce sera à vous de voir. L&rsquo;<strong>épisode 4</strong> est donc disponible sur le blog en <em><strong>HardSub. </strong></em>La vidéo pour le softsub est en cour d&rsquo;upload. Le streaming arrivant en décalé d&rsquo;une journée.</p>
+<p><em>Pour info, l&rsquo;épisode 1 d&rsquo;Agent X est aussi disponible en HardSub.</em></p>
+<p style="text-align:center;"><strong>Sur ce je vous souhaite une très bonne journée<br />
+&amp; je vous dis à mercredi pour notre pépite co-prod.<br />
+Bisous bisous les loulous. </strong></p>
+<p style="text-align:right;"><strong>Ly Ña</strong></p>
+<p style="text-align:justify;">

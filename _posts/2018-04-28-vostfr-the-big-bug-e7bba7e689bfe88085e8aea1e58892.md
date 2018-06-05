@@ -1,0 +1,13 @@
+---
+ID: 2978
+post_title: '[VOSTFR] The Big Bug 继承者计划'
+author: swchelfsub
+post_excerpt: |
+  Webdrama chinoisAffiche du dramaGenre : Action, Com&eacute;die, Romance, SuspenseNombre de saison : 1Nombre d'&eacute;pisodes : 24Diffusion : 25 janvier 2018 - 24 f&eacute;vrier 2018Cha&icirc;ne de retransmission : Sohu TVLangue : MandarinActeurs principaux : Ian Wang, Yang Haoyu, Li Xinran, Justin ChungDur&eacute;e : Environ 30 minutes par &eacute;pisodeSynopsis :Li Jinshui &eacute;tait &agrave; la base un jeune homme qui n&rsquo;avait aucun id&eacute;al, peureux et qui vivait au jour le jour. Pour rassembler la somme qu&rsquo;il faut pour soigner sa m&egrave;re, fortement<img src="http://static.wixstatic.com/media/e6334c_499a5e7e9f6b4d9c8d6fa13d2b135fda~mv2.jpg/v1/fill/w_411%2Ch_617/e6334c_499a5e7e9f6b4d9c8d6fa13d2b135fda~mv2.jpg">
+layout: post
+permalink: >
+  https://swchelfsub.wixsite.com/swchelf/single-post/The-Big-Bug-2018
+published: true
+post_date: 2018-04-28 21:47:21
+---
+<div><div>Webdrama chinois</div><div>Affiche du drama</div><img src="https://united-subs.dearclouds.com/wp-content/uploads/2018/04/a6c5da00b704de382ea348e6c6e55627-1.jpg"/><div>Genre : Action, Comédie, Romance, Suspense</div><div>Nombre de saison : 1</div><div>Nombre d'épisodes : 24</div><div>Diffusion : 25 janvier 2018 - 24 février 2018</div><div>Chaîne de retransmission : Sohu TV</div><div>Langue : Mandarin</div><div>Acteurs principaux : Ian Wang, Yang Haoyu, Li Xinran, Justin Chung</div><div>Durée : Environ 30 minutes par épisode</div><div>Synopsis :</div><div>Li Jinshui était à la base un jeune homme qui n’avait aucun idéal, peureux et qui vivait au jour le jour. Pour rassembler la somme qu’il faut pour soigner sa mère, fortement malade, il va aller travailler à l’étranger. Mais il changera d’idendité avec le benjamin de la plus grande famille du pays, la famille Jin, s’appelant Jin Jiji. Profitant que son père soit grièvement malade, l’ainé de la famille Jin, Jin Jizai, pour acquérir l’héritage de la famille, crée des obstacles à son petit-frère. Li Jinshui se retrouve alors en danger, mais le vieux Park, policier, l’aidera à s’en sortir. Face à la famille Jin, il y a aussi la famille Ju. Chacun des d’eux espérant pouvoir saisir la richesse de l’autre. C’est de cette façon que Li Jinshui et la fille de Ju Dongxun, Ju Shanxi ont fait connaissance et tombent amoureux l’un de l’autre. Li Jin Shui apprendra une morale : c’est avec des responsabilités, qu’un homme devient courageux.</div><div>Merci de ne pas redistribuer les liens !</div><div>Pour voir les épisodes, rendez-vous sur le blog (inscription requise et veuillez être patient) :</div><div><a href="http://swchelfsub.wordpress.com/2018/04/28/the-big-bug/">Lien</a></div><div>Bon visionnage</div></div>

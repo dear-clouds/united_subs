@@ -1,0 +1,37 @@
+---
+ID: 6980
+post_title: Sortie du 19 Mai + Edit !!
+author: AsianDrama
+post_excerpt: "&nbsp; Salut &agrave; tous, j'esp&egrave;re que vous allez bien ?&nbsp; Alors aujourd'hui je vous sors les 10 &eacute;pisodes de la s&eacute;rie Mr Yan Dong ! Don't come Over Pour ceux qui ne l'ont pas vu en eng sub je pense que vous allez &ecirc;tre autant surprise que moi par la fin. En tout cas j'esp&egrave;re qu'il y aura une suite. &nbsp;..."
+layout: post
+permalink: >
+  http://asiandrama.eklablog.com/sortie-du-19-mai-edit-a144751862
+published: true
+post_date: 2018-05-19 18:00:00
+---
+<p style="text-align: center;"><a href="http://ekladata.com/VhIONmPRZlnk2cg7Gm3fFb4aR9c.png"><img src="https://united-subs.dearclouds.com/wp-content/uploads/2018/04/51b84dddd30268cea005e40b323f8517.jpg" alt="Sortie du 19 Mai"/></a></p>
+<p style="text-align: center;">&nbsp;<span style="font-size: 12pt;">Salut &agrave; tous, j'esp&egrave;re que vous allez bien ?&nbsp;</span></p>
+<p style="text-align: center;"><span style="font-size: 12pt;">Alors aujourd'hui je vous sors les 10 &eacute;pisodes de la s&eacute;rie Mr Yan Dong ! Don't come Over</span></p>
+<p style="text-align: center;"><span style="font-size: 12pt;">Pour ceux qui ne l'ont pas vu en eng sub je pense que vous allez &ecirc;tre autant surprise que moi par la fin.</span></p>
+<p style="text-align: center;"><span style="font-size: 12pt;">En tout cas j'esp&egrave;re qu'il y aura une suite.</span></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><span style="font-size: 12pt;">Attention aussi, le style ne plaira pas &agrave; tous le monde. La vid&eacute;o est mont&eacute; en m&eacute;langeant vid&eacute;o et photo mais,</span></p>
+<p style="text-align: center;"><span style="font-size: 12pt;">je vous laisse d&eacute;couvrir &ccedil;a ;)&nbsp;</span></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><span style="font-size: 12pt; color: #ff0000; background-color: #ffff00;">Edit : Adam Uni &eacute;tant de retour je peux enfin continuer sereinement &agrave; traduire Ossan's Love &lt;3</span></p>
+<p style="text-align: center;"><a href="http://asiandrama.eklablog.com/mr-yan-dong-don-t-come-over-a144532780"><img src="http://ekladata.com/1WDLGuDX6R_Yy7oeWYBJkMjBBoc@500x489.jpg" alt="Sortie du 19 Mai"/></a></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><img src="http://ekladata.com/0azE2m7POWI0azp7s-3SiM0RKv4@308x39.png" alt="Avancement"/></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><img src="http://ekladata.com/LH6H3A2ytb43xEWz8XO8Q1WUZWo.jpg" alt="Sortie du 19 Mai"/></p>
+<p class="MsoNormal"><span style="font-size: 12pt;">Hello tout le monde, </span></p>
+<p class="MsoNormal"><span style="font-size: 12pt;">bien le bonjour du soleil, &nbsp;enfin il est l&agrave;</span></p>
+<p class="MsoNormal"><span style="font-size: 12pt;">Alors moi, je ne vous sors rien aujourd'hui puisque je suis pass&eacute;e de l'autre c&ocirc;t&eacute; du miroir mais comme je l'ai annonc&eacute; je vais proc&eacute;der &agrave; des petites intrusions dans les news letters. J'attends avec impatience de recollaborer avec ma Cams.</span></p>
+<p>&nbsp;</p>
+<p class="MsoNormal"><span style="font-size: 12pt;">Je vous conseille de regarder la <strong><span style="color: #95b3d7; mso-themecolor: accent1; mso-themetint: 153;">saison 1 de Hack et Choke - To be continued</span></strong>, c'est une super bonne s&eacute;rie et la team qui l'a traduite est en pause donc j'ai r&eacute;activ&eacute; les liens ils seront encore disponible environ 30 jours, donc je vous laisse chercher un petit peu. Je ne r&eacute;uploderais pas leur liens par respect tant que le blog est ouvert.</span></p>
+<p class="MsoNormal"><span style="font-size: 12pt;">Bises &agrave; tous et &agrave; toutes.</span></p>
+<p class="MsoNormal"><span style="font-size: 12pt;">Blu</span></p>
+<p class="MsoNormal">&nbsp;</p>
+<address class="MsoNormal" style="text-align: center;"><span style="font-size: 12pt;"><span style="color: #ff6600;">PS : Google ne r&eacute;f&eacute;rencie plus la s&eacute;rie sous ce nom donc voici l'indice complet : </span></span></address><address class="MsoNormal" style="text-align: center;"><span style="font-size: 12pt;"><span style="color: #ff6600;">Club Friday 2 - To be continued - Hack et Choke (nom orthographi&eacute; diff&eacute;remment sur divers&nbsp;forum, d&eacute;sol&eacute;e)</span></span></address><address class="MsoNormal" style="text-align: center;"><span style="font-size: 12pt;"><span style="color: #ff6600;">R&eacute;f&eacute;rence original :&nbsp;<span style="font-family: Muli, sans-serif; line-height: 14.04px; text-align: justify;">Club Friday the Series 2: Ruk Mai Dai Rue Mai Dai Ruk</span></span></span></address><address style="text-align: center;"><span style="font-size: 12pt;"><span style="color: #ff6600;">Titre anglais&nbsp;:<span style="font-family: Muli, sans-serif; line-height: 14.04px; text-align: justify;">&nbsp;Club Friday the Series 2 : &nbsp;</span><a style="color: #ff6600; cursor: pointer;" href="https://pifansubs.blogspot.com/2018/04/club-friday-2-cant-love-or-wont-love-to-be-continued.html">Can't Love or Won't Love - To Be Continued</a></span></span></address><address class="MsoNormal" style="text-align: center;"><span style="font-size: 12pt;"><span style="color: #ff6600;">l'&eacute;pisode 01 est toujours actif - le 2 est inactif sur la fansub pourtant le 1er mai il &eacute;tait toujours actif. Quelle tristesse !</span></span></address><address class="MsoNormal" style="text-align: center;"><span style="font-size: 12pt;"><span style="color: #ff6600;">Je vais voir avec les 2 fansubs pour le lien.</span></span></address><br /><br /><div id="share_buttons" class="article_sharebtns"><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fasiandrama.eklablog.com%2Fsortie-du-19-mai-edit-a144751862&amp;layout=box_count&amp;show_faces=false&amp;width=65&amp;action=like&amp;font&amp;colorscheme=light&amp;height=65" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:65px; height:65px;" allowTransparency="true"><br /></iframe><iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/tweet_button.html?url=http%3A%2F%2Fasiandrama.eklablog.com%2Fsortie-du-19-mai-edit-a144751862&amp;text=Sortie%20du%2019%20Mai%20%2B%20Edit%20%21%21&amp;count=horizontal" style="width: 110px; height: 20px;"></iframe><span><g:plusone size="medium" count="true" href="http://asiandrama.eklablog.com/sortie-du-19-mai-edit-a144751862"></g:plusone></span><a href="javascript:(function()%7Bm='http://mail.google.com/mail/?view=cm&fs=1&tf=1&to=&su=Sortie%20du%2019%20Mai%20%2B%20Edit%20%21%21&body=http%3A%2F%2Fasiandrama.eklablog.com%2Fsortie-du-19-mai-edit-a144751862';w=window.open(m,'addwindow','status=no,toolbar=no,width=575,height=545,resizable=yes');setTimeout(function()%7Bw.focus();%7D,%20250);%7D)();" rel="nofollow"><img src="" alt="Partager via Gmail" title="Partager via Gmail" /></a><a rel="nofollow" href="http://bookmarks.yahoo.com/toolbar/savebm?u=http%3A%2F%2Fasiandrama.eklablog.com%2Fsortie-du-19-mai-edit-a144751862&t=Sortie%20du%2019%20Mai%20%2B%20Edit%20%21%21"  rel="nofollow">
+<img alt="Yahoo!" src="" title="Yahoo!" />
+</a></div><br /><hr />Article original rédigé par #Aika et publié sur <a href="http://asiandrama.eklablog.com/">AsianDrama</a> <br /> Reproduction interdite sans autorisation

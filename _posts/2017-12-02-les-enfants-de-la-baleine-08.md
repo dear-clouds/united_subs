@@ -1,0 +1,13 @@
+---
+ID: 3506
+post_title: Les Enfants de la Baleine 08
+author: Mangakas fansub
+post_excerpt: |
+  <div><a href="http://4.bp.blogspot.com/-06AXy2ahOVA/WiMR23-r3LI/AAAAAAAABDk/zZdrFnLbL6g0pA4-ntzcCyCEwbNMT91cgCK4BGAYYCw/s1600/vlcsnap-error780.png"><img border="0" height="225" src="https://4.bp.blogspot.com/-06AXy2ahOVA/WiMR23-r3LI/AAAAAAAABDk/zZdrFnLbL6g0pA4-ntzcCyCEwbNMT91cgCK4BGAYYCw/s400/vlcsnap-error780.png" width="400"></a></div><div><br></div><div>Mfw j'ai plus de co et que je dois utiliser ma 4g.</div><div><br></div><div>T&eacute;l&eacute;chargement :&nbsp;</div><div></div><ul><li>8Bits : <a href="https://ddl.family-desuyo.moe/Anime/Kujira_no_kora/%5BMangakas-Family%5D%20Kujira%20no%20Kora%20wa%20Sajou%20ni%20Utau%20-%2008%20%5B1080p%20AAC%208bits%20vostfr%5D.mp4" target="_blank">D&eacute;di&eacute;</a></li><li>10bits : <a href="https://ddl.family-desuyo.moe/Anime/Kujira_no_kora/%5BMangakas-Family%5D%20Kujira%20no%20Kora%20wa%20Sajou%20ni%20Utau%20-%2008%20%5B1080p%20AAC%2010bits%20vostfr%5D.mkv" target="_blank">D&eacute;di&eacute;</a> / <a href="https://nyaa.si/view/983932" target="_blank">Nyaa</a>&nbsp;</li></ul>
+layout: post
+permalink: >
+  http://mangakas-fansub.blogspot.com/2017/12/les-enfants-de-la-baleine-08.html
+published: true
+post_date: 2017-12-02 23:24:00
+---
+<div class="separator" style="clear: both; text-align: center;"><a href="http://4.bp.blogspot.com/-06AXy2ahOVA/WiMR23-r3LI/AAAAAAAABDk/zZdrFnLbL6g0pA4-ntzcCyCEwbNMT91cgCK4BGAYYCw/s1600/vlcsnap-error780.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="225" src="https://united-subs.dearclouds.com/wp-content/uploads/2018/04/18bd10be694f35f5befc9e86a905c322.jpg" width="400" /></a></div><div class="separator" style="clear: both; text-align: center;"><br /></div><div class="separator" style="clear: both; text-align: center;">Mfw j'ai plus de co et que je dois utiliser ma 4g.</div><div class="separator" style="clear: both; text-align: center;"><br /></div><div class="separator" style="clear: both; text-align: left;">Téléchargement :&nbsp;</div><div class="separator" style="clear: both; text-align: left;"></div><ul><li>8Bits : <a href="https://ddl.family-desuyo.moe/Anime/Kujira_no_kora/%5BMangakas-Family%5D%20Kujira%20no%20Kora%20wa%20Sajou%20ni%20Utau%20-%2008%20%5B1080p%20AAC%208bits%20vostfr%5D.mp4" >Dédié</a></li><li>10bits : <a href="https://ddl.family-desuyo.moe/Anime/Kujira_no_kora/%5BMangakas-Family%5D%20Kujira%20no%20Kora%20wa%20Sajou%20ni%20Utau%20-%2008%20%5B1080p%20AAC%2010bits%20vostfr%5D.mkv" >Dédié</a> / <a href="https://nyaa.si/view/983932" >Nyaa</a>&nbsp;</li></ul>

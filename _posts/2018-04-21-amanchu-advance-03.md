@@ -1,0 +1,13 @@
+---
+ID: 7540
+post_title: 'Amanchu! Advance &#8211; 03'
+author: Shining Prism
+post_excerpt: |
+  <div><a href="https://2.bp.blogspot.com/-FrfR8nrkKPE/WtuvkZ8knaI/AAAAAAAABtw/O6WMA9V1TNA0lirC5Y4LUOIZ-s9TO67kwCLcBGAs/s1600/Amanchu%2521%2BAdvance%2B-%2B03.png" imageanchor="1"><img border="0" data-original-height="720" data-original-width="1280" src="https://2.bp.blogspot.com/-FrfR8nrkKPE/WtuvkZ8knaI/AAAAAAAABtw/O6WMA9V1TNA0lirC5Y4LUOIZ-s9TO67kwCLcBGAs/s1600/Amanchu%2521%2BAdvance%2B-%2B03.png"></a></div><br>&Eacute;pisode traduit en mode guerrier spatial des invalides tellement j'&eacute;tais en PLS aujourd'hui.<br>Mais le voil&agrave; !<br><br>Pour Beatless... Il n'y en a pas cette semaine on dirait, enfin si, un intermission, mais il n'est m&ecirc;me pas sorti en Vosta (et ce n'est pas un drame). Je ne sais pas trop si cette s&eacute;rie fera 20+4 ou 24+4, enfin bref, on s'en fiche, l&agrave; on est sur Amanchu !<br><br>L'&eacute;pisode du jour est plut&ocirc;t sympa et nous apprend une le&ccedil;on importante de la vie, que bien souvent, les gens ont tendance &agrave; oublier<br><br><a href="http://jheberg.net/captcha/shining-prism-amanchu-advance-03/">Amanchu! Advance - 03</a>
+layout: post
+permalink: >
+  http://www.shining-prism.pl/2018/04/amanchu-advance-03.html
+published: true
+post_date: 2018-04-21 23:40:00
+---
+<div class="separator" style="clear: both; text-align: center;"><a href="https://2.bp.blogspot.com/-FrfR8nrkKPE/WtuvkZ8knaI/AAAAAAAABtw/O6WMA9V1TNA0lirC5Y4LUOIZ-s9TO67kwCLcBGAs/s1600/Amanchu%2521%2BAdvance%2B-%2B03.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="720" data-original-width="1280" src="https://united-subs.dearclouds.com/wp-content/uploads/2018/05/cf64cbf1adfc8745018477ce28a76650.jpg" /></a></div><br />Épisode traduit en mode guerrier spatial des invalides tellement j'étais en PLS aujourd'hui.<br />Mais le voilà !<br /><br />Pour Beatless... Il n'y en a pas cette semaine on dirait, enfin si, un intermission, mais il n'est même pas sorti en Vosta (et ce n'est pas un drame). Je ne sais pas trop si cette série fera 20+4 ou 24+4, enfin bref, on s'en fiche, là on est sur Amanchu !<br /><br />L'épisode du jour est plutôt sympa et nous apprend une leçon importante de la vie, que bien souvent, les gens ont tendance à oublier<br /><br /><a href="http://jheberg.net/captcha/shining-prism-amanchu-advance-03/">Amanchu! Advance - 03</a>

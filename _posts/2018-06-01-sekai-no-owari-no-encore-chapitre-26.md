@@ -1,0 +1,17 @@
+---
+ID: 10246
+post_title: Sekai no Owari no Encore – Chapitre 26
+author: Imaginary Scantrad
+post_excerpt: 'Bonsoir &agrave; tous, voil&agrave; enfin le tant attendu chapitre final du tome 4 ! On continue sur les cl&ocirc;tures de tomes aujourd&rsquo;hui avec un chapitre qui aura su se faire attendre ! Mais chose promise chose due, le voil&agrave; enfin... <a href="https://imaginaryscantrad.wordpress.com/2018/06/01/sekai-no-owari-no-encore-chapitre-26/#more-2184">Lire la suite &rarr;</a>'
+layout: post
+permalink: >
+  https://imaginaryscantrad.wordpress.com/2018/06/01/sekai-no-owari-no-encore-chapitre-26/
+published: true
+post_date: 2018-06-01 22:47:22
+---
+<p style="text-align:justify;"><img data-attachment-id="423" data-permalink="https://imaginaryscantrad.wordpress.com/2016/02/24/sekai-no-owari-no-encore-chapitre-01/ban-sekai-no-owari-article/" data-orig-file="https://imaginaryscantrad.files.wordpress.com/2016/02/ban-sekai-no-owari-article.png" data-orig-size="999,500" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Ban Sekai no Owari Article" data-image-description="" data-medium-file="https://imaginaryscantrad.files.wordpress.com/2016/02/ban-sekai-no-owari-article.png?w=300" data-large-file="https://imaginaryscantrad.files.wordpress.com/2016/02/ban-sekai-no-owari-article.png?w=736" class="size-full wp-image-423 aligncenter" src="https://imaginaryscantrad.files.wordpress.com/2016/02/ban-sekai-no-owari-article.png?w=670" alt="Ban Sekai no Owari Article" srcset="https://imaginaryscantrad.files.wordpress.com/2016/02/ban-sekai-no-owari-article.png?w=670 670w, https://imaginaryscantrad.files.wordpress.com/2016/02/ban-sekai-no-owari-article.png?w=150 150w, https://imaginaryscantrad.files.wordpress.com/2016/02/ban-sekai-no-owari-article.png?w=300 300w, https://imaginaryscantrad.files.wordpress.com/2016/02/ban-sekai-no-owari-article.png?w=768 768w, https://imaginaryscantrad.files.wordpress.com/2016/02/ban-sekai-no-owari-article.png 999w" sizes="(max-width: 670px) 100vw, 670px" /></p>
+<p style="text-align:justify;">Bonsoir à tous, voilà enfin le tant attendu chapitre final du tome 4 ! <span id="more-2184"></span><span id="more-2029"></span></p>
+<p style="text-align:justify;">On continue sur les clôtures de tomes aujourd&rsquo;hui avec un chapitre qui aura su se faire attendre ! Mais chose promise chose due, le voilà enfin !</p>
+<p style="text-align:justify;">Pas grand chose à annoncer si ce n&rsquo;est qu&rsquo;une série courte fera bientôt son apparition sur le site, les fans de Boku Girl apprécieront sûrement !</p>
+<p style="text-align:justify;">Sur ce, bonne lecture !</p>
+<p style="text-align:justify;"><strong>Sekai no Owari no Encore – Chapitre 26 : </strong><a href="https://mega.nz/#!IwIgQBRb!w33c64t9Yq9fCFGotRd9hJj9vKL9XIjZvYCE3CHPt2U"  rel="noopener">Download</a> (.rar) <strong>//</strong> <a href="https://mangadex.org/chapter/339033"  rel="noopener">Lecture en ligne</a></p>

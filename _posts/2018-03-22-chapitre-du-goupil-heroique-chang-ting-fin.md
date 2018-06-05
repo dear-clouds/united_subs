@@ -1,0 +1,29 @@
+---
+ID: 5867
+post_title: 'Chapitre du goupil héroïque: Chang Ting (Fin)'
+author: Mimi Fansub
+post_excerpt: "&nbsp; Bonjour &agrave; tous et toutes, Cette semaine, nous vous offrons la suite de l'histoire de Chang Ting. Nous l'avions quitt&eacute;e avec un loup pr&ecirc;t &agrave; tout pour obtenir sa vengeance ! R&eacute;ussira-t-il ? Ou la coalition chasseur / renard fonctionnera-t-elle ? Suite &agrave; cet &eacute;v&eacute;nement, Chang Ting se..."
+layout: post
+permalink: >
+  http://teammimifansub.eklablog.com/chapitre-du-goupil-heroique-chang-ting-fin-a136666878
+published: true
+post_date: 2018-03-22 07:46:36
+---
+<p style="text-align: center;"><img src="https://united-subs.dearclouds.com/wp-content/uploads/2018/05/23f00d7ecfb92ea2bf59561e77895bfd.jpg" alt="Chapitre du goupil h&eacute;ro&iuml;que: Chang Ting" width="668" height="304"/></p>
+<p>&nbsp;</p>
+<p style="text-align: justify;">Bonjour &agrave; tous et toutes,</p>
+<p style="text-align: justify;">Cette semaine, nous vous offrons la suite de l'histoire de Chang Ting. Nous l'avions quitt&eacute;e avec un loup pr&ecirc;t &agrave; tout pour obtenir sa vengeance ! R&eacute;ussira-t-il ? Ou la coalition chasseur / renard fonctionnera-t-elle ?</p>
+<p style="text-align: justify;">Suite &agrave; cet &eacute;v&eacute;nement, Chang Ting se rapprochera encore plus de son chasseur, qui commence &agrave; montrer quelques signes d'int&eacute;r&ecirc;t ! Elle va finir par l'avoir &agrave; l'usure... Ou pas...</p>
+<p style="text-align: justify;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img src="http://ekladata.com/cn4aefYfonxYQBvBnswtMkw7lpg.gif" alt="Chapitre du goupil h&eacute;ro&iuml;que: Chang Ting (Fin)"/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img src="http://ekladata.com/Kmi6q4EaysY8u63xsg63keW4GP0.gif" alt="Chapitre du goupil h&eacute;ro&iuml;que: Chang Ting (Fin)"/></p>
+<p style="text-align: justify;">En parall&egrave;le des histoires de c&oelig;ur de notre petite renarde, il faut garder &agrave; l'esprit que le fruit magique est toujours port&eacute; disparu... Et que d'autres dangers r&ocirc;dent et se rapprochent...&nbsp;</p>
+<p style="text-align: justify;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img src="http://ekladata.com/jHWyu_2hzCbWp_QeNkkY_jTPJzk.gif" alt="Chapitre du goupil h&eacute;ro&iuml;que: Chang Ting (Fin)"/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img src="http://ekladata.com/DSI5LE26ycMnw_RLWBrqf6owgO8.gif" alt="Chapitre du goupil h&eacute;ro&iuml;que: Chang Ting (Fin)"/>&nbsp;&nbsp;</p>
+<p style="text-align: justify;">Tai Pu et Chang Ting seront-ils assez forts pour les affronter ? Ne risquent-ils pas de se perdre en route &agrave; cause de leur diff&eacute;rence ? Car mine de rien, personne dans la demeure Wong ne voit d'un tr&egrave;s bon &oelig;il le choix de Chang Ting (sauf peut-&ecirc;tre Hong Ting). Mais nos h&eacute;ros auront une mani&egrave;re bien &agrave; eux de r&eacute;gler leurs comptes.&nbsp;</p>
+<p style="text-align: justify;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img src="http://ekladata.com/8uEPZWtX8ft6i5YHPlRaOfJ4sAY.gif" alt="Chapitre du goupil h&eacute;ro&iuml;que: Chang Ting (Fin)"/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img src="http://ekladata.com/kS3fXT3FcM3ENcQHFtT04XPQQsE.gif" alt="Chapitre du goupil h&eacute;ro&iuml;que: Chang Ting (Fin)"/></p>
+<p style="text-align: justify;">Et pendant que les renards s'amusent dans des bulles de couleurs, que peut bien faire un chasseur ? Et bien il s'entra&icirc;ne avec son arbal&egrave;te ! A votre avis, quel sera le gros lot ?&nbsp;</p>
+<p style="text-align: justify;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img src="http://ekladata.com/tMu122m8l3jAR_KlB9ZVmBnQAi8.gif" alt="Chapitre du goupil h&eacute;ro&iuml;que: Chang Ting (Fin)"/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="http://ekladata.com/zH90VyzaYwtbMCwuHiDi2aUpGBE.gif" alt="Chapitre du goupil h&eacute;ro&iuml;que: Chang Ting (Fin)"/></p>
+<p style="text-align: justify;">Toutefois, vous ne devez pas oublier que cette histoire est sombre, donc m&ecirc;me si nous esp&eacute;rons une fin heureuse, il n'est pas exclu que nombre de personne se perdent en cours de route... Entre manipulations, r&eacute;conciliations, trahisons, vous avez tous les ingr&eacute;dients pour 3 &eacute;pisodes merveilleux &eacute;pisodes, m&ecirc;me si, pour moi, ils sont un cran en dessous des trois premiers qui &eacute;taient excellents.&nbsp;</p>
+<p style="text-align: justify;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img src="http://ekladata.com/iSLqk_oqg5-_HfQgARcZsmeLlLU.gif" alt="Chapitre du goupil h&eacute;ro&iuml;que: Chang Ting (Fin)"/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img src="http://ekladata.com/AxGsyorRC1OajN0cdPPvNCVpYYQ.gif" alt="Chapitre du goupil h&eacute;ro&iuml;que: Chang Ting (Fin)"/></p>
+<p style="text-align: justify;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img src="http://ekladata.com/d-TRLryh5MKBImWopyJchZ_q8sE.gif" alt="Chapitre du goupil h&eacute;ro&iuml;que: Chang Ting (Fin)"/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img src="http://ekladata.com/Rw5U7A7wLwee2J3VxdrLIIwhnFk.gif" alt="Chapitre du goupil h&eacute;ro&iuml;que: Chang Ting (Fin)"/></p>
+<p style="text-align: justify;">Avec ces trois &eacute;pisodes, il nous nous reste plus qu'une histoire &agrave; vous faire d&eacute;couvrir... Celle du guide&nbsp;Liu Chang Yan&nbsp;qui patiente en faisant un petit tour de balancelle version esprit renard :</p>
+<p style="text-align: center;"><img src="http://ekladata.com/MmbC2mlHnlwst_qdDSVwcWeGAcQ.gif" alt="Chapitre du goupil h&eacute;ro&iuml;que: Chang Ting (Fin)"/></p>
+<p style="text-align: justify;">&nbsp;</p>

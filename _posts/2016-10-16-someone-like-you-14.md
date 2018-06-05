@@ -1,0 +1,12 @@
+---
+ID: 2400
+post_title: Someone Like You 14
+author: ELECTRIC BLACKNESS
+post_excerpt: |
+  <img alt="" src="http://i97.servimg.com/u/f97/18/18/26/45/on_the10.jpg"><div align="center"><i>On the way to the airport... Si vous ne l'avez pas encore vu, je vous invite &agrave; y jeter un oeil ;)<br></i></div><br><br>Bonjour !!<br><br>Cette fois, nous nous retrouvons pour la suite de <b>Someone Like You</b>. Et oui,&nbsp;l'&eacute;pisode 14 est d&egrave;s &agrave; pr&eacute;sent disponible. Et je ne peux que vous encourager &agrave; aller le voir car je pense sans h&eacute;sitation qu'il s'agit de mon &eacute;pisode pr&eacute;f&eacute;r&eacute;. Lui et celui qui suit, h&eacute; h&eacute; ! En plus, on a rarement le droit &agrave; d'aussi belles sc&egrave;nes de baiser <img src="http://team.eb.free.fr/gestion/data/emoticons/tongue.gif"><br><br>Mais bon, il n'y a pas que &ccedil;a vous verrez. Non seulement, les choses se concr&eacute;tisent entre Yu Xi et Zhan Cheng mais beaucoup d'autres v&eacute;rit&eacute;s sont d&eacute;voil&eacute;es. <br><br>J'esp&egrave;re que vous l'appr&eacute;cierez tout autant que moi.<br>Tr&egrave;s bon dimanche !!<br><br>
+layout: post
+permalink: 'http://team.eb.free.fr/index.php?subaction=showfull&amp;id=1476614361&amp;archive='
+published: true
+post_date: 2016-10-16 12:39:21
+---
+<img alt="" src="https://united-subs.dearclouds.com/wp-content/uploads/2018/04/5adbf842a3ddceda4206640832e48853.jpg" style="border: none;" /><div align="center"><font size="1"><i>On the way to the airport... Si vous ne l'avez pas encore vu, je vous invite &#224; y jeter un oeil ;)<br /></i></font></div><br /><br />Bonjour !!<br /><br />Cette fois, nous nous retrouvons pour la suite de <b>Someone Like You</b>. Et oui,&nbsp;l'&#233;pisode 14 est d&#232;s &#224; pr&#233;sent disponible. Et je ne peux que vous encourager &#224; aller le voir car je pense sans h&#233;sitation qu'il s'agit de mon &#233;pisode pr&#233;f&#233;r&#233;. Lui et celui qui suit, h&#233; h&#233; ! En plus, on a rarement le droit &#224; d'aussi belles sc&#232;nes de baiser <img src="http://team.eb.free.fr/gestion/data/emoticons/tongue.gif"><br /><br />Mais bon, il n'y a pas que &#231;a vous verrez. Non seulement, les choses se concr&#233;tisent entre Yu Xi et Zhan Cheng mais beaucoup d'autres v&#233;rit&#233;s sont d&#233;voil&#233;es. <br /><br />J'esp&#232;re que vous l'appr&#233;cierez tout autant que moi.<br />Tr&#232;s bon dimanche !!<br /><br />

@@ -1,0 +1,12 @@
+---
+ID: 10480
+post_title: 'Handa-kun &#8211; 07 Bluray'
+author: Shining Prism
+post_excerpt: '<div><a href="https://2.bp.blogspot.com/-l_PVP7n-fgk/WuHzrxdOteI/AAAAAAAABvk/v82vOZoVfnk6znACgrUYkxsaUVgqcv73wCLcBGAs/s1600/Handa-kun%2B-%2B07.png"><img border="0" src="https://2.bp.blogspot.com/-l_PVP7n-fgk/WuHzrxdOteI/AAAAAAAABvk/v82vOZoVfnk6znACgrUYkxsaUVgqcv73wCLcBGAs/s1600/Handa-kun%2B-%2B07.png"></a></div><br>Handa Sei,<br>fils de Handa Seimei (tr&egrave;s important car &agrave; chaque fois ils le disent)...<br><br>Le prochain &eacute;pisode concernera le voyage scolaire !<br><br><a href="http://jheberg.net/captcha/prism-kun-handa-kun-07-bluray-hevc-10bits-full-hd/">Handa-kun - 07 Bluray</a> ( <img border="0" height="20" src="https://img4.hostingpics.net/pics/1924291f1f71f1fa.png" width="20"> 1080p)<br><a href="http://jheberg.net/captcha/prism-kun-handa-kun-07-bluray/">Handa-kun - 07 Bluray</a> (  <img border="0" height="20" src="https://img4.hostingpics.net/pics/7608031f1eb1f1f7.png" width="20"> 720p)'
+layout: post
+permalink: >
+  http://www.shining-prism.pl/2018/04/handa-kun-07-bluray.html
+published: true
+post_date: 2018-04-26 17:44:00
+---
+<div class="separator" style="clear: both; text-align: center;"><a href="https://2.bp.blogspot.com/-l_PVP7n-fgk/WuHzrxdOteI/AAAAAAAABvk/v82vOZoVfnk6znACgrUYkxsaUVgqcv73wCLcBGAs/s1600/Handa-kun%2B-%2B07.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="900" data-original-width="1600" src="https://2.bp.blogspot.com/-l_PVP7n-fgk/WuHzrxdOteI/AAAAAAAABvk/v82vOZoVfnk6znACgrUYkxsaUVgqcv73wCLcBGAs/s1600/Handa-kun%2B-%2B07.png" /></a></div><br />Handa Sei,<br />fils de Handa Seimei (très important car à chaque fois ils le disent)...<br /><br />Le prochain épisode concernera le voyage scolaire !<br /><br /><a href="http://jheberg.net/captcha/prism-kun-handa-kun-07-bluray-hevc-10bits-full-hd/">Handa-kun - 07 Bluray</a> ( <img border="0" height="20" src="https://img4.hostingpics.net/pics/1924291f1f71f1fa.png" width="20" /> 1080p)<br /><a href="http://jheberg.net/captcha/prism-kun-handa-kun-07-bluray/">Handa-kun - 07 Bluray</a> (  <img border="0" height="20" src="https://img4.hostingpics.net/pics/7608031f1eb1f1f7.png" width="20" /> 720p)

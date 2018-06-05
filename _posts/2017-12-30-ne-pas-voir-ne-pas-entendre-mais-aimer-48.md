@@ -1,0 +1,23 @@
+---
+ID: 8639
+post_title: >
+  Ne pas voir, ne pas entendre, mais aimer
+  48
+author: Koujou no Scantrad
+post_excerpt: 'Alors que No&euml;l est pass&eacute; et que 2018 se profil &agrave; l&rsquo;horizon (eh oui, d&eacute;j&agrave;) Ne pas voir, ne pas entendre, mais aimer est de retour avec son 48&egrave;me chapitre produit collaboration avec la Dual-Team ! Malheureusement il se trouve que ce chapitre est le dernier avant que le projet parte en pause pour une&hellip; <a href="https://koujounoscantrad.wordpress.com/2017/12/30/ne-pas-voir-ne-pas-entendre-mais-aimer-48/">Lire la suite <span>Ne pas voir, ne pas entendre, mais aimer&nbsp;48</span></a>'
+layout: post
+permalink: >
+  https://koujounoscantrad.wordpress.com/2017/12/30/ne-pas-voir-ne-pas-entendre-mais-aimer-48/
+published: true
+post_date: 2017-12-30 17:22:56
+---
+<p>Alors que Noël est passé et que 2018 se profil à l&rsquo;horizon (eh oui, déjà) <span style="color:#000000;"><strong>Ne pas voir, ne pas entendre, mais aimer </strong></span>est de retour avec son <strong>48</strong>ème chapitre produit collaboration avec la <strong><a href="http://dual-team.eklablog.com/"  rel="noopener">Dual-Team</a></strong> ! Malheureusement il se trouve que ce chapitre est le dernier avant que le projet parte en pause pour une durée indéterminée.</p>
+<p>En effet, la Dual-Team arrête le projet et bien que nous sommes prêts à le continuer avec la Koujou no Scantrad nous n&rsquo;aurons plus ni cleaner, ni traducteur, ni éditeur donc impossible de continuer à sortir des chapitres&#8230; Mais tout n&rsquo;est pas perdu ! Si nous recrutons à l&rsquo;avenir de nouveaux membres pour relancer le projet nous sortirons la suite avec joie ! Aussi si vous aimez ce manga n&rsquo;hésitez pas à postuler ou à partager le message à toute personne susceptible d&rsquo;être intéressée !</p>
+<p>Ce fut une joie d&rsquo;avoir pu faire une coproduction sur ce titre et ainsi contribuer à la publication de ses chapitres, et espérons vraiment pouvoir à l&rsquo;avenir le reprendre.</p>
+<p><em>PS : pour ceux qui se poseraient la question, le dernier chapitre de Scientia est toujours prévu en coproduction avec la Dual-Team</em></p>
+<p><img data-attachment-id="178" data-permalink="https://koujounoscantrad.wordpress.com/ne-pas-vignette/" data-orig-file="https://koujounoscantrad.files.wordpress.com/2017/08/ne-pas-vignette.jpg?w=495&#038;h=344" data-orig-size="700,487" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Ne pas vignette" data-image-description="" data-medium-file="https://koujounoscantrad.files.wordpress.com/2017/08/ne-pas-vignette.jpg?w=495&#038;h=344?w=300" data-large-file="https://koujounoscantrad.files.wordpress.com/2017/08/ne-pas-vignette.jpg?w=495&#038;h=344?w=700" class="  wp-image-178 aligncenter" src="https://koujounoscantrad.files.wordpress.com/2017/08/ne-pas-vignette.jpg?w=495&#038;h=344" alt="Ne pas vignette" width="495" height="344" srcset="https://koujounoscantrad.files.wordpress.com/2017/08/ne-pas-vignette.jpg?w=495&amp;h=344 495w, https://koujounoscantrad.files.wordpress.com/2017/08/ne-pas-vignette.jpg?w=150&amp;h=104 150w, https://koujounoscantrad.files.wordpress.com/2017/08/ne-pas-vignette.jpg?w=300&amp;h=209 300w, https://koujounoscantrad.files.wordpress.com/2017/08/ne-pas-vignette.jpg 700w" sizes="(max-width: 495px) 100vw, 495px" /></p>
+<p style="text-align:center;"><strong>La Koujou no Scantrad et la Dual-Team vous souhaitent très bonne lecture et vous remercie pour votre fidélité !<br />
+</strong></p>
+<h2 style="text-align:center;"><span style="color:#000000;"><strong>Ne pas voir, ne pas entendre, mais aimer &#8211; 48 (vf) :</strong></span></h2>
+<h2 style="text-align:center;"><a href="https://bato.to/reader#930822d5f5c4a207"  rel="noopener">Lecture en ligne</a> &#8211; <a href="http://www.mediafire.com/file/ch8dd7r90g1uxxg/%5BDT%5D%5BKnS%5D_CSCHBL_Chap48.zip"  rel="noopener">Téléchargement</a></h2>
+<p style="text-align:center;"><a href="https://koujounoscantrad.wordpress.com/ne-pas-voir-ne-pas-entendre-mais-aimer/">Cliquez ici pour accéder aux chapitres précédents</a></p>

@@ -1,0 +1,15 @@
+---
+ID: 2979
+post_title: Bakuryu Sentai Abaranger 10 VOSTFR
+author: Shinken Subs
+post_excerpt: 'On termine cette semaine avec une nouvelle dose d&rsquo;Abaranger. Tout comme l&rsquo;&eacute;pisode 11 de Lupat, on a le droit &agrave; quelque chose de tr&egrave;s&hellip; sp&eacute;cial, on va dire XD Certains d&rsquo;entre vous connaissent peut-&ecirc;tre d&eacute;j&agrave; cette &eacute;pisode via Power Rangers Dino Tonnerre. H&eacute; bien, m&ecirc;me en Japonais, c&rsquo;est du grand n&rsquo;importe quoi XD J&rsquo;en ai &hellip; <a href="https://shinkensubs.wordpress.com/2018/04/29/bakuryu-sentai-abaranger-10-vostfr/">Continuer &agrave; lire ... <span> "Bakuryu Sentai Abaranger 10&nbsp;VOSTFR"</span></a>'
+layout: post
+permalink: >
+  https://shinkensubs.wordpress.com/2018/04/29/bakuryu-sentai-abaranger-10-vostfr/
+published: true
+post_date: 2018-04-29 11:11:56
+---
+<p><img data-attachment-id="2378" data-permalink="https://shinkensubs.wordpress.com/2018/04/29/bakuryu-sentai-abaranger-10-vostfr/sans-titre-1-208/" data-orig-file="https://shinkensubs.files.wordpress.com/2018/04/sans-titre-113.jpg?w=840" data-orig-size="809,603" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Sans titre 1" data-image-description="" data-medium-file="https://shinkensubs.files.wordpress.com/2018/04/sans-titre-113.jpg?w=840?w=300" data-large-file="https://shinkensubs.files.wordpress.com/2018/04/sans-titre-113.jpg?w=840?w=809" class="alignnone size-full wp-image-2378" src="https://united-subs.dearclouds.com/wp-content/uploads/2018/04/818e244e4537c6ca22c1368c9d739019.jpg" alt="Sans titre 1" srcset="https://shinkensubs.files.wordpress.com/2018/04/sans-titre-113.jpg 809w, https://shinkensubs.files.wordpress.com/2018/04/sans-titre-113.jpg?w=150 150w, https://shinkensubs.files.wordpress.com/2018/04/sans-titre-113.jpg?w=300 300w, https://shinkensubs.files.wordpress.com/2018/04/sans-titre-113.jpg?w=768 768w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px"   /></p>
+<p><span id="more-2376"></span></p>
+<p>On termine cette semaine avec une nouvelle dose d&rsquo;Abaranger. Tout comme l&rsquo;épisode 11 de Lupat, on a le droit à quelque chose de très&#8230; spécial, on va dire XD Certains d&rsquo;entre vous connaissent peut-être déjà cette épisode via Power Rangers Dino Tonnerre. Hé bien, même en Japonais, c&rsquo;est du grand n&rsquo;importe quoi XD</p>
+<p>J&rsquo;en ai profité pour réuploader les 9 premiers épisodes sur 1 seul compte Mega et 1 seul compte 4shared. De petites modifications ont été apportées, donc si vous n&rsquo;avez pas encore commencé, je vous conseille de récupérer ces nouvelles versions ^^</p>

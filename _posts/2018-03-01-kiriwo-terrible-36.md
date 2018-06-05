@@ -1,0 +1,21 @@
+---
+ID: 8624
+post_title: Kiriwo Terrible – 36
+author: Koujou no Scantrad
+post_excerpt: 'Voici le 36&egrave;me et surtout avant-dernier chapitre de Kiriwo Terrible ! Si vous n&rsquo;avez pas commenc&eacute; &agrave; lire cette s&eacute;rie c&rsquo;est le moment de s&rsquo;y mettre car le tout dernier chapitre est d&eacute;j&agrave; pr&ecirc;t et donc la fin sortira plus que prochainement et cette fois c&rsquo;est certain qu&rsquo;il n&rsquo;y aura pas de retard dans la&hellip; <a href="https://koujounoscantrad.wordpress.com/2018/03/01/kiriwo-terrible-36/">Lire la suite <span>Kiriwo Terrible &ndash;&nbsp;36</span></a>'
+layout: post
+permalink: >
+  https://koujounoscantrad.wordpress.com/2018/03/01/kiriwo-terrible-36/
+published: true
+post_date: 2018-03-01 21:35:57
+---
+<p style="text-align:left;">Voici le 36ème et surtout avant-dernier chapitre de <span style="color:#ff0000;"><strong>Kiriwo Terrible</strong></span> ! Si vous n&rsquo;avez pas commencé à lire cette série c&rsquo;est le moment de s&rsquo;y mettre car le tout dernier chapitre est déjà prêt et donc la fin sortira plus que prochainement et cette fois c&rsquo;est certain qu&rsquo;il n&rsquo;y aura pas de retard dans la livraison !<span class="_Tgc _s8w"><br />
+</span></p>
+<p style="text-align:left;"><img data-attachment-id="1083" data-permalink="https://koujounoscantrad.wordpress.com/kiriwo-terrible/kiriwo-terrible-tome-4/" data-orig-file="https://koujounoscantrad.files.wordpress.com/2017/09/kiriwo-terrible-tome-4.jpg?w=252&#038;h=404" data-orig-size="940,1508" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Kiriwo terrible tome 4" data-image-description="" data-medium-file="https://koujounoscantrad.files.wordpress.com/2017/09/kiriwo-terrible-tome-4.jpg?w=252&#038;h=404?w=187" data-large-file="https://koujounoscantrad.files.wordpress.com/2017/09/kiriwo-terrible-tome-4.jpg?w=252&#038;h=404?w=638" class="  wp-image-1083 aligncenter" src="https://koujounoscantrad.files.wordpress.com/2017/09/kiriwo-terrible-tome-4.jpg?w=252&#038;h=404" alt="Kiriwo terrible tome 4" width="252" height="404" srcset="https://koujounoscantrad.files.wordpress.com/2017/09/kiriwo-terrible-tome-4.jpg?w=252&amp;h=404 252w, https://koujounoscantrad.files.wordpress.com/2017/09/kiriwo-terrible-tome-4.jpg?w=504&amp;h=808 504w, https://koujounoscantrad.files.wordpress.com/2017/09/kiriwo-terrible-tome-4.jpg?w=94&amp;h=150 94w, https://koujounoscantrad.files.wordpress.com/2017/09/kiriwo-terrible-tome-4.jpg?w=187&amp;h=300 187w" sizes="(max-width: 252px) 100vw, 252px" /></p>
+<p>Alors que Kiriwo et Keisuke se font face tous les deux sous leur forme de Giga-monstre, de leur côté Kurumi et Nina doivent faire face à Maya, Raigo et Tomiko. Mais c&rsquo;est alors que Gatoshames, le Giga-monstre contrôlé par Tomiko, devient incontrôlable ! Comment cela va-t-il se finir ?</p>
+<p style="text-align:center;"><strong>Très bonne lecture et à la prochaine pour de nouveaux chapitres !</strong></p>
+<h2 style="text-align:center;"><span style="color:#000000;"><strong>Kiriwo Terrible &#8211; 36 (vf) : </strong></span></h2>
+<h2 style="text-align:center;"><span style="color:#ff0000;"><strong>Déchaîné<br />
+</strong></span></h2>
+<h2 style="text-align:center;"><a href="https://mangadex.com/chapter/126645/1"  rel="noopener">Lecture en ligne</a> &#8211; <a href="http://www.mediafire.com/file/9uujhwah9qfl736/%5BKoujou_no_Scantrad%5DKiriwo_Terrible_v04_c36.zip"  rel="noopener">Téléchargement</a></h2>
+<p style="text-align:center;"><a href="https://koujounoscantrad.wordpress.com/kiriwo-terrible/"  rel="noopener">Cliquez ici pour accéder aux chapitres précédents</a></p>

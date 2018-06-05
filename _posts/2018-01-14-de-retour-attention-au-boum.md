@@ -1,0 +1,39 @@
+---
+ID: 6525
+post_title: 'De retour attention au boum&#8230;.'
+author: Yaoi-Zone
+post_excerpt: |
+  Hi everybody !!! Avec le titre, j'ai fait une r&eacute;f&eacute;rence musicale, sauriez vous la trouver ?&nbsp; Seuls les "vieux" trouveront... Juste un petit apart&eacute; (j'adore &ccedil;a ^^) &nbsp; &nbsp; Aujourd'hui c'est l&rsquo;anniversaire d'un de mes Pretty Boy, chouchou &agrave; la cr&egrave;me p&acirc;tissi&egrave;re : Il sait &ecirc;tre sexy et cute en...
+layout: post
+permalink: >
+  http://yaoi-zone.eklablog.com/de-retour-attention-au-boum-a135613738
+published: true
+post_date: 2018-01-14 13:05:26
+---
+<p style="text-align: center;"><a href="http://ekladata.com/cFWUmXP7sJFXAoZo5kOZc1-ehk8.png"><img src="https://united-subs.dearclouds.com/wp-content/uploads/2018/05/50b7006a80e22d72270f08090f235bb5.jpg" alt="De retour attention au boum...."/></a></p>
+<p style="text-align: center;"><span style="font-size: 18pt; color: #000080;">Hi everybody !!! </span></p>
+<p style="text-align: center;">Avec le titre, j'ai fait une r&eacute;f&eacute;rence musicale, sauriez vous la trouver ?&nbsp; Seuls les "vieux" trouveront...</p>
+<p style="text-align: center;">Juste un petit apart&eacute; (j'adore &ccedil;a ^^)<span style="font-size: 12pt;">&nbsp;</span></p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><a href="http://ekladata.com/Nat7Ls_cneGGXZvX0VUTjQmyNRk.jpg"><img style="float: left;" src="http://ekladata.com/Nat7Ls_cneGGXZvX0VUTjQmyNRk@241x241.jpg" alt="De retour attention au boum...." width="241" height="241"/></a>Aujourd'hui c'est l&rsquo;anniversaire d'un de mes Pretty Boy, chouchou &agrave; la cr&egrave;me p&acirc;tissi&egrave;re :</p>
+<p style="text-align: center;">Il sait &ecirc;tre sexy et cute en m&ecirc;me temps (m&ecirc;me les enfants le reconnaissent)</p>
+<p style="text-align: center;">Un des meilleurs danseurs (avec l'autre)</p>
+<p style="text-align: center;">Surnomm&eacute; Magic Hand (avec l'autre)</p>
+<p style="text-align: center;">Je ne l'aime qu'&agrave; deux (r&eacute;f&eacute;rence musicale) :</p>
+<p>Un joyeux anniversaire &agrave; Kim Jong In (KAI), la moit&eacute; de mon Taekai, je lui souhaite une meilleure ann&eacute;e (<span style="font-size: 8pt;">f&ecirc;te le bien avec ta moiti&eacute;</span>)et beaucoup de bonheur.</p>
+<p>&nbsp;</p>
+<p style="text-align: center;">*************************&nbsp;&nbsp;<span style="font-size: 14pt;"> <span style="color: #000080;">C</span><span style="color: #993300;">o</span><span style="color: #000080;">m</span><span style="color: #993300;">e</span> <span style="color: #000080;">A</span><span style="color: #993300;">n</span><span style="color: #000080;">d</span> <span style="color: #000080;">G</span><span style="color: #993300;">e</span><span style="color: #000080;">t</span><span style="color: #993300;"> I</span><span style="color: #000080;">t</span>&nbsp;</span>&nbsp; ***************************</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">Bon plus s&eacute;rieusement, je suis heureuse de vous (et de me) retrouver apr&egrave;s tout ce temps, pas en terme de publications, j'avais fait une publication en d&eacute;but d'ann&eacute;e, <span style="text-decoration: underline;"><span style="text-decoration: underline;">M</span><span style="text-decoration: underline;">A</span><span style="text-decoration: underline;">I</span><span style="text-decoration: underline;">S</span> <span style="text-decoration: underline;">A</span><span style="text-decoration: underline;">V</span><span style="text-decoration: underline;">E</span><span style="text-decoration: underline;">C</span> <span style="text-decoration: underline;">L</span><span style="text-decoration: underline;">E</span> <span style="text-decoration: underline;">R</span><span style="text-decoration: underline;">O</span><span style="text-decoration: underline;">M</span><span style="text-decoration: underline;">A</span><span style="text-decoration: underline;">N</span></span> !!!</p>
+<p style="text-align: center;">Donc voici le <span style="font-size: 12pt;"><a href="https://www.wattpad.com/521546429-un-irr%C3%A9sistible-potentiel-un-sombre-pass%C3%A9-qui-ne" >Chapitre 3 : Un sombre pass&eacute; qui ne peut &ecirc;tre r&eacute;v&eacute;l&eacute;...</a></span></p>
+<p style="text-align: center;"><a href="https://www.wattpad.com/521546429-un-irr%C3%A9sistible-potentiel-un-sombre-pass%C3%A9-qui-ne" ><img src="http://ekladata.com/7GqOdvDh0BJDM-biK_M_Z62lVnI@250x391.jpg" alt="De retour attention au boum...."/></a></p>
+<p style="text-align: center;"><span style="color: #993300;">(Cliquez sur l'image ou le titre pour acc&eacute;der au lien)</span></p>
+<p style="text-align: center;">Apr&egrave;s m&ucirc;re r&eacute;flexion, le roman est compl&egrave;tement en mode public, mais la d&eacute;marche reste la m&ecirc;me .</p>
+<p style="text-align: center;">Je suis comme vous, une vie priv&eacute;e et professionnelle (sans oublier la 3&egrave;me porte ^^), cette traduction est un plus qui me prend du temps, donc en respect de mon travail :</p>
+<p style="text-align: center;">Un commentaire pour votre Avis et une &eacute;toile pour le Soutien...</p>
+<p style="text-align: center;">C'&eacute;tait tout pour moi : <span style="font-family: 'Book Antiqua',serif;"><strong style="mso-bidi-font-weight: normal;">#<span style="color: #c55a11; mso-themecolor: accent2; mso-themeshade: 191; mso-style-textfill-fill-color: #C55A11; mso-style-textfill-fill-themecolor: accent2; mso-style-textfill-fill-alpha: 100.0%; mso-style-textfill-fill-colortransforms: lumm=75000;">BL</span><span style="color: #1f4e79; mso-themecolor: accent1; mso-themeshade: 128; mso-style-textfill-fill-color: #1F4E79; mso-style-textfill-fill-themecolor: accent1; mso-style-textfill-fill-alpha: 100.0%; mso-style-textfill-fill-colortransforms: lumm=50000;">ue</span> <span style="color: #c55a11; mso-themecolor: accent2; mso-themeshade: 191; mso-style-textfill-fill-color: #C55A11; mso-style-textfill-fill-themecolor: accent2; mso-style-textfill-fill-alpha: 100.0%; mso-style-textfill-fill-colortransforms: lumm=75000;">BL</span><span style="color: #1f4e79; mso-themecolor: accent1; mso-themeshade: 128; mso-style-textfill-fill-color: #1F4E79; mso-style-textfill-fill-themecolor: accent1; mso-style-textfill-fill-alpha: 100.0%; mso-style-textfill-fill-colortransforms: lumm=50000;">asian</span>&nbsp;<span style="color: #c55a11; mso-themecolor: accent2; mso-themeshade: 191; mso-style-textfill-fill-color: #C55A11; mso-style-textfill-fill-themecolor: accent2; mso-style-textfill-fill-alpha: 100.0%; mso-style-textfill-fill-colortransforms: lumm=75000;">&nbsp;</span><span style="color: #bf9000; mso-themecolor: accent4; mso-themeshade: 191; mso-style-textfill-fill-color: #BF9000; mso-style-textfill-fill-themecolor: accent4; mso-style-textfill-fill-alpha: 100.0%; mso-style-textfill-fill-colortransforms: lumm=75000;">#AdvanceBravely </span><span style="color: red;">#Tae<span style="color: #00ccff;">kai</span> #Jon<span style="color: #00ccff;">gIn</span><br/></span></strong></span></p>
+<p style="text-align: center;"><a href="http://ekladata.com/x_7tqQuF9OUVjQ3TddNNhmZVaXw.jpg"><img src="http://ekladata.com/x_7tqQuF9OUVjQ3TddNNhmZVaXw@240x240.jpg" alt="De retour attention au boum...." width="240" height="240"/></a></p>
+<p style="text-align: center;">N'ai-je pas dit que je les aimais qu'a deux ? (d&eacute;sol&eacute; Puppy aujourd&rsquo;hui je dis au revoir avec TaeKai ^^)</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">&nbsp;</p><br /><br /><br /><hr />Article original rédigé par Blue Blasian et publié sur <a href="http://yaoi-zone.eklablog.com/">Yaoi-Zone</a> <br /> Reproduction interdite sans autorisation

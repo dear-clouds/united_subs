@@ -1,0 +1,13 @@
+---
+ID: 2760
+post_title: '[VOSTFR | 1080P] Rush to the Dead Summer 夏至未至'
+author: swchelfsub
+post_excerpt: |
+  Drama chinoisAffiche du drama "Rush to the Dead Summer"Genre : Romance, jeunesseSortie du premier &eacute;pisode : 11 Juin 2017Cha&icirc;ne TV : Hunan TVLangue : MandarinActeurs principaux : Cheney Chen, Zheng Shuang, Bai JingtingNombre de saison : 1Nombre d'&eacute;pisodes : 46, 48 (version t&eacute;l&eacute;vision)Dur&eacute;e : Environ 45 minutes par &eacute;pisodeR&eacute;alisateur : Han YangTrailer : Playlist des &eacute;pisodes en VOSTFR (YouTube, activer les sous-titres) : https://www.youtube.com/playlist?list=PL6SW90bXqDco4plM3rsP_l4JRc31kyqLKPour<img src="http://static.wixstatic.com/media/ce4b89_2736435eb72d4e52b508e33edbd72046~mv2.jpg/v1/fill/w_313%2Ch_440/ce4b89_2736435eb72d4e52b508e33edbd72046~mv2.jpg">
+layout: post
+permalink: >
+  https://swchelfsub.wixsite.com/swchelf/single-post/Rush-to-the-Dead-Summer-vostfr
+published: true
+post_date: 2017-09-08 19:38:49
+---
+<div><div>Drama chinois</div><img src="https://united-subs.dearclouds.com/wp-content/uploads/2018/04/28ab2c83d358c9107ef23cd077265485.jpg"/><div>Affiche du drama &quot;Rush to the Dead Summer&quot;</div><div>Genre : Romance, jeunesse</div><div>Sortie du premier épisode : 11 Juin 2017</div><div>Chaîne TV : Hunan TV</div><div>Langue : Mandarin</div><div>Acteurs principaux : Cheney Chen, Zheng Shuang, Bai Jingting</div><div>Nombre de saison : 1</div><div>Nombre d'épisodes : 46, 48 (version télévision)</div><div>Durée : Environ 45 minutes par épisode</div><div>Réalisateur : Han Yang</div><div>Trailer : </div><iframe src="https://www.youtube.com/embed/dLZq2Zo67es"/><div>Playlist des épisodes en VOSTFR (YouTube, activer les sous-titres) : </div><div><a href="https://www.youtube.com/playlist?list=PL6SW90bXqDco4plM3rsP_l4JRc31kyqLK">https://www.youtube.com/playlist?list=PL6SW90bXqDco4plM3rsP_l4JRc31kyqLK</a></div><div>Pour le hardsub : <a href="http://swchelfsub.wordpress.com/2017/11/23/rush-to-the-dead-summer/">Blog</a>(inscription requise)</div><iframe src="https://www.youtube.com/embed/KjkJyGFqwJs"/><div>Episode 1</div><iframe src="https://www.youtube.com/embed/G_okkv42QBQ"/><div>Episode 2</div><iframe src="https://www.youtube.com/embed/jwKZHpLW2cE"/><div>Episode 3</div><iframe src="https://www.youtube.com/embed/KQ7grGGTyNU"/><div>Episode 4</div><iframe src="https://www.youtube.com/embed/DzSXNT0VRV4"/><div>Episode 5</div><iframe src="https://www.youtube.com/embed/qy_27OBVsfc"/><div>Episode 6</div><iframe src="https://www.youtube.com/embed/LVUWjEzq46Q"/><div>Episode 7</div><iframe src="https://www.youtube.com/embed/lHCs1mqxkfU"/><div>Episode 8</div></div>

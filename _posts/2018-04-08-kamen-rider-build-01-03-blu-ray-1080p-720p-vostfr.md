@@ -1,0 +1,17 @@
+---
+ID: 2830
+post_title: >
+  Kamen Rider Build 01-03 Blu-Ray 1080p +
+  720p VOSTFR
+author: Shinken Subs
+post_excerpt: 'On termine la semaine en beaut&eacute; avec les 3 premiers &eacute;pisodes de Kamen Rider Build en qualit&eacute; Blu-Ray. Tr&egrave;s peu de diff&eacute;rences au niveau des subs (G&eacute;n&eacute;rique retravaill&eacute; avec les paroles officielles, un peu d&rsquo;&eacute;dit, 2-3 fautes ect&hellip;), donc c&rsquo;est surtout pour le plaisir des yeux. Les 3 premiers &eacute;pisodes ne sont donc plus disponibles &hellip; <a href="https://shinkensubs.wordpress.com/2018/04/08/kamen-rider-build-01-03-blu-ray-1080p-720p-vostfr/">Continuer &agrave; lire ... <span> "Kamen Rider Build 01-03 Blu-Ray 1080p + 720p&nbsp;VOSTFR"</span></a>'
+layout: post
+permalink: >
+  https://shinkensubs.wordpress.com/2018/04/08/kamen-rider-build-01-03-blu-ray-1080p-720p-vostfr/
+published: true
+post_date: 2018-04-08 14:54:06
+---
+<p><img data-attachment-id="2342" data-permalink="https://shinkensubs.wordpress.com/2018/04/08/kamen-rider-build-01-03-blu-ray-1080p-720p-vostfr/sans-titre-1-197/" data-orig-file="https://shinkensubs.files.wordpress.com/2018/04/sans-titre-12.jpg?w=840" data-orig-size="1048,577" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Sans titre 1" data-image-description="" data-medium-file="https://shinkensubs.files.wordpress.com/2018/04/sans-titre-12.jpg?w=840?w=300" data-large-file="https://shinkensubs.files.wordpress.com/2018/04/sans-titre-12.jpg?w=840?w=840" class="alignnone size-full wp-image-2342" src="https://shinkensubs.files.wordpress.com/2018/04/sans-titre-12.jpg?w=840" alt="Sans titre 1" srcset="https://united-subs.dearclouds.com/wp-content/uploads/2018/04/f6e032ddf3c227d29dbbe570b58d5f09.jpg 840w, https://shinkensubs.files.wordpress.com/2018/04/sans-titre-12.jpg?w=150 150w, https://shinkensubs.files.wordpress.com/2018/04/sans-titre-12.jpg?w=300 300w, https://shinkensubs.files.wordpress.com/2018/04/sans-titre-12.jpg?w=768 768w, https://shinkensubs.files.wordpress.com/2018/04/sans-titre-12.jpg?w=1024 1024w, https://shinkensubs.files.wordpress.com/2018/04/sans-titre-12.jpg 1048w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px"   /></p>
+<p><span id="more-2341"></span></p>
+<p>On termine la semaine en beauté avec les 3 premiers épisodes de Kamen Rider Build en qualité Blu-Ray. Très peu de différences au niveau des subs (Générique retravaillé avec les paroles officielles, un peu d&rsquo;édit, 2-3 fautes ect&#8230;), donc c&rsquo;est surtout pour le plaisir des yeux. Les 3 premiers épisodes ne sont donc plus disponibles en version TV ^^</p>
+<p>Le 1er épisode de la mni-série youtube Kamen Rider Build part en check aujourd&rsquo;hui. On continue de travailler à fond pour rattraper notre retard ^^</p>

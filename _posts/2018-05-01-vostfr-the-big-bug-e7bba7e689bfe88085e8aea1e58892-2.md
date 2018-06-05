@@ -1,0 +1,13 @@
+---
+ID: 4012
+post_title: '[VOSTFR] The Big Bug 继承者计划'
+author: swchelfsub
+post_excerpt: |
+  Drama chinois Projet sous Hanqi MediaAffiche du dramaGenre : Romance, Drame Nombre de saison : 1 Nombre d'&eacute;pisodes : 46 Premier &eacute;pisode : 30 avril 2018 Cha&icirc;ne de retransmission : Hunan TV, Tencent, Youku Langue : Mandarin Dur&eacute;e : Environ 45 minutes par &eacute;pisode Acteurs principaux : Zhang Han, Janine Zhang, Jenny Zhang, Jing Chao, Zhou Qiqi, David LiangSynopsis :Zhan Nanxian (jou&eacute; par Zhang Han) a fond&eacute; avec ses camarades de classe, Shallow Cosmos, une startup dans le domaine de la haute<img src="http://static.wixstatic.com/media/e6334c_d89cd486573b4148b11860b85c6cfc60~mv2.jpg">
+layout: post
+permalink: >
+  https://swchelfsub.wixsite.com/swchelf/single-post/Here-to-heart
+published: true
+post_date: 2018-05-01 01:49:29
+---
+<div><div>Drama chinois Projet sous Hanqi Media</div><div>Affiche du drama</div><img src="https://united-subs.dearclouds.com/wp-content/uploads/2018/05/3c5e0e2dc7483ba1c2e32b2d175e374c.jpg"/><div>Genre : Romance, Drame Nombre de saison : 1 Nombre d'épisodes : 46 Premier épisode : 30 avril 2018 Chaîne de retransmission : Hunan TV, Tencent, Youku Langue : Mandarin Durée : Environ 45 minutes par épisode Acteurs principaux : Zhang Han, Janine Zhang, Jenny Zhang, Jing Chao, Zhou Qiqi, David Liang</div><div>Synopsis :</div><div>Zhan Nanxian (joué par Zhang Han) a fondé avec ses camarades de classe, Shallow Cosmos, une startup dans le domaine de la haute technologie. Avec un taux de réussite de seulement 10%, il a réussi à faire rentrer son entreprise sur le marché. Wen Nuan (joué par Janine Zhang), quant à elle, a décidé de démissioner de son emploi en Angleterre. Elle s'est rendue à Shallow Cosmos et a su gravir les échellons par ses propres moyens en atteignant le poste d'assistante du PDG.</div><div>À la base, Wen Nuan et Nanxian était un couple. Ils se sont séparés à cause de malentendus. Wen Nuan, en rentrant en Chine cherche alors à aider Nanxian dans son entreprenariat mais aussi à retrouver son amour.</div><div>Va-t-elle réussir ? Quelle sera la réaction de Zhan Nanxian ?</div><div>Trailer :</div><iframe src="https://www.youtube.com/embed/Jem7HJnEWjE"/><div>Playlist des previews : <a href="https://www.youtube.com/playlist?list=PL6OBvlFdeibFUbOWvnBuOr4HmeMbIdX86">Lien</a></div><div>Merci de ne pas redistribuer les liens !</div><div>Pour voir les épisodes en hardsub, rendez-vous sur le blog (inscription requise et veuillez être patient) :</div><div><a href="http://swchelfsub.wordpress.com/2018/04/28/the-big-bug/">Lien</a></div><div>Bon visionnage</div></div>

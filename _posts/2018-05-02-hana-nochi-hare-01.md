@@ -1,0 +1,19 @@
+---
+ID: 4689
+post_title: Hana Nochi Hare 01
+author: Pandaria Fansub
+post_excerpt: 'Bonsoir, nous revoil&agrave; d&eacute;j&agrave; pour une deuxi&egrave;me sortie aujourd&rsquo;hui. Un nouveau projet et, qui plus est, notre tout premier drama japonais : Hana Nochi Hare. Muzzle, qui ne traduit habituellement pas, s&rsquo;est litt&eacute;ralement jet&eacute;e dessus, faut dire qu&rsquo;elle aime beaucoup Hana Yori Dango, qui a &eacute;t&eacute; l&rsquo;un de nos tous premiers dramas &agrave; elle et [&hellip;]'
+layout: post
+permalink: >
+  https://pandariafansub.wordpress.com/2018/05/02/hana-nochi-hare-01/
+published: true
+post_date: 2018-05-02 18:05:29
+---
+<p><img data-attachment-id="4392" data-permalink="https://pandariafansub.wordpress.com/2018/05/02/hana-nochi-hare-01/page-43/" data-orig-file="https://pandariafansub.files.wordpress.com/2018/05/page1.jpg?w=705" data-orig-size="800,800" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="page" data-image-description="" data-medium-file="https://pandariafansub.files.wordpress.com/2018/05/page1.jpg?w=705?w=300" data-large-file="https://pandariafansub.files.wordpress.com/2018/05/page1.jpg?w=705?w=705" class="alignnone size-full wp-image-4392" src="https://pandariafansub.files.wordpress.com/2018/05/page1.jpg?w=705" alt="page" srcset="https://united-subs.dearclouds.com/wp-content/uploads/2018/05/05e140c856f96260a56ef1953231180e.jpg 705w, https://pandariafansub.files.wordpress.com/2018/05/page1.jpg?w=150 150w, https://pandariafansub.files.wordpress.com/2018/05/page1.jpg?w=300 300w, https://pandariafansub.files.wordpress.com/2018/05/page1.jpg?w=768 768w, https://pandariafansub.files.wordpress.com/2018/05/page1.jpg 800w" sizes="(max-width: 705px) 100vw, 705px"   /></p>
+<h3 style="text-align:center;">Bonsoir, nous revoilà déjà pour une deuxième sortie aujourd&rsquo;hui.</h3>
+<p style="text-align:center;">Un nouveau projet et, qui plus est, notre tout premier drama japonais : <span style="color:#cc99ff;text-align:center;">Hana Nochi Hare</span>.</p>
+<p style="text-align:center;"><span style="color:#99cc00;text-align:center;">Muzzle</span>, qui ne traduit habituellement pas, s&rsquo;est littéralement jetée dessus, faut dire qu&rsquo;elle aime beaucoup <b>Hana Yori Dango</b>, qui a été l&rsquo;un de nos tous premiers dramas à elle et moi <b>*petit moment de nostalgie*</b>. Après plusieurs remakes (Boys Before Flowers , meteor garden etc), c&rsquo;est maintenant une suite que les japonais nous offre. Même lycée mais autres personnages tout aussi intéressants puisque l&rsquo;héroïne est une ancienne riche et que le F4 ne s&rsquo;appelle plus F4 mais C5&#8230; Oui oui, ils sont 5 maintenant !</p>
+<p style="text-align:center;">Premier épisode prometeur avec une belle OST, on ne regrette pas de l&rsquo;avoir pris en projet et c&rsquo;est avec plaisir qu&rsquo;on vous le propose <img src="https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f603.png" alt="😃" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align:center;">On attend vos avis sur ce premier épisode !</p>
+<p style="text-align:center;">Bonne soirée à tous et bon visionnage !</p>
+<p style="text-align:center;"><span style="color:#99cc00;text-align:center;">Bamboo</span></p>
