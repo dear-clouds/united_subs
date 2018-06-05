@@ -1,1 +1,0 @@
-Skin 1 images are located in default images folder.

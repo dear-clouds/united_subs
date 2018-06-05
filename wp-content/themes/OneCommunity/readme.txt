@@ -1,1 +1,0 @@
-Documentation of this theme you will find in the purchased file.
