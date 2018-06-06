@@ -20,6 +20,8 @@ Prenez donc un petit moment de repos, allez vous préparer un petit thé, et je 
 <em> Time &amp; Edit : IBlazeon &amp; Jb-kun<br />
 </em><em>Enco &amp; Up : Jb-kun<br />
 </em></p>
-<p><a href="https://mega.nz/#!KLBg2IIA!jlXwkjEnXZwuoeA3j_NAHgxmC2F43EzWVb0ScsBo1bc"  rel="noopener"><span style="color: #ff6600;">Télécharger Shiyan Pin Jiating 07 VOSTFR HD &#8211; CN ver. (DDL Mega)</span></a></p>
-<p><a href="https://nyaa.si/view/1040305"  rel="noopener"><span style="color: #ff6600;">Télécharger Shiyan Pin Jiating 07 VOSTFR HD &#8211; CN ver. (Nyaa Torrent)</span></a></p>
+<p><a href="https://mega.nz/#!KLBg2IIA!jlXwkjEnXZwuoeA3j_NAHgxmC2F43EzWVb0ScsBo1bc"  rel="noopener"><span style="color: #ff6600;">Télécharger Shiyan Pin Jiating 08 VOSTFR HD &#8211; CN ver. (DDL Mega)</span></a></p>
+<p><a href="https://nyaa.si/view/1040305"  rel="noopener"><span style="color: #ff6600;">Télécharger Shiyan Pin Jiating 08 VOSTFR HD &#8211; CN ver. (Nyaa Torrent)</span></a></p>
+<p><a href="https://mega.nz/#!bK5jxT7J!puoabzn_FwW_qB7_tit-Y6uAKAQks6MOwnHsh_orSkY"  rel="noopener"><span style="color: #ff6600;">Télécharger Shiyan Pin Jiating 08 VOSTFR HD &#8211; JP ver. (DDL Mega)</span></a></p>
+<p><a href="https://nyaa.si/view/1044610"  rel="noopener"><span style="color: #ff6600;">Télécharger Shiyan Pin Jiating 08 VOSTFR HD &#8211; JP ver. ( Nyaa Torrent)</span></a></p>
 <p>L’article <a rel="nofollow" href="https://miaou-subs.me/shiyan-pin-jiating-08-out/">Shiyan Pin Jiating 08 &#8211; OUT !</a> est apparu en premier sur <a rel="nofollow" href="https://miaou-subs.me/">Miaou Subs</a>.</p>
