@@ -12,7 +12,7 @@ post_date: 2018-06-05 13:59:39
 <h5 style="box-sizing: content-box; margin: 20px 0px 10px; font-size: 36px; font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif; font-weight: 500; line-height: 1.1; color: #999999; text-align: center;">DETECTIVE DEE&nbsp;(2010)</h5>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><a href="http://ekladata.com/Sf3_oGqVss1UUQyHmtmv3-2h9ug.jpg"><img style="float: left; padding-right: 5px;" src="http://ekladata.com/Sf3_oGqVss1UUQyHmtmv3-2h9ug@364x500.jpg" alt="Film - Detective Dee - 2010"/></a></p>
+<p><a href="http://ekladata.com/Sf3_oGqVss1UUQyHmtmv3-2h9ug.jpg"><img style="float: left; padding-right: 5px;" src="https://united-subs.com/wp-content/uploads/2018/06/19c922829a97ef033444d7073aca0863.jpg" alt="Film - Detective Dee - 2010"/></a></p>
 <div style="float: left; width: 11%; margin-left: 5px;">
 <table style="box-sizing: content-box; border-spacing: 0px; border-collapse: collapse; max-width: 100%; background-color: #fc80c0; color: #999999; font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif; font-size: 14px; height: 500px; border-color: #d1b606;" width="30" height="21">
 <tbody style="box-sizing: content-box;">
