@@ -11,7 +11,7 @@ permalink: >
 published: true
 post_date: 2018-06-06 07:48:44
 ---
-<p style="text-align: center;"><img src="http://ekladata.com/QmFVXYCbNkOVIPbfo3RpolaCH3I.png" alt="Yagate Kimi Ni Naru - Chapitre 32"/></p>
+<p style="text-align: center;"><img src="https://united-subs.com/wp-content/uploads/2018/06/579326cb9a505b382c9d696f7bdfb366.jpg" alt="Yagate Kimi Ni Naru - Chapitre 32"/></p>
 <p style="text-align: center;">&nbsp;</p>
 <p style="text-align: left;"><span style="font-size: 10pt;">Apr&egrave;s quelques p&eacute;rip&eacute;ties voici le chapitre 32 de Yagate Kimi ni Naru... et vous allez l'aimer !!!</span></p>
 <p style="text-align: left;">&nbsp;</p>
