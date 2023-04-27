@@ -1,3 +1,5 @@
+<img src="https://pbs.twimg.com/media/Dyqs8OqWkAE_S4-?format=jpg&name=large">
+
 # United Subs
 
 Anciennement fait avec Laravel, j'ai décidé de reprendre le projet sous Wordpress pour plusieurs raisons : Projet lourd de fonctionnalités dont beaucoup de plugins existants qui les ont déjà et je vais collaborer avec des gens qui n'ont aucune notion de web.
